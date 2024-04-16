@@ -3831,3 +3831,939 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.16-16.55.06:606][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 20.3 sec)
 [2024.04.16-16.55.06:609][348]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.04.16-16.55.06:609][348]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-16.56.26:611][645]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.04.16-16.56.26:611][645]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.04.16-16.56.26:611][645]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.04.16-16.56.26:611][645]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.04.16-16.56.26:611][645]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.04.16-16.56.26:611][645]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.04.16-16.56.26:611][645]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.04.16-16.56.26:611][645]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.04.16-16.56.26:611][645]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.04.16-16.56.26:611][645]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.04.16-16.56.26:611][645]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.04.16-16.56.26:611][645]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.04.16-16.56.26:612][645]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.04.16-16.56.26:612][645]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:1]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.04.16-16.56.26:612][645]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.04.16-16.56.26:612][645]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.04.16-16.56.26:613][645]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.04.16-16.56.26:613][645]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.04.16-16.56.26:613][645]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.04.16-16.56.26:613][645]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.04.16-16.56.26:613][645]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.04.16-16.56.26:934][647]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.16-16.56.27:422][649]LogContentStreaming: Texture pool size now 800 MB
+[2024.04.16-16.56.28:983][735]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.04.16-16.56.28:984][735]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.04.16-16.56.28:984][735]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.04.16-16.56.28:984][735]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.04.16-16.56.28:984][735]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.04.16-16.56.28:984][735]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.04.16-16.56.28:984][735]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.04.16-16.56.28:984][735]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.04.16-16.56.28:984][735]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.04.16-16.56.28:985][735]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.04.16-16.56.28:985][735]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.04.16-16.56.28:985][735]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.04.16-16.56.28:985][735]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.04.16-16.56.28:985][735]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.04.16-16.56.28:985][735]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2024.04.16-16.56.28:985][735]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.04.16-16.56.28:985][735]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.04.16-16.56.28:985][735]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.04.16-16.56.28:985][735]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.04.16-16.56.29:241][737]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.16-16.56.29:414][740]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.04.16-16.56.32:149][859]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.04.16-16.56.32:149][859]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.04.16-16.56.32:149][859]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.04.16-16.56.32:183][859]LogContentStreaming: Texture pool size now 800 MB
+[2024.04.16-16.56.32:418][861]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.16-16.56.33:042][891]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2024.04.16-16.56.33:042][891]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.04.16-16.56.33:042][891]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.04.16-16.56.33:042][891]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2024.04.16-16.56.33:042][891]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2024.04.16-16.56.33:043][891]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:1000]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:1000]]
+[2024.04.16-16.56.33:043][891]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.GTAO.Numangles:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.04.16-16.56.33:043][891]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2024.04.16-16.56.33:043][891]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2024.04.16-16.56.33:043][891]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.04.16-16.56.33:043][891]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2024.04.16-16.56.33:043][891]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2024.04.16-16.56.33:302][893]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.16-16.56.33:785][894]LogContentStreaming: Texture pool size now 3000 MB
+[2024.04.16-16.56.36:357][949]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.04.16-16.56.36:365][949]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2024.04.16-16.56.36:365][949]LogSynthBenchmark: Display: ===============
+[2024.04.16-16.56.36:365][949]LogSynthBenchmark: Display: Main Processor:
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:          ... 0.011757 s/Run 'RayIntersect'
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:          ... 0.017592 s/Run 'Fractal'
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display: 
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 32
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   NumberOfCores (physical): 6
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   NumberOfCores (logical): 12
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   CPU Perf Index 0: 217.8 (weight 1.00)
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   CPU Perf Index 1: 162.6 (weight 1.50)
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:  
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display: Graphics:
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 1660 Ti'
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   Device Id: 0x2182
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2024.04.16-16.56.36:395][949]LogSynthBenchmark: Display:   GPU Memory: 5966/0/16341 MB
+[2024.04.16-16.56.36:990][949]LogSynthBenchmark: Display:   GPU first test: 0.00s
+[2024.04.16-16.56.36:990][949]LogSynthBenchmark: Display:          ... 6.694 s/GigaPix, Confidence=70% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2024.04.16-16.56.36:990][949]LogSynthBenchmark: Display:          ... 4.626 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2024.04.16-16.56.36:990][949]LogSynthBenchmark: Display:          ... 4.116 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2024.04.16-16.56.36:990][949]LogSynthBenchmark: Display:          ... 8.492 s/GigaPix, Confidence=70% 'FillOnly' (likely to be very inaccurate)
+[2024.04.16-16.56.36:990][949]LogSynthBenchmark: Display:          ... 0.542 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2024.04.16-16.56.36:990][949]LogSynthBenchmark: Display:          ... 30.700 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be very inaccurate)
+[2024.04.16-16.56.36:990][949]LogSynthBenchmark: Display:          ... 31.527 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2024.04.16-16.56.37:554][949]LogSynthBenchmark: Display:   GPU second test: 0.02s
+[2024.04.16-16.56.37:554][949]LogSynthBenchmark: Display:          ... 13.012 s/GigaPix, Confidence=81% 'ALUHeavyNoise' (likely to be inaccurate)
+[2024.04.16-16.56.37:554][949]LogSynthBenchmark: Display:          ... 8.921 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2024.04.16-16.56.37:554][949]LogSynthBenchmark: Display:          ... 7.112 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2024.04.16-16.56.37:554][949]LogSynthBenchmark: Display:          ... 22.421 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2024.04.16-16.56.37:554][949]LogSynthBenchmark: Display:          ... 0.719 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2024.04.16-16.56.37:554][949]LogSynthBenchmark: Display:          ... 14.927 s/GigaVert, Confidence=51% 'VertThroughPut1' (likely to be inaccurate)
+[2024.04.16-16.56.37:554][949]LogSynthBenchmark: Display:          ... 14.485 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU third test: 0.18s
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 16.227 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 11.188 s/GigaPix, Confidence=100% 'TexHeavy'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 9.533 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 45.884 s/GigaPix, Confidence=100% 'FillOnly'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 0.764 s/GigaPix, Confidence=100% 'Bandwidth'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 4.958 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 14.008 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU Final Results:
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 16.227 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 11.188 s/GigaPix, Confidence=100% 'TexHeavy'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 9.533 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 45.884 s/GigaPix, Confidence=100% 'FillOnly'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 0.764 s/GigaPix, Confidence=100% 'Bandwidth'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 4.958 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... 14.008 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display: 
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU Perf Index 0: 352.7 (weight 1.00)
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU Perf Index 1: 150.2 (weight 0.10)
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU Perf Index 2: 247.8 (weight 0.10)
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU Perf Index 3: 180.2 (weight 3.00)
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU Perf Index 4: 71.3 (weight 1.00)
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU Perf Index 5: 322.6 (weight 0.00)
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPU Perf Index 6: 792.8 (weight 0.00)
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   GPUIndex: 193.2
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:   CPUIndex: 184.7
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display: 
+[2024.04.16-16.56.38:287][949]LogSynthBenchmark: Display:          ... Total Time: 1.921640 sec
+[2024.04.16-16.56.38:287][949]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.04.16-16.56.38:287][949]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.04.16-16.56.38:287][949]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.04.16-16.56.38:287][949]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.04.16-16.56.38:287][949]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2024.04.16-16.56.38:287][949]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2024.04.16-16.56.38:288][949]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2024.04.16-16.56.38:288][949]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.04.16-16.56.38:288][949]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.04.16-16.56.38:288][949]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2024.04.16-16.56.38:288][949]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.04.16-16.56.38:288][949]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.04.16-16.56.38:288][949]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.04.16-16.56.38:307][950]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.16-16.56.38:535][951]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.16-16.56.44:265][127]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.04.16-16.56.44:265][127]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.04.16-16.56.44:265][127]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.04.16-16.56.44:265][127]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.04.16-16.56.44:265][127]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.04.16-16.56.44:266][127]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.04.16-16.56.44:266][127]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.04.16-16.56.44:266][127]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.04.16-16.56.44:266][127]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.04.16-16.56.44:266][127]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.04.16-16.56.44:266][127]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.04.16-16.56.44:266][127]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.04.16-16.56.44:267][127]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.04.16-16.56.44:267][127]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.04.16-16.56.44:267][127]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.04.16-16.56.44:267][127]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.04.16-16.56.44:267][127]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.04.16-16.56.44:267][127]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.04.16-16.56.44:550][129]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.16-16.56.44:685][132]LogContentStreaming: Texture pool size now 800 MB
+[2024.04.16-17.05.09:316][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.05.09:389][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.16-17.05.09:415][289]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.05.09:415][289]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F358710B4E45E922F0E4EE833C67CB0F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.05.09:421][289]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.059
+[2024.04.16-17.05.09:427][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 20.4 sec)
+[2024.04.16-17.05.09:428][289]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.05.09:428][289]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.05.18:919][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.05.18:967][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.16-17.05.18:992][ 65]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.05.18:993][ 65]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1D452EAF94D98E14AFC9727A7DE99F9E0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.05.18:998][ 65]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.046
+[2024.04.16-17.05.19:008][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 20.5 sec)
+[2024.04.16-17.05.19:010][ 65]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.05.19:010][ 65]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.05.35:539][558]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.04.16-17.05.35:546][558]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.04.16-17.05.35:553][558]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.04.16-17.05.35:563][559]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.04.16-17.05.50:958][902]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_Forces
+[2024.04.16-17.05.50:968][902]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Total job queries 199, among them cache hits 36 (18.09%)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Tracking 163 distinct input hashes that result in 106 distinct outputs (65.03%)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: RAM used: 2,65 MiB of 1,60 GiB budget. Usage: 0.16%
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Shaders Compiled: 163
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Jobs assigned 163, completed 163 (100%)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Average time worker was idle: 160.77 s
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.78 s
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 4.98 s
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 5.00
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Shader code size: average 19,052 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.06 s
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Jobs were issued in 163 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Average processing rate: 4.07 jobs/sec
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Total thread time: 48,051 s
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Total thread preprocess time: 2,319 s
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Percentage time preprocessing: 4.83%
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Effective parallelization: 1.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.13% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                               FNiagaraShader - 29.13% of total time (compiled  133 times, average 0.11 sec, max 0.31 sec, min 0.04 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 19.99% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.55% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.12% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.05.51:434][937]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.05.51:622][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.05.51:671][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/NS_Forces" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/NS_Forces.uasset" SILENT=true
+[2024.04.16-17.05.51:964][952]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Forces.NS_Forces took 0.997092 sec (time since issued), 1.170495 sec (combined shader worker time).
+[2024.04.16-17.05.52:003][952]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/NS_Forces.NS_Forces:SimpleSpriteBurst.UpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-17.05.52:024][952]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/NS_Forces.NS_Forces:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-17.05.52:024][952]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/NS_Forces.NS_Forces:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-17.05.52:050][952]LogSavePackage: Moving output files for package: /Game/Niagara/NS_Forces
+[2024.04.16-17.05.52:050][952]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ForcesCF686BFC4D125C94EAEF77AC8E92F0D3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/NS_Forces.uasset'
+[2024.04.16-17.05.52:057][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 435 ms (total: 21.0 sec)
+[2024.04.16-17.05.52:057][952]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.05.52:057][952]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/NS_Forces.NS_Forces
+[2024.04.16-17.05.53:624][ 71]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.16-17.05.53:638][ 71]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.16-17.05.53:652][ 72]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.16-17.06.01:509][784]LogContentBrowser: Attempting asset rename: NewFolder -> 04-ForcesEmitter
+[2024.04.16-17.06.01:509][784]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.16-17.06.12:950][807]LogContentBrowser: Attempting asset rename: 04-ForcesEmitter -> 04-ForcesEmitter
+[2024.04.16-17.06.13:575][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.06.13:648][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.16-17.06.13:672][864]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.06.13:672][864]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1980164474B06AA1365BE788BE316E428.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.06.13:677][864]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.052
+[2024.04.16-17.06.13:684][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 21.1 sec)
+[2024.04.16-17.06.13:684][864]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.06.13:685][864]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.08.12:614][483]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-17.08.12:614][483]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-17.08.19:285][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.08.19:352][938]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.08.19:352][938]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces36D1E8FB4F495CD6A8F082A0E731CB9B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.08.19:357][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 21.2 sec)
+[2024.04.16-17.08.19:371][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.16-17.08.19:381][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.16-17.08.19:388][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.16-17.08.19:400][938]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.08.19:400][938]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.08.21:118][ 73]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.08.21:187][ 73]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-17.08.21:187][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-17.08.21:223][ 73]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-17.08.21:223][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-17.08.21:370][ 73]LogViewport: Scene viewport resized to 378x419, mode Windowed.
+[2024.04.16-17.08.22:445][157]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 1.315667 sec (time since issued), 1.161025 sec (combined shader worker time).
+[2024.04.16-17.08.22:561][164]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.08.26:126][553]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.08.27:060][644]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 1.033129 sec (time since issued), 0.991925 sec (combined shader worker time).
+[2024.04.16-17.08.28:132][768]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.08.31:464][137]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-17.08.31:464][137]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-17.08.32:973][289]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.08.34:025][391]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 1.129504 sec (time since issued), 1.086691 sec (combined shader worker time).
+[2024.04.16-17.08.34:980][500]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.08.38:291][829]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.505647 sec (time since issued), 1.252072 sec (combined shader worker time).
+[2024.04.16-17.08.38:299][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.08.38:373][829]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.08.38:373][829]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces1B7CA58549CE844DF0D989A3C328C65E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.08.38:379][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 21.2 sec)
+[2024.04.16-17.08.38:442][829]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.08.38:442][829]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.09.00:341][602]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Total job queries 219, among them cache hits 38 (17.35%)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Tracking 181 distinct input hashes that result in 107 distinct outputs (59.12%)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: RAM used: 2,85 MiB of 1,60 GiB budget. Usage: 0.17%
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Shaders Compiled: 181
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Jobs assigned 181, completed 181 (100%)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Average time worker was idle: 156.73 s
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.78 s
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 4.98 s
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 5.00
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Shader code size: average 18,301 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 43.96 s
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Jobs were issued in 181 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Average processing rate: 4.12 jobs/sec
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Total thread time: 49,782 s
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Total thread preprocess time: 2,319 s
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Percentage time preprocessing: 4.66%
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Effective parallelization: 1.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                               FNiagaraShader - 31.59% of total time (compiled  151 times, average 0.10 sec, max 0.31 sec, min 0.04 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.05% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 19.29% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.36% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.94% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.09.00:709][640]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.09.00:969][661]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.720137 sec (time since issued), 0.696005 sec (combined shader worker time).
+[2024.04.16-17.09.02:346][814]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.09.03:819][944]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.360564 sec (time since issued), 0.485037 sec (combined shader worker time).
+[2024.04.16-17.09.03:827][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.09.03:891][944]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.09.03:892][944]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces717307D944FC50508156BF8DCA3982F7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.09.03:897][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 21.3 sec)
+[2024.04.16-17.09.03:912][944]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.09.03:912][944]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.09.10:880][667]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.09.11:477][720]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.682676 sec (time since issued), 0.656701 sec (combined shader worker time).
+[2024.04.16-17.09.12:888][870]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.09.29:269][581]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.09.29:994][650]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.900569 sec (time since issued), 0.866905 sec (combined shader worker time).
+[2024.04.16-17.09.31:272][779]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.09.33:283][966]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.09.33:839][ 17]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.849872 sec (time since issued), 0.814145 sec (combined shader worker time).
+[2024.04.16-17.09.35:284][161]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.09.48:036][409]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.545516 sec (time since issued), 1.467093 sec (combined shader worker time).
+[2024.04.16-17.09.48:047][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.09.48:131][409]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.09.48:131][409]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ForcesC8B13C544AD20577E074DF88AFE7C9BA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.09.48:136][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 21.4 sec)
+[2024.04.16-17.09.48:160][409]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.09.48:160][409]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.09.55:124][ 64]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.411785 sec (time since issued), 0.813221 sec (combined shader worker time).
+[2024.04.16-17.09.55:133][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.09.55:218][ 64]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.09.55:218][ 64]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces755EC1F74E7299FC02480E9CA15C5725.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.09.55:224][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 21.5 sec)
+[2024.04.16-17.09.55:246][ 64]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.09.55:246][ 64]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.10.05:210][ 69]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.10.05:768][123]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.709659 sec (time since issued), 0.676860 sec (combined shader worker time).
+[2024.04.16-17.10.07:218][270]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.10.11:093][671]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.10.13:094][873]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.10.33:838][ 71]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.589033 sec (time since issued), 1.579102 sec (combined shader worker time).
+[2024.04.16-17.10.33:847][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.10.33:931][ 71]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.10.33:931][ 71]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces0E53086341E4C03A3AF2AB8C63C6ED11.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.10.33:936][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 21.6 sec)
+[2024.04.16-17.10.33:956][ 71]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.10.33:956][ 71]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.10.38:319][488]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.10.39:129][572]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 1.002380 sec (time since issued), 0.968714 sec (combined shader worker time).
+[2024.04.16-17.10.40:323][704]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.10.57:650][469]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.653628 sec (time since issued), 1.810853 sec (combined shader worker time).
+[2024.04.16-17.10.57:657][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.10.57:728][469]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.10.57:728][469]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces748C563F4045C680F29C2D853EC31F75.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.10.57:735][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 21.7 sec)
+[2024.04.16-17.10.57:757][469]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.10.57:757][469]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.10.59:868][676]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.16-17.11.10:524][702]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.494049 sec (time since issued), 0.990578 sec (combined shader worker time).
+[2024.04.16-17.11.10:531][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.11.10:598][702]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.11.10:599][702]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ForcesBF79E2F0480F3D62D314D98AE89A59FC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.11.10:604][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 21.7 sec)
+[2024.04.16-17.11.10:626][702]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.11.10:626][702]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.11.23:382][939]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.553247 sec (time since issued), 1.154102 sec (combined shader worker time).
+[2024.04.16-17.11.23:389][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.11.23:470][939]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.11.23:470][939]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ForcesD8394D254BE2DCEDAB56418930A64F1A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.11.23:479][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 21.8 sec)
+[2024.04.16-17.11.23:501][939]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.11.23:501][939]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.11.34:982][ 69]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.16-17.11.35:196][ 71]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.11.35:893][138]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.909109 sec (time since issued), 0.872561 sec (combined shader worker time).
+[2024.04.16-17.11.37:200][284]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.11.53:643][ 21]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.552810 sec (time since issued), 0.865126 sec (combined shader worker time).
+[2024.04.16-17.11.53:650][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.11.53:738][ 21]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.11.53:739][ 21]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces8DB46A704A48BB0A595847B8E0E9DA25.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.11.53:744][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 21.9 sec)
+[2024.04.16-17.11.53:767][ 21]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.11.53:767][ 21]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.11.57:096][276]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.11.57:096][276]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.11.57:096][276]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_6
+[2024.04.16-17.11.57:097][276]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_6
+[2024.04.16-17.11.57:552][304]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.11.57:552][304]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.11.57:554][304]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_7
+[2024.04.16-17.11.57:554][304]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_7
+[2024.04.16-17.12.17:766][149]117719_NS_Forces_MessageLog: System compile status unknown.
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Total job queries 258, among them cache hits 50 (19.38%)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Tracking 208 distinct input hashes that result in 130 distinct outputs (62.50%)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: RAM used: 3,46 MiB of 1,60 GiB budget. Usage: 0.21%
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Shaders Compiled: 208
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Jobs assigned 208, completed 208 (100%)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Average time worker was idle: 137.50 s
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.78 s
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 4.98 s
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Job life time (pending + execution): average 0.48 s, max 5.00
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Shader code size: average 18,869 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 51.40 s
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Jobs were issued in 208 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Average processing rate: 4.05 jobs/sec
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Total thread time: 54,473 s
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Total thread preprocess time: 2,319 s
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Percentage time preprocessing: 4.26%
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Effective parallelization: 1.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                               FNiagaraShader - 37.48% of total time (compiled  178 times, average 0.11 sec, max 0.33 sec, min 0.04 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.46% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 17.63% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.90% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.52% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.12.18:257][196]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.12.18:684][237]LogNiagaraEditor: System NS_Forces has pending compile jobs. Waiting for that code to complete before Saving..
+[2024.04.16-17.12.18:791][237]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 1.225580 sec (time since issued), 1.179846 sec (combined shader worker time).
+[2024.04.16-17.12.19:537][237]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.740946 sec (time since issued), 2.035750 sec (combined shader worker time).
+[2024.04.16-17.12.19:543][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.12.19:628][237]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.12.19:628][237]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces8C354BC444A95B0D0C8B7FAF8ABB21D2.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.12.19:635][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 22.0 sec)
+[2024.04.16-17.12.19:659][237]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.12.19:659][237]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.12.19:831][243]117719_NS_Forces_MessageLog: System successfully compiled.
+[2024.04.16-17.12.29:965][222]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.586516 sec (time since issued), 1.279440 sec (combined shader worker time).
+[2024.04.16-17.12.29:974][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.12.30:057][222]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.12.30:058][222]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ForcesCF2F4156455C7FA263DD75A528E5E0F6.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.12.30:062][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 22.1 sec)
+[2024.04.16-17.12.30:085][222]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.12.30:085][222]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.13.10:228][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.13.10:313][389]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.13.10:314][389]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces67B747F2456D6285F57F409104BE5397.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.13.10:319][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 22.2 sec)
+[2024.04.16-17.13.10:342][389]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.13.10:342][389]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.13.18:852][210]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.531338 sec (time since issued), 1.122203 sec (combined shader worker time).
+[2024.04.16-17.13.18:861][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.13.18:943][210]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.13.18:944][210]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces44D489024B55E286034936830C66E76C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.13.18:948][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 22.3 sec)
+[2024.04.16-17.13.18:972][210]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.13.18:972][210]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.13.24:615][725]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces took 0.446917 sec (time since issued), 0.889882 sec (combined shader worker time).
+[2024.04.16-17.13.24:624][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.13.24:706][725]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.13.24:706][725]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ForcesF5FA495344F5F1BDD58E95AA4793123D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.13.24:712][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 22.4 sec)
+[2024.04.16-17.13.24:736][725]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.13.24:736][725]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.13.26:561][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.13.26:688][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.16-17.13.26:712][869]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.13.26:713][869]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1D558B6864694B21488AFB397A942682F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.13.26:718][869]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.131
+[2024.04.16-17.13.26:728][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 22.5 sec)
+[2024.04.16-17.13.26:730][869]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.13.26:730][869]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.13.54:448][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.13.54:529][447]LogSavePackage: Moving output files for package: /Game/Niagara/04-ForcesEmitter/NS_Forces
+[2024.04.16-17.13.54:529][447]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Forces8A9487DA406B426208D5AF85A784D922.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/04-ForcesEmitter/NS_Forces.uasset'
+[2024.04.16-17.13.54:536][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 22.6 sec)
+[2024.04.16-17.13.54:558][447]AssetCheck: New page: Asset Save: NS_Forces
+[2024.04.16-17.13.54:558][447]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/04-ForcesEmitter/NS_Forces.NS_Forces
+[2024.04.16-17.13.58:217][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.13.58:270][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-17.13.58:303][818]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.13.58:304][818]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_198F8AE0B4321BC3DC289CB8A17252926.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.13.58:309][818]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.056
+[2024.04.16-17.13.58:314][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 22.7 sec)
+[2024.04.16-17.13.58:315][818]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.13.58:316][818]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.14.05:641][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.14.05:714][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.16-17.14.05:736][411]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.14.05:738][411]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_12D85EAC74CF5B6188DC5A0ABA7C09550.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.14.05:743][411]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.047
+[2024.04.16-17.14.05:747][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 22.8 sec)
+[2024.04.16-17.14.05:749][411]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.14.05:749][411]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.15.05:907][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.15.05:991][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.16-17.15.06:019][612]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.15.06:019][612]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_12CF9C2594C42BA18D1C563A93C6DF217.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.15.06:025][612]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.052
+[2024.04.16-17.15.06:031][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 22.9 sec)
+[2024.04.16-17.15.06:032][612]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.15.06:032][612]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.15.07:350][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.15.07:418][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.16-17.15.07:441][727]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.15.07:441][727]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_171ABF5ED4781A220BD35F4B2B579D0FF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.15.07:448][727]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.048
+[2024.04.16-17.15.07:452][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 23.0 sec)
+[2024.04.16-17.15.07:454][727]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.15.07:454][727]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.15.20:190][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.15.20:249][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.16-17.15.20:274][720]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.15.20:274][720]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1A967386B44680C8CB002A18459950D95.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.15.20:281][720]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.049
+[2024.04.16-17.15.20:289][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 23.1 sec)
+[2024.04.16-17.15.20:290][720]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.15.20:290][720]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.15.21:947][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.15.22:011][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.16-17.15.22:035][840]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.15.22:036][840]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1DC56D5DF4D0A59089A2B1EB7E5C58927.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.15.22:042][840]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.050
+[2024.04.16-17.15.22:052][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 23.2 sec)
+[2024.04.16-17.15.22:054][840]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.15.22:054][840]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
