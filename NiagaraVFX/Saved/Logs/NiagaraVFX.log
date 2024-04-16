@@ -2739,3 +2739,527 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.16-14.58.23:895][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 13.4 sec)
 [2024.04.16-14.58.23:897][975]AssetCheck: New page: Asset Save: 01-FirstEmmiter
 [2024.04.16-14.58.23:897][975]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/01-FirstEmmiter.01-FirstEmmiter
+[2024.04.16-15.00.44:673][ 34]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-15.00.44:673][ 34]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-15.00.55:256][115]LogNiagaraEditor: Saving and Compiling NiagaraEmitter 01-FirstEmmiter
+[2024.04.16-15.00.55:261][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.00.55:290][115]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/01-FirstEmmiter
+[2024.04.16-15.00.55:292][115]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/01-FirstEmmiterBAA84FCE41EE1416F45AC498A62951BF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/01-FirstEmmiter.uasset'
+[2024.04.16-15.00.55:297][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 13.4 sec)
+[2024.04.16-15.00.55:298][115]AssetCheck: New page: Asset Save: 01-FirstEmmiter
+[2024.04.16-15.00.55:298][115]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/01-FirstEmmiter.01-FirstEmmiter
+[2024.04.16-15.17.38:421][263]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-15.17.38:421][263]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-15.17.41:088][526]LogNiagaraEditor: Saving and Compiling NiagaraEmitter 01-FirstEmmiter
+[2024.04.16-15.17.41:090][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.17.41:123][526]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/01-FirstEmmiter
+[2024.04.16-15.17.41:124][526]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/01-FirstEmmiter3D77DE9645F40199468D508370D59B7B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/01-FirstEmmiter.uasset'
+[2024.04.16-15.17.41:129][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 13.4 sec)
+[2024.04.16-15.17.41:130][526]AssetCheck: New page: Asset Save: 01-FirstEmmiter
+[2024.04.16-15.17.41:130][526]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/01-FirstEmmiter.01-FirstEmmiter
+[2024.04.16-15.17.47:869][ 33]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-15.17.47:869][ 33]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-15.17.50:331][206]LogContentBrowser: Attempting asset rename: 01-FirstEmmiter -> NE_01-FirstEmmiter
+[2024.04.16-15.17.50:367][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.17.50:420][206]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.17.50:420][206]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiter3F99554C405BF5CC379F8997BD6B3F29.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.17.50:427][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 13.5 sec)
+[2024.04.16-15.17.50:442][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.16-15.17.50:449][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.16-15.17.50:455][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.04.16-15.17.50:457][206]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.17.50:457][206]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.17.51:242][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.17.51:315][258]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.17.51:316][258]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiter65BDF6FF4E4FBD5FF376F29972D61456.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.17.51:322][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 13.6 sec)
+[2024.04.16-15.17.51:323][258]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.17.51:323][258]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: ================================================
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Total job queries 34, among them cache hits 2 (5.88%)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 27 distinct outputs (84.38%)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: RAM used: 755,31 KiB of 1,60 GiB budget. Usage: 0.05%
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Shaders Compiled: 32
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100%)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Average time worker was idle: 74.19 s
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 0.78 s
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Job execution time: average 1.45 s, max 4.98 s
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Job life time (pending + execution): average 1.63 s, max 5.00
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Shader code size: average 35,97 KiB, min 4,465 KiB, max 50,109 KiB
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.76 s
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Average processing rate: 3.28 jobs/sec
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Total thread time: 34,16 s
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Total thread preprocess time: 2,319 s
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Percentage time preprocessing: 6.79%
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Effective parallelization: 3.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.79% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 28.12% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.81% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.21% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.00% of total time (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-15.18.03:549][417]LogShaderCompilers: Display: ================================================
+[2024.04.16-15.18.03:556][418]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.18.04:136][479]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.600957 sec (time since issued), 0.562775 sec (combined shader worker time).
+[2024.04.16-15.18.05:563][638]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.18.07:000][795]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.564254 sec (time since issued), 0.529197 sec (combined shader worker time).
+[2024.04.16-15.18.07:564][843]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.18.13:599][549]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.18.14:194][606]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.629783 sec (time since issued), 0.592218 sec (combined shader worker time).
+[2024.04.16-15.18.15:601][762]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.18.25:148][895]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.18.25:154][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.18.25:209][895]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.18.25:210][895]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiterC05948F44FE7E84A9C1F2D9AECC4AA92.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.18.25:216][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 13.6 sec)
+[2024.04.16-15.18.25:217][895]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.18.25:217][895]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.18.33:505][861]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.18.33:845][891]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.381953 sec (time since issued), 0.361866 sec (combined shader worker time).
+[2024.04.16-15.18.35:506][ 77]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.18.43:980][733]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.18.43:980][733]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.18.43:983][733]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.215818 sec (time since issued), 0.182586 sec (combined shader worker time).
+[2024.04.16-15.18.44:067][740]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.18.51:753][630]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.18.52:162][672]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.459866 sec (time since issued), 0.439155 sec (combined shader worker time).
+[2024.04.16-15.18.53:608][825]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.166562 sec (time since issued), 0.151570 sec (combined shader worker time).
+[2024.04.16-15.18.53:633][825]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.18.53:652][826]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.18.53:769][835]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.18.55:060][975]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.18.55:060][975]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.18.55:062][975]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.243934 sec (time since issued), 0.210865 sec (combined shader worker time).
+[2024.04.16-15.18.55:776][ 52]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.18.56:463][134]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.18.56:469][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.18.56:515][134]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.18.56:516][134]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiter907236F14953C0A9F1F79B88B4FD6617.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.18.56:521][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 13.7 sec)
+[2024.04.16-15.18.56:523][134]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.18.56:523][134]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.19.00:463][604]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.19.00:466][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.19.00:516][604]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.19.00:517][604]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiter000FD5F649A138B99EDA8DA3C14B6BC5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.19.00:523][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 13.8 sec)
+[2024.04.16-15.19.00:524][604]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.19.00:524][604]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.19.10:000][718]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.19.10:355][757]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.401198 sec (time since issued), 0.380541 sec (combined shader worker time).
+[2024.04.16-15.19.12:006][946]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.19.33:081][386]LogNiagaraEditor: Removed Var 'Constants.Emitter.ScaleColor.Scale Alpha' from Script NiagaraScript /Engine/Transient.NiagaraSystem_0:01-FirstEmmiter.SpawnScript_1_0
+[2024.04.16-15.19.33:081][386]LogNiagaraEditor: Removed Var 'Constants.Emitter.ScaleColor.Scale Alpha' from Script NiagaraScript /Engine/Transient.NiagaraSystem_0:01-FirstEmmiter.UpdateScript_1_0
+[2024.04.16-15.19.33:143][386]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.16-15.19.33:214][388]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.19.33:797][450]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.633740 sec (time since issued), 0.613641 sec (combined shader worker time).
+[2024.04.16-15.19.35:218][606]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.19.51:453][483]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.19.51:453][483]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.19.51:457][483]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.429248 sec (time since issued), 0.387607 sec (combined shader worker time).
+[2024.04.16-15.19.51:534][490]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.19.52:738][619]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.19.52:739][619]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.19.53:536][702]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.19.55:616][951]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.19.55:623][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.19.55:674][951]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.19.55:674][951]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiter4912BC34450F0F7ED4A460BE795676FF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.19.55:680][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 13.8 sec)
+[2024.04.16-15.19.55:680][951]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.19.55:680][951]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.20.39:206][ 16]LogViewport: Scene viewport resized to 251x263, mode Windowed.
+[2024.04.16-15.20.43:167][ 16]LogViewport: Scene viewport resized to 378x419, mode Windowed.
+[2024.04.16-15.20.48:519][629]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.20.49:003][678]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.534789 sec (time since issued), 0.518093 sec (combined shader worker time).
+[2024.04.16-15.20.50:519][846]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.20.59:446][888]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.20.59:453][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.20.59:499][888]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.20.59:499][888]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiterD0FFC0804A4F13D51A1C7A8E0FDB3765.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.20.59:505][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 13.9 sec)
+[2024.04.16-15.20.59:507][888]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.20.59:507][888]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.21.31:995][748]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.21.32:003][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.21.32:058][748]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.21.32:058][748]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiter11EC87534DCC172BA42A01804D12F054.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.21.32:064][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 13.9 sec)
+[2024.04.16-15.21.32:066][748]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.21.32:066][748]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.22.57:922][295]LogNiagaraEditor: Move module /Engine/Transient.NiagaraSystem_0:01-FirstEmmiter.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_5
+[2024.04.16-15.22.57:922][295]LogNiagaraEditor: Finished moving!
+[2024.04.16-15.22.58:029][297]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: ================================================
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Total job queries 61, among them cache hits 7 (11.48%)
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 48 distinct outputs (88.89%)
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: RAM used: 0,98 MiB of 1,60 GiB budget. Usage: 0.06%
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Shaders Compiled: 54
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Jobs assigned 54, completed 54 (100%)
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Average time worker was idle: 73.62 s
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.78 s
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 4.98 s
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 5.00
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Shader code size: average 26,103 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.06 s
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Average processing rate: 3.84 jobs/sec
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Total thread time: 35,646 s
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Total thread preprocess time: 2,319 s
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Percentage time preprocessing: 6.51%
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Effective parallelization: 2.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-15.22.58:272][323]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.97% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 26.94% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.48% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.91% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display:                                               FNiagaraShader - 4.46% of total time (compiled   24 times, average 0.07 sec, max 0.10 sec, min 0.05 sec)
+[2024.04.16-15.22.58:273][323]LogShaderCompilers: Display: ================================================
+[2024.04.16-15.22.58:506][349]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.525975 sec (time since issued), 0.505295 sec (combined shader worker time).
+[2024.04.16-15.22.59:393][449]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.22.59:401][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.22.59:452][449]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.22.59:453][449]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiter953501D042665D86F4A394A8EE99E908.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.22.59:459][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 14.0 sec)
+[2024.04.16-15.22.59:460][449]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.22.59:460][449]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.23.00:031][517]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.23.22:373][414]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.16-15.23.22:454][420]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.23.24:980][690]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.23.24:981][690]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.23.24:984][690]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.553204 sec (time since issued), 0.501870 sec (combined shader worker time).
+[2024.04.16-15.23.25:059][697]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.23.39:975][475]LogNiagaraEditor: Removed Var 'Constants.Emitter.ScaleColor.Scale Alpha' from Script NiagaraScript /Engine/Transient.NiagaraSystem_0:01-FirstEmmiter.SpawnScript_1_0
+[2024.04.16-15.23.39:975][475]LogNiagaraEditor: Removed Var 'Constants.Emitter.ScaleColor.Scale Alpha' from Script NiagaraScript /Engine/Transient.NiagaraSystem_0:01-FirstEmmiter.UpdateScript_1_0
+[2024.04.16-15.23.40:031][475]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.16-15.23.40:108][477]80163_NiagaraSystem_0_MessageLog: System compile status unknown.
+[2024.04.16-15.23.40:290][491]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 4f1150c6c4e25b0115176ec792ba6509aebfcfcb and existing hash 13bb7f29078d2689dc4dc0a2303646774c43c5f9 for LegacyNiagaraScriptDerivedData/85b90cf02544eac4c3eaa0d561cc8938d48bd08c from '/Engine/Transient.NiagaraSystem_0:01-FirstEmmiter.SpawnScript_1_0'
+[2024.04.16-15.23.40:489][510]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash a9f2e8ae346708c8d910c23a319b0911573fafca and existing hash 47a14b7ce00d57bfea48dde6b487d0966566e46a for LegacyNiagaraScriptDerivedData/9c85183c1166173fd54b851ff5648092de944b0a from '/Engine/Transient.NiagaraSystem_0:01-FirstEmmiter.UpdateScript_1_0'
+[2024.04.16-15.23.40:493][510]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.437229 sec (time since issued), 0.416066 sec (combined shader worker time).
+[2024.04.16-15.23.42:109][698]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.24.05:596][430]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.24.05:604][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.24.05:662][430]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.24.05:663][430]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiterB3147F054B12BCF480523CB2D7823411.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.24.05:668][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 14.0 sec)
+[2024.04.16-15.24.05:670][430]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.24.05:670][430]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.24.15:529][398]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter_System.NE_01-FirstEmmiter_System took 1.365330 sec (time since issued), 1.281748 sec (combined shader worker time).
+[2024.04.16-15.24.29:830][500]LogContentBrowser: Attempting asset rename: NE_01-FirstEmmiter_System -> NS_01-FirstSystem
+[2024.04.16-15.24.29:862][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.24.29:945][500]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem
+[2024.04.16-15.24.29:945][500]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_01-FirstSystem7BCCF14D4254443BB291838BFE9591F1.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NS_01-FirstSystem.uasset'
+[2024.04.16-15.24.29:950][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 14.1 sec)
+[2024.04.16-15.24.29:980][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.16-15.24.29:988][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.16-15.24.29:994][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.16-15.24.29:996][500]AssetCheck: New page: Asset Save: NS_01-FirstSystem
+[2024.04.16-15.24.29:996][500]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.24.30:965][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.24.31:049][576]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem
+[2024.04.16-15.24.31:050][576]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_01-FirstSystem8E1F29ED426AC1603BFF6D8705047427.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NS_01-FirstSystem.uasset'
+[2024.04.16-15.24.31:056][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 14.2 sec)
+[2024.04.16-15.24.31:057][576]AssetCheck: New page: Asset Save: NS_01-FirstSystem
+[2024.04.16-15.24.31:057][576]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.24.31:820][632]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.24.31:820][632]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.24.31:821][632]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_0
+[2024.04.16-15.24.31:821][632]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_0
+[2024.04.16-15.24.32:227][668]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.24.32:227][668]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.24.32:229][668]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_1
+[2024.04.16-15.24.32:229][668]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_1
+[2024.04.16-15.24.40:373][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.24.40:451][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.16-15.24.40:469][183]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-15.24.40:469][183]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1C711A8764F25D5F1871C74A7DC909FE3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-15.24.40:475][183]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.039
+[2024.04.16-15.24.40:480][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 14.3 sec)
+[2024.04.16-15.24.40:481][183]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-15.24.40:481][183]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-15.24.42:531][321]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2024.04.16-15.24.50:276][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.24.50:335][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.16-15.24.50:350][850]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-15.24.50:351][850]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1931C4B374426411D043055874A2C83D8.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-15.24.50:356][850]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.037
+[2024.04.16-15.24.50:361][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 14.4 sec)
+[2024.04.16-15.24.50:363][850]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-15.24.50:363][850]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-15.24.51:620][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-15.24.51:625][953]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-15.24.51:627][953]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms
+[2024.04.16-15.24.51:628][953]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.16-15.24.51:629][953]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.04.16-15.24.51:665][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.16-15.24.51:666][953]LogPlayLevel: PlayLevel: Blueprint regeneration took 37 ms (1 blueprints)
+[2024.04.16-15.24.51:666][953]PIE: New page: PIE session: NiagaraCourse_1 (16 квіт. 2024 р., 21:24:51)
+[2024.04.16-15.24.51:667][953]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2024.04.16-15.24.51:669][953]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.04.16-15.24.51:684][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.04.16-15.24.51:689][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005319s)
+[2024.04.16-15.24.51:689][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.005369s)
+[2024.04.16-15.24.51:695][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.16-15.24.51:696][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-15.24.51:696][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-15.24.51:697][954]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.04.16-15.24.51:697][954]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2024.04.16-15.24.51:697][954]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.16-15.24.51:697][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-15.24.51:697][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-15.24.51:697][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-15.24.51:697][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-15.24.51:697][954]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-15.24.51:697][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-15.24.51:697][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-15.24.51:697][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-15.24.51:698][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-15.24.51:698][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-15.24.51:698][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-15.24.51:700][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-15.24.51:725][954]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.04.16-15.24.51:725][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-15.24.51:725][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-15.24.51:725][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-15.24.51:726][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.16-15.24.51:726][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.04.16-15.24.51:728][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.16-15.24.51:728][954]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.16-15.24.51:728][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.16-15.24.51:728][954]LogAudio: Display: Audio Device (ID: 2) registered with world 'NiagaraCourse_1'.
+[2024.04.16-15.24.51:728][954]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.16-15.24.51:732][954]LogLoad: Game class is 'GameModeBase'
+[2024.04.16-15.24.51:738][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.04.16-18.24.51
+[2024.04.16-15.24.51:739][954]LogWorld: Bringing up level for play took: 0.006585
+[2024.04.16-15.24.51:747][954]PIE: Server logged in
+[2024.04.16-15.24.51:747][954]PIE: Play in editor total start time 0,122 seconds.
+[2024.04.16-15.24.52:388][958]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.16-15.24.59:083][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-15.24.59:083][297]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.04.16-15.24.59:083][297]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-15.24.59:083][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-15.24.59:087][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-15.24.59:093][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-15.24.59:100][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-15.24.59:100][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.16-15.24.59:100][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.16-15.24.59:103][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.16-15.24.59:109][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.16-15.24.59:169][298]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.04.16-15.25.00:895][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.25.00:979][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.16-15.25.00:995][397]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-15.25.00:996][397]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1C28261FF410F546735CB5BBDAA41A9BA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-15.25.01:001][397]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.037
+[2024.04.16-15.25.01:006][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 14.5 sec)
+[2024.04.16-15.25.01:008][397]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-15.25.01:008][397]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-15.25.01:602][436]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.25.01:666][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-15.25.01:666][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-15.25.01:727][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-15.25.01:727][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-15.25.01:812][436]LogViewport: Scene viewport resized to 378x419, mode Windowed.
+[2024.04.16-15.25.02:646][505]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem took 1.034998 sec (time since issued), 0.943033 sec (combined shader worker time).
+[2024.04.16-15.25.02:789][512]88776_NS_01-FirstSystem_MessageLog: System successfully compiled.
+[2024.04.16-15.25.07:810][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.16-15.25.07:814][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.25.07:891][104]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem
+[2024.04.16-15.25.07:891][104]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_01-FirstSystemF66047B741E9B8F0720C43AC5DE5C8C9.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NS_01-FirstSystem.uasset'
+[2024.04.16-15.25.07:897][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 14.6 sec)
+[2024.04.16-15.25.07:898][104]AssetCheck: New page: Asset Save: NS_01-FirstSystem
+[2024.04.16-15.25.07:898][104]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.25.11:271][488]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-15.25.11:271][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-15.25.11:278][488]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-15.25.11:278][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-15.25.11:337][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.16-15.25.11:809][527]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem took 0.546635 sec (time since issued), 0.483709 sec (combined shader worker time).
+[2024.04.16-15.26.32:547][499]LogNiagara: Warning: For some reason we are reporting that /Engine/Transient.NiagaraSystem_0:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: ================================================
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Total job queries 79, among them cache hits 10 (12.66%)
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 57 distinct outputs (82.61%)
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: RAM used: 1,15 MiB of 1,60 GiB budget. Usage: 0.07%
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Shaders Compiled: 69
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Jobs assigned 69, completed 69 (100%)
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Average time worker was idle: 59.00 s
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.78 s
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 4.98 s
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 5.00
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Shader code size: average 22,988 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.38 s
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Average processing rate: 3.97 jobs/sec
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Total thread time: 36,767 s
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Total thread preprocess time: 2,319 s
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Percentage time preprocessing: 6.31%
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Effective parallelization: 2.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-15.26.32:964][544]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.69% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 26.12% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display:                                               FNiagaraShader - 7.38% of total time (compiled   39 times, average 0.07 sec, max 0.11 sec, min 0.05 sec)
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.25% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.70% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-15.26.32:965][544]LogShaderCompilers: Display: ================================================
+[2024.04.16-15.26.32:994][546]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.475769 sec (time since issued), 0.436104 sec (combined shader worker time).
+[2024.04.16-15.26.33:101][553]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-15.26.36:265][896]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_01-FirstEmmiter
+[2024.04.16-15.26.36:327][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.26.36:377][896]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter
+[2024.04.16-15.26.36:378][896]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NE_01-FirstEmmiter8799E4F44A49599ACEA59D82FF5BF000.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.uasset'
+[2024.04.16-15.26.36:387][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 14.7 sec)
+[2024.04.16-15.26.36:394][896]AssetCheck: New page: Asset Save: NE_01-FirstEmmiter
+[2024.04.16-15.26.36:394][896]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/Niagara/01-FirstEmmiter/NE_01-FirstEmmiter.NE_01-FirstEmmiter
+[2024.04.16-15.26.36:743][935]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem took 0.456636 sec (time since issued), 0.437082 sec (combined shader worker time).
+[2024.04.16-15.26.42:657][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.16-15.26.42:663][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.26.42:740][314]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem
+[2024.04.16-15.26.42:741][314]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_01-FirstSystem6CC1D11144FA3674D9DCC1BC690810AA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NS_01-FirstSystem.uasset'
+[2024.04.16-15.26.42:747][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 14.8 sec)
+[2024.04.16-15.26.42:748][314]AssetCheck: New page: Asset Save: NS_01-FirstSystem
+[2024.04.16-15.26.42:748][314]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.26.46:804][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-15.26.46:809][611]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-15.26.46:812][611]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 4 ms)
+[2024.04.16-15.26.46:812][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-15.26.46:812][611]PIE: New page: PIE session: NiagaraCourse_1 (16 квіт. 2024 р., 21:26:46)
+[2024.04.16-15.26.46:812][611]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2024.04.16-15.26.46:815][611]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.04.16-15.26.46:828][612]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.04.16-15.26.46:833][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004559s)
+[2024.04.16-15.26.46:833][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.004610s)
+[2024.04.16-15.26.46:839][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.16-15.26.46:840][612]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-15.26.46:840][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-15.26.46:841][612]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.04.16-15.26.46:841][612]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2024.04.16-15.26.46:841][612]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.16-15.26.46:841][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-15.26.46:841][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-15.26.46:841][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-15.26.46:841][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-15.26.46:841][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-15.26.46:841][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-15.26.46:841][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-15.26.46:841][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-15.26.46:841][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-15.26.46:841][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-15.26.46:841][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-15.26.46:843][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-15.26.46:869][612]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.04.16-15.26.46:869][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-15.26.46:869][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-15.26.46:869][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-15.26.46:870][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.16-15.26.46:870][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.04.16-15.26.46:871][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.16-15.26.46:871][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.16-15.26.46:871][612]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.16-15.26.46:871][612]LogAudio: Display: Audio Device (ID: 3) registered with world 'NiagaraCourse_1'.
+[2024.04.16-15.26.46:871][612]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.16-15.26.46:874][612]LogLoad: Game class is 'GameModeBase'
+[2024.04.16-15.26.46:880][612]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.04.16-18.26.46
+[2024.04.16-15.26.46:881][612]LogWorld: Bringing up level for play took: 0.006566
+[2024.04.16-15.26.46:883][612]PIE: Server logged in
+[2024.04.16-15.26.46:883][612]PIE: Play in editor total start time 0,074 seconds.
+[2024.04.16-15.26.52:672][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-15.26.52:672][949]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.04.16-15.26.52:672][949]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-15.26.52:672][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-15.26.52:675][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-15.26.52:681][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-15.26.52:687][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-15.26.52:687][949]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.16-15.26.52:688][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.16-15.26.52:689][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.16-15.26.52:697][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.16-15.26.52:756][950]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.04.16-15.27.33:303][427]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.27.33:365][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-15.27.33:365][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-15.27.33:427][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-15.27.33:427][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-15.27.33:510][427]LogViewport: Scene viewport resized to 378x419, mode Windowed.
+[2024.04.16-15.27.34:156][437]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem took 0.843386 sec (time since issued), 0.769244 sec (combined shader worker time).
+[2024.04.16-15.27.34:314][444]88776_NS_01-FirstSystem_MessageLog: System successfully compiled.
+[2024.04.16-15.27.42:541][403]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem took 0.231619 sec (time since issued), 0.220576 sec (combined shader worker time).
+[2024.04.16-15.27.42:549][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.27.42:629][403]LogSavePackage: Moving output files for package: /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem
+[2024.04.16-15.27.42:629][403]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_01-FirstSystemF6B988464B2C786C8F371C8659D70841.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/01-FirstEmmiter/NS_01-FirstSystem.uasset'
+[2024.04.16-15.27.42:636][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 14.8 sec)
+[2024.04.16-15.27.42:691][403]AssetCheck: New page: Asset Save: NS_01-FirstSystem
+[2024.04.16-15.27.42:691][403]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/01-FirstEmmiter/NS_01-FirstSystem.NS_01-FirstSystem
+[2024.04.16-15.28.00:540][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.28.00:609][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.16-15.28.00:625][662]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-15.28.00:625][662]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1D2BDF2384C9295E34BA50DBCEE92BC46.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-15.28.00:631][662]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.039
+[2024.04.16-15.28.00:635][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 14.9 sec)
+[2024.04.16-15.28.00:637][662]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-15.28.00:637][662]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-15.28.32:271][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.28.32:362][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.16-15.28.32:379][ 19]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-15.28.32:379][ 19]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1DC7FB7B0414B34096117EA8A44325C6C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-15.28.32:385][ 19]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.038
+[2024.04.16-15.28.32:391][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 15.1 sec)
+[2024.04.16-15.28.32:392][ 19]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-15.28.32:392][ 19]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-15.28.58:971][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.28.59:056][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.16-15.28.59:071][557]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-15.28.59:072][557]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_18AC5457D47B4A25351567899E95173D9.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-15.28.59:077][557]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.036
+[2024.04.16-15.28.59:082][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 15.2 sec)
+[2024.04.16-15.28.59:084][557]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-15.28.59:084][557]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-15.30.09:137][848]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-15.30.09:137][848]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-15.30.18:748][562]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-15.30.18:748][562]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-15.30.51:916][548]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-15.30.51:917][548]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-15.30.52:860][600]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-15.30.52:860][600]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-15.32.52:959][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.32.53:037][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.16-15.32.53:053][858]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-15.32.53:054][858]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_11F2CD3C841D720F7304958AD34626F73.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-15.32.53:059][858]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.037
+[2024.04.16-15.32.53:065][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 15.3 sec)
+[2024.04.16-15.32.53:066][858]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-15.32.53:066][858]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-15.32.56:801][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.32.56:879][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.04.16-15.32.56:893][124]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-15.32.56:894][124]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1C18AB77942DF2EABB0BE51B6D2E67A5D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-15.32.56:899][124]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.035
+[2024.04.16-15.32.56:905][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 15.4 sec)
+[2024.04.16-15.32.56:907][124]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-15.32.56:907][124]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
