@@ -4767,3 +4767,586 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.16-17.15.22:052][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 23.2 sec)
 [2024.04.16-17.15.22:054][840]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.04.16-17.15.22:054][840]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.32.21:255][ 27]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-17.32.21:255][ 27]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.04.16-17.32.25:628][358]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.16-17.32.25:638][358]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.16-17.32.25:649][359]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.16-17.32.31:003][835]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-17.32.31:003][835]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.04.16-17.32.36:342][287]LogContentBrowser: Attempting asset rename: NewFolder -> 05-GPUEmitter
+[2024.04.16-17.32.36:342][287]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.16-17.32.45:740][492]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.04.16-17.32.45:747][492]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.04.16-17.32.45:753][492]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.04.16-17.32.45:771][494]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.04.16-17.33.02:133][912]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_GPUSystem
+[2024.04.16-17.33.02:143][912]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Total job queries 275, among them cache hits 58 (21.09%)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Tracking 217 distinct input hashes that result in 134 distinct outputs (61.75%)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: RAM used: 3,62 MiB of 1,60 GiB budget. Usage: 0.22%
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Shaders Compiled: 217
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Jobs assigned 217, completed 217 (100%)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Average time worker was idle: 138.71 s
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.78 s
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Job execution time: average 0.39 s, max 4.98 s
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Job life time (pending + execution): average 0.47 s, max 5.00
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Shader code size: average 18,84 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 53.82 s
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Jobs were issued in 217 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Average processing rate: 4.03 jobs/sec
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Total thread time: 55,873 s
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Total thread preprocess time: 2,319 s
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Percentage time preprocessing: 4.15%
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Effective parallelization: 1.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                               FNiagaraShader - 39.05% of total time (compiled  187 times, average 0.12 sec, max 0.33 sec, min 0.04 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.77% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 17.19% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.77% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.41% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.33.02:626][951]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.33.03:111][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.33.03:380][984]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 1.240103 sec (time since issued), 1.199296 sec (combined shader worker time).
+[2024.04.16-17.33.03:410][984]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-17.33.03:410][984]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.16-17.33.03:436][984]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.33.03:436][984]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem4789603044FB8B1BC31D7899C99220BF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.33.03:442][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 330 ms (total: 23.6 sec)
+[2024.04.16-17.33.03:443][984]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.33.03:443][984]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.33.04:041][ 30]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.33.04:109][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-17.33.04:109][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-17.33.04:147][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-17.33.04:147][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-17.33.04:296][ 30]LogViewport: Scene viewport resized to 378x419, mode Windowed.
+[2024.04.16-17.33.05:247][ 77]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 1.196811 sec (time since issued), 1.038737 sec (combined shader worker time).
+[2024.04.16-17.33.05:344][ 84]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.33.12:858][916]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.33.13:872][ 16]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 1.089912 sec (time since issued), 1.047439 sec (combined shader worker time).
+[2024.04.16-17.33.14:864][124]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.33.16:866][318]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.33.17:144][348]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 1.097879 sec (time since issued), 1.057374 sec (combined shader worker time).
+[2024.04.16-17.33.18:872][544]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.33.22:334][869]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.460277 sec (time since issued), 1.048526 sec (combined shader worker time).
+[2024.04.16-17.33.22:342][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.33.22:412][869]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.33.22:412][869]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemE4CDFABC4E17C1B24B6C1FAE4C17B86D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.33.22:417][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 23.6 sec)
+[2024.04.16-17.33.22:481][869]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.33.22:481][869]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.33.22:878][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.16-17.33.28:786][343]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.33.28:786][343]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.33.28:787][343]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_8
+[2024.04.16-17.33.28:787][343]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_8
+[2024.04.16-17.33.28:907][349]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.33.28:907][349]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.33.28:909][349]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_9
+[2024.04.16-17.33.28:909][349]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_9
+[2024.04.16-17.33.36:432][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.33.36:536][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.16-17.33.36:564][769]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.33.36:564][769]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_19235B1864020A082EB420DB2585B2F88.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.33.36:570][769]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.050
+[2024.04.16-17.33.36:576][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 23.8 sec)
+[2024.04.16-17.33.36:577][769]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.33.36:577][769]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.33.38:365][872]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-17.33.38:369][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-17.33.38:377][872]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-17.33.38:378][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-17.33.38:408][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.16-17.33.39:376][929]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-17.33.39:382][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-17.33.39:394][929]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-17.33.39:394][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-17.33.39:426][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-17.33.40:236][976]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-17.33.40:236][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-17.33.40:246][976]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-17.33.40:247][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-17.33.40:284][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.16-17.33.41:148][ 27]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-17.33.41:148][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-17.33.41:160][ 27]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-17.33.41:160][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-17.33.41:192][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.16-17.33.54:922][450]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.33.55:752][543]LogNiagaraEditor: System NS_GPUSystem has pending compile jobs. Waiting for that code to complete before Saving..
+[2024.04.16-17.33.55:846][543]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.998804 sec (time since issued), 0.965780 sec (combined shader worker time).
+[2024.04.16-17.33.56:369][543]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.517287 sec (time since issued), 1.212586 sec (combined shader worker time).
+[2024.04.16-17.33.56:376][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.33.56:450][543]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.33.56:451][543]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemC29BF1764FFCFBD2A0E0B79EB30AF30D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.33.56:456][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 23.9 sec)
+[2024.04.16-17.33.56:506][543]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.33.56:506][543]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.33.56:928][582]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.34.08:639][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.34.08:717][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.16-17.34.08:742][391]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.34.08:743][391]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_177A043964286293E87C29C915FA6FE97.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.34.08:750][391]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.054
+[2024.04.16-17.34.08:756][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 24.0 sec)
+[2024.04.16-17.34.08:758][391]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.34.08:758][391]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.34.19:568][325]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.140796 sec (time since issued), 0.097030 sec (combined shader worker time).
+[2024.04.16-17.34.20:110][384]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/db/a0/2785f84093d309d39c78b6788e370fd9580b.udd from 'NS_GPUSystem/SimpleSpriteBurst/ParticleGPUComputeScript'.
+[2024.04.16-17.34.20:230][392]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.34.21:970][561]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.113031 sec (time since issued), 0.125358 sec (combined shader worker time).
+[2024.04.16-17.34.21:979][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.34.22:049][561]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.34.22:049][561]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemB47BDD074C74144A4277FEBE5EDBF278.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.34.22:055][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 24.1 sec)
+[2024.04.16-17.34.22:070][561]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.34.22:070][561]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.34.22:070][561]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.22:070][561]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.23:340][703]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.34.27:936][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.34.28:011][226]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.34.28:012][226]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem01F473594D65FB324F198A986F9749BA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.34.28:017][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 24.1 sec)
+[2024.04.16-17.34.28:032][226]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.34.28:032][226]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.34.28:032][226]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.28:032][226]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.34:041][851]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.34.34:096][853]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.238075 sec (time since issued), 0.179703 sec (combined shader worker time).
+[2024.04.16-17.34.34:434][890]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/65/7e/230bcdb77bb4c04a179e9cc1bcb9a615f207.udd from 'NS_GPUSystem/SimpleSpriteBurst/ParticleGPUComputeScript'.
+[2024.04.16-17.34.36:044][ 67]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.34.40:953][605]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.248672 sec (time since issued), 0.286858 sec (combined shader worker time).
+[2024.04.16-17.34.40:962][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.34.41:020][605]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.34.41:020][605]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem40A1A8F84E23AF06ADCE78AC0F01865C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.34.41:026][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 24.2 sec)
+[2024.04.16-17.34.41:048][605]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.34.41:048][605]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.34.41:048][605]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.41:048][605]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.48:830][423]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.222712 sec (time since issued), 0.234281 sec (combined shader worker time).
+[2024.04.16-17.34.48:837][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.34.48:917][423]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.34.48:918][423]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem7E33B83F4A61D59B77252BAEA3D110A4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.34.48:925][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 24.3 sec)
+[2024.04.16-17.34.48:946][423]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.34.48:946][423]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.34.48:946][423]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.48:946][423]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.54:064][936]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.34.54:122][938]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.258036 sec (time since issued), 0.193801 sec (combined shader worker time).
+[2024.04.16-17.34.54:419][968]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/b5/3a/2826b42dc7074b282fdf20736682bb5ab10e.udd from 'NS_GPUSystem/SimpleSpriteBurst/ParticleGPUComputeScript'.
+[2024.04.16-17.34.55:523][ 60]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.245803 sec (time since issued), 0.293183 sec (combined shader worker time).
+[2024.04.16-17.34.55:530][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.34.55:602][ 60]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.34.55:603][ 60]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemAD4E8D424D91283AF47491BD3E99D63F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.34.55:609][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 24.4 sec)
+[2024.04.16-17.34.55:632][ 60]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.34.55:632][ 60]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.34.55:632][ 60]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.55:632][ 60]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.34.56:065][109]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.35.09:462][501]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 15dce3a1e32d6818f1156384a263febffe02b39e and existing hash f79a422985143ccf70c4adbcbb5e232104d70e0c for LegacyNiagaraScriptDerivedData/9165c0237b11ec57d051fd17c0099a544b14c6ad from '/Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SimpleSpriteBurst.SpawnScript'
+[2024.04.16-17.35.09:484][501]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.276967 sec (time since issued), 0.425620 sec (combined shader worker time).
+[2024.04.16-17.35.09:491][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.35.09:568][501]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.35.09:568][501]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemDAA37268496FBFA321F8209C68D27BD5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.35.09:573][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 24.5 sec)
+[2024.04.16-17.35.09:598][501]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.35.09:598][501]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.35.09:598][501]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.35.09:598][501]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.35.14:633][  5]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.35.14:695][  7]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.273739 sec (time since issued), 0.207783 sec (combined shader worker time).
+[2024.04.16-17.35.16:637][220]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.35.16:896][221]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.250531 sec (time since issued), 0.302265 sec (combined shader worker time).
+[2024.04.16-17.35.16:903][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.35.16:971][221]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.35.16:972][221]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem1DD4698341BF71783EAE6C98D9D20F50.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.35.16:977][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 24.5 sec)
+[2024.04.16-17.35.17:001][221]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.35.17:001][221]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.35.17:001][221]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.35.17:001][221]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.35.39:356][627]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash dab9a56d5c8e148cb6358a7bd1b6d63363648415 and existing hash 987350d10bc5d658e6b3cece73810c995347907c for LegacyNiagaraScriptDerivedData/208cbcd790b973ffcfb5a6f03c1463903f9280d7 from '/Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SimpleSpriteBurst.SpawnScript'
+[2024.04.16-17.35.39:378][627]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.292378 sec (time since issued), 0.445905 sec (combined shader worker time).
+[2024.04.16-17.35.39:385][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.35.39:460][627]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.35.39:461][627]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemEFEAFB5B4BAC7C57EB22B9B8F6FC93F4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.35.39:466][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 24.6 sec)
+[2024.04.16-17.35.39:491][627]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.35.39:491][627]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.35.39:491][627]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.35.39:491][627]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.02:840][392]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.36.02:900][394]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.277645 sec (time since issued), 0.211852 sec (combined shader worker time).
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Total job queries 318, among them cache hits 68 (21.38%)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Tracking 245 distinct input hashes that result in 141 distinct outputs (57.55%)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: RAM used: 3,95 MiB of 1,60 GiB budget. Usage: 0.24%
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Shaders Compiled: 245
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Jobs assigned 245, completed 245 (100%)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Average time worker was idle: 134.00 s
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.78 s
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 4.98 s
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Job life time (pending + execution): average 0.45 s, max 5.00
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Shader code size: average 18,162 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.44 s
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Jobs were issued in 245 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Average processing rate: 4.05 jobs/sec
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Total thread time: 58,827 s
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Total thread preprocess time: 2,5 s
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Percentage time preprocessing: 4.25%
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Effective parallelization: 0.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                               FNiagaraShader - 42.11% of total time (compiled  215 times, average 0.12 sec, max 0.33 sec, min 0.04 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.43% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 16.33% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.53% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.18% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.36.03:386][450]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.36.03:397][451]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/e6/44/fc98e216d8b4b89fdfa891983ae9a8d093f9.udd from 'NS_GPUSystem/SimpleSpriteBurst/ParticleGPUComputeScript'.
+[2024.04.16-17.36.04:847][605]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.36.10:925][256]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.36.12:551][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.36.12:634][437]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.36.12:634][437]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem29A8C05E460998A9F76E4B847D960C18.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.36.12:640][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 24.7 sec)
+[2024.04.16-17.36.12:665][437]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.36.12:665][437]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.36.12:665][437]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.12:665][437]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.12:928][465]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.36.19:860][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.36.19:942][283]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.36.19:942][283]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem1DDC77CD4D216BA1AE6F36BEFF07E4C4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.36.19:948][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 24.8 sec)
+[2024.04.16-17.36.19:974][283]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.36.19:974][283]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.36.19:974][283]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.19:974][283]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.24:291][732]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.36.24:366][734]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.259645 sec (time since issued), 0.225764 sec (combined shader worker time).
+[2024.04.16-17.36.26:298][938]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.36.33:431][681]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.301385 sec (time since issued), 0.460710 sec (combined shader worker time).
+[2024.04.16-17.36.33:439][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.36.33:523][681]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.36.33:523][681]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem7D58DA264BED95B55EFEBAAD90496166.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.36.33:528][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 24.9 sec)
+[2024.04.16-17.36.33:554][681]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.36.33:554][681]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.36.33:554][681]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.33:554][681]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.38:993][271]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.36.39:067][273]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.258083 sec (time since issued), 0.225096 sec (combined shader worker time).
+[2024.04.16-17.36.39:374][305]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/9c/6c/7d5af7810ab9a2d52bf4eb7a8fa738cc629a.udd from 'NS_GPUSystem/SimpleSpriteBurst/ParticleGPUComputeScript'.
+[2024.04.16-17.36.40:994][469]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.36.55:635][ 81]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.300925 sec (time since issued), 0.455057 sec (combined shader worker time).
+[2024.04.16-17.36.55:643][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.36.55:703][ 81]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.36.55:704][ 81]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem41971D6749D7E9F87149EB94549A1281.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.36.55:709][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 24.9 sec)
+[2024.04.16-17.36.55:735][ 81]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.36.55:735][ 81]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.36.55:735][ 81]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.55:735][ 81]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.36.58:941][406]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.36.59:014][408]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.253401 sec (time since issued), 0.221244 sec (combined shader worker time).
+[2024.04.16-17.37.00:944][624]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.37.09:841][541]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.290686 sec (time since issued), 0.443332 sec (combined shader worker time).
+[2024.04.16-17.37.09:849][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.37.09:935][541]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.37.09:935][541]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem6074674D4884912E78D70095C47FDC38.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.37.09:941][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 25.0 sec)
+[2024.04.16-17.37.09:966][541]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.37.09:966][541]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.37.09:966][541]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.37.09:966][541]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.38.30:595][968]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 277b75bb639672af7fb685a18fb817a2302b0ff7 and existing hash 7410d370206eb0387a57368eba78c1108018d967 for LegacyNiagaraScriptDerivedData/ae7aa9a7e10ee069b9d3f55d6380039510cc4110 from '/Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SimpleSpriteBurst.SpawnScript'
+[2024.04.16-17.38.30:619][968]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.290639 sec (time since issued), 0.445726 sec (combined shader worker time).
+[2024.04.16-17.38.30:626][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.38.30:714][968]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.38.30:715][968]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem23D8F0534791B0D3333BE8996DD1147B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.38.30:722][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 25.1 sec)
+[2024.04.16-17.38.30:749][968]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.38.30:749][968]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.38.30:749][968]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.38.30:749][968]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Total job queries 334, among them cache hits 77 (23.05%)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Tracking 248 distinct input hashes that result in 144 distinct outputs (58.06%)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: RAM used: 4,00 MiB of 1,60 GiB budget. Usage: 0.24%
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Shaders Compiled: 248
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Jobs assigned 248, completed 248 (100%)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Average time worker was idle: 132.56 s
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.78 s
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 4.98 s
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Job life time (pending + execution): average 0.44 s, max 5.00
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Shader code size: average 18,223 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 61.35 s
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Jobs were issued in 248 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Average processing rate: 4.04 jobs/sec
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Total thread time: 59,339 s
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Total thread preprocess time: 2,534 s
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Percentage time preprocessing: 4.27%
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Effective parallelization: 0.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                               FNiagaraShader - 42.61% of total time (compiled  218 times, average 0.12 sec, max 0.33 sec, min 0.04 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.21% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 16.19% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.49% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.15% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.39.16:143][787]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.39.16:483][787]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.593505 sec (time since issued), 0.666643 sec (combined shader worker time).
+[2024.04.16-17.39.16:492][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.39.16:570][787]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.39.16:570][787]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem2F82136D4780CE43D27B6BAAF53FD8A0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.39.16:576][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 25.2 sec)
+[2024.04.16-17.39.16:601][787]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.39.16:601][787]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.39.16:601][787]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.39.16:601][787]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.39.20:920][234]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.39.20:989][236]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.239710 sec (time since issued), 0.192972 sec (combined shader worker time).
+[2024.04.16-17.39.22:924][445]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.39.28:028][ 10]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.39.30:036][237]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.39.49:918][468]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash e0e7fdb51c388ed06c476fa37134c14280b81f58 and existing hash ebbc54d593bb66fc3ed408dd3488173dd38d5eba for LegacyNiagaraScriptDerivedData/93d6052442ff3c7c91abe23b95981ef4cba9469c from '/Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SimpleSpriteBurst.SpawnScript'
+[2024.04.16-17.39.49:941][468]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.277830 sec (time since issued), 0.428233 sec (combined shader worker time).
+[2024.04.16-17.39.49:949][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.39.50:023][468]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.39.50:024][468]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem4F11521B4E7353CF948E779BA9B99A9D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.39.50:028][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 25.3 sec)
+[2024.04.16-17.39.50:054][468]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.39.50:054][468]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.39.50:054][468]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.39.50:054][468]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.39.52:713][755]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.16-17.40.04:520][ 95]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.40.06:520][313]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.40.08:522][527]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.40.21:289][999]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 6a13167a0841d0839dce3d25dd48f710ba0ed3ba and existing hash ebbc54d593bb66fc3ed408dd3488173dd38d5eba for LegacyNiagaraScriptDerivedData/93d6052442ff3c7c91abe23b95981ef4cba9469c from '/Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SimpleSpriteBurst.SpawnScript'
+[2024.04.16-17.40.21:311][999]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.296905 sec (time since issued), 0.448601 sec (combined shader worker time).
+[2024.04.16-17.40.21:319][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.40.21:395][999]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.40.21:396][999]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem77876BD14FD6B226BB2E2097FD5F23D7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.40.21:402][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 25.4 sec)
+[2024.04.16-17.40.21:426][999]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.40.21:426][999]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.40.21:426][999]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.40.21:426][999]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.40.25:547][419]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.40.25:607][421]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.277029 sec (time since issued), 0.213116 sec (combined shader worker time).
+[2024.04.16-17.40.26:000][465]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/ad/b8/cf626123a66efb4d215c368404a7420190c4.udd from 'NS_GPUSystem/SimpleSpriteBurst/ParticleGPUComputeScript'.
+[2024.04.16-17.40.27:555][632]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.40.28:856][773]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.Color.Color' from Script NiagaraScript /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SimpleSpriteBurst.UpdateScript
+[2024.04.16-17.40.28:856][773]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.Color.Color' from Script NiagaraScript /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem:SimpleSpriteBurst.GPUComputeScript
+[2024.04.16-17.40.29:216][777]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.272710 sec (time since issued), 0.224718 sec (combined shader worker time).
+[2024.04.16-17.40.29:543][809]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/40/ca/682d391a4b1fa00c16381737698b99661451.udd from 'NS_GPUSystem/SimpleSpriteBurst/ParticleGPUComputeScript'.
+[2024.04.16-17.40.29:571][811]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.40.31:576][ 28]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.40.32:657][141]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-17.40.39:995][963]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-17.40.45:854][577]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-17.40.49:737][ 13]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-17.41.22:127][575]Cmd: TRANSACTION UNDO
+[2024.04.16-17.41.22:127][575]LogEditorTransaction: Undo Add Gradient Stop
+[2024.04.16-17.41.22:659][581]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-17.41.24:665][789]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.41.35:838][951]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-17.41.42:088][592]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-17.41.49:891][384]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.273746 sec (time since issued), 0.323279 sec (combined shader worker time).
+[2024.04.16-17.41.49:899][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.41.49:979][384]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.41.49:980][384]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemE5310FAA419F648A3F5AB5B8379DEC32.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.41.49:986][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 25.5 sec)
+[2024.04.16-17.41.50:014][384]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.41.50:014][384]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.41.50:014][384]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.41.50:014][384]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.05:313][118]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.291450 sec (time since issued), 0.362222 sec (combined shader worker time).
+[2024.04.16-17.42.05:321][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.42.05:411][118]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.42.05:411][118]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem347E3ECB4CBCA6435405508BA87E2A3E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.42.05:418][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 25.6 sec)
+[2024.04.16-17.42.05:447][118]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.42.05:447][118]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.42.05:448][118]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.05:448][118]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.10:687][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.42.10:759][715]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.42.10:760][715]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem13405F0F49845E901B686B9DC430F08A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.42.10:768][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 25.6 sec)
+[2024.04.16-17.42.10:797][715]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.42.10:797][715]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.42.10:797][715]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.10:797][715]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.12:389][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.16-17.42.12:399][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.42.12:455][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.16-17.42.12:480][876]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.42.12:480][876]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_13171A1A844F2052F9CF5F9A29F30E45F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.42.12:486][876]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.047
+[2024.04.16-17.42.12:492][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 25.7 sec)
+[2024.04.16-17.42.12:494][876]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.42.12:494][876]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.42.16:416][310]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:54.123 and deleted 114 files with total size 2 MiB and 113 empty folders. Scanned 27698 files in 29801 folders with total size 5177 MiB.
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Total job queries 348, among them cache hits 84 (24.14%)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Tracking 252 distinct input hashes that result in 148 distinct outputs (58.73%)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: RAM used: 4,06 MiB of 1,60 GiB budget. Usage: 0.25%
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Shaders Compiled: 252
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Jobs assigned 252, completed 252 (100%)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Average time worker was idle: 131.24 s
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.78 s
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Job execution time: average 0.36 s, max 4.98 s
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Job life time (pending + execution): average 0.44 s, max 5.00
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Shader code size: average 18,241 KiB, min 1,503 KiB, max 50,109 KiB
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 62.55 s
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Jobs were issued in 252 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Average processing rate: 4.03 jobs/sec
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Total thread time: 59,956 s
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Total thread preprocess time: 2,57 s
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Percentage time preprocessing: 4.29%
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Effective parallelization: 0.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.68 sec, max 1.11 sec, min 0.25 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                               FNiagaraShader - 43.20% of total time (compiled  222 times, average 0.12 sec, max 0.33 sec, min 0.04 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.95% of total time (compiled    8 times, average 1.87 sec, max 4.16 sec, min 0.31 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 16.02% of total time (compiled    4 times, average 2.40 sec, max 3.50 sec, min 0.69 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.45% of total time (compiled    2 times, average 1.33 sec, max 1.67 sec, min 1.00 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.11% of total time (compiled    4 times, average 0.62 sec, max 1.49 sec, min 0.26 sec)
+[2024.04.16-17.42.19:716][663]LogShaderCompilers: Display: ================================================
+[2024.04.16-17.42.20:030][663]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.401854 sec (time since issued), 0.377820 sec (combined shader worker time).
+[2024.04.16-17.42.20:039][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.42.20:121][663]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.42.20:122][663]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem3ABC46974319AAA3881287ABB51C470C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.42.20:128][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 25.8 sec)
+[2024.04.16-17.42.20:157][663]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.42.20:157][663]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.42.20:157][663]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.20:157][663]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.38:165][267]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.106443 sec (time since issued), 0.073523 sec (combined shader worker time).
+[2024.04.16-17.42.38:174][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.42.38:262][267]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.42.38:262][267]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemEE07F7544B6037CAF585DD8E2C0F8830.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.42.38:268][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 25.9 sec)
+[2024.04.16-17.42.38:298][267]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.42.38:298][267]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.42.38:298][267]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.38:298][267]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.42.52:275][774]135452_NS_GPUSystem_MessageLog: System compile status unknown.
+[2024.04.16-17.42.52:344][776]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.277986 sec (time since issued), 0.208468 sec (combined shader worker time).
+[2024.04.16-17.42.54:276][961]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.43.03:364][910]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem took 0.296797 sec (time since issued), 0.447219 sec (combined shader worker time).
+[2024.04.16-17.43.03:371][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.43.03:444][910]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.43.03:445][910]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystemDF2F14294C7FEE7838539391800DC5D0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.43.03:451][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 26.0 sec)
+[2024.04.16-17.43.03:480][910]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.43.03:480][910]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.43.03:480][910]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.43.03:480][910]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.43.27:887][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.43.27:975][193]LogSavePackage: Moving output files for package: /Game/Niagara/05-GPUEmitter/NS_GPUSystem
+[2024.04.16-17.43.27:975][193]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_GPUSystem14BD3A144E3FA27E0AF1DA81CF480467.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/05-GPUEmitter/NS_GPUSystem.uasset'
+[2024.04.16-17.43.27:982][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 26.1 sec)
+[2024.04.16-17.43.28:011][193]AssetCheck: New page: Asset Save: NS_GPUSystem
+[2024.04.16-17.43.28:011][193]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/05-GPUEmitter/NS_GPUSystem.NS_GPUSystem
+[2024.04.16-17.43.28:011][193]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.43.28:011][193]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.04.16-17.43.35:907][903]Cmd: TRANSACTION UNDO
+[2024.04.16-17.43.35:907][903]LogEditorTransaction: Undo Move Elements
+[2024.04.16-17.43.36:479][909]80163_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.04.16-17.43.38:482][ 45]135452_NS_GPUSystem_MessageLog: System successfully compiled.
+[2024.04.16-17.43.39:963][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.43.40:051][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.16-17.43.40:086][152]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.43.40:086][152]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_17997D3F247E51BCE3448C2BD029F161E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.43.40:091][152]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.072
+[2024.04.16-17.43.40:097][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 26.2 sec)
+[2024.04.16-17.43.40:098][152]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.43.40:098][152]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.43.58:548][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.43.58:627][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-17.43.58:655][722]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.43.58:655][722]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1280FB5734DC3BC2453B5AFB664C53FFC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.43.58:661][722]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.049
+[2024.04.16-17.43.58:667][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 26.4 sec)
+[2024.04.16-17.43.58:668][722]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.43.58:668][722]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.44.15:759][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.44.15:836][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.16-17.44.15:861][198]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.44.15:861][198]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1CB42AFEA4C1AFAA40229FBBA2BB58421.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.44.15:867][198]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.048
+[2024.04.16-17.44.15:874][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 26.5 sec)
+[2024.04.16-17.44.15:875][198]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.44.15:875][198]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.44.17:943][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.44.18:009][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.16-17.44.18:033][372]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.44.18:033][372]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_14646CB8049A6955AB931A4940A270B37.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.44.18:038][372]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.045
+[2024.04.16-17.44.18:047][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 26.6 sec)
+[2024.04.16-17.44.18:048][372]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.44.18:048][372]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.44.25:493][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.44.25:561][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.16-17.44.25:586][967]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.44.25:586][967]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F39CAEB74F93D7A572AEAC98361A4457.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.44.25:591][967]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.049
+[2024.04.16-17.44.25:597][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 26.7 sec)
+[2024.04.16-17.44.25:598][967]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.44.25:598][967]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.44.27:663][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.44.27:720][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.16-17.44.27:743][129]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.44.27:744][129]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1464A150744B80EE986086198C4C37506.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.44.27:750][129]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.047
+[2024.04.16-17.44.27:759][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 26.8 sec)
+[2024.04.16-17.44.27:760][129]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.44.27:760][129]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.44.28:400][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-17.44.28:452][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.16-17.44.28:475][164]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.16-17.44.28:475][164]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1797EA8C645BD8E083BD523A03803C07D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.16-17.44.28:481][164]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.045
+[2024.04.16-17.44.28:491][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 26.9 sec)
+[2024.04.16-17.44.28:492][164]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.16-17.44.28:492][164]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.16-17.44.29:027][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
