@@ -3327,3 +3327,673 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.04.24-11.42.08:945][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1:02 min)
 [2024.04.24-11.42.08:946][845]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.04.24-11.42.08:946][845]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-11.43.05:755][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.43.05:832][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.24-11.43.05:860][700]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-11.43.05:861][700]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_16F7F12C84528404BEB112E97D05C84CB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-11.43.05:866][700]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.065
+[2024.04.24-11.43.05:873][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1:02 min)
+[2024.04.24-11.43.05:875][700]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-11.43.05:875][700]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-11.52.26:865][ 73]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.24-11.52.26:872][ 73]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.24-11.52.26:881][ 74]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.24-11.52.49:737][103]LogContentBrowser: Attempting asset rename: NewFolder -> 08-FlameTrooper
+[2024.04.24-11.52.49:738][103]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.24-11.52.54:791][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.52.54:868][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.24-11.52.54:898][578]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-11.52.54:898][578]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F188B8534AA8A3387B6CDB9069E2F910.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-11.52.54:905][578]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.068
+[2024.04.24-11.52.54:910][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1:02 min)
+[2024.04.24-11.52.54:911][578]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-11.52.54:911][578]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-11.53.54:646][133]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.04.24-11.53.54:652][133]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.04.24-11.53.54:659][133]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.04.24-11.53.54:678][135]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.04.24-11.54.02:104][807]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_FlameTrooper
+[2024.04.24-11.54.02:115][807]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: ================================================
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Total job queries 1 799, among them cache hits 135 (7.50%)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Tracking 1 661 distinct input hashes that result in 1 046 distinct outputs (62.97%)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: RAM used: 46,97 MiB of 1,60 GiB budget. Usage: 2.87%
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Shaders Compiled: 1 631
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Jobs assigned 1 631, completed 1 631 (100%)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Average time worker was idle: 3.63 s
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Time job spent in pending queue: average 1.91 s, longest 7.65 s
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 6.50 s
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Job life time (pending + execution): average 2.33 s, max 8.85
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Shader code size: average 47,743 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 144.77 s
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Jobs were issued in 1 580 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Average processing rate: 11.27 jobs/sec
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Total thread time: 497,733 s
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Total thread preprocess time: 33,52 s
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Percentage time preprocessing: 6.73%
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Effective parallelization: 3.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 1.03 sec, max 1.10 sec, min 0.97 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.95 sec, max 1.11 sec, min 0.80 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.84 sec, max 1.05 sec, min 0.64 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.76 sec, max 0.88 sec, min 0.63 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:                                               FNiagaraShader - 24.64% of total time (compiled  590 times, average 0.21 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.96% of total time (compiled   50 times, average 0.39 sec, max 1.23 sec, min 0.29 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.89% of total time (compiled   45 times, average 0.43 sec, max 1.15 sec, min 0.29 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.73% of total time (compiled   45 times, average 0.41 sec, max 1.47 sec, min 0.29 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 3.67% of total time (compiled   45 times, average 0.41 sec, max 0.64 sec, min 0.30 sec)
+[2024.04.24-11.54.02:491][838]LogShaderCompilers: Display: ================================================
+[2024.04.24-11.54.02:880][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.54.03:137][869]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 1.026961 sec (time since issued), 1.004073 sec (combined shader worker time).
+[2024.04.24-11.54.03:166][869]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.24-11.54.03:166][869]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.24-11.54.03:194][869]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.54.03:194][869]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper8B5C0086404A6437B9B525859A24B281.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.54.03:200][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 319 ms (total: 1:03 min)
+[2024.04.24-11.54.03:201][869]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.54.03:201][869]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.54.04:286][966]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.54.04:350][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-11.54.04:350][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-11.54.04:390][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-11.54.04:391][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-11.54.04:518][966]LogViewport: Scene viewport resized to 378x419, mode Windowed.
+[2024.04.24-11.54.05:355][ 41]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 1.058620 sec (time since issued), 0.892166 sec (combined shader worker time).
+[2024.04.24-11.54.05:431][ 48]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.54.11:137][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.54.11:211][722]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.54.11:212][722]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper0853015F42256CA9AD983EBF81F258E1.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.54.11:218][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:03 min)
+[2024.04.24-11.54.11:231][722]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.54.11:231][722]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.54.29:639][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.54.29:712][622]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.54.29:713][622]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper4B6FD0CC49583239DDD41B96A580ECAF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.54.29:719][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1:03 min)
+[2024.04.24-11.54.29:732][622]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.54.29:732][622]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.54.37:832][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.54.37:902][522]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.54.37:902][522]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper5DAA035941D4FD2346B44C8EB3EB3979.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.54.37:908][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1:03 min)
+[2024.04.24-11.54.37:958][522]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.54.37:958][522]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.54.44:930][309]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.54.45:550][362]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.749409 sec (time since issued), 0.709558 sec (combined shader worker time).
+[2024.04.24-11.54.46:931][498]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.54.47:367][532]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.681111 sec (time since issued), 0.637885 sec (combined shader worker time).
+[2024.04.24-11.54.48:939][683]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.54.49:248][717]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 1.421973 sec (time since issued), 0.528967 sec (combined shader worker time).
+[2024.04.24-11.54.50:017][783]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.726998 sec (time since issued), 0.686886 sec (combined shader worker time).
+[2024.04.24-11.54.50:943][889]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.54.53:093][101]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.357185 sec (time since issued), 0.577434 sec (combined shader worker time).
+[2024.04.24-11.54.53:101][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.54.53:163][101]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.54.53:163][101]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperB4C99FB3403CDE3200FE7F95B00C9E97.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.54.53:169][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1:03 min)
+[2024.04.24-11.54.53:185][101]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.54.53:185][101]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.55.06:493][614]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.55.07:583][729]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 1.188570 sec (time since issued), 1.151374 sec (combined shader worker time).
+[2024.04.24-11.55.08:493][807]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.55.08:610][817]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.993443 sec (time since issued), 0.905675 sec (combined shader worker time).
+[2024.04.24-11.55.10:494][ 32]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.55.19:745][ 67]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.55.20:354][124]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.708621 sec (time since issued), 0.666165 sec (combined shader worker time).
+[2024.04.24-11.55.21:748][276]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.55.34:129][587]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.55.34:660][641]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.661555 sec (time since issued), 0.619884 sec (combined shader worker time).
+[2024.04.24-11.55.36:133][813]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.55.53:284][755]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.55.56:279][ 95]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 3.110650 sec (time since issued), 3.050112 sec (combined shader worker time).
+[2024.04.24-11.55.56:428][ 98]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.55.57:586][216]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 1.267011 sec (time since issued), 1.192856 sec (combined shader worker time).
+[2024.04.24-11.55.58:432][314]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.56.01:311][591]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.530454 sec (time since issued), 1.491844 sec (combined shader worker time).
+[2024.04.24-11.56.01:319][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.56.01:393][591]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.56.01:394][591]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper0C18693743F6B9F5CDFBE9B545CFB70A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.56.01:399][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:03 min)
+[2024.04.24-11.56.01:416][591]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.56.01:416][591]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.56.10:192][563]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.382741 sec (time since issued), 0.794091 sec (combined shader worker time).
+[2024.04.24-11.56.10:201][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.56.10:275][563]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.56.10:275][563]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper375251D343BA9E3DF1C285921C2C214F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.56.10:281][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:03 min)
+[2024.04.24-11.56.10:298][563]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.56.10:298][563]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.56.21:470][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.56.21:534][880]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.56.21:534][880]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperC7BF02804445D789E110CAAE855421BA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.56.21:541][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1:03 min)
+[2024.04.24-11.56.21:558][880]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.56.21:558][880]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.56.46:681][827]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.24-11.56.46:815][829]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.56.47:526][892]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.843632 sec (time since issued), 0.798687 sec (combined shader worker time).
+[2024.04.24-11.56.48:818][ 40]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.57.00:468][348]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.432016 sec (time since issued), 0.575622 sec (combined shader worker time).
+[2024.04.24-11.57.00:476][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.57.00:551][348]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.57.00:552][348]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper552819A44B7B819963623D883F7CDC0F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.57.00:557][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:03 min)
+[2024.04.24-11.57.00:575][348]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.57.00:575][348]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: ================================================
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Total job queries 1 845, among them cache hits 141 (7.64%)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Tracking 1 701 distinct input hashes that result in 1 059 distinct outputs (62.26%)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: RAM used: 47,60 MiB of 1,60 GiB budget. Usage: 2.91%
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Shaders Compiled: 1 671
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Jobs assigned 1 671, completed 1 671 (100%)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Average time worker was idle: 5.22 s
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Time job spent in pending queue: average 1.87 s, longest 7.65 s
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 6.50 s
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Job life time (pending + execution): average 2.28 s, max 8.85
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Shader code size: average 46,989 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 153.14 s
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Jobs were issued in 1 620 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Average processing rate: 10.91 jobs/sec
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Total thread time: 501,842 s
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Total thread preprocess time: 33,52 s
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Percentage time preprocessing: 6.68%
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Effective parallelization: 3.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 1.03 sec, max 1.10 sec, min 0.97 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.95 sec, max 1.11 sec, min 0.80 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.84 sec, max 1.05 sec, min 0.64 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.76 sec, max 0.88 sec, min 0.63 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:                                               FNiagaraShader - 25.25% of total time (compiled  630 times, average 0.20 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.93% of total time (compiled   50 times, average 0.39 sec, max 1.23 sec, min 0.29 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.85% of total time (compiled   45 times, average 0.43 sec, max 1.15 sec, min 0.29 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.70% of total time (compiled   45 times, average 0.41 sec, max 1.47 sec, min 0.29 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 3.64% of total time (compiled   45 times, average 0.41 sec, max 0.64 sec, min 0.30 sec)
+[2024.04.24-11.57.11:441][566]LogShaderCompilers: Display: ================================================
+[2024.04.24-11.57.11:459][566]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.378164 sec (time since issued), 0.762593 sec (combined shader worker time).
+[2024.04.24-11.57.11:468][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.57.11:540][566]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.57.11:540][566]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper378FB95C46A15D03B5AC4AAB552939A3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.57.11:546][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1:03 min)
+[2024.04.24-11.57.11:564][566]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.57.11:564][566]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.58.52:127][447]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.58.52:846][513]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.852964 sec (time since issued), 0.806213 sec (combined shader worker time).
+[2024.04.24-11.58.54:129][648]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.59.05:909][895]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.478344 sec (time since issued), 1.243645 sec (combined shader worker time).
+[2024.04.24-11.59.05:917][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.59.05:997][895]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.59.05:997][895]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperDE8125F74141721C6D70B5AD19731748.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.59.06:003][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1:03 min)
+[2024.04.24-11.59.06:022][895]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.59.06:022][895]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.59.17:792][182]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.306384 sec (time since issued), 0.294329 sec (combined shader worker time).
+[2024.04.24-11.59.17:800][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-11.59.17:884][182]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-11.59.17:885][182]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper60264BB444B25362635CB4BCA15E4036.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-11.59.17:891][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1:03 min)
+[2024.04.24-11.59.17:909][182]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-11.59.17:909][182]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-11.59.33:963][ 36]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.59.34:573][ 99]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.743056 sec (time since issued), 0.685367 sec (combined shader worker time).
+[2024.04.24-11.59.35:967][255]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.59.44:211][198]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.Color.Color' from Script NiagaraScript /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper:SimpleSpriteBurst.SpawnScript
+[2024.04.24-11.59.44:213][198]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.Color.Color' from Script NiagaraScript /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper:SimpleSpriteBurst.UpdateScript
+[2024.04.24-11.59.44:418][200]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-11.59.45:100][259]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.809933 sec (time since issued), 0.757024 sec (combined shader worker time).
+[2024.04.24-11.59.46:419][411]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-11.59.59:707][945]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.24-12.00.07:047][749]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.536941 sec (time since issued), 0.891676 sec (combined shader worker time).
+[2024.04.24-12.00.07:054][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.00.07:117][749]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.00.07:117][749]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperC4EC370D45A58FD271E48AB29530552B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.00.07:123][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1:04 min)
+[2024.04.24-12.00.07:142][749]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.00.07:142][749]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: ================================================
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Total job queries 1 862, among them cache hits 146 (7.84%)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Tracking 1 713 distinct input hashes that result in 1 069 distinct outputs (62.41%)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: RAM used: 47,82 MiB of 1,60 GiB budget. Usage: 2.92%
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Shaders Compiled: 1 683
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Jobs assigned 1 683, completed 1 683 (100%)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Average time worker was idle: 5.42 s
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Time job spent in pending queue: average 1.85 s, longest 7.65 s
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 6.50 s
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Job life time (pending + execution): average 2.27 s, max 8.85
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Shader code size: average 46,786 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 156.15 s
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Jobs were issued in 1 632 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Average processing rate: 10.78 jobs/sec
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Total thread time: 503,281 s
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Total thread preprocess time: 33,52 s
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Percentage time preprocessing: 6.66%
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Effective parallelization: 3.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 1.03 sec, max 1.10 sec, min 0.97 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.95 sec, max 1.11 sec, min 0.80 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.84 sec, max 1.05 sec, min 0.64 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.76 sec, max 0.88 sec, min 0.63 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:                                               FNiagaraShader - 25.47% of total time (compiled  642 times, average 0.20 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.92% of total time (compiled   50 times, average 0.39 sec, max 1.23 sec, min 0.29 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.84% of total time (compiled   45 times, average 0.43 sec, max 1.15 sec, min 0.29 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.69% of total time (compiled   45 times, average 0.41 sec, max 1.47 sec, min 0.29 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 3.63% of total time (compiled   45 times, average 0.41 sec, max 0.64 sec, min 0.30 sec)
+[2024.04.24-12.00.35:675][ 23]LogShaderCompilers: Display: ================================================
+[2024.04.24-12.00.35:693][ 23]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.440645 sec (time since issued), 0.954655 sec (combined shader worker time).
+[2024.04.24-12.00.35:701][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.00.35:781][ 23]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.00.35:781][ 23]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper49E9FEF1440F1BBB7CEC15BCB0DF8851.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.00.35:787][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1:04 min)
+[2024.04.24-12.00.35:808][ 23]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.00.35:808][ 23]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.00.46:543][850]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.00.46:543][850]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.00.46:543][850]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_6
+[2024.04.24-12.00.46:543][850]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_6
+[2024.04.24-12.00.47:328][922]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.00.47:328][922]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.00.47:330][922]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_8
+[2024.04.24-12.00.47:331][922]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_8
+[2024.04.24-12.00.57:433][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.00.57:584][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.24-12.00.57:627][768]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-12.00.57:628][768]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_13F5D0EEF4354FC2CE994A58B8A0FD77B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-12.00.57:634][768]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.148
+[2024.04.24-12.00.57:641][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 1:04 min)
+[2024.04.24-12.00.57:643][768]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-12.00.57:643][768]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-12.01.11:024][121]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.441756 sec (time since issued), 0.970907 sec (combined shader worker time).
+[2024.04.24-12.01.11:032][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.01.11:113][121]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.01.11:113][121]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper860A3F9B448C8D05739E74B8CCDF4D76.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.01.11:118][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1:04 min)
+[2024.04.24-12.01.11:139][121]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.01.11:139][121]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.01.19:008][950]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.385065 sec (time since issued), 0.773269 sec (combined shader worker time).
+[2024.04.24-12.01.19:017][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.01.19:091][950]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.01.19:091][950]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper69F97E3E4C2B64004D67B5A53A35E015.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.01.19:097][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:04 min)
+[2024.04.24-12.01.19:116][950]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.01.19:116][950]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.01.35:943][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.01.36:030][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.24-12.01.36:072][329]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-12.01.36:072][329]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1741068DC4F792E5FC94F0591D8C0C90B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-12.01.36:078][329]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.085
+[2024.04.24-12.01.36:083][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 1:04 min)
+[2024.04.24-12.01.36:086][329]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-12.01.36:086][329]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-12.02.08:291][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.02.08:361][491]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.02.08:361][491]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper15D52E554B63A097AF88568E1DB61765.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.02.08:368][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1:04 min)
+[2024.04.24-12.02.08:390][491]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.02.08:390][491]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.02.18:746][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.02.18:818][339]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.02.18:819][339]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper0D29356048434E0D8AAE59A0E5225AD6.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.02.18:825][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1:04 min)
+[2024.04.24-12.02.18:844][339]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.02.18:845][339]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.02.49:714][800]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.096530 sec (time since issued), 0.074149 sec (combined shader worker time).
+[2024.04.24-12.02.49:721][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.02.49:801][800]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.02.49:801][800]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperAB3D363A4A3390B66D2C89B812ADF842.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.02.49:808][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1:04 min)
+[2024.04.24-12.02.49:827][800]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.02.49:827][800]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.02.57:188][488]Cmd: TRANSACTION UNDO
+[2024.04.24-12.02.57:188][488]LogEditorTransaction: Undo Edit input local value.
+[2024.04.24-12.02.57:742][494]652673_NS_SubUVFire_MessageLog: System successfully compiled.
+[2024.04.24-12.02.57:742][494]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.02.58:708][563]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.366446 sec (time since issued), 0.345027 sec (combined shader worker time).
+[2024.04.24-12.02.58:718][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.02.58:794][563]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.02.58:795][563]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper23C36C8D414A1656E7A27289EC7982AB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.02.58:801][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1:04 min)
+[2024.04.24-12.02.58:821][563]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.02.58:821][563]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.03.05:647][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.03.05:731][331]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.03.05:731][331]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper91C4A95248A72879523AECA428F0FE3E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.03.05:738][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1:05 min)
+[2024.04.24-12.03.05:757][331]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.03.05:757][331]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.03.27:568][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.03.27:643][668]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.03.27:645][668]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperFD3BA3804003858B1B3D4BAAC9CA7686.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.03.27:652][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1:05 min)
+[2024.04.24-12.03.27:671][668]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.03.27:671][668]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.03.32:849][134]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.03.33:029][155]LogNiagaraEditor: System NS_FlameTrooper has pending compile jobs. Waiting for that code to complete before Saving..
+[2024.04.24-12.03.33:358][155]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.628558 sec (time since issued), 0.774294 sec (combined shader worker time).
+[2024.04.24-12.03.33:791][155]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.427243 sec (time since issued), 0.672966 sec (combined shader worker time).
+[2024.04.24-12.03.33:799][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.03.33:873][155]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.03.33:874][155]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper117FCFFA4621AD72CE0226A1992F57A3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.03.33:881][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:05 min)
+[2024.04.24-12.03.33:900][155]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.03.33:900][155]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.03.34:857][220]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.03.46:761][313]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.03.47:579][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.03.47:664][403]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.03.47:665][403]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperB462C64947AF7AB85B415EA8BB8D20D2.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.03.47:670][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1:05 min)
+[2024.04.24-12.03.47:690][403]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.03.47:690][403]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.03.48:768][527]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: ================================================
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Total job queries 1 875, among them cache hits 151 (8.05%)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Tracking 1 721 distinct input hashes that result in 1 072 distinct outputs (62.29%)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: RAM used: 47,96 MiB of 1,60 GiB budget. Usage: 2.93%
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Shaders Compiled: 1 691
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Jobs assigned 1 691, completed 1 691 (100%)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Average time worker was idle: 5.64 s
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Time job spent in pending queue: average 1.84 s, longest 7.65 s
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 6.50 s
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Job life time (pending + execution): average 2.26 s, max 8.85
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Shader code size: average 46,65 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 158.13 s
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Jobs were issued in 1 640 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Average processing rate: 10.69 jobs/sec
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Total thread time: 504,181 s
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Total thread preprocess time: 33,52 s
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Percentage time preprocessing: 6.65%
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Effective parallelization: 3.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 1.03 sec, max 1.10 sec, min 0.97 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.95 sec, max 1.11 sec, min 0.80 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.84 sec, max 1.05 sec, min 0.64 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.76 sec, max 0.88 sec, min 0.63 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:                                               FNiagaraShader - 25.60% of total time (compiled  650 times, average 0.20 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.91% of total time (compiled   50 times, average 0.39 sec, max 1.23 sec, min 0.29 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.84% of total time (compiled   45 times, average 0.43 sec, max 1.15 sec, min 0.29 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.68% of total time (compiled   45 times, average 0.41 sec, max 1.47 sec, min 0.29 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 3.62% of total time (compiled   45 times, average 0.41 sec, max 0.64 sec, min 0.30 sec)
+[2024.04.24-12.03.50:864][705]LogShaderCompilers: Display: ================================================
+[2024.04.24-12.03.50:881][705]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.403807 sec (time since issued), 0.382058 sec (combined shader worker time).
+[2024.04.24-12.03.50:888][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.03.50:972][705]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.03.50:972][705]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperF79805CD48A08DDD1CAC1691C282C935.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.03.50:977][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1:05 min)
+[2024.04.24-12.03.50:995][705]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.03.50:995][705]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.03.51:013][706]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.04.01:566][585]Cmd: TRANSACTION UNDO
+[2024.04.24-12.04.01:566][585]LogEditorTransaction: Undo Delete modules
+[2024.04.24-12.04.02:115][591]652673_NS_SubUVFire_MessageLog: System successfully compiled.
+[2024.04.24-12.04.02:115][591]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.04.02:442][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.04.02:526][626]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.04.02:527][626]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperB6A652154CA4171E5329248FF26A81C9.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.04.02:535][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1:05 min)
+[2024.04.24-12.04.02:554][626]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.04.02:554][626]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.04.04:120][780]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.04.04:651][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.04.04:724][838]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.04.04:725][838]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper38BCA4DB41A3A3EE90020CAF70D1471E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.04.04:733][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1:05 min)
+[2024.04.24-12.04.04:753][838]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.04.04:753][838]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.04.14:468][854]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.04.15:192][924]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.834705 sec (time since issued), 0.806550 sec (combined shader worker time).
+[2024.04.24-12.04.16:468][ 64]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.04.18:257][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.04.18:316][247]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.04.18:316][247]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper89EF8B514A44EDFBCDA148805B32390A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.04.18:321][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1:05 min)
+[2024.04.24-12.04.18:340][247]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.04.18:340][247]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.04.18:470][257]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.04.29:761][533]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/Materials/MI_Dandeline.MI_Dandeline
+[2024.04.24-12.04.29:763][533]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-12.04.29:763][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-12.04.29:955][533]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.04.24-12.04.31:290][679]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Niagara/Materials/M_SubUVFire.M_SubUVFire
+[2024.04.24-12.04.31:293][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-12.04.31:293][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-12.04.31:416][679]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-12.04.31:416][679]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.24-12.04.31:416][679]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-12.04.31:416][679]MaterialEditorStats: Shader Count: 0
+[2024.04.24-12.04.31:421][679]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.04.24-12.04.31:482][681]MaterialEditorStats: Base pass shader without light map: 113 instructions
+[2024.04.24-12.04.31:483][681]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.04.24-12.04.31:483][681]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.24-12.04.31:483][681]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.24-12.04.31:483][681]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-12.04.31:483][681]MaterialEditorStats: Shader Count: 2
+[2024.04.24-12.04.32:888][838]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-12.04.32:888][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-12.04.34:335][  5]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-12.04.34:335][  5]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.24-12.04.34:335][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-12.04.34:335][  5]MaterialEditorStats: Shader Count: 0
+[2024.04.24-12.04.34:901][ 65]MaterialEditorStats: Base pass shader without light map: 113 instructions
+[2024.04.24-12.04.34:901][ 65]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.24-12.04.34:901][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.24-12.04.34:901][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-12.04.34:901][ 65]MaterialEditorStats: Shader Count: 3
+[2024.04.24-12.04.34:925][ 68]LogMaterialEditor: Saving and Compiling material M_SubUVFire
+[2024.04.24-12.04.35:244][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.24-12.04.35:716][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.24-12.04.35:726][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.04.36:503][ 68]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SubUVFire
+[2024.04.24-12.04.36:503][ 68]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SubUVFireBEF727954BECEE41A6C5EC96BB7A250A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SubUVFire.uasset'
+[2024.04.24-12.04.36:511][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 784 ms (total: 1:06 min)
+[2024.04.24-12.04.36:515][ 68]AssetCheck: New page: Asset Save: M_SubUVFire
+[2024.04.24-12.04.36:515][ 68]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SubUVFire.M_SubUVFire
+[2024.04.24-12.04.36:529][ 68]MaterialEditorStats: Base pass shader without light map: 113 instructions
+[2024.04.24-12.04.36:529][ 68]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.04.24-12.04.36:529][ 68]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.24-12.04.36:529][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.24-12.04.36:529][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-12.04.36:529][ 68]MaterialEditorStats: Shader Count: 14
+[2024.04.24-12.05.29:620][186]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.24-12.05.36:252][871]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.05.36:882][929]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.768380 sec (time since issued), 0.737266 sec (combined shader worker time).
+[2024.04.24-12.05.38:258][ 82]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.05.43:847][669]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.472551 sec (time since issued), 1.238668 sec (combined shader worker time).
+[2024.04.24-12.05.43:853][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.05.43:934][669]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.05.43:934][669]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperF05D6436440CA11AED4958928FEF507D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.05.43:940][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1:06 min)
+[2024.04.24-12.05.43:986][669]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.05.43:986][669]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.06.32:509][688]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.521075 sec (time since issued), 1.197923 sec (combined shader worker time).
+[2024.04.24-12.06.32:516][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.06.32:599][688]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.06.32:600][688]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper8988AA6D455871B1D9ED018E95E75F52.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.06.32:605][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1:06 min)
+[2024.04.24-12.06.32:624][688]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.06.32:624][688]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.06.35:935][ 21]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.417890 sec (time since issued), 0.900218 sec (combined shader worker time).
+[2024.04.24-12.06.35:945][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.06.36:020][ 21]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.06.36:020][ 21]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperEED43E7741749019197521B0A30CCC14.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.06.36:026][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:06 min)
+[2024.04.24-12.06.36:045][ 21]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.06.36:045][ 21]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.06.38:263][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.06.38:343][278]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.06.38:343][278]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper7133FAAF424E4EE0F6049A94810E2864.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.06.38:349][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1:06 min)
+[2024.04.24-12.06.38:369][278]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.06.38:369][278]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.07.02:830][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.07.02:914][384]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.07.02:914][384]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper8BD4CE494E3C23A1F57240B2914CD274.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.07.02:920][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1:06 min)
+[2024.04.24-12.07.02:938][384]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.07.02:938][384]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: ================================================
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Total job queries 1 924, among them cache hits 177 (9.20%)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Tracking 1 744 distinct input hashes that result in 1 083 distinct outputs (62.10%)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: RAM used: 48,49 MiB of 1,60 GiB budget. Usage: 2.96%
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Shaders Compiled: 1 714
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Jobs assigned 1 714, completed 1 714 (100%)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Average time worker was idle: 13.86 s
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Time job spent in pending queue: average 1.82 s, longest 7.65 s
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 6.50 s
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Job life time (pending + execution): average 2.23 s, max 8.85
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Shader code size: average 46,52 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 162.57 s
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Jobs were issued in 1 663 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Average processing rate: 10.54 jobs/sec
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Total thread time: 509,369 s
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Total thread preprocess time: 33,904 s
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Percentage time preprocessing: 6.66%
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Effective parallelization: 3.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 1.03 sec, max 1.10 sec, min 0.97 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.95 sec, max 1.11 sec, min 0.80 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.84 sec, max 1.05 sec, min 0.64 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.76 sec, max 0.88 sec, min 0.63 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:                                               FNiagaraShader - 25.55% of total time (compiled  659 times, average 0.20 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.03% of total time (compiled   52 times, average 0.40 sec, max 1.23 sec, min 0.29 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.80% of total time (compiled   45 times, average 0.43 sec, max 1.15 sec, min 0.29 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.66% of total time (compiled   52 times, average 0.36 sec, max 1.89 sec, min 0.26 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.64% of total time (compiled   45 times, average 0.41 sec, max 1.47 sec, min 0.29 sec)
+[2024.04.24-12.07.19:014][111]LogShaderCompilers: Display: ================================================
+[2024.04.24-12.07.19:033][111]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.534564 sec (time since issued), 1.231983 sec (combined shader worker time).
+[2024.04.24-12.07.19:041][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.07.19:102][111]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.07.19:103][111]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperA30C07BD481E80C773D70FA6060EE985.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.07.19:108][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1:06 min)
+[2024.04.24-12.07.19:127][111]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.07.19:127][111]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.07.32:820][367]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.07.33:449][429]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.788985 sec (time since issued), 0.760079 sec (combined shader worker time).
+[2024.04.24-12.07.34:854][531]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.502906 sec (time since issued), 0.722811 sec (combined shader worker time).
+[2024.04.24-12.07.34:862][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.07.34:936][531]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.07.34:936][531]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperDB4D79E14217CBA7EA1128A1D2690693.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.07.34:941][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1:07 min)
+[2024.04.24-12.07.34:961][531]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.07.34:961][531]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.07.34:983][532]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.08.06:599][ 22]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.534477 sec (time since issued), 1.205353 sec (combined shader worker time).
+[2024.04.24-12.08.06:608][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.08.06:681][ 22]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.08.06:681][ 22]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperC607C6B049EF5DB8897BD896BD20E58F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.08.06:687][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:07 min)
+[2024.04.24-12.08.06:707][ 22]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.08.06:707][ 22]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.08.13:145][747]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.08.15:147][979]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.08.40:813][232]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.639986 sec (time since issued), 0.618269 sec (combined shader worker time).
+[2024.04.24-12.08.40:821][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.08.40:895][232]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.08.40:895][232]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper35C984C64D66BD6E58EE3B922B5398AB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.08.40:901][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:07 min)
+[2024.04.24-12.08.40:922][232]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.08.40:922][232]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.08.47:390][971]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.SubUVAnimation.Start Frame Range Override' from Script NiagaraScript /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper:SimpleSpriteBurst.SpawnScript
+[2024.04.24-12.08.47:390][971]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.SubUVAnimation.Start Frame Range Override' from Script NiagaraScript /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper:SimpleSpriteBurst.UpdateScript
+[2024.04.24-12.08.47:615][973]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.08.48:245][ 25]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.760919 sec (time since issued), 0.730217 sec (combined shader worker time).
+[2024.04.24-12.08.49:621][173]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.08.55:766][792]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.551807 sec (time since issued), 1.537901 sec (combined shader worker time).
+[2024.04.24-12.08.55:775][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.08.55:851][792]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.08.55:851][792]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper8D3A243349120F0C3F11089A14422EFC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.08.55:857][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:07 min)
+[2024.04.24-12.08.55:876][792]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.08.55:876][792]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.09.19:540][235]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.511266 sec (time since issued), 1.406291 sec (combined shader worker time).
+[2024.04.24-12.09.19:549][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.09.19:630][235]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.09.19:631][235]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper08D8CB2B4C7DEAFB6D6F3CA790335E4C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.09.19:636][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1:07 min)
+[2024.04.24-12.09.19:656][235]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.09.19:656][235]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.09.23:378][581]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-12.09.23:378][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-12.09.28:932][197]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.04.24-12.09.42:283][616]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.456503 sec (time since issued), 0.433450 sec (combined shader worker time).
+[2024.04.24-12.09.42:291][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.09.42:358][616]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.09.42:359][616]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooper8BD36AA541F13376C74E81AF9893D1B8.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.09.42:365][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1:07 min)
+[2024.04.24-12.09.42:384][616]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.09.42:384][616]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
+[2024.04.24-12.10.01:123][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.10.01:258][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.24-12.10.01:300][175]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-12.10.01:301][175]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_11BB35EDB43DFF8DFB04A48816DD21F0B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-12.10.01:306][175]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.120
+[2024.04.24-12.10.01:313][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 1:07 min)
+[2024.04.24-12.10.01:314][175]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-12.10.01:314][175]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-12.10.40:561][397]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: ================================================
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Total job queries 1 944, among them cache hits 183 (9.41%)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Tracking 1 758 distinct input hashes that result in 1 094 distinct outputs (62.23%)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: RAM used: 48,77 MiB of 1,60 GiB budget. Usage: 2.98%
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Shaders Compiled: 1 728
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Jobs assigned 1 728, completed 1 728 (100%)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Average time worker was idle: 13.99 s
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Time job spent in pending queue: average 1.81 s, longest 7.65 s
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 6.50 s
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Job life time (pending + execution): average 2.22 s, max 8.85
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Shader code size: average 46,31 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 166.54 s
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Jobs were issued in 1 677 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Average processing rate: 10.38 jobs/sec
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Total thread time: 511,275 s
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Total thread preprocess time: 33,904 s
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Percentage time preprocessing: 6.63%
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Effective parallelization: 3.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 1.03 sec, max 1.10 sec, min 0.97 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.95 sec, max 1.11 sec, min 0.80 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.84 sec, max 1.05 sec, min 0.64 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.76 sec, max 0.88 sec, min 0.63 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:                                               FNiagaraShader - 25.83% of total time (compiled  673 times, average 0.20 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.02% of total time (compiled   52 times, average 0.40 sec, max 1.23 sec, min 0.29 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.78% of total time (compiled   45 times, average 0.43 sec, max 1.15 sec, min 0.29 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.64% of total time (compiled   52 times, average 0.36 sec, max 1.89 sec, min 0.26 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.63% of total time (compiled   45 times, average 0.41 sec, max 1.47 sec, min 0.29 sec)
+[2024.04.24-12.10.40:941][440]LogShaderCompilers: Display: ================================================
+[2024.04.24-12.10.41:285][473]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.866246 sec (time since issued), 0.825009 sec (combined shader worker time).
+[2024.04.24-12.10.42:567][616]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.10.44:521][848]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.Color.Color' from Script NiagaraScript /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper:SimpleSpriteBurst.SpawnScript
+[2024.04.24-12.10.44:523][848]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.Color.Color' from Script NiagaraScript /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper:SimpleSpriteBurst.UpdateScript
+[2024.04.24-12.10.44:743][850]652587_NS_FlameTrooper_MessageLog: System compile status unknown.
+[2024.04.24-12.10.45:368][910]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper took 0.758552 sec (time since issued), 0.728383 sec (combined shader worker time).
+[2024.04.24-12.10.46:751][ 60]652587_NS_FlameTrooper_MessageLog: System successfully compiled.
+[2024.04.24-12.10.48:257][230]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.24-12.11.46:386][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.24-12.11.46:401][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-12.11.46:490][520]LogSavePackage: Moving output files for package: /Game/Niagara/08-FlameTrooper/NS_FlameTrooper
+[2024.04.24-12.11.46:491][520]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FlameTrooperF4DE946D41BC0411C94C1FBE3635DD28.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/08-FlameTrooper/NS_FlameTrooper.uasset'
+[2024.04.24-12.11.46:495][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1:07 min)
+[2024.04.24-12.11.46:499][520]AssetCheck: New page: Asset Save: NS_FlameTrooper
+[2024.04.24-12.11.46:499][520]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/08-FlameTrooper/NS_FlameTrooper.NS_FlameTrooper
