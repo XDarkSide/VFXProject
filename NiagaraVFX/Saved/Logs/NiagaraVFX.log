@@ -7166,3 +7166,1453 @@ UnknownFunction []
 [2024.04.24-15.35.49:815][ 36]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.24-15.35.49:815][ 36]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/ThirdPerson/Characters/ThirdPersonContent/LevelPrototyping/Materials/MI_Solid_Blue.MI_Solid_Blue
 [2024.04.24-15.35.49:815][ 36]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Characters/ThirdPersonContent/LevelPrototyping/Materials/M_Solid.M_Solid
+[2024.04.24-15.39.42:236][892]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.04.24-15.39.42:241][892]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2024.04.24-15.39.42:241][892]LogSynthBenchmark: Display: ===============
+[2024.04.24-15.39.42:241][892]LogSynthBenchmark: Display: Main Processor:
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:          ... 0.012657 s/Run 'RayIntersect'
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:          ... 0.017655 s/Run 'Fractal'
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display: 
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 32
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   NumberOfCores (physical): 6
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   NumberOfCores (logical): 12
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   CPU Perf Index 0: 202.3 (weight 1.00)
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   CPU Perf Index 1: 162.0 (weight 1.50)
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:  
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display: Graphics:
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 1660 Ti'
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   Device Id: 0x2182
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2024.04.24-15.39.42:272][892]LogSynthBenchmark: Display:   GPU Memory: 5966/0/16341 MB
+[2024.04.24-15.39.42:672][892]LogSynthBenchmark: Display:   GPU first test: 0.00s
+[2024.04.24-15.39.42:672][892]LogSynthBenchmark: Display:          ... 6.238 s/GigaPix, Confidence=81% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2024.04.24-15.39.42:672][892]LogSynthBenchmark: Display:          ... 4.663 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be very inaccurate)
+[2024.04.24-15.39.42:672][892]LogSynthBenchmark: Display:          ... 4.192 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2024.04.24-15.39.42:672][892]LogSynthBenchmark: Display:          ... 9.660 s/GigaPix, Confidence=70% 'FillOnly' (likely to be very inaccurate)
+[2024.04.24-15.39.42:672][892]LogSynthBenchmark: Display:          ... 0.495 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2024.04.24-15.39.42:672][892]LogSynthBenchmark: Display:          ... 32.108 s/GigaVert, Confidence=81% 'VertThroughPut1' (likely to be very inaccurate)
+[2024.04.24-15.39.42:672][892]LogSynthBenchmark: Display:          ... 31.527 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2024.04.24-15.39.43:226][892]LogSynthBenchmark: Display:   GPU second test: 0.02s
+[2024.04.24-15.39.43:226][892]LogSynthBenchmark: Display:          ... 13.545 s/GigaPix, Confidence=81% 'ALUHeavyNoise' (likely to be inaccurate)
+[2024.04.24-15.39.43:226][892]LogSynthBenchmark: Display:          ... 9.761 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2024.04.24-15.39.43:226][892]LogSynthBenchmark: Display:          ... 7.909 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2024.04.24-15.39.43:226][892]LogSynthBenchmark: Display:          ... 29.180 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2024.04.24-15.39.43:226][892]LogSynthBenchmark: Display:          ... 0.716 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2024.04.24-15.39.43:226][892]LogSynthBenchmark: Display:          ... 14.536 s/GigaVert, Confidence=51% 'VertThroughPut1' (likely to be inaccurate)
+[2024.04.24-15.39.43:226][892]LogSynthBenchmark: Display:          ... 14.387 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU third test: 0.19s
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 16.184 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 11.230 s/GigaPix, Confidence=89% 'TexHeavy'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 9.553 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 48.070 s/GigaPix, Confidence=89% 'FillOnly'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 0.743 s/GigaPix, Confidence=100% 'Bandwidth'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 4.660 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 14.008 s/GigaVert, Confidence=89% 'VertThroughPut2'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU Final Results:
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 16.184 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 11.230 s/GigaPix, Confidence=89% 'TexHeavy'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 9.553 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 48.070 s/GigaPix, Confidence=89% 'FillOnly'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 0.743 s/GigaPix, Confidence=100% 'Bandwidth'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 4.660 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... 14.008 s/GigaVert, Confidence=89% 'VertThroughPut2'
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display: 
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU Perf Index 0: 351.8 (weight 1.00)
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU Perf Index 1: 150.8 (weight 0.10)
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU Perf Index 2: 248.3 (weight 0.10)
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU Perf Index 3: 188.8 (weight 3.00)
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU Perf Index 4: 69.3 (weight 1.00)
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU Perf Index 5: 303.2 (weight 0.00)
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPU Perf Index 6: 792.8 (weight 0.00)
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   GPUIndex: 197.6
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:   CPUIndex: 178.1
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display: 
+[2024.04.24-15.39.43:968][892]LogSynthBenchmark: Display:          ... Total Time: 1.726544 sec
+[2024.04.24-15.39.43:968][892]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.04.24-15.39.43:968][892]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.04.24-15.39.43:968][892]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.04.24-15.39.43:968][892]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.04.24-15.39.43:968][892]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.04.24-15.39.43:968][892]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.04.24-15.39.43:969][892]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.04.24-15.39.43:969][892]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.04.24-15.39.43:969][892]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.04.24-15.39.43:969][892]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2024.04.24-15.39.43:969][892]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.04.24-15.39.43:969][892]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.04.24-15.39.44:729][894]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.24-15.39.45:131][897]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.24-15.39.51:921][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.24-15.39.51:927][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.24-15.39.51:929][337]PIE: New page: PIE session: NiagaraCourse_1 (24 квіт. 2024 р., 21:39:51)
+[2024.04.24-15.39.51:929][337]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2024.04.24-15.39.51:931][337]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.04.24-15.39.51:947][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.04.24-15.39.51:959][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012341s)
+[2024.04.24-15.39.51:959][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.012393s)
+[2024.04.24-15.39.51:979][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.24-15.39.51:984][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-15.39.51:984][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-15.39.51:985][338]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.04.24-15.39.51:985][338]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2024.04.24-15.39.51:985][338]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.24-15.39.51:985][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.24-15.39.51:985][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.24-15.39.51:985][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.24-15.39.51:985][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.24-15.39.51:985][338]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.24-15.39.51:985][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.24-15.39.51:985][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.24-15.39.51:985][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.24-15.39.51:986][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.24-15.39.51:986][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.24-15.39.51:986][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.24-15.39.51:987][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.24-15.39.52:013][338]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.04.24-15.39.52:013][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.24-15.39.52:013][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.24-15.39.52:013][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.24-15.39.52:014][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.24-15.39.52:014][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.04.24-15.39.52:015][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.24-15.39.52:015][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.24-15.39.52:015][338]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.24-15.39.52:015][338]LogAudio: Display: Audio Device (ID: 2) registered with world 'NiagaraCourse_1'.
+[2024.04.24-15.39.52:015][338]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.24-15.39.52:019][338]LogLoad: Game class is 'GameModeBase'
+[2024.04.24-15.39.52:052][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.04.24-18.39.52
+[2024.04.24-15.39.52:059][338]LogWorld: Bringing up level for play took: 0.039897
+[2024.04.24-15.39.52:069][338]PIE: Server logged in
+[2024.04.24-15.39.52:070][338]PIE: Play in editor total start time 0,143 seconds.
+[2024.04.24-15.39.53:681][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-15.39.53:681][392]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.04.24-15.39.53:681][392]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-15.39.53:683][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-15.39.53:687][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.24-15.39.53:697][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-15.39.53:717][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-15.39.53:718][392]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.24-15.39.53:718][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.24-15.39.53:719][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.24-15.39.53:731][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.24-15.39.53:805][393]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.04.24-16.03.17:367][195]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.04.24-16.03.17:375][195]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.04.24-16.03.17:385][196]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.04.24-16.03.25:566][705]LogContentBrowser: Attempting asset rename: NewMaterial -> M_SimpleCircle
+[2024.04.24-16.03.25:567][705]LogContentBrowser: End creating deferred item NewMaterial
+[2024.04.24-16.03.26:322][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.03.26:433][749]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.03.26:433][749]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircle6D6300DE4FEECAF8715ECFB096B4EE27.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.03.26:442][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1:28 min)
+[2024.04.24-16.03.26:443][749]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.03.26:443][749]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.03.27:344][802]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.03.27:348][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.03.27:348][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.03.27:470][802]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.03.27:470][802]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.27:470][802]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.03.27:475][802]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Total job queries 3 650, among them cache hits 1 442 (39.51%)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Tracking 2 205 distinct input hashes that result in 1 301 distinct outputs (59.00%)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: RAM used: 58,29 MiB of 1,60 GiB budget. Usage: 3.56%
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Shaders Compiled: 2 156
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Jobs assigned 2 156, completed 2 156 (100%)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Average time worker was idle: 58.38 s
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Time job spent in pending queue: average 1.46 s, longest 7.65 s
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 6.50 s
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Job life time (pending + execution): average 1.90 s, max 8.85
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Shader code size: average 43,337 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 242.30 s
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Jobs were issued in 2 069 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Average processing rate: 8.90 jobs/sec
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Total thread time: 608,424 s
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Total thread preprocess time: 43,217 s
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Percentage time preprocessing: 7.10%
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Effective parallelization: 2.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.82 sec, max 1.10 sec, min 0.40 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.74 sec, max 1.11 sec, min 0.31 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.61 sec, max 1.05 sec, min 0.14 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.55 sec, max 0.88 sec, min 0.14 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:                                               FNiagaraShader - 25.94% of total time (compiled  881 times, average 0.18 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.72% of total time (compiled   90 times, average 0.39 sec, max 1.23 sec, min 0.26 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.07% of total time (compiled   89 times, average 0.35 sec, max 1.89 sec, min 0.23 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.52% of total time (compiled   68 times, average 0.31 sec, max 0.46 sec, min 0.21 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.52% of total time (compiled   69 times, average 0.31 sec, max 0.48 sec, min 0.16 sec)
+[2024.04.24-16.03.27:517][803]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.03.27:609][804]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.24-16.03.27:609][804]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.24-16.03.27:609][804]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.24-16.03.27:609][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.27:609][804]MaterialEditorStats: Shader Count: 4
+[2024.04.24-16.03.32:802][397]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.03.32:802][397]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.32:802][397]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.03.32:847][400]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.03.32:847][400]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.24-16.03.32:847][400]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.32:847][400]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.03.35:347][690]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.03.35:347][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.35:347][690]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.03.35:407][693]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.03.35:408][693]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.03.35:408][693]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.03.35:408][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.35:408][693]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.03.39:492][167]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.03.39:492][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.39:492][167]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.03.39:537][170]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.03.39:537][170]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.03.39:537][170]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.03.39:537][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.39:537][170]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.03.49:974][399]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.03.49:974][399]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.49:974][399]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.03.50:034][401]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.03.50:034][401]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.03.50:034][401]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.03.50:034][401]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.50:034][401]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.03.55:607][ 44]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.03.55:607][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.55:607][ 44]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.03.55:670][ 47]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.03.55:670][ 47]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.03.55:670][ 47]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.03.55:670][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.55:670][ 47]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.03.56:960][192]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.03.56:960][192]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.56:960][192]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.03.57:011][194]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.03.57:011][194]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.03.57:011][194]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.03.57:011][194]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.03.57:011][194]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.00:147][561]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.00:147][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.00:147][561]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.00:218][564]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.00:218][564]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.00:218][564]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.00:218][564]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.00:218][564]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.03:696][961]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.03:696][961]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.03:696][961]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.03:725][963]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.03:725][963]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.03:725][963]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.03:725][963]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.03:726][963]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.06:971][340]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.06:971][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.06:971][340]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.07:015][343]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.07:015][343]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.07:015][343]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.07:015][343]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.07:015][343]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.07:344][378]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.07:344][378]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.07:344][378]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.07:395][381]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.07:395][381]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.07:395][381]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.07:395][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.07:395][381]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.07:765][421]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.07:765][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.07:765][421]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.07:808][424]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.07:808][424]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.07:808][424]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.07:808][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.07:808][424]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.08:137][459]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.08:137][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.08:137][459]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.08:192][462]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.08:192][462]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.08:192][462]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.08:192][462]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.08:192][462]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.12:706][985]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.12:707][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.12:707][985]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.12:753][988]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.12:753][988]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.12:753][988]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.12:754][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.12:754][988]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.13:822][106]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.13:823][106]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.13:823][106]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.13:868][109]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.13:868][109]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.13:868][109]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.13:868][109]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.13:868][109]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.17:651][547]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.17:651][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.17:651][547]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.17:700][550]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.17:700][550]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.17:700][550]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.17:700][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.17:700][550]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.18:833][676]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.18:833][676]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.18:833][676]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.18:882][679]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.18:882][679]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.18:882][679]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.18:882][679]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.18:882][679]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.22:442][100]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.22:442][100]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.22:442][100]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.22:467][102]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.22:467][102]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.22:467][102]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.22:467][102]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.22:467][102]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.24:900][387]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.24:900][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.24:900][387]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.24:916][389]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.04.24-16.04.24:916][389]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.04.24-16.04.24:916][389]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.04.24:916][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.24:916][389]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.04.27:968][742]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.27:968][742]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.24-16.04.27:968][742]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.04.39:425][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.04.39:425][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.04.39:425][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.04.39:425][ 78]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.05.42:203][458]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.05.42:649][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.24-16.05.43:127][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.24-16.05.43:139][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.05.43:641][458]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.05.43:642][458]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircle935E062248F7C19AA33BCF964040D0BD.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.05.43:648][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 509 ms (total: 1:29 min)
+[2024.04.24-16.05.43:648][458]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.05.43:649][458]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.05.43:649][458]MaterialEditorStats: Base pass shader without light map: 117 instructions
+[2024.04.24-16.05.43:649][458]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.04.24-16.05.43:649][458]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.05.43:649][458]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.05.43:649][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.05.43:649][458]MaterialEditorStats: Shader Count: 5
+[2024.04.24-16.05.48:241][995]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.05.48:241][995]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.05.48:241][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.05.48:241][995]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.05.51:930][425]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.05.52:031][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.24-16.05.52:245][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.24-16.05.52:255][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.05.52:313][425]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.05.52:313][425]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircle469637F041C93E9808F2539E339EE8CF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.05.52:319][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1:29 min)
+[2024.04.24-16.05.52:320][425]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.05.52:320][425]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.05.52:321][425]MaterialEditorStats: Base pass shader without light map: 117 instructions
+[2024.04.24-16.05.52:321][425]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.04.24-16.05.52:321][425]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.05.52:321][425]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.05.52:321][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.05.52:321][425]MaterialEditorStats: Shader Count: 5
+[2024.04.24-16.05.53:378][544]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.05.53:378][544]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.05.53:378][544]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.05.53:378][544]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.06.10:489][528]MaterialEditorStats: Base pass shader without light map: 123 instructions
+[2024.04.24-16.06.10:489][528]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.06.10:489][528]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.06.10:489][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.06.10:489][528]MaterialEditorStats: Shader Count: 1
+[2024.04.24-16.06.10:590][540]MaterialEditorStats: Base pass shader without light map: 123 instructions
+[2024.04.24-16.06.10:590][540]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.04.24-16.06.10:590][540]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.06.10:590][540]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.06.10:590][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.06.10:590][540]MaterialEditorStats: Shader Count: 2
+[2024.04.24-16.06.12:507][762]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.06.12:592][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.24-16.06.13:099][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.24-16.06.13:108][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.06.13:552][762]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.06.13:553][762]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircle5123BB04465563B4EDC41EB9EB9C87DE.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.06.13:558][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 449 ms (total: 1:29 min)
+[2024.04.24-16.06.13:559][762]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.06.13:559][762]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.06.44:109][944]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.06.44:109][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.06.44:109][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.06.44:109][944]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Total job queries 3 916, among them cache hits 1 614 (41.22%)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Tracking 2 296 distinct input hashes that result in 1 346 distinct outputs (58.62%)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: RAM used: 60,13 MiB of 1,60 GiB budget. Usage: 3.67%
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Shaders Compiled: 2 247
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Jobs assigned 2 250, completed 2 247 (99.87%)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Average time worker was idle: 60.03 s
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Time job spent in pending queue: average 1.40 s, longest 7.65 s
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 6.50 s
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Job life time (pending + execution): average 1.84 s, max 8.85
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Shader code size: average 43,02 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 254.49 s
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Jobs were issued in 2 163 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Average processing rate: 8.83 jobs/sec
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Total thread time: 633,363 s
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Total thread preprocess time: 45,805 s
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Percentage time preprocessing: 7.23%
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Effective parallelization: 2.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.82 sec, max 1.10 sec, min 0.40 sec)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.74 sec, max 1.11 sec, min 0.31 sec)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.61 sec, max 1.05 sec, min 0.14 sec)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.55 sec, max 0.88 sec, min 0.14 sec)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display:                                               FNiagaraShader - 24.92% of total time (compiled  881 times, average 0.18 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-16.06.44:454][970]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.61% of total time (compiled  112 times, average 0.37 sec, max 1.23 sec, min 0.26 sec)
+[2024.04.24-16.06.44:455][970]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.01% of total time (compiled  111 times, average 0.34 sec, max 1.89 sec, min 0.23 sec)
+[2024.04.24-16.06.44:455][970]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.45% of total time (compiled   70 times, average 0.31 sec, max 0.46 sec, min 0.21 sec)
+[2024.04.24-16.06.44:455][970]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.43% of total time (compiled   71 times, average 0.31 sec, max 0.48 sec, min 0.16 sec)
+[2024.04.24-16.06.44:455][970]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.06.44:669][995]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2024.04.24-16.06.44:669][995]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.24-16.06.44:669][995]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.06.44:669][995]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.06.44:669][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.06.44:669][995]MaterialEditorStats: Shader Count: 4
+[2024.04.24-16.06.45:761][121]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.06.45:859][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.24-16.06.46:362][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.24-16.06.46:372][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.06.46:440][121]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.06.46:440][121]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircle57C8DEEA432293FE32B431A7B6E337D1.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.06.46:445][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1:30 min)
+[2024.04.24-16.06.46:446][121]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.06.46:446][121]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.07.04:536][823]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.07.04:536][823]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.07.04:536][823]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.07.04:536][823]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.07.04:979][870]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2024.04.24-16.07.04:979][870]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.24-16.07.04:979][870]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.07.04:979][870]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.07.04:979][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.07.04:979][870]MaterialEditorStats: Shader Count: 4
+[2024.04.24-16.07.06:769][ 75]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.07.06:871][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.24-16.07.07:383][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.24-16.07.07:394][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.07.07:449][ 75]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.07.07:450][ 75]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircle0B4ACF984E9AA83EB9BEA5890D1429D4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.07.07:455][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1:30 min)
+[2024.04.24-16.07.07:456][ 75]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.07.07:456][ 75]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.07.16:772][174]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.07.16:772][174]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.07.16:772][174]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.07.16:772][174]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.07.17:255][226]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2024.04.24-16.07.17:255][226]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.24-16.07.17:255][226]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.07.17:255][226]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.07.17:255][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.07.17:255][226]MaterialEditorStats: Shader Count: 4
+[2024.04.24-16.07.18:165][327]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.07.18:270][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.24-16.07.18:879][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.24-16.07.18:888][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.07.18:948][327]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.07.18:948][327]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircleEE92DC284AAD65A0781480BCD3142A65.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.07.18:953][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1:30 min)
+[2024.04.24-16.07.18:954][327]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.07.18:955][327]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.07.32:614][719]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.07.32:617][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.07.32:666][719]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.07.32:666][719]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircleF0B4F4394D19D2A5E50522B295363218.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.07.32:671][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1:30 min)
+[2024.04.24-16.07.32:672][719]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.07.32:672][719]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.07.44:190][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.07.44:190][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.07.44:190][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.07.44:190][ 89]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.07.58:917][782]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2024.04.24-16.07.58:917][782]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.24-16.07.58:917][782]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.07.58:917][782]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.07.58:917][782]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.07.58:917][782]MaterialEditorStats: Shader Count: 4
+[2024.04.24-16.08.00:400][952]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.08.00:550][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.24-16.08.01:019][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.24-16.08.01:030][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.08.01:100][952]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.08.01:101][952]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircleF0619E6342AEF718D7FFB29F2C0D2EED.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.08.01:107][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1:30 min)
+[2024.04.24-16.08.01:108][952]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.08.01:108][952]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.08.04:814][393]LogMaterialEditor: Saving and Compiling material M_SimpleCircle
+[2024.04.24-16.08.04:817][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.08.04:864][393]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.08.04:864][393]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircleB66A398A4B53A20F2EE8389F7C6CB0AE.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.08.04:870][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1:30 min)
+[2024.04.24-16.08.04:871][393]AssetCheck: New page: Asset Save: M_SimpleCircle
+[2024.04.24-16.08.04:871][393]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.08.08:826][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.08.08:906][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.24-16.08.08:939][772]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.08.08:939][772]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_18AE1F1ED4CBCC6C5F13DBB9529857150.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.08.08:945][772]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.068
+[2024.04.24-16.08.08:952][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1:30 min)
+[2024.04.24-16.08.08:953][772]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.08.08:953][772]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.08.14:697][235]LogContentBrowser: Deferred new asset file creation: M_SimpleCircle_Inst
+[2024.04.24-16.08.14:712][235]LogContentBrowser: Creating deferred item: M_SimpleCircle_Inst
+[2024.04.24-16.08.14:723][236]LogContentBrowser: Renaming the item being created (Deferred Item: M_SimpleCircle_Inst).
+[2024.04.24-16.08.21:539][648]LogContentBrowser: Attempting asset rename: M_SimpleCircle_Inst -> MI_SimpleCircle
+[2024.04.24-16.08.21:539][648]LogContentBrowser: End creating deferred item M_SimpleCircle_Inst
+[2024.04.24-16.08.22:172][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.08.22:276][685]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_SimpleCircle
+[2024.04.24-16.08.22:276][685]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_SimpleCircleB06395EB4400DB69AA12FCB4EA253E59.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_SimpleCircle.uasset'
+[2024.04.24-16.08.22:285][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1:30 min)
+[2024.04.24-16.08.22:286][685]AssetCheck: New page: Asset Save: MI_SimpleCircle
+[2024.04.24-16.08.22:286][685]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_SimpleCircle.MI_SimpleCircle
+[2024.04.24-16.08.36:432][910]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.24-16.08.36:601][910]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.24-16.08.36:611][911]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.24-16.08.40:131][131]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2024.04.24-16.08.40:131][131]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.24-16.08.46:996][704]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.24-16.08.47:017][704]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.24-16.08.47:028][705]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.24-16.09.03:141][714]LogContentBrowser: Attempting asset rename: NewFolder -> 10-CustomMeshEmitter
+[2024.04.24-16.09.03:141][714]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.24-16.09.03:766][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.09.03:866][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.24-16.09.03:901][753]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.09.03:901][753]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1C60D89BD47015C429A092E9891F25D73.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.09.03:907][753]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.075
+[2024.04.24-16.09.03:911][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 1:30 min)
+[2024.04.24-16.09.03:913][753]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.09.03:914][753]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.09.29:787][148]LogContentBrowser: Deferred new asset file creation: NewTextureRenderTarget2D
+[2024.04.24-16.09.29:794][148]LogContentBrowser: Creating deferred item: NewTextureRenderTarget2D
+[2024.04.24-16.09.29:851][150]LogContentBrowser: Renaming the item being created (Deferred Item: NewTextureRenderTarget2D).
+[2024.04.24-16.09.39:098][721]LogContentBrowser: Attempting asset rename: NewTextureRenderTarget2D -> RT_Custom
+[2024.04.24-16.09.39:098][721]LogContentBrowser: End creating deferred item NewTextureRenderTarget2D
+[2024.04.24-16.09.39:770][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.09.39:835][763]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/RT_Custom
+[2024.04.24-16.09.39:835][763]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/RT_CustomC2002A354C60EFE1C6202DB795D0D27C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/RT_Custom.uasset'
+[2024.04.24-16.09.39:840][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1:30 min)
+[2024.04.24-16.09.39:841][763]AssetCheck: New page: Asset Save: RT_Custom
+[2024.04.24-16.09.39:841][763]LogContentValidation: Display: Validating /Script/Engine.TextureRenderTarget2D /Game/Niagara/10-CustomMeshEmitter/RT_Custom.RT_Custom
+[2024.04.24-16.09.40:665][817]LogAssetEditorSubsystem: Opening Asset editor for TextureRenderTarget2D /Game/Niagara/10-CustomMeshEmitter/RT_Custom.RT_Custom
+[2024.04.24-16.09.40:767][817]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.04.24-16.09.53:391][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.09.53:427][304]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/RT_Custom
+[2024.04.24-16.09.53:427][304]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/RT_Custom6663DB604C0D6B562A4573B6A0B8AB01.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/RT_Custom.uasset'
+[2024.04.24-16.09.53:433][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1:30 min)
+[2024.04.24-16.09.53:434][304]AssetCheck: New page: Asset Save: RT_Custom
+[2024.04.24-16.09.53:434][304]LogContentValidation: Display: Validating /Script/Engine.TextureRenderTarget2D /Game/Niagara/10-CustomMeshEmitter/RT_Custom.RT_Custom
+[2024.04.24-16.11.13:312][665]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/M5VFXVOL2/BluePrints/Niagara_BP/Nbuilding_DM_Blueprint.Nbuilding_DM_Blueprint is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2024.04.24-16.11.14:075][665]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.24-16.11.14:081][665]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.24-16.11.14:087][665]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.24-16.11.14:105][666]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.24-16.11.20:321][ 40]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MaterialBaker
+[2024.04.24-16.11.20:327][ 40]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.24-16.11.21:259][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.11.21:314][ 97]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.11.21:314][ 97]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBakerFA0FB508430ECF3F59060F8C7B4B73B4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.11.21:321][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1:30 min)
+[2024.04.24-16.11.21:321][ 97]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.11.21:321][ 97]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.11.21:888][137]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.11.21:889][137]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.11.21:889][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.11.21:913][137]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.24-16.11.23:047][137]LogBlueprint: Warning: Blueprint /Game/M5VFXVOL2/BluePrints/Niagara_BP/Nbuilding_DM_Blueprint is missing GeneratedClass asset tag
+[2024.04.24-16.11.23:088][137]LogViewport: Scene viewport resized to 1110x685, mode Windowed.
+[2024.04.24-16.12.03:043][589]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleComponent) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:043][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fracture_mesh) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (RadialForce) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (impulse_force_strength) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fracture_Scale) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Light_Intensity) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (LightRadius) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (PointLight) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fire_position_offset) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fire_particle) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (particle_Exp) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Explosion_particle) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Explosion_Position_offset) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fire_Dummy) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (particle_Fire) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fire_particle) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Explosion_Dummy) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (FireScale) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (ExplosionScale) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (RadialForce) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (force_offset) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Niagara) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (NiagaraAsset) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (NIagara_Explosion) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (NiagaraExpAsset) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleComponent) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (addfire) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (chunknumber) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Chunks_numbers) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleComponent) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (RadialForce) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (fire_on) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (fire_on) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (fire_Index) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (fire_Trail) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (fire_on) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Slomo) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (spawn_rate) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Explosion_start_Delay) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Light) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (PointLight) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Oscil_Speed) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (oscillate) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Random_Start_angle_min) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Random_Start_angle_max) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fire_particle) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Timeline_0) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Explosion_particle) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Distortion_Emittter_Enable) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Smoke_Emitter_Enable) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fire_particle) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fire_particle) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Direction) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fr_position) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fr_position) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fr_position) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fr_position) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fr_position) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fr_position) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Fr_position) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (NIagara_Explosion) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Niagara) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Niagara) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (SkeletalMesh) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Niagara) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Distortion_Emittter_Enable) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Smoke_Emitter_Enable) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (Niagara) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (FireAngleLimit) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.03:044][589]LogBlueprint: Warning: FMemberReference::ResolveMember (NIagaraTrailAsset) bSelfContext == true, but no scope supplied!
+[2024.04.24-16.12.42:775][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.12.42:812][106]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.12.42:813][106]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBakerA9383BD44B02881033425FBE5DD49173.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.12.42:818][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1:30 min)
+[2024.04.24-16.12.42:820][106]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.12.42:820][106]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.12.59:275][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.12.59:326][  0]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.12.59:327][  0]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBaker0513F0CE421320BF90E3E782E452BED4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.12.59:333][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1:31 min)
+[2024.04.24-16.12.59:334][  0]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.12.59:334][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.13.10:185][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.13.10:237][302]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.13.10:237][302]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBaker5BBB4CF6411CFB2D2A9A54B4E11D29D0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.13.10:242][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1:31 min)
+[2024.04.24-16.13.10:243][302]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.13.10:243][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.13.12:536][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.13.12:584][577]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.13.12:584][577]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBaker7BFDBAFD4306697E01576AB6687F9973.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.13.12:589][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1:31 min)
+[2024.04.24-16.13.12:590][577]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.13.12:590][577]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.13.13:668][706]BlueprintLog: New page: Compile BP_MaterialBaker
+[2024.04.24-16.13.13:724][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.04.24-16.14.08:994][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.14.09:046][559]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.14.09:046][559]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBakerD65D655C47321B022FCDD5A5B582C62A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.14.09:051][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1:31 min)
+[2024.04.24-16.14.09:052][559]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.14.09:052][559]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.14.20:311][867]BlueprintLog: New page: Compile BP_MaterialBaker
+[2024.04.24-16.14.20:361][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.04.24-16.14.31:929][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.14.31:989][247]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.14.31:989][247]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBakerE08B9E184B49008FAD3466AF6D5B6119.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.14.31:995][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1:31 min)
+[2024.04.24-16.14.31:997][247]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.14.31:997][247]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.14.32:779][336]BlueprintLog: New page: Compile BP_MaterialBaker
+[2024.04.24-16.14.32:828][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.24-16.14.33:347][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.14.33:389][390]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.14.33:390][390]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBakerCE7944C348EB70882AB41B9D5B345D35.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.14.33:395][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1:31 min)
+[2024.04.24-16.14.33:397][390]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.14.33:397][390]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.14.36:517][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker_C
+[2024.04.24-16.14.36:517][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker_C
+[2024.04.24-16.14.36:519][580]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker as actor: BP_MaterialBaker_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_MaterialBaker_C_0
+[2024.04.24-16.14.36:519][580]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker as actor: BP_MaterialBaker_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_MaterialBaker_C_0
+[2024.04.24-16.14.36:521][580]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.24-16.14.37:040][614]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker_C
+[2024.04.24-16.14.37:040][614]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker_C
+[2024.04.24-16.14.37:042][614]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker as actor: BP_MaterialBaker_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_MaterialBaker_C_1
+[2024.04.24-16.14.37:042][614]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker as actor: BP_MaterialBaker_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_MaterialBaker_C_1
+[2024.04.24-16.14.47:280][251]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-16.14.47:280][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-16.14.48:209][310]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-16.14.48:209][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-16.15.00:851][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.15.00:908][772]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.15.00:908][772]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBaker68365FC949B612BF9E95F49C396C47D3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.15.00:915][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1:31 min)
+[2024.04.24-16.15.00:915][772]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.15.00:915][772]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.15.01:421][830]BlueprintLog: New page: Compile BP_MaterialBaker
+[2024.04.24-16.15.01:482][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.04.24-16.15.02:858][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.15.02:938][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.04.24-16.15.02:974][943]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.15.02:974][943]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_164FD5A314D90FB29E8ED82A383ED02E2.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.15.02:981][943]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.080
+[2024.04.24-16.15.02:986][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1:31 min)
+[2024.04.24-16.15.02:989][943]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.15.02:989][943]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.15.34:986][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.15.35:035][405]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/RT_Custom
+[2024.04.24-16.15.35:035][405]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/RT_Custom4718E2414C54C727453AA0A1335349E0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/RT_Custom.uasset'
+[2024.04.24-16.15.35:041][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1:31 min)
+[2024.04.24-16.15.35:042][405]AssetCheck: New page: Asset Save: RT_Custom
+[2024.04.24-16.15.35:042][405]LogContentValidation: Display: Validating /Script/Engine.TextureRenderTarget2D /Game/Niagara/10-CustomMeshEmitter/RT_Custom.RT_Custom
+[2024.04.24-16.15.45:260][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.15.45:296][558]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.15.45:296][558]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBaker3C004E3F412DED5984923A866C61E632.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.15.45:302][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1:31 min)
+[2024.04.24-16.15.45:304][558]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.15.45:304][558]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.15.45:859][622]BlueprintLog: New page: Compile BP_MaterialBaker
+[2024.04.24-16.15.45:914][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.24-16.15.47:241][714]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.24-16.15.47:253][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.24-16.15.47:253][714]PIE: New page: PIE session: NiagaraCourse_1 (24 квіт. 2024 р., 22:15:47)
+[2024.04.24-16.15.47:253][714]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2024.04.24-16.15.47:255][714]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.04.24-16.15.47:269][715]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.04.24-16.15.47:281][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011836s)
+[2024.04.24-16.15.47:281][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.011880s)
+[2024.04.24-16.15.47:301][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.24-16.15.47:305][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.15.47:305][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.15.47:305][715]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.04.24-16.15.47:306][715]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2024.04.24-16.15.47:306][715]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.24-16.15.47:306][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.24-16.15.47:306][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.24-16.15.47:306][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.24-16.15.47:306][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.24-16.15.47:306][715]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.24-16.15.47:306][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.24-16.15.47:306][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.24-16.15.47:306][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.24-16.15.47:306][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.24-16.15.47:307][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.24-16.15.47:307][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.24-16.15.47:308][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.24-16.15.47:331][715]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.04.24-16.15.47:332][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.24-16.15.47:332][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.24-16.15.47:332][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.24-16.15.47:333][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.24-16.15.47:333][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.04.24-16.15.47:334][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.24-16.15.47:334][715]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.24-16.15.47:334][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.24-16.15.47:334][715]LogAudio: Display: Audio Device (ID: 3) registered with world 'NiagaraCourse_1'.
+[2024.04.24-16.15.47:334][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.24-16.15.47:337][715]LogLoad: Game class is 'GameModeBase'
+[2024.04.24-16.15.47:368][715]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.04.24-19.15.47
+[2024.04.24-16.15.47:374][715]LogWorld: Bringing up level for play took: 0.037256
+[2024.04.24-16.15.47:378][715]PIE: Server logged in
+[2024.04.24-16.15.47:379][715]PIE: Play in editor total start time 0,133 seconds.
+[2024.04.24-16.15.48:829][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-16.15.48:830][771]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.04.24-16.15.48:830][771]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-16.15.48:831][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-16.15.48:836][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.24-16.15.48:850][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-16.15.48:870][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.24-16.15.48:872][771]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.24-16.15.48:872][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.24-16.15.48:874][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.24-16.15.48:877][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-16.15.48:886][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.04.24-16.15.48:935][772]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.04.24-16.15.52:047][930]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.24-16.15.57:582][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.15.57:692][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.04.24-16.15.57:725][261]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.15.57:725][261]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F75C9A45481BE3508FA68C9C21A7FE00.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.15.57:731][261]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.076
+[2024.04.24-16.15.57:737][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1:31 min)
+[2024.04.24-16.15.57:739][261]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.15.57:739][261]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.16.16:217][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.16.16:267][645]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.16.16:268][645]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBaker85D7BA634B244F99B0C8439AC42D2D9B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.16.16:274][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1:31 min)
+[2024.04.24-16.16.16:275][645]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.16.16:276][645]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.16.16:763][701]BlueprintLog: New page: Compile BP_MaterialBaker
+[2024.04.24-16.16.16:821][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.24-16.16.47:448][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.16.47:506][132]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.16.47:506][132]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBaker85B09BEA4E99A745136BD69A65616707.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.16.47:512][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1:31 min)
+[2024.04.24-16.16.47:514][132]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.16.47:514][132]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.16.48:442][243]BlueprintLog: New page: Compile BP_MaterialBaker
+[2024.04.24-16.16.48:493][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.24-16.16.52:731][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.16.52:788][734]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker
+[2024.04.24-16.16.52:789][734]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_MaterialBaker972485C64EB74FCD96750FA61183EAB4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.uasset'
+[2024.04.24-16.16.52:794][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1:31 min)
+[2024.04.24-16.16.52:796][734]AssetCheck: New page: Asset Save: BP_MaterialBaker
+[2024.04.24-16.16.52:796][734]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/10-CustomMeshEmitter/BP_MaterialBaker.BP_MaterialBaker
+[2024.04.24-16.17.07:716][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.17.07:775][793]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_SimpleCircle
+[2024.04.24-16.17.07:776][793]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_SimpleCircleDF3636924BE6A4BC0FA2769ED5705DAA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_SimpleCircle.uasset'
+[2024.04.24-16.17.07:781][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1:31 min)
+[2024.04.24-16.17.07:781][793]AssetCheck: New page: Asset Save: MI_SimpleCircle
+[2024.04.24-16.17.07:781][793]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_SimpleCircle.MI_SimpleCircle
+[2024.04.24-16.17.08:241][824]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:43.125 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22149 files in 24045 folders with total size 3468 MiB.
+[2024.04.24-16.17.13:158][141]LogTexture: Display: Building textures: /Game/Niagara/10-CustomMeshEmitter/T_CustomTexture.T_CustomTexture (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.17.13:161][141]LogBlueprintUserMessages: [BP_MaterialBaker_C_1] Hello
+[2024.04.24-16.17.15:105][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.04.24-16.17.15:113][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.17.15:196][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.24-16.17.15:228][265]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.17.15:229][265]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_19FAB7432409C2BA49E26B89298F2112F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.17.15:235][265]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.072
+[2024.04.24-16.17.15:243][265]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/T_CustomTexture
+[2024.04.24-16.17.15:243][265]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_CustomTextureAF84721349392FC9E880FE920EC2D4BE.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/T_CustomTexture.uasset'
+[2024.04.24-16.17.15:249][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 1:32 min)
+[2024.04.24-16.17.15:250][265]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.24-16.17.15:250][265]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.17.15:250][265]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/10-CustomMeshEmitter/T_CustomTexture.T_CustomTexture
+[2024.04.24-16.17.29:384][135]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Niagara/10-CustomMeshEmitter/T_CustomTexture.T_CustomTexture
+[2024.04.24-16.17.29:499][135]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.04.24-16.17.52:773][587]LogTexture: Display: Building textures: /Game/Niagara/10-CustomMeshEmitter/T_CustomTexture.T_CustomTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Final
+[2024.04.24-16.17.53:502][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.17.53:542][670]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/T_CustomTexture
+[2024.04.24-16.17.53:543][670]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_CustomTexture86814DDA4D765CB399C0DA89621EFD4F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/T_CustomTexture.uasset'
+[2024.04.24-16.17.53:547][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1:32 min)
+[2024.04.24-16.17.53:549][670]AssetCheck: New page: Asset Save: T_CustomTexture
+[2024.04.24-16.17.53:549][670]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/10-CustomMeshEmitter/T_CustomTexture.T_CustomTexture
+[2024.04.24-16.18.56:849][ 41]LogViewport: Scene viewport resized to 878x344, mode Windowed.
+[2024.04.24-16.18.58:518][141]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\darks\OneDrive\Робочий стіл\CustomMesh.fbx)
+[2024.04.24-16.18.58:540][141]LogFbx: Loading FBX Scene from C:\Users\darks\OneDrive\Робочий стіл\CustomMesh.fbx
+[2024.04.24-16.18.58:546][141]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.24-16.19.03:192][141]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.24-16.19.03:278][141]LogFbx: Display: Triangulating static mesh Plane
+[2024.04.24-16.19.03:281][141]LogStaticMesh: Display: Building static mesh CustomMesh...
+[2024.04.24-16.19.03:283][141]LogStaticMesh: Built static mesh [0.00s] /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh
+[2024.04.24-16.19.03:314][141]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.24-16.19.04:711][229]LogSlate: Window 'Message Log' being destroyed
+[2024.04.24-16.19.04:714][229]LogSlate: Window 'Message Log' being destroyed
+[2024.04.24-16.19.05:746][299]LogViewport: Scene viewport resized to 1331x531, mode Windowed.
+[2024.04.24-16.19.06:919][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.19.07:014][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.24-16.19.07:049][371]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.19.07:050][371]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_19E5093354D3C4D11467DBE97B8721E86.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.19.07:056][371]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.076
+[2024.04.24-16.19.07:060][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 1:32 min)
+[2024.04.24-16.19.07:062][371]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.19.07:062][371]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.19.08:005][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh
+[2024.04.24-16.19.08:005][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh
+[2024.04.24-16.19.08:005][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh as actor: StaticMeshActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.StaticMeshActor_0
+[2024.04.24-16.19.08:128][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh
+[2024.04.24-16.19.08:128][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh
+[2024.04.24-16.19.08:129][428]LogActorFactory: Actor Factory spawned StaticMesh /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh as actor: StaticMeshActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.StaticMeshActor_2
+[2024.04.24-16.19.18:373][993]Cmd: DELETE
+[2024.04.24-16.19.18:373][993]Cmd: ACTOR DELETE
+[2024.04.24-16.19.18:384][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.24-16.19.18:409][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.04.24-16.19.18:413][993]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.04.24-16.19.21:899][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.24-16.19.21:905][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.19.21:981][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.24-16.19.22:012][180]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.19.22:013][180]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1707D18224E901C5FC3A3E3A7AB458E9F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.19.22:018][180]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.073
+[2024.04.24-16.19.22:057][180]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/CustomMesh
+[2024.04.24-16.19.22:057][180]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/CustomMeshA20ECE3B494BFDCD1887799EFB958625.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/CustomMesh.uasset'
+[2024.04.24-16.19.22:066][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1:32 min)
+[2024.04.24-16.19.22:068][180]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.24-16.19.22:068][180]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.19.22:068][180]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh
+[2024.04.24-16.19.54:737][467]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.04.24-16.19.54:745][467]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.04.24-16.19.54:753][467]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.04.24-16.19.54:765][468]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.04.24-16.20.00:924][868]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_CustomMesh
+[2024.04.24-16.20.00:949][868]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Total job queries 4 012, among them cache hits 1 677 (41.80%)
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Tracking 2 332 distinct input hashes that result in 1 363 distinct outputs (58.45%)
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: RAM used: 60,84 MiB of 1,60 GiB budget. Usage: 3.71%
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Shaders Compiled: 2 283
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Jobs assigned 2 283, completed 2 283 (100%)
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Average time worker was idle: 59.58 s
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Time job spent in pending queue: average 1.38 s, longest 7.65 s
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 6.50 s
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 8.85
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Shader code size: average 42,874 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 259.44 s
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Jobs were issued in 2 196 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Average processing rate: 8.80 jobs/sec
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Total thread time: 642,989 s
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Total thread preprocess time: 46,715 s
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Percentage time preprocessing: 7.27%
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Effective parallelization: 2.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-16.20.01:367][895]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.82 sec, max 1.10 sec, min 0.40 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.74 sec, max 1.11 sec, min 0.31 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.61 sec, max 1.05 sec, min 0.14 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.55 sec, max 0.88 sec, min 0.14 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:                                               FNiagaraShader - 24.56% of total time (compiled  882 times, average 0.18 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.87% of total time (compiled  119 times, average 0.37 sec, max 1.23 sec, min 0.26 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.30% of total time (compiled  118 times, average 0.34 sec, max 1.89 sec, min 0.23 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.49% of total time (compiled   75 times, average 0.30 sec, max 0.48 sec, min 0.16 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.40% of total time (compiled   70 times, average 0.31 sec, max 0.46 sec, min 0.21 sec)
+[2024.04.24-16.20.01:368][895]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.20.01:987][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.20.02:236][931]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 1.302451 sec (time since issued), 1.256173 sec (combined shader worker time).
+[2024.04.24-16.20.02:265][931]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.24-16.20.02:265][931]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.04.24-16.20.02:299][931]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.20.02:299][931]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMesh9F17DEE949AB60428C64739189B5752C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.20.02:305][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 318 ms (total: 1:32 min)
+[2024.04.24-16.20.02:305][931]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.20.02:305][931]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.05:021][102]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.05:021][102]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.05:022][102]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_13
+[2024.04.24-16.20.05:022][102]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_13
+[2024.04.24-16.20.05:449][134]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.05:449][134]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.05:451][134]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_14
+[2024.04.24-16.20.05:451][134]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_14
+[2024.04.24-16.20.08:234][320]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.08:337][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.20.08:337][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.20.08:386][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.20.08:386][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.20.08:486][320]LogViewport: Scene viewport resized to 378x419, mode Windowed.
+[2024.04.24-16.20.09:933][379]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 1.688322 sec (time since issued), 1.627830 sec (combined shader worker time).
+[2024.04.24-16.20.10:055][386]614037_NS_CustomMesh_MessageLog: System successfully compiled.
+[2024.04.24-16.20.25:096][884]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.368635 sec (time since issued), 0.617805 sec (combined shader worker time).
+[2024.04.24-16.20.25:104][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.20.25:167][884]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.20.25:168][884]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMeshEA8884BA4C6478E78B53C788ED0655B0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.20.25:174][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1:32 min)
+[2024.04.24-16.20.25:516][884]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.341457 sec (time since issued), 0.574466 sec (combined shader worker time).
+[2024.04.24-16.20.25:524][884]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.20.25:524][884]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.32:146][572]614037_NS_CustomMesh_MessageLog: System compile status unknown.
+[2024.04.24-16.20.32:644][613]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.576401 sec (time since issued), 0.551672 sec (combined shader worker time).
+[2024.04.24-16.20.34:372][749]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.341655 sec (time since issued), 0.569524 sec (combined shader worker time).
+[2024.04.24-16.20.34:379][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.20.34:451][749]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.20.34:451][749]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMesh73A060D844CA347101A25CBFA40580D8.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.20.34:457][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1:32 min)
+[2024.04.24-16.20.34:470][749]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.20.34:470][749]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.34:496][750]614037_NS_CustomMesh_MessageLog: System successfully compiled.
+[2024.04.24-16.20.38:336][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.20.38:414][140]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.20.38:414][140]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMeshB07B889545B16FDB9DFD79A9AD392AC6.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.20.38:420][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1:33 min)
+[2024.04.24-16.20.38:434][140]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.20.38:434][140]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.20.49:481][316]LogEditCondition: Error: EditCondition parsing failed: Field name "bOverrideMaterials" was not found in class "NiagaraMeshMaterialOverride".
+[2024.04.24-16.20.53:628][725]LogSlate: Took 0.004401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.24-16.21.10:588][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.21.10:654][441]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.21.10:654][441]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMesh0FA5A8DA46D848767F3F328B97D1C7FB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.21.10:661][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1:33 min)
+[2024.04.24-16.21.10:662][441]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.21.10:662][441]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.22.18:447][495]LogMaterial: Display: Material /Game/Niagara/Materials/MI_SimpleCircle.MI_SimpleCircle needed to have new flag set bUsedWithNiagaraMeshParticles !
+[2024.04.24-16.22.38:166][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.22.38:248][471]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.22.38:248][471]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMeshBE972952484C83763A67B68AAB4D2D75.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.22.38:256][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1:33 min)
+[2024.04.24-16.22.38:270][471]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.22.38:270][471]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.22.38:834][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.04.24-16.22.38:845][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.22.38:916][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.24-16.22.38:951][522]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.22.38:951][522]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_186E07DCF411D5941554ADBB3FED96FD0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.22.38:958][522]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.075
+[2024.04.24-16.22.38:961][522]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_SimpleCircle
+[2024.04.24-16.22.38:961][522]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_SimpleCircle39C901544AC689FAF8312CB01245BAD0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_SimpleCircle.uasset'
+[2024.04.24-16.22.38:963][522]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_SimpleCircle
+[2024.04.24-16.22.38:963][522]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_SimpleCircle676979E941C3E8C8B6F2499AE5E32D16.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_SimpleCircle.uasset'
+[2024.04.24-16.22.38:970][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 1:33 min)
+[2024.04.24-16.22.38:972][522]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.24-16.22.38:972][522]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.22.38:972][522]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.22.38:972][522]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_SimpleCircle.MI_SimpleCircle
+[2024.04.24-16.23.08:879][960]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Niagara/Materials/M_SimpleCircle.M_SimpleCircle
+[2024.04.24-16.23.08:883][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.23.08:883][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.23.09:019][960]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.23.09:019][960]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.23.09:019][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.23.09:019][960]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.23.09:024][960]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Total job queries 4 042, among them cache hits 1 683 (41.64%)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Tracking 2 356 distinct input hashes that result in 1 367 distinct outputs (58.02%)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: RAM used: 61,23 MiB of 1,60 GiB budget. Usage: 3.74%
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Shaders Compiled: 2 307
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Jobs assigned 2 307, completed 2 307 (100%)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Average time worker was idle: 63.24 s
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Time job spent in pending queue: average 1.37 s, longest 7.65 s
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 6.50 s
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Job life time (pending + execution): average 1.81 s, max 8.85
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Shader code size: average 42,664 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 263.15 s
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Jobs were issued in 2 216 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Average processing rate: 8.77 jobs/sec
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Total thread time: 648,537 s
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Total thread preprocess time: 47,083 s
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Percentage time preprocessing: 7.26%
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Effective parallelization: 2.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.82 sec, max 1.10 sec, min 0.40 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.74 sec, max 1.11 sec, min 0.31 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.61 sec, max 1.05 sec, min 0.14 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.55 sec, max 0.88 sec, min 0.14 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:                                               FNiagaraShader - 24.55% of total time (compiled  896 times, average 0.18 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.95% of total time (compiled  121 times, average 0.37 sec, max 1.23 sec, min 0.26 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.40% of total time (compiled  120 times, average 0.35 sec, max 1.89 sec, min 0.23 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.59% of total time (compiled   77 times, average 0.30 sec, max 0.48 sec, min 0.16 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.37% of total time (compiled   70 times, average 0.31 sec, max 0.46 sec, min 0.21 sec)
+[2024.04.24-16.23.09:069][961]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.23.09:097][962]MaterialEditorStats: Base pass shader without light map: 83 instructions
+[2024.04.24-16.23.09:097][962]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.24-16.23.09:097][962]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.23.09:097][962]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.24-16.23.09:097][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.23.09:097][962]MaterialEditorStats: Shader Count: 4
+[2024.04.24-16.23.32:486][534]LogContentBrowser: Deferred new asset file creation: M_Dandeline_Inst
+[2024.04.24-16.23.32:499][534]LogContentBrowser: Creating deferred item: M_Dandeline_Inst
+[2024.04.24-16.23.32:516][535]LogContentBrowser: Renaming the item being created (Deferred Item: M_Dandeline_Inst).
+[2024.04.24-16.23.44:111][821]LogContentBrowser: Attempting asset rename: M_Dandeline_Inst -> MI_RingForCustomMesh
+[2024.04.24-16.23.44:112][821]LogContentBrowser: End creating deferred item M_Dandeline_Inst
+[2024.04.24-16.23.46:263][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.23.46:320][ 36]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_RingForCustomMesh
+[2024.04.24-16.23.46:320][ 36]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_RingForCustomMesh0E051D404C938AB56FF7E39CB5951BF0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_RingForCustomMesh.uasset'
+[2024.04.24-16.23.46:328][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1:33 min)
+[2024.04.24-16.23.46:329][ 36]AssetCheck: New page: Asset Save: MI_RingForCustomMesh
+[2024.04.24-16.23.46:329][ 36]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_RingForCustomMesh.MI_RingForCustomMesh
+[2024.04.24-16.23.46:851][ 88]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/Materials/MI_RingForCustomMesh.MI_RingForCustomMesh
+[2024.04.24-16.23.46:852][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.23.46:853][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.23.47:076][ 88]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.04.24-16.23.53:821][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.23.53:937][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.04.24-16.23.53:963][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.24-16.23.53:966][827]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_RingForCustomMesh
+[2024.04.24-16.23.53:966][827]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_RingForCustomMesh620348AC4E5339E1DDC79EB144D89C1E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_RingForCustomMesh.uasset'
+[2024.04.24-16.23.53:973][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 1:33 min)
+[2024.04.24-16.23.53:974][827]AssetCheck: New page: Asset Save: MI_RingForCustomMesh
+[2024.04.24-16.23.53:974][827]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_RingForCustomMesh.MI_RingForCustomMesh
+[2024.04.24-16.23.56:488][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.23.56:593][119]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_RingForCustomMesh
+[2024.04.24-16.23.56:594][119]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_RingForCustomMesh5C65BEF444C700C7472D4D85412F61EC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_RingForCustomMesh.uasset'
+[2024.04.24-16.23.56:600][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1:33 min)
+[2024.04.24-16.23.56:601][119]AssetCheck: New page: Asset Save: MI_RingForCustomMesh
+[2024.04.24-16.23.56:601][119]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_RingForCustomMesh.MI_RingForCustomMesh
+[2024.04.24-16.24.14:240][849]LogMaterial: Display: Material /Game/Niagara/Materials/MI_RingForCustomMesh.MI_RingForCustomMesh needed to have new flag set bUsedWithNiagaraMeshParticles !
+[2024.04.24-16.24.14:240][849]LogMaterial: Display: Material /Engine/Transient.M_Dandeline needed to have new flag set bUsedWithNiagaraMeshParticles !
+[2024.04.24-16.24.14:283][849]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.24-16.24.14:283][849]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.24-16.24.14:283][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.24.14:283][849]MaterialEditorStats: Shader Count: 0
+[2024.04.24-16.24.15:368][912]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.04.24-16.24.15:368][912]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.24-16.24.15:368][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.24-16.24.15:368][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.24.15:368][912]MaterialEditorStats: Shader Count: 4
+[2024.04.24-16.24.15:468][919]MaterialEditorStats: Base pass shader without light map: 115 instructions
+[2024.04.24-16.24.15:468][919]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.04.24-16.24.15:468][919]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.24-16.24.15:468][919]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.24-16.24.15:468][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.24-16.24.15:468][919]MaterialEditorStats: Shader Count: 8
+[2024.04.24-16.24.24:264][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.24.24:399][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.24-16.24.24:426][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.24-16.24.24:429][806]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_RingForCustomMesh
+[2024.04.24-16.24.24:429][806]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_RingForCustomMeshFA58854340E5AAD564E7A6814C4D15D0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_RingForCustomMesh.uasset'
+[2024.04.24-16.24.24:436][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 1:33 min)
+[2024.04.24-16.24.24:436][806]AssetCheck: New page: Asset Save: MI_RingForCustomMesh
+[2024.04.24-16.24.24:436][806]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_RingForCustomMesh.MI_RingForCustomMesh
+[2024.04.24-16.24.27:840][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.24.27:976][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.24-16.24.28:000][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.24-16.24.28:003][203]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_RingForCustomMesh
+[2024.04.24-16.24.28:004][203]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_RingForCustomMeshB7711B904F44049AD78C299B692C8188.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_RingForCustomMesh.uasset'
+[2024.04.24-16.24.28:009][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 1:33 min)
+[2024.04.24-16.24.28:010][203]AssetCheck: New page: Asset Save: MI_RingForCustomMesh
+[2024.04.24-16.24.28:010][203]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_RingForCustomMesh.MI_RingForCustomMesh
+[2024.04.24-16.24.33:061][790]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-16.24.33:061][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-16.24.36:632][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.24.36:665][132]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_Dandeline
+[2024.04.24-16.24.36:666][132]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_DandelineAA5F8FD24DD1519E748C8E8B32BB7056.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_Dandeline.uasset'
+[2024.04.24-16.24.36:672][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1:34 min)
+[2024.04.24-16.24.36:673][132]AssetCheck: New page: Asset Save: M_Dandeline
+[2024.04.24-16.24.36:673][132]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_Dandeline.M_Dandeline
+[2024.04.24-16.25.12:261][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.25.12:330][406]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.25.12:330][406]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMeshACA5032F4546B1131C8A4D9F2475F5FF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.25.12:336][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1:34 min)
+[2024.04.24-16.25.12:348][406]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.25.12:348][406]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.25.24:783][822]614037_NS_CustomMesh_MessageLog: System compile status unknown.
+[2024.04.24-16.25.25:356][873]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.653623 sec (time since issued), 0.629112 sec (combined shader worker time).
+[2024.04.24-16.25.26:800][ 33]614037_NS_CustomMesh_MessageLog: System successfully compiled.
+[2024.04.24-16.25.38:686][442]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.ScaleMeshSize.Scale Factor' from Script NiagaraScript /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh:SimpleSpriteBurst.SpawnScript
+[2024.04.24-16.25.38:687][442]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.ScaleMeshSize.Scale Factor' from Script NiagaraScript /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh:SimpleSpriteBurst.UpdateScript
+[2024.04.24-16.25.38:759][442]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:400 H:0
+[2024.04.24-16.25.38:872][444]614037_NS_CustomMesh_MessageLog: System compile status unknown.
+[2024.04.24-16.25.39:303][477]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.524214 sec (time since issued), 0.461460 sec (combined shader worker time).
+[2024.04.24-16.25.40:877][640]614037_NS_CustomMesh_MessageLog: System successfully compiled.
+[2024.04.24-16.25.44:604][ 21]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.379485 sec (time since issued), 0.437893 sec (combined shader worker time).
+[2024.04.24-16.25.44:612][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.25.44:691][ 21]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.25.44:691][ 21]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMesh6A1BCAFC437E629038D228B34402DD9E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.25.44:697][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1:34 min)
+[2024.04.24-16.25.44:711][ 21]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.25.44:711][ 21]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.25.59:574][608]614037_NS_CustomMesh_MessageLog: System compile status unknown.
+[2024.04.24-16.26.00:390][667]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.897026 sec (time since issued), 0.795573 sec (combined shader worker time).
+[2024.04.24-16.26.01:216][706]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.403585 sec (time since issued), 0.838012 sec (combined shader worker time).
+[2024.04.24-16.26.01:224][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.26.01:297][706]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.26.01:297][706]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMesh617A902247BD77F9EC51479FB9DDE9CF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.26.01:304][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1:34 min)
+[2024.04.24-16.26.01:318][706]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.26.01:318][706]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.26.01:584][730]614037_NS_CustomMesh_MessageLog: System successfully compiled.
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Total job queries 4 109, among them cache hits 1 690 (41.13%)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Tracking 2 405 distinct input hashes that result in 1 386 distinct outputs (57.63%)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: RAM used: 62,30 MiB of 1,60 GiB budget. Usage: 3.80%
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Shaders Compiled: 2 356
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Jobs assigned 2 356, completed 2 356 (100%)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Average time worker was idle: 65.56 s
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Time job spent in pending queue: average 1.35 s, longest 7.65 s
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 6.50 s
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 8.85
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Shader code size: average 42,557 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 268.89 s
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Jobs were issued in 2 257 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Average processing rate: 8.76 jobs/sec
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Total thread time: 665,391 s
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Total thread preprocess time: 48,304 s
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Percentage time preprocessing: 7.26%
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.82 sec, max 1.10 sec, min 0.40 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.74 sec, max 1.11 sec, min 0.31 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.61 sec, max 1.05 sec, min 0.14 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.55 sec, max 0.88 sec, min 0.14 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:                                               FNiagaraShader - 24.08% of total time (compiled  908 times, average 0.18 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.33% of total time (compiled  128 times, average 0.38 sec, max 1.23 sec, min 0.26 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.68% of total time (compiled  127 times, average 0.35 sec, max 1.89 sec, min 0.23 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.72% of total time (compiled   80 times, average 0.31 sec, max 0.63 sec, min 0.16 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.51% of total time (compiled   73 times, average 0.32 sec, max 0.61 sec, min 0.21 sec)
+[2024.04.24-16.26.10:457][698]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.26.10:671][698]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.306195 sec (time since issued), 0.300560 sec (combined shader worker time).
+[2024.04.24-16.26.10:680][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.26.10:755][698]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.26.10:755][698]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMesh602063C147F3D05E630C429F790DD1AA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.26.10:760][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:34 min)
+[2024.04.24-16.26.10:774][698]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.26.10:774][698]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.26.15:110][176]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.077817 sec (time since issued), 0.062203 sec (combined shader worker time).
+[2024.04.24-16.26.15:116][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.26.15:182][176]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.26.15:182][176]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMesh68CCFAE649F5538AC3C581A6268FB1DC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.26.15:188][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1:34 min)
+[2024.04.24-16.26.15:202][176]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.26.15:202][176]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.26.29:976][964]Cmd: TRANSACTION UNDO
+[2024.04.24-16.26.29:976][964]LogEditorTransaction: Undo Rotate Elements
+[2024.04.24-16.26.30:506][970]614037_NS_CustomMesh_MessageLog: System successfully compiled.
+[2024.04.24-16.26.30:605][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.26.30:695][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.24-16.26.30:735][977]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.26.30:736][977]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1B161EF3A46AB3EB4B64503A18008682C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.26.30:742][977]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.100
+[2024.04.24-16.26.30:753][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 1:34 min)
+[2024.04.24-16.26.30:755][977]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.26.30:755][977]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.27.21:228][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.27.21:302][988]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.27.21:302][988]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMeshEA0157174575B886DCE612B6AEB83715.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.27.21:307][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1:34 min)
+[2024.04.24-16.27.21:321][988]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.27.21:321][988]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.27.46:994][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.27.47:141][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.24-16.27.47:169][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.24-16.27.47:172][727]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_RingForCustomMesh
+[2024.04.24-16.27.47:173][727]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_RingForCustomMesh53C9E1A04B5D1A5D60B1178D58DC27DF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_RingForCustomMesh.uasset'
+[2024.04.24-16.27.47:180][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 1:34 min)
+[2024.04.24-16.27.47:181][727]AssetCheck: New page: Asset Save: MI_RingForCustomMesh
+[2024.04.24-16.27.47:181][727]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_RingForCustomMesh.MI_RingForCustomMesh
+[2024.04.24-16.27.59:395][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.27.59:508][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.24-16.27.59:543][439]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.27.59:543][439]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_186C119A14013267DE64B21A89A0C966D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.27.59:549][439]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.074
+[2024.04.24-16.27.59:555][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1:34 min)
+[2024.04.24-16.27.59:557][439]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.27.59:557][439]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.28.09:255][987]Cmd: TRANSACTION UNDO
+[2024.04.24-16.28.09:255][987]LogEditorTransaction: Undo Scale Elements
+[2024.04.24-16.28.09:756][993]614037_NS_CustomMesh_MessageLog: System successfully compiled.
+[2024.04.24-16.28.09:936][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.28.10:023][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.04.24-16.28.10:060][  4]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.28.10:061][  4]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1C9A8F23D4E58EB63373FF4ADB0F68968.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.28.10:067][  4]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.081
+[2024.04.24-16.28.10:078][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 1:35 min)
+[2024.04.24-16.28.10:081][  4]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.28.10:081][  4]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.28.20:348][557]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Niagara/10-CustomMeshEmitter/CustomMesh.CustomMesh
+[2024.04.24-16.28.20:363][557]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.28.20:363][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.28.21:111][557]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.24-16.29.17:392][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.29.17:485][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.24-16.29.17:521][603]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.29.17:521][603]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_10A6C477F4296005B1896A182BDA555B6.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.29.17:528][603]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.078
+[2024.04.24-16.29.17:535][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 1:35 min)
+[2024.04.24-16.29.17:537][603]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.29.17:537][603]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.29.26:414][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.29.26:502][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.24-16.29.26:536][221]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.29.26:537][221]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_122C8D5EC4D59246A5FBAE4AF25B8D2D3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.29.26:543][221]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.076
+[2024.04.24-16.29.26:549][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1:35 min)
+[2024.04.24-16.29.26:551][221]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.29.26:551][221]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.29.28:175][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.29.28:274][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.24-16.29.28:309][312]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.29.28:310][312]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1D8C491814E14DB375B77DBB75A5B1574.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.29.28:316][312]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.075
+[2024.04.24-16.29.28:323][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 1:35 min)
+[2024.04.24-16.29.28:324][312]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.29.28:325][312]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.29.31:300][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.29.31:410][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.24-16.29.31:446][470]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.29.31:447][470]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1BF72496F4C05A83850A7D58D8DA1AD86.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.29.31:452][470]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.077
+[2024.04.24-16.29.31:460][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 1:35 min)
+[2024.04.24-16.29.31:462][470]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.29.31:462][470]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.29.51:558][259]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Total job queries 4 121, among them cache hits 1 697 (41.18%)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Tracking 2 411 distinct input hashes that result in 1 389 distinct outputs (57.61%)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: RAM used: 62,43 MiB of 1,60 GiB budget. Usage: 3.81%
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Shaders Compiled: 2 362
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Jobs assigned 2 362, completed 2 362 (100%)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Average time worker was idle: 65.55 s
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Time job spent in pending queue: average 1.34 s, longest 7.65 s
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 6.50 s
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Job life time (pending + execution): average 1.78 s, max 8.85
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Shader code size: average 42,545 KiB, min 1,664 KiB, max 83,977 KiB
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 269.98 s
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Jobs were issued in 2 263 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Average processing rate: 8.75 jobs/sec
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Total thread time: 666,973 s
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Total thread preprocess time: 48,4 s
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Percentage time preprocessing: 7.26%
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.43 sec, min 0.50 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.82 sec, max 1.10 sec, min 0.40 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.74 sec, max 1.11 sec, min 0.31 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.61 sec, max 1.05 sec, min 0.14 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.55 sec, max 0.88 sec, min 0.14 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:                                               FNiagaraShader - 24.05% of total time (compiled  910 times, average 0.18 sec, max 0.83 sec, min 0.04 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.40% of total time (compiled  129 times, average 0.38 sec, max 1.23 sec, min 0.26 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.71% of total time (compiled  128 times, average 0.35 sec, max 1.89 sec, min 0.23 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.71% of total time (compiled   80 times, average 0.31 sec, max 0.63 sec, min 0.16 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.50% of total time (compiled   73 times, average 0.32 sec, max 0.61 sec, min 0.21 sec)
+[2024.04.24-16.29.52:826][359]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.29.52:840][359]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.316528 sec (time since issued), 0.685881 sec (combined shader worker time).
+[2024.04.24-16.29.52:850][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.29.52:905][359]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.29.52:906][359]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMeshBA71B3AF47357BA8BEC0D49D033E247A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.29.52:914][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1:35 min)
+[2024.04.24-16.29.52:928][359]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.29.52:928][359]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.30.07:352][241]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-16.30.07:352][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-16.30.08:568][368]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-16.30.08:568][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-16.30.15:735][ 80]614037_NS_CustomMesh_MessageLog: System compile status unknown.
+[2024.04.24-16.30.18:931][430]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 3.306900 sec (time since issued), 3.218106 sec (combined shader worker time).
+[2024.04.24-16.30.19:107][433]614037_NS_CustomMesh_MessageLog: System compile status unknown.
+[2024.04.24-16.30.20:113][520]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 1.074563 sec (time since issued), 0.983106 sec (combined shader worker time).
+[2024.04.24-16.30.21:107][632]614037_NS_CustomMesh_MessageLog: System successfully compiled.
+[2024.04.24-16.30.28:720][444]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh took 0.532301 sec (time since issued), 1.236737 sec (combined shader worker time).
+[2024.04.24-16.30.28:729][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.30.28:801][444]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.30.28:801][444]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMeshD84E23A447A88C9E8A8A20B308775857.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.30.28:808][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1:35 min)
+[2024.04.24-16.30.28:866][444]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.30.28:866][444]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
+[2024.04.24-16.30.52:466][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.30.52:589][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.24-16.30.52:628][589]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.24-16.30.52:629][589]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1007880E5431C97DF6B3EFABF44FD139E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.24-16.30.52:635][589]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.095
+[2024.04.24-16.30.52:641][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 1:36 min)
+[2024.04.24-16.30.52:642][589]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.24-16.30.52:642][589]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.24-16.31.34:176][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.31.34:265][540]LogSavePackage: Moving output files for package: /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh
+[2024.04.24-16.31.34:265][540]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_CustomMesh4BFCB9DC4EDBE116ADCABB81D4FB3089.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/10-CustomMeshEmitter/NS_CustomMesh.uasset'
+[2024.04.24-16.31.34:273][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1:36 min)
+[2024.04.24-16.31.34:275][540]AssetCheck: New page: Asset Save: NS_CustomMesh
+[2024.04.24-16.31.34:275][540]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/10-CustomMeshEmitter/NS_CustomMesh.NS_CustomMesh
