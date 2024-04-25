@@ -4937,3 +4937,425 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.04.25-19.13.15:850][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 17.8 sec)
 [2024.04.25-19.13.15:852][993]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.04.25-19.13.15:852][993]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.25-19.18.08:878][163]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.25-19.18.08:906][163]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.25-19.18.08:916][164]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.25-19.18.21:217][238]LogContentBrowser: Attempting asset rename: NewFolder -> 14-CloudNoise
+[2024.04.25-19.18.21:218][238]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: ================================================
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Total job queries 1 577, among them cache hits 1 233 (78.19%)
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Tracking 344 distinct input hashes that result in 172 distinct outputs (50.00%)
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: RAM used: 9,11 MiB of 1,60 GiB budget. Usage: 0.56%
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Shaders Compiled: 280
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Jobs assigned 280, completed 280 (100%)
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Average time worker was idle: 58.33 s
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Job execution time: average 0.45 s, max 0.74 s
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 0.83
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Shader code size: average 51,137 KiB, min 7,04 KiB, max 77,555 KiB
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 68.45 s
+[2024.04.25-19.18.28:367][816]LogShaderCompilers: Display: Jobs were issued in 280 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display: Average processing rate: 4.09 jobs/sec
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display: Total thread time: 95,495 s
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display: Total thread preprocess time: 7,201 s
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display: Percentage time preprocessing: 7.54%
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display: Effective parallelization: 1.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   78 times, average 0.42 sec, max 0.59 sec, min 0.23 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   78 times, average 0.39 sec, max 0.52 sec, min 0.28 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   15 times, average 0.34 sec, max 0.39 sec, min 0.30 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   24 times, average 0.34 sec, max 0.66 sec, min 0.18 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 0.29 sec, max 0.38 sec, min 0.21 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 34.14% of total time (compiled   78 times, average 0.42 sec, max 0.59 sec, min 0.23 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.85% of total time (compiled   78 times, average 0.39 sec, max 0.52 sec, min 0.28 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.50% of total time (compiled   24 times, average 0.34 sec, max 0.66 sec, min 0.18 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.40% of total time (compiled   24 times, average 0.29 sec, max 0.38 sec, min 0.21 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.00% of total time (compiled   24 times, average 0.24 sec, max 0.42 sec, min 0.20 sec)
+[2024.04.25-19.18.28:368][816]LogShaderCompilers: Display: ================================================
+[2024.04.25-19.18.41:002][844]LogContentBrowser: Attempting asset rename: RT_VoronoiTexture -> RT_CloudTexture
+[2024.04.25-19.18.41:032][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.18.41:063][844]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/RT_CloudTexture
+[2024.04.25-19.18.41:063][844]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/RT_CloudTextureC73E7F0F447E6B6E58D64F959B134F21.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/RT_CloudTexture.uasset'
+[2024.04.25-19.18.41:068][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 17.8 sec)
+[2024.04.25-19.18.41:077][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.25-19.18.41:085][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.25-19.18.41:089][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.25-19.18.41:091][844]AssetCheck: New page: Asset Save: RT_CloudTexture
+[2024.04.25-19.18.41:091][844]LogContentValidation: Display: Validating /Script/Engine.TextureRenderTarget2D /Game/Niagara/14-CloudNoise/RT_CloudTexture.RT_CloudTexture
+[2024.04.25-19.18.51:498][687]LogContentBrowser: Attempting asset rename: M_VoronoiNoise -> M_CloudNoise
+[2024.04.25-19.18.51:528][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.18.51:599][687]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/M_CloudNoise
+[2024.04.25-19.18.51:599][687]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_CloudNoise27B4C9794DB010AB9F494597DF8D0417.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/M_CloudNoise.uasset'
+[2024.04.25-19.18.51:604][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 17.9 sec)
+[2024.04.25-19.18.51:612][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.25-19.18.51:618][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.25-19.18.51:622][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.25-19.18.51:624][687]AssetCheck: New page: Asset Save: M_CloudNoise
+[2024.04.25-19.18.51:624][687]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/14-CloudNoise/M_CloudNoise.M_CloudNoise
+[2024.04.25-19.18.53:649][853]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Niagara/14-CloudNoise/M_CloudNoise.M_CloudNoise
+[2024.04.25-19.18.53:654][853]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-19.18.53:654][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-19.18.53:781][853]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.18.53:781][853]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.18.53:781][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.18.53:781][853]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.18.53:785][853]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.04.25-19.18.53:862][855]MaterialEditorStats: Base pass shader without light map: 482 instructions
+[2024.04.25-19.18.53:862][855]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.18.53:862][855]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.18.53:862][855]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.18.53:862][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.18.53:862][855]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.18.56:223][130]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.18.56:223][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.18.56:223][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.18.56:223][130]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.18.56:275][132]MaterialEditorStats: Base pass shader without light map: 481 instructions
+[2024.04.25-19.18.56:275][132]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.18.56:275][132]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.18.56:275][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.18.56:275][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.18.56:275][132]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.18.56:792][191]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.18.56:792][191]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.25-19.18.56:792][191]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.18.57:429][256]MaterialEditorStats: Base pass shader without light map: 115 instructions
+[2024.04.25-19.18.57:429][256]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.25-19.18.57:429][256]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.25-19.18.57:429][256]MaterialEditorStats: Shader Count: 1
+[2024.04.25-19.18.57:538][269]MaterialEditorStats: Base pass shader without light map: 115 instructions
+[2024.04.25-19.18.57:538][269]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.04.25-19.18.57:538][269]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.18.57:538][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.25-19.18.57:538][269]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.18.58:072][322]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.18.58:072][322]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.18.58:072][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.18.58:072][322]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.18.58:098][324]MaterialEditorStats: Base pass shader without light map: 481 instructions
+[2024.04.25-19.18.58:098][324]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.18.58:098][324]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.18.58:098][324]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.18.58:098][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.18.58:098][324]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.02:398][833]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.02:398][833]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.02:398][833]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.02:398][833]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.02:436][835]MaterialEditorStats: Base pass shader without light map: 481 instructions
+[2024.04.25-19.19.02:436][835]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.02:436][835]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.02:436][835]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.02:436][835]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.02:436][835]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.06:644][330]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.06:644][330]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.06:644][330]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.06:644][330]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.06:673][332]MaterialEditorStats: Base pass shader without light map: 481 instructions
+[2024.04.25-19.19.06:673][332]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.06:673][332]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.06:673][332]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.06:673][332]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.06:673][332]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.09:603][658]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.09:603][658]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.09:603][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.09:603][658]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.10:164][724]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.10:164][724]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.10:164][724]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.10:164][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.10:164][724]MaterialEditorStats: Shader Count: 1
+[2024.04.25-19.19.10:265][735]MaterialEditorStats: Base pass shader without light map: 481 instructions
+[2024.04.25-19.19.10:265][735]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.10:265][735]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.10:265][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.10:265][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.10:265][735]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.12:677][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.12:677][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.12:677][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.12:677][ 18]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.12:694][ 20]MaterialEditorStats: Base pass shader without light map: 481 instructions
+[2024.04.25-19.19.12:694][ 20]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.12:694][ 20]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.12:694][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.12:694][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.12:694][ 20]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.13:803][152]LogMaterialEditor: Saving and Compiling material M_CloudNoise
+[2024.04.25-19.19.13:862][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.25-19.19.14:766][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.25-19.19.14:775][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.19.15:279][152]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/M_CloudNoise
+[2024.04.25-19.19.15:280][152]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_CloudNoiseFAE980AF4F1357DB08D2BB99B882D27F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/M_CloudNoise.uasset'
+[2024.04.25-19.19.15:284][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 509 ms (total: 18.4 sec)
+[2024.04.25-19.19.15:285][152]AssetCheck: New page: Asset Save: M_CloudNoise
+[2024.04.25-19.19.15:285][152]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/14-CloudNoise/M_CloudNoise.M_CloudNoise
+[2024.04.25-19.19.22:294][981]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.22:294][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.22:294][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.22:294][981]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.22:904][ 53]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.22:904][ 53]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.22:904][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.22:904][ 53]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.22:904][ 53]MaterialEditorStats: Shader Count: 1
+[2024.04.25-19.19.23:005][ 65]MaterialEditorStats: Base pass shader without light map: 490 instructions
+[2024.04.25-19.19.23:006][ 65]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.23:006][ 65]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.23:006][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.23:006][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.23:006][ 65]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.23:858][159]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.23:858][159]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.23:858][159]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.23:858][159]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.24:399][221]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.24:399][221]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.24:399][221]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.24:399][221]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.24:399][221]MaterialEditorStats: Shader Count: 1
+[2024.04.25-19.19.24:500][233]MaterialEditorStats: Base pass shader without light map: 490 instructions
+[2024.04.25-19.19.24:500][233]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.24:500][233]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.24:500][233]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.24:500][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.24:500][233]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.24:898][273]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.24:898][273]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.24:898][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.24:898][273]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.25:454][336]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.25:455][336]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.25:455][336]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.25:455][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.25:455][336]MaterialEditorStats: Shader Count: 1
+[2024.04.25-19.19.25:557][348]MaterialEditorStats: Base pass shader without light map: 490 instructions
+[2024.04.25-19.19.25:557][348]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.25:557][348]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.25:557][348]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.25:557][348]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.25:557][348]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.34:428][403]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.34:428][403]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.34:428][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.34:428][403]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.34:957][464]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.34:957][464]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.34:958][464]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.34:958][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.34:958][464]MaterialEditorStats: Shader Count: 1
+[2024.04.25-19.19.35:058][476]MaterialEditorStats: Base pass shader without light map: 490 instructions
+[2024.04.25-19.19.35:058][476]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.35:058][476]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.35:058][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.35:058][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.35:058][476]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.19.39:843][ 39]LogMaterialEditor: Saving and Compiling material M_CloudNoise
+[2024.04.25-19.19.39:900][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.25-19.19.40:804][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.25-19.19.40:814][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.19.41:400][ 39]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/M_CloudNoise
+[2024.04.25-19.19.41:400][ 39]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_CloudNoise360E2A734D1DBDD844200B85FB47906B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/M_CloudNoise.uasset'
+[2024.04.25-19.19.41:406][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 592 ms (total: 19.0 sec)
+[2024.04.25-19.19.41:407][ 39]AssetCheck: New page: Asset Save: M_CloudNoise
+[2024.04.25-19.19.41:407][ 39]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/14-CloudNoise/M_CloudNoise.M_CloudNoise
+[2024.04.25-19.19.51:358][225]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CloudNoise: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node OneMinus) Missing 1-x input
+
+[2024.04.25-19.19.51:361][225]MaterialEditorStats: Error: [SM6] (Node OneMinus) Missing 1-x input
+[2024.04.25-19.19.52:485][355]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CloudNoise: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function CheapContrast: Missing function input 'In'
+
+[2024.04.25-19.19.52:488][355]MaterialEditorStats: Error: [SM6] Function CheapContrast: Missing function input 'In'
+[2024.04.25-19.19.55:868][752]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CloudNoise: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function CheapContrast: Missing function input 'In'
+
+[2024.04.25-19.19.56:748][851]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CloudNoise: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function CheapContrast: Missing function input 'In'
+
+[2024.04.25-19.19.59:277][145]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.19.59:277][145]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.59:277][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.59:277][145]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.19.59:806][206]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.59:806][206]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.59:806][206]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.59:806][206]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.59:806][206]MaterialEditorStats: Shader Count: 1
+[2024.04.25-19.19.59:906][218]MaterialEditorStats: Base pass shader without light map: 489 instructions
+[2024.04.25-19.19.59:906][218]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.19.59:906][218]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.19.59:906][218]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.19.59:906][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.19.59:906][218]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.20.00:884][328]LogMaterialEditor: Saving and Compiling material M_CloudNoise
+[2024.04.25-19.20.00:942][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.25-19.20.01:842][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.04.25-19.20.01:850][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.20.02:468][328]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/M_CloudNoise
+[2024.04.25-19.20.02:469][328]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_CloudNoiseBFF99A6D41C4D98817F82CA2D84E1DB5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/M_CloudNoise.uasset'
+[2024.04.25-19.20.02:474][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 623 ms (total: 19.6 sec)
+[2024.04.25-19.20.02:474][328]AssetCheck: New page: Asset Save: M_CloudNoise
+[2024.04.25-19.20.02:474][328]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/14-CloudNoise/M_CloudNoise.M_CloudNoise
+[2024.04.25-19.20.08:816][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.20.08:816][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.20.08:816][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.20.08:816][ 80]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.20.08:834][ 82]MaterialEditorStats: Base pass shader without light map: 489 instructions
+[2024.04.25-19.20.08:834][ 82]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.20.08:834][ 82]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.20.08:834][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.20.08:834][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.20.08:834][ 82]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.20.11:347][382]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.20.11:347][382]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.20.11:347][382]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.20.11:347][382]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.20.11:365][384]MaterialEditorStats: Base pass shader without light map: 489 instructions
+[2024.04.25-19.20.11:365][384]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.20.11:365][384]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.20.11:365][384]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.20.11:365][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.20.11:365][384]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.20.15:037][823]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.25-19.20.15:037][823]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.20.15:037][823]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.20.15:037][823]MaterialEditorStats: Shader Count: 0
+[2024.04.25-19.20.15:054][825]MaterialEditorStats: Base pass shader without light map: 489 instructions
+[2024.04.25-19.20.15:054][825]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.25-19.20.15:054][825]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.25-19.20.15:054][825]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.04.25-19.20.15:054][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.25-19.20.15:054][825]MaterialEditorStats: Shader Count: 2
+[2024.04.25-19.20.17:179][ 79]LogMaterialEditor: Saving and Compiling material M_CloudNoise
+[2024.04.25-19.20.17:236][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.25-19.20.17:434][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.25-19.20.17:443][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.20.17:504][ 79]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/M_CloudNoise
+[2024.04.25-19.20.17:504][ 79]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_CloudNoise30A05AE3452522F06D1924BECAC2FF5B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/M_CloudNoise.uasset'
+[2024.04.25-19.20.17:509][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 19.7 sec)
+[2024.04.25-19.20.17:511][ 79]AssetCheck: New page: Asset Save: M_CloudNoise
+[2024.04.25-19.20.17:511][ 79]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/14-CloudNoise/M_CloudNoise.M_CloudNoise
+[2024.04.25-19.20.23:666][816]LogMaterialEditor: Saving and Compiling material M_CloudNoise
+[2024.04.25-19.20.23:669][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.20.23:700][816]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/M_CloudNoise
+[2024.04.25-19.20.23:700][816]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_CloudNoiseE3A86DD746B745C0D016DB8B177CA386.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/M_CloudNoise.uasset'
+[2024.04.25-19.20.23:705][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 19.7 sec)
+[2024.04.25-19.20.23:706][816]AssetCheck: New page: Asset Save: M_CloudNoise
+[2024.04.25-19.20.23:706][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/14-CloudNoise/M_CloudNoise.M_CloudNoise
+[2024.04.25-19.20.33:146][652]LogContentBrowser: Deferred new asset file creation: M_CloudNoise_Inst
+[2024.04.25-19.20.33:161][652]LogContentBrowser: Creating deferred item: M_CloudNoise_Inst
+[2024.04.25-19.20.33:173][653]LogContentBrowser: Renaming the item being created (Deferred Item: M_CloudNoise_Inst).
+[2024.04.25-19.20.42:157][428]LogContentBrowser: Attempting asset rename: M_CloudNoise_Inst -> MI_CloudNoise
+[2024.04.25-19.20.42:158][428]LogContentBrowser: End creating deferred item M_CloudNoise_Inst
+[2024.04.25-19.20.43:334][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.20.43:408][529]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/MI_CloudNoise
+[2024.04.25-19.20.43:408][529]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_CloudNoiseCE07409848815012966B2981FB154897.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/MI_CloudNoise.uasset'
+[2024.04.25-19.20.43:412][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 19.8 sec)
+[2024.04.25-19.20.43:414][529]AssetCheck: New page: Asset Save: MI_CloudNoise
+[2024.04.25-19.20.43:414][529]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/14-CloudNoise/MI_CloudNoise.MI_CloudNoise
+[2024.04.25-19.20.57:564][732]LogTexture: Display: Building textures: /Game/Niagara/14-CloudNoise/T_CustomTexture.T_CustomTexture (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.20.57:564][732]LogBlueprintUserMessages: [BP_MaterialBaker_C_1] Hello
+[2024.04.25-19.21.01:366][ 62]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/14-CloudNoise/MI_CloudNoise.MI_CloudNoise
+[2024.04.25-19.21.01:368][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-19.21.01:368][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-19.21.01:532][ 62]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.04.25-19.21.07:179][713]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.25-19.21.11:665][215]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.25-19.21.14:974][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.25-19.21.14:979][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.21.15:043][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.25-19.21.15:081][527]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.25-19.21.15:082][527]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1932AAC9A415676BCD7C146B33182014F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.25-19.21.15:088][527]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.064
+[2024.04.25-19.21.15:115][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.25-19.21.15:120][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.25-19.21.15:123][527]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/MI_CloudNoise
+[2024.04.25-19.21.15:123][527]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_CloudNoiseAA74FAF0446AF6A3140B269E93ED5837.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/MI_CloudNoise.uasset'
+[2024.04.25-19.21.15:132][527]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/T_CustomTexture
+[2024.04.25-19.21.15:132][527]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_CustomTexture26D54AE04B13B2F78A431AA9191B8410.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/T_CustomTexture.uasset'
+[2024.04.25-19.21.15:137][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 19.9 sec)
+[2024.04.25-19.21.15:139][527]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.25-19.21.15:139][527]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.25-19.21.15:139][527]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/14-CloudNoise/MI_CloudNoise.MI_CloudNoise
+[2024.04.25-19.21.15:139][527]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/14-CloudNoise/T_CustomTexture.T_CustomTexture
+[2024.04.25-19.21.16:692][664]LogTexture: Display: Building textures: /Game/Niagara/14-CloudNoise/T_CustomTexture1.T_CustomTexture1 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.21.16:692][664]LogBlueprintUserMessages: [BP_MaterialBaker_C_1] Hello
+[2024.04.25-19.21.17:876][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.21.17:950][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.25-19.21.17:990][770]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.25-19.21.17:990][770]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1799C050B4AEF1FB23F5C6EA9C486BA57.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.25-19.21.17:998][770]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.066
+[2024.04.25-19.21.18:005][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 20.1 sec)
+[2024.04.25-19.21.18:006][770]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.25-19.21.18:006][770]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.04.25-19.21.19:404][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.21.19:461][898]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/T_CustomTexture1
+[2024.04.25-19.21.19:461][898]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_CustomTexture13B12A718480109D234ECC48FBED78176.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/T_CustomTexture1.uasset'
+[2024.04.25-19.21.19:466][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 20.1 sec)
+[2024.04.25-19.21.19:467][898]AssetCheck: New page: Asset Save: T_CustomTexture1
+[2024.04.25-19.21.19:467][898]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/14-CloudNoise/T_CustomTexture1.T_CustomTexture1
+[2024.04.25-19.21.29:034][823]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.25-19.21.31:150][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.25-19.21.31:155][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.21.31:242][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.25-19.21.31:248][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.25-19.21.31:250][ 73]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/MI_CloudNoise
+[2024.04.25-19.21.31:251][ 73]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_CloudNoiseB0E5FCDE480EB2E7621850BF07F6E515.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/MI_CloudNoise.uasset'
+[2024.04.25-19.21.31:256][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 20.2 sec)
+[2024.04.25-19.21.31:257][ 73]AssetCheck: New page: Asset Save: MI_CloudNoise
+[2024.04.25-19.21.31:257][ 73]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/14-CloudNoise/MI_CloudNoise.MI_CloudNoise
+[2024.04.25-19.21.36:332][584]LogTexture: Display: Building textures: /Game/Niagara/14-CloudNoise/T_CustomTexture2.T_CustomTexture2 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.21.36:332][584]LogBlueprintUserMessages: [BP_MaterialBaker_C_1] Hello
+[2024.04.25-19.21.38:680][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.21.38:720][795]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/T_CustomTexture2
+[2024.04.25-19.21.38:720][795]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_CustomTexture2400C301F459564C676D7C1B0EE549DC3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/T_CustomTexture2.uasset'
+[2024.04.25-19.21.38:726][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 20.3 sec)
+[2024.04.25-19.21.38:726][795]AssetCheck: New page: Asset Save: T_CustomTexture2
+[2024.04.25-19.21.38:726][795]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/14-CloudNoise/T_CustomTexture2.T_CustomTexture2
+[2024.04.25-19.21.51:091][908]LogContentBrowser: Attempting asset rename: T_CustomTexture -> T_Cloud1
+[2024.04.25-19.21.51:121][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.21.51:176][908]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/T_Cloud1
+[2024.04.25-19.21.51:176][908]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_Cloud127C60926463305970E2AAF9C966D2D3A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/T_Cloud1.uasset'
+[2024.04.25-19.21.51:182][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 20.3 sec)
+[2024.04.25-19.21.51:190][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.25-19.21.51:196][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.25-19.21.51:201][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.25-19.21.51:204][908]AssetCheck: New page: Asset Save: T_Cloud1
+[2024.04.25-19.21.51:204][908]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/14-CloudNoise/T_Cloud1.T_Cloud1
+[2024.04.25-19.21.52:852][ 33]LogWindows: LaunchURL https://docs.unrealengine.com/5.3/en/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2024.04.25-19.21.55:505][ 44]LogContentBrowser: Attempting asset rename: T_Cloud1 -> T_Cloud1
+[2024.04.25-19.21.57:556][200]LogContentBrowser: Attempting asset rename: T_Cloud1 -> T_Cloud1
+[2024.04.25-19.22.00:486][452]LogContentBrowser: Attempting asset rename: T_CustomTexture1 -> T_Cloud2
+[2024.04.25-19.22.00:516][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.22.00:565][452]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/T_Cloud2
+[2024.04.25-19.22.00:566][452]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_Cloud2C12173914240EA3D67188396A74377C4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/T_Cloud2.uasset'
+[2024.04.25-19.22.00:571][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 20.4 sec)
+[2024.04.25-19.22.00:582][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.25-19.22.00:588][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.25-19.22.00:592][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.25-19.22.00:594][452]AssetCheck: New page: Asset Save: T_Cloud2
+[2024.04.25-19.22.00:594][452]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/14-CloudNoise/T_Cloud2.T_Cloud2
+[2024.04.25-19.22.03:296][683]LogContentBrowser: Attempting asset rename: T_CustomTexture2 -> T_Cloud3
+[2024.04.25-19.22.03:325][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.22.03:380][683]LogSavePackage: Moving output files for package: /Game/Niagara/14-CloudNoise/T_Cloud3
+[2024.04.25-19.22.03:380][683]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_Cloud3698ECAF24A8CA49662D104BDB56C00A4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/14-CloudNoise/T_Cloud3.uasset'
+[2024.04.25-19.22.03:386][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 20.5 sec)
+[2024.04.25-19.22.03:395][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.25-19.22.03:400][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.25-19.22.03:404][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.25-19.22.03:406][683]AssetCheck: New page: Asset Save: T_Cloud3
+[2024.04.25-19.22.03:406][683]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/14-CloudNoise/T_Cloud3.T_Cloud3
+[2024.04.25-19.22.07:775][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.22.07:848][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.25-19.22.07:886][ 17]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.04.25-19.22.07:887][ 17]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1BA092A6C41BC1A9012CCBFBFCBBAB089.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.04.25-19.22.07:892][ 17]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.064
+[2024.04.25-19.22.07:899][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 20.6 sec)
+[2024.04.25-19.22.07:900][ 17]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.04.25-19.22.07:900][ 17]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
