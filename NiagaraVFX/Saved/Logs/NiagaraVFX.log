@@ -1802,3 +1802,191 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.05.02-18.25.58:506][126]LogNiagaraEditor: GPU shader compile skipped. Id 1
 [2024.05.02-18.25.58:506][126]LogNiagaraEditor: GPU shader compile skipped. Id 1
 [2024.05.02-18.25.59:447][166]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: ================================================
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Total job queries 56, among them cache hits 2 (3.57%)
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 37 distinct outputs (90.24%)
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: RAM used: 943,91 KiB of 1,60 GiB budget. Usage: 0.06%
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Shaders Compiled: 22
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Average time worker was idle: 65.00 s
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 0.51 s
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 0.56
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Shader code size: average 24,953 KiB, min 5,656 KiB, max 34,77 KiB
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.46 s
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Total thread time: 4,686 s
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Total thread preprocess time: 0,161 s
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Percentage time preprocessing: 3.43%
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Effective parallelization: 0.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   22 times, average 0.21 sec, max 0.39 sec, min 0.06 sec)
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   22 times, average 0.21 sec, max 0.39 sec, min 0.06 sec)
+[2024.05.02-18.34.59:097][502]LogShaderCompilers: Display: ================================================
+[2024.05.02-18.35.05:221][862]LogContentBrowser: Deferred new asset file creation: M_Dandeline_Inst
+[2024.05.02-18.35.05:235][862]LogContentBrowser: Creating deferred item: M_Dandeline_Inst
+[2024.05.02-18.35.05:250][863]LogContentBrowser: Renaming the item being created (Deferred Item: M_Dandeline_Inst).
+[2024.05.02-18.35.17:874][621]LogContentBrowser: Attempting asset rename: M_Dandeline_Inst -> MI_SpinSmoke
+[2024.05.02-18.35.17:875][621]LogContentBrowser: End creating deferred item M_Dandeline_Inst
+[2024.05.02-18.35.19:061][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-18.35.19:136][691]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_SpinSmoke
+[2024.05.02-18.35.19:136][691]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_SpinSmoke4E5C81E04F79EF5112AF868548BA365E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_SpinSmoke.uasset'
+[2024.05.02-18.35.19:143][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.34 sec)
+[2024.05.02-18.35.19:144][691]AssetCheck: New page: Asset Save: MI_SpinSmoke
+[2024.05.02-18.35.19:144][691]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_SpinSmoke.MI_SpinSmoke
+[2024.05.02-18.35.20:217][754]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/Materials/MI_SpinSmoke.MI_SpinSmoke
+[2024.05.02-18.35.20:236][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-18.35.20:236][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-18.35.20:492][754]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.02-18.35.20:503][754]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.02-18.35.36:145][640]LogTexture: Display: Building textures: /Game/InfinityBladeEffects/Effects/FX_Textures/Texture/T_smoke_Spin.T_smoke_Spin (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.05.02-18.35.36:896][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.02-18.35.36:905][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-18.35.36:989][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-18.35.37:001][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.02-18.35.37:003][681]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_SpinSmoke
+[2024.05.02-18.35.37:003][681]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_SpinSmokeBCDC89A340E397AB5B7697A9D878F18F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_SpinSmoke.uasset'
+[2024.05.02-18.35.37:011][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.45 sec)
+[2024.05.02-18.35.37:012][681]AssetCheck: New page: Asset Save: MI_SpinSmoke
+[2024.05.02-18.35.37:012][681]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_SpinSmoke.MI_SpinSmoke
+[2024.05.02-18.35.38:112][743]LogViewport: Scene viewport resized to 897x917, mode Windowed.
+[2024.05.02-18.35.38:192][745]LogViewport: Scene viewport resized to 544x515, mode Windowed.
+[2024.05.02-18.35.38:214][746]LogViewport: Scene viewport resized to 369x315, mode Windowed.
+[2024.05.02-18.35.38:543][766]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.02-18.35.38:709][775]LogSlate: Window 'MI_SpinSmoke' being destroyed
+[2024.05.02-18.35.47:961][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.02-18.35.47:967][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-18.35.48:088][314]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_SpinSmoke
+[2024.05.02-18.35.48:088][314]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_SpinSmoke4445CE1B49864E394EBEE9B0CF4FA498.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_SpinSmoke.uasset'
+[2024.05.02-18.35.48:100][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1.58 sec)
+[2024.05.02-18.35.48:100][314]AssetCheck: New page: Asset Save: MI_SpinSmoke
+[2024.05.02-18.35.48:100][314]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_SpinSmoke.MI_SpinSmoke
+[2024.05.02-18.36.08:827][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-18.36.08:878][485]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/MI_SpinSmoke
+[2024.05.02-18.36.08:878][485]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_SpinSmokeA68CEEB542B171A2CC7F2495BFD7F516.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/MI_SpinSmoke.uasset'
+[2024.05.02-18.36.08:885][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.63 sec)
+[2024.05.02-18.36.08:900][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.02-18.36.08:907][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.02-18.36.08:913][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.02-18.36.08:924][485]AssetCheck: New page: Asset Save: MI_SpinSmoke
+[2024.05.02-18.36.08:924][485]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/16-Portal/MI_SpinSmoke.MI_SpinSmoke
+[2024.05.02-18.36.28:736][572]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.673330 sec (time since issued), 1.519248 sec (combined shader worker time).
+[2024.05.02-18.36.29:420][597]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.36.43:174][384]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.36.45:717][520]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 2.765522 sec (time since issued), 2.647585 sec (combined shader worker time).
+[2024.05.02-18.36.46:102][523]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.36.47:193][575]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.426546 sec (time since issued), 1.192802 sec (combined shader worker time).
+[2024.05.02-18.36.48:731][644]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.37.44:147][864]LogEditCondition: Error: EditCondition parsing failed: Field name "bOverrideMaterials" was not found in class "NiagaraMeshMaterialOverride".
+[2024.05.02-18.38.19:820][900]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: ================================================
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Total job queries 67, among them cache hits 4 (5.97%)
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 44 distinct outputs (88.00%)
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: RAM used: 1,13 MiB of 1,60 GiB budget. Usage: 0.07%
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Shaders Compiled: 31
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Average time worker was idle: 70.13 s
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.11 s
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Job execution time: average 0.32 s, max 0.61 s
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Job life time (pending + execution): average 0.37 s, max 0.65
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Shader code size: average 24,582 KiB, min 5,656 KiB, max 40,353 KiB
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.37 s
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Average processing rate: 2.73 jobs/sec
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Total thread time: 6,71 s
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Total thread preprocess time: 0,161 s
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Percentage time preprocessing: 2.39%
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Effective parallelization: 0.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   31 times, average 0.22 sec, max 0.59 sec, min 0.06 sec)
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   31 times, average 0.22 sec, max 0.59 sec, min 0.06 sec)
+[2024.05.02-18.38.20:146][917]LogShaderCompilers: Display: ================================================
+[2024.05.02-18.38.20:428][928]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.838784 sec (time since issued), 0.767681 sec (combined shader worker time).
+[2024.05.02-18.38.22:055][ 21]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.38.38:049][974]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-18.39.05:563][552]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.39.06:195][583]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.901086 sec (time since issued), 0.831644 sec (combined shader worker time).
+[2024.05.02-18.39.07:797][673]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.40.23:452][128]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 2.007803 sec (time since issued), 1.893643 sec (combined shader worker time).
+[2024.05.02-18.40.24:187][152]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.40.28:104][313]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 2.851344 sec (time since issued), 2.668819 sec (combined shader worker time).
+[2024.05.02-18.40.28:737][340]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.40.53:544][765]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.40.54:082][792]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.827558 sec (time since issued), 0.757944 sec (combined shader worker time).
+[2024.05.02-18.40.55:720][886]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.42.34:512][708]Cmd: TRANSACTION UNDO
+[2024.05.02-18.42.34:512][708]LogEditorTransaction: Undo Edit input local value.
+[2024.05.02-18.42.35:287][708]Cmd: TRANSACTION UNDO
+[2024.05.02-18.42.35:287][708]LogEditorTransaction: Undo Edit input local value.
+[2024.05.02-18.42.36:696][733]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.42.37:013][752]Cmd: TRANSACTION UNDO
+[2024.05.02-18.42.37:013][752]LogEditorTransaction: Undo Edit input local value.
+[2024.05.02-18.42.39:761][854]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.42.44:124][ 93]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.42.46:244][214]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.42.55:592][743]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: ================================================
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Total job queries 81, among them cache hits 4 (4.94%)
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 53 distinct outputs (82.81%)
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: RAM used: 1,45 MiB of 1,60 GiB budget. Usage: 0.09%
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Shaders Compiled: 45
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Jobs assigned 45, completed 45 (100%)
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Average time worker was idle: 53.99 s
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.11 s
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Job execution time: average 0.31 s, max 0.71 s
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Job life time (pending + execution): average 0.35 s, max 0.75
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Shader code size: average 23,968 KiB, min 5,656 KiB, max 46,09 KiB
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.74 s
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Jobs were issued in 45 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Average processing rate: 2.86 jobs/sec
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Total thread time: 9,071 s
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Total thread preprocess time: 0,161 s
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Percentage time preprocessing: 1.77%
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Effective parallelization: 0.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   45 times, average 0.20 sec, max 0.62 sec, min 0.06 sec)
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   45 times, average 0.20 sec, max 0.62 sec, min 0.06 sec)
+[2024.05.02-18.42.55:866][758]LogShaderCompilers: Display: ================================================
+[2024.05.02-18.42.56:236][775]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.931314 sec (time since issued), 0.863815 sec (combined shader worker time).
+[2024.05.02-18.42.57:882][864]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.42.59:884][958]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.706680 sec (time since issued), 0.636298 sec (combined shader worker time).
+[2024.05.02-18.43.00:427][985]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.43.03:125][136]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.43.05:563][257]62174_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.02-18.43.05:980][274]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.721679 sec (time since issued), 0.651976 sec (combined shader worker time).
+[2024.05.02-18.43.07:837][378]62174_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.02-18.44.05:738][711]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.458372 sec (time since issued), 3.102221 sec (combined shader worker time).
+[2024.05.02-18.44.05:746][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-18.44.05:778][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/16-Portal/NS_Portal" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset" SILENT=true
+[2024.05.02-18.44.05:993][711]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/NS_Portal
+[2024.05.02-18.44.05:993][711]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_PortalF97F5949490E25AB4903A596081BF9CB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset'
+[2024.05.02-18.44.06:000][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 253 ms (total: 1.89 sec)
+[2024.05.02-18.44.06:140][711]AssetCheck: New page: Asset Save: NS_Portal
+[2024.05.02-18.44.06:140][711]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal
+[2024.05.02-18.44.06:140][711]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.02-18.44.06:140][711]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.02-18.44.06:140][711]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.02-18.44.06:140][711]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.02-18.44.59:084][816]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-18.45.05:926][202]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.343378 sec (time since issued), 0.232068 sec (combined shader worker time).
+[2024.05.02-18.45.05:937][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-18.45.05:974][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/16-Portal/NS_Portal" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset" SILENT=true
+[2024.05.02-18.45.06:189][202]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/NS_Portal
+[2024.05.02-18.45.06:190][202]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Portal4794C3624152C0316B4A27A6957D1CC7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset'
+[2024.05.02-18.45.06:197][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 2.15 sec)
+[2024.05.02-18.45.06:360][202]AssetCheck: New page: Asset Save: NS_Portal
+[2024.05.02-18.45.06:360][202]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal
+[2024.05.02-18.45.06:360][202]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.02-18.45.06:360][202]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.02-18.45.06:360][202]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.02-18.45.06:360][202]LogNiagaraEditor: GPU shader compile skipped. Id 1
