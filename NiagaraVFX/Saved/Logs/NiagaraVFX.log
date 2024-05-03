@@ -1197,3 +1197,888 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.05.03-15.48.08:452][ 19]LogSlate: Took 0.005160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2024.05.03-15.48.08:550][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.05.03-15.48.17:341][515]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:400 H:0
+[2024.05.03-15.49.00:843][120]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.05.03-15.49.00:843][120]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.05.03-15.49.53:918][275]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.603 and deleted 4426 files with total size 1808 MiB and 4189 empty folders. Scanned 19166 files in 21194 folders with total size 3134 MiB.
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Total job queries 30, among them cache hits 8 (26.67%)
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Tracking 22 distinct input hashes that result in 20 distinct outputs (90.91%)
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: RAM used: 582,14 KiB of 1,60 GiB budget. Usage: 0.03%
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Job execution time: average 0.31 s, max 0.31 s
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Job life time (pending + execution): average 0.34 s, max 0.34
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Shader code size: average 20,654 KiB, min 20,654 KiB, max 20,654 KiB
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.34 s
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Average processing rate: 2.92 jobs/sec
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Total thread time: 0,081 s
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Total thread preprocess time: 0 s
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Effective parallelization: 0.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.05.03-16.03.14:452][149]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.03.16:800][260]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 3.301375 sec (time since issued), 3.077551 sec (combined shader worker time).
+[2024.05.03-16.03.17:585][293]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.03.33:780][207]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 2.322947 sec (time since issued), 2.207833 sec (combined shader worker time).
+[2024.05.03-16.03.34:481][239]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.03.45:057][836]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.03.46:774][923]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.995664 sec (time since issued), 1.869084 sec (combined shader worker time).
+[2024.05.03-16.03.47:462][957]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.03.54:729][342]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.05.03-16.06.03:972][966]LogSlate: Window 'Login' being destroyed
+[2024.05.03-16.06.19:746][911]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.05.03-16.06.19:746][911]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=10ca8a076a2142b4b8f51fc5f6431eab.
+[2024.05.03-16.06.46:587][518]LogSlate: Window 'Login' being destroyed
+[2024.05.03-16.07.07:593][737]LogStaticMesh: Display: Building static mesh S_Concrete_Rubble_Pack_tmkhdecva_lod3_Var1...
+[2024.05.03-16.07.07:719][739]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/T_ConcreteRubblePack_tmkhdecva_2K_DpR.T_ConcreteRubblePack_tmkhdecva_2K_DpR (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 296.062483 MB), EncodeSpeed: Fast
+[2024.05.03-16.07.07:777][740]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/T_Concrete_Rubble_Pack_tmkhdecva_2K_N.T_Concrete_Rubble_Pack_tmkhdecva_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 352.562488 MB), EncodeSpeed: Fast
+[2024.05.03-16.07.07:836][741]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/T_Concrete_Rubble_Pack_tmkhdecva_2K_D.T_Concrete_Rubble_Pack_tmkhdecva_2K_D (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 296.062483 MB), EncodeSpeed: Fast
+[2024.05.03-16.07.07:909][741]LogStaticMesh: Built static mesh [0.32s] /Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/S_Concrete_Rubble_Pack_tmkhdecva_lod3_Var1.S_Concrete_Rubble_Pack_tmkhdecva_lod3_Var1
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Total job queries 45, among them cache hits 10 (22.22%)
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Tracking 34 distinct input hashes that result in 28 distinct outputs (82.35%)
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: RAM used: 911,90 KiB of 1,60 GiB budget. Usage: 0.05%
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Shaders Compiled: 13
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Jobs assigned 14, completed 13 (92.86%)
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Average time worker was idle: 23.65 s
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 1.21 s
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Job life time (pending + execution): average 0.45 s, max 1.30
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Shader code size: average 26,601 KiB, min 9,335 KiB, max 67,1 KiB
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.49 s
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Average processing rate: 2.37 jobs/sec
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Total thread time: 3,991 s
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Total thread preprocess time: 0 s
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Effective parallelization: 0.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   13 times, average 0.31 sec, max 1.12 sec, min 0.07 sec)
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   13 times, average 0.31 sec, max 1.12 sec, min 0.07 sec)
+[2024.05.03-16.07.38:590][342]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.07.39:733][342]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.688077 sec (time since issued), 2.336067 sec (combined shader worker time).
+[2024.05.03-16.07.39:745][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-16.07.39:806][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/16-Portal/NS_Portal" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset" SILENT=true
+[2024.05.03-16.07.39:815][342]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007789 seconds
+[2024.05.03-16.07.40:078][342]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/NS_Portal
+[2024.05.03-16.07.40:078][342]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Portal13B499F14B9FC61A6174B992A84CA573.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset'
+[2024.05.03-16.07.40:089][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 343 ms
+[2024.05.03-16.07.40:253][342]AssetCheck: New page: Asset Save: NS_Portal
+[2024.05.03-16.07.40:253][342]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal
+[2024.05.03-16.07.48:143][785]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.03-16.07.58:313][346]LogMaterial: Display: Material /Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/MI_Concrete_Rubble_Pack_tmkhdecva_2K.MI_Concrete_Rubble_Pack_tmkhdecva_2K needed to have new flag set bUsedWithNiagaraMeshParticles !
+[2024.05.03-16.08.00:848][455]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.507386 sec (time since issued), 0.441960 sec (combined shader worker time).
+[2024.05.03-16.08.00:857][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-16.08.00:905][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/16-Portal/NS_Portal" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset" SILENT=true
+[2024.05.03-16.08.01:169][455]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/NS_Portal
+[2024.05.03-16.08.01:169][455]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_PortalD940A9C94EED3ABB7FC851AFB2C4CEB7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset'
+[2024.05.03-16.08.01:174][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 660 ms)
+[2024.05.03-16.08.01:831][455]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.656285 sec (time since issued), 0.507408 sec (combined shader worker time).
+[2024.05.03-16.08.01:841][455]AssetCheck: New page: Asset Save: NS_Portal
+[2024.05.03-16.08.01:842][455]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal
+[2024.05.03-16.08.13:981][146]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.08.16:558][287]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 2.872865 sec (time since issued), 2.723111 sec (combined shader worker time).
+[2024.05.03-16.08.16:929][290]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.08.17:293][306]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.636364 sec (time since issued), 0.566577 sec (combined shader worker time).
+[2024.05.03-16.08.19:128][411]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.08.23:495][590]LogNiagaraEditor: Removed Var 'Constants.AttractionDebris.SpawnRate.SpawnRate' from Script NiagaraScript /Game/Niagara/16-Portal/NS_Portal.NS_Portal:SystemUpdateScript
+[2024.05.03-16.08.23:495][590]LogNiagaraEditor: Removed Var 'Constants.AttractionDebris.SpawnRate.SpawnRate' from Script NiagaraScript /Game/Niagara/16-Portal/NS_Portal.NS_Portal:AttractionDebris_0.EmitterUpdateScript
+[2024.05.03-16.08.24:151][592]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.08.24:497][608]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.727552 sec (time since issued), 0.551838 sec (combined shader worker time).
+[2024.05.03-16.08.26:358][713]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.08.55:121][368]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.08.55:592][391]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.898895 sec (time since issued), 0.760495 sec (combined shader worker time).
+[2024.05.03-16.08.57:323][489]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.09.12:753][356]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 5439e22fc7e51c6fc0b9b8fd6e07402385494e2c and existing hash 13605cc6c92db5f23185117e0021a620d876ca44 for LegacyNiagaraScriptDerivedData/253f7caee172add4d229354870caa4ca4249d6f2 from '/Game/Niagara/16-Portal/NS_Portal.NS_Portal:SystemSpawnScript'
+[2024.05.03-16.09.13:892][356]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.826507 sec (time since issued), 2.479401 sec (combined shader worker time).
+[2024.05.03-16.09.13:901][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-16.09.13:943][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/16-Portal/NS_Portal" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset" SILENT=true
+[2024.05.03-16.09.14:208][356]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/NS_Portal
+[2024.05.03-16.09.14:209][356]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Portal3BDDEA0A4EB9BB91FF5BDB945343C083.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset'
+[2024.05.03-16.09.14:216][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 315 ms (total: 976 ms)
+[2024.05.03-16.09.14:386][356]AssetCheck: New page: Asset Save: NS_Portal
+[2024.05.03-16.09.14:386][356]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal
+[2024.05.03-16.10.17:002][961]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.10.19:281][ 79]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 2.673678 sec (time since issued), 2.539500 sec (combined shader worker time).
+[2024.05.03-16.10.19:910][111]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.10.22:264][220]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.660502 sec (time since issued), 1.541859 sec (combined shader worker time).
+[2024.05.03-16.10.22:565][232]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.10.24:685][353]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.10.39:305][205]LogStaticMesh: Display: Building static mesh S_Concrete_Rubble_Pack_tmkhdecva_lod3_Var2...
+[2024.05.03-16.10.39:324][205]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/S_Concrete_Rubble_Pack_tmkhdecva_lod3_Var2) ...
+[2024.05.03-16.10.39:460][205]LogStaticMesh: Built static mesh [0.16s] /Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/S_Concrete_Rubble_Pack_tmkhdecva_lod3_Var2.S_Concrete_Rubble_Pack_tmkhdecva_lod3_Var2
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Total job queries 103, among them cache hits 14 (13.59%)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 64 distinct outputs (72.73%)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: RAM used: 2,25 MiB of 1,60 GiB budget. Usage: 0.14%
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Shaders Compiled: 67
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Jobs assigned 68, completed 67 (98.53%)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Average time worker was idle: 21.54 s
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.12 s
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 2.00 s
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 2.05
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Shader code size: average 34,261 KiB, min 9,335 KiB, max 69,876 KiB
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.31 s
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.36 jobs/batch
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Average processing rate: 4.38 jobs/sec
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Total thread time: 23,057 s
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Total thread preprocess time: 0,908 s
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Percentage time preprocessing: 3.94%
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Effective parallelization: 1.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.50 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.48 sec, max 0.48 sec, min 0.47 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display:                                               FNiagaraShader - 43.67% of total time (compiled   37 times, average 0.27 sec, max 1.18 sec, min 0.06 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 4.57% of total time (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.44% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.50 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.30% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.27% of total time (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.10.53:305][977]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.10.54:538][977]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.883771 sec (time since issued), 2.707670 sec (combined shader worker time).
+[2024.05.03-16.10.54:548][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-16.10.54:595][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/16-Portal/NS_Portal" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset" SILENT=true
+[2024.05.03-16.10.54:864][977]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/NS_Portal
+[2024.05.03-16.10.54:864][977]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Portal80D470B04C80A61D03074A9E12400A56.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset'
+[2024.05.03-16.10.54:872][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 324 ms (total: 1.30 sec)
+[2024.05.03-16.10.55:043][977]AssetCheck: New page: Asset Save: NS_Portal
+[2024.05.03-16.10.55:043][977]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal
+[2024.05.03-16.11.03:912][457]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.11.08:303][704]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 4.790557 sec (time since issued), 4.626083 sec (combined shader worker time).
+[2024.05.03-16.11.09:122][736]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.11.19:115][294]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.11.19:517][313]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.819881 sec (time since issued), 0.701325 sec (combined shader worker time).
+[2024.05.03-16.11.21:359][415]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.11.34:185][146]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.11.34:615][166]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.801249 sec (time since issued), 0.717912 sec (combined shader worker time).
+[2024.05.03-16.11.36:493][267]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.11.48:777][853]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.846170 sec (time since issued), 2.523008 sec (combined shader worker time).
+[2024.05.03-16.11.48:785][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-16.11.48:830][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/16-Portal/NS_Portal" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset" SILENT=true
+[2024.05.03-16.11.49:102][853]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/NS_Portal
+[2024.05.03-16.11.49:102][853]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Portal95BF871D419AB03A759C9A9ED6A7C7CD.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset'
+[2024.05.03-16.11.49:109][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 323 ms (total: 1.62 sec)
+[2024.05.03-16.11.49:284][853]AssetCheck: New page: Asset Save: NS_Portal
+[2024.05.03-16.11.49:284][853]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal
+[2024.05.03-16.11.51:097][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.03-16.11.51:103][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-16.11.51:189][952]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/MI_Concrete_Rubble_Pack_tmkhdecva_2K
+[2024.05.03-16.11.51:189][952]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_Concrete_Rubble_Pack_tmkhdecvBC4B22844CAB584B083EEB9293784C5C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/MI_Concrete_Rubble_Pack_tmkhdecva_2K.uasset'
+[2024.05.03-16.11.51:202][952]LogSavePackage: Moving output files for package: /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material
+[2024.05.03-16.11.51:202][952]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_MS_Default_MaterialBA94BF80411B5A3350BF1D91BBBAB9CF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset'
+[2024.05.03-16.11.51:212][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.73 sec)
+[2024.05.03-16.11.51:213][952]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.03-16.11.51:213][952]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Concrete_Rubble_Pack_tmkhdecva/MI_Concrete_Rubble_Pack_tmkhdecva_2K.MI_Concrete_Rubble_Pack_tmkhdecva_2K
+[2024.05.03-16.11.51:213][952]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material.M_MS_Default_Material
+[2024.05.03-16.12.12:023][116]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.12.12:981][165]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.531812 sec (time since issued), 1.203006 sec (combined shader worker time).
+[2024.05.03-16.12.14:749][237]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.12.27:603][970]LogNiagaraEditor: Removed Var 'Constants.AttractionDebris.InitializeParticle.Position Offset' from Script NiagaraScript /Game/Niagara/16-Portal/NS_Portal.NS_Portal:AttractionDebris_0.SpawnScript
+[2024.05.03-16.12.28:381][972]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.12.28:765][989]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.788296 sec (time since issued), 0.702758 sec (combined shader worker time).
+[2024.05.03-16.12.30:710][ 93]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.13.36:735][935]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.13.37:293][963]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.006348 sec (time since issued), 0.898449 sec (combined shader worker time).
+[2024.05.03-16.13.38:994][ 56]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.14.06:521][632]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.14.06:872][653]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.14.06:872][653]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.03-16.14.06:872][653]LogShaderCompilers: Display: Total job queries 122, among them cache hits 15 (12.30%)
+[2024.05.03-16.14.06:872][653]LogShaderCompilers: Display: Tracking 107 distinct input hashes that result in 78 distinct outputs (72.90%)
+[2024.05.03-16.14.06:872][653]LogShaderCompilers: Display: RAM used: 2,82 MiB of 1,60 GiB budget. Usage: 0.17%
+[2024.05.03-16.14.06:872][653]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.03-16.14.06:872][653]LogShaderCompilers: Display: Shaders Compiled: 86
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Jobs assigned 86, completed 86 (100%)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Average time worker was idle: 20.02 s
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.12 s
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 2.00 s
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 2.05
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Shader code size: average 33,427 KiB, min 9,335 KiB, max 69,876 KiB
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.81 s
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Jobs were issued in 68 batches (only local compilation was used), average 1.26 jobs/batch
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Average processing rate: 3.77 jobs/sec
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Total thread time: 28,432 s
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Total thread preprocess time: 0,908 s
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Percentage time preprocessing: 3.19%
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Effective parallelization: 1.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.50 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.48 sec, max 0.48 sec, min 0.47 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display:                                               FNiagaraShader - 54.32% of total time (compiled   56 times, average 0.28 sec, max 1.19 sec, min 0.06 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 3.71% of total time (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.60% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.50 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.49% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.46% of total time (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.14.06:873][653]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.14.07:270][671]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.151370 sec (time since issued), 1.063370 sec (combined shader worker time).
+[2024.05.03-16.14.08:763][753]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.14.16:835][207]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.14.17:440][237]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 0.996331 sec (time since issued), 0.914253 sec (combined shader worker time).
+[2024.05.03-16.14.19:085][328]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.14.28:820][897]LogNiagaraEditor: Removed Var 'Constants.AttractionDebris.PointAttractionForce.Attractor Position Offset' from Script NiagaraScript /Game/Niagara/16-Portal/NS_Portal.NS_Portal:SystemSpawnScript
+[2024.05.03-16.14.28:821][897]LogNiagaraEditor: Removed Var 'Constants.AttractionDebris.PointAttractionForce.Attractor Position Offset' from Script NiagaraScript /Game/Niagara/16-Portal/NS_Portal.NS_Portal:SystemUpdateScript
+[2024.05.03-16.14.28:825][897]LogNiagaraEditor: Removed Var 'Constants.AttractionDebris.PointAttractionForce.Attractor Position Offset' from Script NiagaraScript /Game/Niagara/16-Portal/NS_Portal.NS_Portal:AttractionDebris_0.SpawnScript
+[2024.05.03-16.14.28:826][897]LogNiagaraEditor: Removed Var 'Constants.AttractionDebris.PointAttractionForce.Attractor Position Offset' from Script NiagaraScript /Game/Niagara/16-Portal/NS_Portal.NS_Portal:AttractionDebris_0.UpdateScript
+[2024.05.03-16.14.29:714][899]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.14.30:289][926]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.121252 sec (time since issued), 0.895758 sec (combined shader worker time).
+[2024.05.03-16.14.31:981][ 20]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.14.56:533][423]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.14.57:257][461]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.174105 sec (time since issued), 1.049722 sec (combined shader worker time).
+[2024.05.03-16.14.58:757][544]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.15.46:877][368]62379_NS_Portal_MessageLog: System compile status unknown.
+[2024.05.03-16.15.47:570][401]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.164796 sec (time since issued), 1.042356 sec (combined shader worker time).
+[2024.05.03-16.15.49:200][489]62379_NS_Portal_MessageLog: System successfully compiled.
+[2024.05.03-16.16.53:756][146]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal took 1.940558 sec (time since issued), 3.218091 sec (combined shader worker time).
+[2024.05.03-16.16.53:765][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-16.16.53:812][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/16-Portal/NS_Portal" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset" SILENT=true
+[2024.05.03-16.16.54:083][146]LogSavePackage: Moving output files for package: /Game/Niagara/16-Portal/NS_Portal
+[2024.05.03-16.16.54:083][146]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Portal42BD9AE7484FC2517773C59204DA9C46.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/16-Portal/NS_Portal.uasset'
+[2024.05.03-16.16.54:091][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 326 ms (total: 2.06 sec)
+[2024.05.03-16.16.54:265][146]AssetCheck: New page: Asset Save: NS_Portal
+[2024.05.03-16.16.54:266][146]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/16-Portal/NS_Portal.NS_Portal
+[2024.05.03-16.17.30:688][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-16.17.30:794][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.05.03-16.17.30:838][264]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.03-16.17.30:838][264]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1C81CD86D46A1BE55EBEE79A03E336907.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.03-16.17.30:845][264]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.113
+[2024.05.03-16.17.30:850][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 2.22 sec)
+[2024.05.03-16.17.30:852][264]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.03-16.17.30:852][264]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.03-16.17.41:186][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.03-16.18.04:871][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.03-16.18.04:872][237]LogStall: Shutdown...
+[2024.05.03-16.18.04:877][237]LogStall: Shutdown complete.
+[2024.05.03-16.18.05:177][237]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-16.18.05:183][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-16.18.05:187][237]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-16.18.05:187][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-16.18.05:237][237]LogSlate: Window 'Bridge' being destroyed
+[2024.05.03-16.18.05:239][237]LogSlate: Window 'NiagaraVFX - Unreal Editor' being destroyed
+[2024.05.03-16.18.05:307][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.03-16.18.05:322][238]Cmd: QUIT_EDITOR
+[2024.05.03-16.18.05:322][238]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.03-16.18.05:326][238]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.03-16.18.05:326][238]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.03-16.18.05:326][238]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.03-16.18.05:329][238]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-16.18.05:329][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-16.18.05:335][238]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.03-16.18.05:501][238]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.03-16.18.05:501][238]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.03-16.18.05:501][238]LogAudio: Display: Audio Device unregistered from world 'NiagaraCourse_1'.
+[2024.05.03-16.18.05:501][238]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.03-16.18.05:501][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.03-16.18.05:503][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.03-16.18.05:508][238]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.03-16.18.05:512][238]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.03-16.18.05:512][238]LogExit: Preparing to exit.
+[2024.05.03-16.18.05:522][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-16.18.05:875][238]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-16.18.05:914][238]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.03-16.18.05:937][238]LogExit: Editor shut down
+[2024.05.03-16.18.05:938][238]LogExit: Transaction tracking system shut down
+[2024.05.03-16.18.05:960][238]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.05.03-16.18.05:960][238]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=cf491df9a16540a68f0653a460de3022.
+[2024.05.03-16.18.06:014][238]LogExit: Object subsystem successfully closed.
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Total job queries 135, among them cache hits 16 (11.85%)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Tracking 119 distinct input hashes that result in 90 distinct outputs (75.63%)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: RAM used: 3,19 MiB of 1,60 GiB budget. Usage: 0.19%
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Shaders Compiled: 98
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Jobs assigned 98, completed 98 (100%)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Average time worker was idle: 27.40 s
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.12 s
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 2.00 s
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 2.05
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Shader code size: average 33,216 KiB, min 9,335 KiB, max 69,876 KiB
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.97 s
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Jobs were issued in 80 batches (only local compilation was used), average 1.23 jobs/batch
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Average processing rate: 3.63 jobs/sec
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Total thread time: 31,358 s
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Total thread preprocess time: 0,908 s
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Percentage time preprocessing: 2.90%
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Effective parallelization: 1.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.50 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.48 sec, max 0.48 sec, min 0.47 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display:                                               FNiagaraShader - 58.58% of total time (compiled   68 times, average 0.27 sec, max 1.19 sec, min 0.06 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 3.36% of total time (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.27% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.50 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.16% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.14% of total time (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2024.05.03-16.18.06:021][238]LogShaderCompilers: Display: ================================================
+[2024.05.03-16.18.06:110][238]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.03-16.18.06:123][238]LogVirtualization: UE::Virtualization was shutdown
+[2024.05.03-16.18.06:147][238]LogModuleManager: Shutting down and abandoning module WebBrowser (1056)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module MaterialEditor (1054)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1052)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module AddContentDialog (1044)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1043)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1034)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1026)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module BspMode (1024)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module GeometryMode (1022)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1020)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module SmartSnapping (1018)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1016)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1014)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module WebMMedia (1012)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1010)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1008)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1006)
+[2024.05.03-16.18.06:200][238]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1004)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1003)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1000)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (998)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (996)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (994)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (992)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (990)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (988)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (986)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (984)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (982)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module WaveTableEditor (980)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module RigVMEditor (978)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (976)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module GooglePADEditor (974)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (972)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (970)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module PlanarCut (968)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module FractureEngine (966)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module CharacterAI (964)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module IKRigEditor (962)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ControlRigEditor (960)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (958)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.05.03-16.18.06:201][238]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.05.03-16.18.06:872][238]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.05.03-16.18.06:872][238]MemoryProfiler: Shutdown
+[2024.05.03-16.18.06:872][238]NetworkingProfiler: Shutdown
+[2024.05.03-16.18.06:872][238]LoadingProfiler: Shutdown
+[2024.05.03-16.18.06:872][238]TimingProfiler: Shutdown
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.05.03-16.18.06:873][238]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.05.03-16.18.06:876][238]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.05.03-16.18.06:983][238]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.05.03-16.18.06:983][238]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2024.05.03-16.18.06:983][238]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2024.05.03-16.18.06:983][238]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2024.05.03-16.18.06:983][238]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2024.05.03-16.18.06:983][238]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (754)
+[2024.05.03-16.18.06:983][238]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.05.03-16.18.06:983][238]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.05.03-16.18.06:984][238]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im0ua2FyYWxhc2guckBnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiMjVkNjZkNDVmNDk4NGRlMWI5OTVjZjNkNjQ0N2RjMzQiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiZjYzOWMxYmItYWRjYy00NDgwLWJkZDEtYWUzNzI3ZTc1ZDk2IiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwibWhjIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTcxMTA0NTcwNiwiZXhwIjoxNzExMDc0NTA2LCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiIyMWI5MTYyOS0wYjYyLTQ3ZmQtODBkYS1mZmIwYTY4MWMwZjcifQ.CZ7PKQItR1DKQX7Y1PjCX6UwQRW9kCaCi1lXK0VN5gxUpajCy6LiQDIbiWuVvQ6dN1_4DFKhkndk8ZPqitEzyQHmJgbFcQxgMDXHuenBjWLUXcNT2-jsqqgi8pvauyA4w4UoLOQuy_Qm5RNbICAmfzbmKBsOTGvzmGWdwMF-tP5gGeVB64qLj4z4-6re7TGJmvQjZs6njrEifH948eNJ6QDWK4_F7hLaW3aTLTsi4hvwlKyApshrG3oeKt_1uL_menkQ5MNIWRRiSOw_0NGB33TfuPliRxrD13u-Ey44uxAmPtBbW9N-l8pg01FaAXtspPsKoPOmVwc4Vw_jg3Mgbg&refreshToken=ZGU3ZWFjMWMtMzIwMi00NGU5LTk3MjEtMzhlNTdiMWU4NjAy#/megascans/home?category=3D%20asset&search=rubble.
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (748)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (746)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module LightMixer (744)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (742)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (740)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (738)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module CollectionManager (737)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module TakeSequencer (734)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module TakeMovieScene (732)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (730)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (728)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module UVEditorTools (726)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module UVEditor (724)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module PluginBrowser (722)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (720)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (718)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (716)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (714)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (712)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (710)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module EditorDebugTools (708)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (706)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module CryptoKeys (704)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module CurveEditorTools (702)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module ChangelistReview (700)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (698)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (696)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module Paper2DEditor (694)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (692)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (690)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module MediaPlate (688)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module MediaCompositing (686)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module ImgMedia (684)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (682)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (680)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module UObjectPlugin (678)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (676)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module PluginUtils (674)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (672)
+[2024.05.03-16.18.06:984][238]LogModuleManager: Shutting down and abandoning module GitSourceControl (670)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module TemplateSequence (668)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (666)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module DumpGPUServices (664)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (662)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (660)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (658)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module SequencerScripting (656)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module VariantManager (654)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (653)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (650)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module SynthesisEditor (648)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ResonanceAudio (646)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (644)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (642)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GooglePAD (640)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (638)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ModelingOperators (636)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (634)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ModelingComponents (632)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryFramework (631)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (628)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module MeshModelingTools (626)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (624)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InputDebugging (622)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module DynamicMesh (620)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (618)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (616)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (614)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (612)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (610)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AppleImageUtils (608)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AudioCapture (606)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (605)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AssetTags (602)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (600)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AndroidPermission (598)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (596)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (594)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AlembicImporter (592)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AlembicLibrary (591)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCache (590)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (589)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (584)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (582)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (580)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (578)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (576)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (574)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (572)
+[2024.05.03-16.18.06:985][238]LogOpenImageDenoise: OIDN shutting down
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (570)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (568)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (566)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (564)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (562)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (560)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module LocalizableMessage (558)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module MeshLODToolset (556)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (554)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (552)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (550)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (548)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (546)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (545)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (543)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (540)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module DataflowNodes (538)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (536)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module DataflowEditor (534)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (532)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (530)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ChaosNiagara (528)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (526)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module FractureEditor (524)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (522)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AutomationUtils (520)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module BackChannel (518)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (516)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ControlRigSpline (514)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (512)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (510)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (508)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (506)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeExport (504)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeMessages (502)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GLTFCore (500)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (498)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (496)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (494)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeEditor (492)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (490)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InterchangeTests (488)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (486)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (484)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (470)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module FacialAnimation (468)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (466)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module DataValidation (464)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module Paper2D (462)
+[2024.05.03-16.18.06:985][238]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (460)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module TreeMap (459)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (456)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (454)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (452)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module AnimationSharing (450)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module ActorSequence (448)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module Synthesis (446)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module SignificanceManager (444)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module SoundFields (442)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (440)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module RigVM (438)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (436)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (434)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (432)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module MetasoundEditor (430)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module AudioWidgets (429)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (428)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (424)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module MetasoundEngine (422)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module WaveTable (421)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (419)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (416)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (414)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (412)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (410)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (408)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (404)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (402)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (401)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (398)
+[2024.05.03-16.18.06:986][238]LogModuleManager: Shutting down and abandoning module UdpMessaging (396)
+[2024.05.03-16.18.07:087][238]LogModuleManager: Shutting down and abandoning module TcpMessaging (394)
+[2024.05.03-16.18.07:187][238]LogModuleManager: Shutting down and abandoning module StructUtils (392)
+[2024.05.03-16.18.07:187][238]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (390)
+[2024.05.03-16.18.07:187][238]LogModuleManager: Shutting down and abandoning module PBIK (388)
+[2024.05.03-16.18.07:187][238]LogModuleManager: Shutting down and abandoning module FullBodyIK (386)
+[2024.05.03-16.18.07:187][238]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (384)
+[2024.05.03-16.18.07:187][238]LogModuleManager: Shutting down and abandoning module TakeRecorder (383)
+[2024.05.03-16.18.07:187][238]LogModuleManager: Shutting down and abandoning module LevelEditor (381)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (380)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (378)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module MainFrame (376)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module HotReload (375)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module ChaosCaching (370)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (368)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module IKRig (366)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (364)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module ControlRig (362)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module Constraints (361)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module AnimationData (358)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module InterchangePipelines (356)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module InterchangeImport (354)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (352)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module InterchangeNodes (350)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module GameplayCameras (348)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (346)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (344)
+[2024.05.03-16.18.07:188][238]LogModuleManager: Shutting down and abandoning module Niagara (342)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module SignalProcessing (341)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module NiagaraEditor (339)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module LevelSequence (338)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module ContentBrowser (336)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module ToolMenus (335)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module ContentBrowserData (333)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module NiagaraCore (328)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.05.03-16.18.07:189][238]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.05.03-16.18.07:190][238]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.05.03-16.18.07:191][238]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.05.03-16.18.07:192][238]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.05.03-16.18.07:192][238]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.05.03-16.18.07:192][238]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.05.03-16.18.07:192][238]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.05.03-16.18.07:192][238]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.05.03-16.18.07:192][238]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.05.03-16.18.07:192][238]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.05.03-16.18.07:192][238]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.05.03-16.18.07:204][238]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.05.03-16.18.07:204][238]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.05.03-16.18.07:204][238]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.05.03-16.18.07:204][238]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.05.03-16.18.07:205][238]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.05.03-16.18.07:216][238]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.05.03-16.18.07:216][238]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.05.03-16.18.07:216][238]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.05.03-16.18.07:216][238]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.05.03-16.18.07:219][238]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (122)
+[2024.05.03-16.18.07:220][238]LogModuleManager: Shutting down and abandoning module WmfMedia (120)
+[2024.05.03-16.18.07:223][238]LogModuleManager: Shutting down and abandoning module Media (119)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (116)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (114)
+[2024.05.03-16.18.07:224][238]RenderDocPlugin: plugin has been unloaded.
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module PixWinPlugin (112)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module VariantManagerContent (110)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module GLTFExporter (108)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module DatasmithContent (106)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (102)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module ChunkDownloader (100)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module ChaosCloth (98)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module ACLPlugin (96)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module AISupportModule (94)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (92)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module NiagaraShader (90)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (88)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (86)
+[2024.05.03-16.18.07:224][238]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2024.05.03-16.18.07:225][238]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2024.05.03-16.18.07:225][238]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2024.05.03-16.18.07:227][238]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2024.05.03-16.18.07:227][238]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.05.03-16.18.07:227][238]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B53145B97-4D8F-1068-3A7C-75AACB66CA3B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=8d39d0794c35f5d3ee19d9aaf97c54cd%7C25d66d45f4984de1b995cf3d6447dc34%7Cc16d616b-9b31-4017-b2e8-b2eb02e5756c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.05.03-16.18.07:229][238]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (70)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (68)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (66)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (62)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (60)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.05.03-16.18.07:230][238]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.05.03-16.18.07:231][238]LogPakFile: Destroying PakPlatformFile
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.05.03-16.18.07:231][238]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
