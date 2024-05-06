@@ -2131,3 +2131,420 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.06-14.05.08:319][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 8.01 sec)
 [2024.05.06-14.05.08:321][855]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.05.06-14.05.08:321][855]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: ================================================
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Total job queries 273, among them cache hits 51 (18.68%)
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Tracking 210 distinct input hashes that result in 148 distinct outputs (70.48%)
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: RAM used: 5,15 MiB of 1,60 GiB budget. Usage: 0.31%
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Shaders Compiled: 190
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Jobs assigned 190, completed 190 (100%)
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Average time worker was idle: 35.13 s
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 1.33 s
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Job life time (pending + execution): average 0.42 s, max 1.38
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Shader code size: average 24,862 KiB, min 3,98 KiB, max 63,909 KiB
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.37 s
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Jobs were issued in 190 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Average processing rate: 3.15 jobs/sec
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Total thread time: 50,21 s
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Total thread preprocess time: 0,141 s
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Percentage time preprocessing: 0.28%
+[2024.05.06-14.13.20:036][435]LogShaderCompilers: Display: Effective parallelization: 0.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.06-14.13.20:037][435]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.06-14.13.20:037][435]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  190 times, average 0.26 sec, max 1.07 sec, min 0.05 sec)
+[2024.05.06-14.13.20:037][435]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.06-14.13.20:037][435]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  190 times, average 0.26 sec, max 1.07 sec, min 0.05 sec)
+[2024.05.06-14.13.20:037][435]LogShaderCompilers: Display: ================================================
+[2024.05.06-14.13.21:256][513]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 1.957242 sec (time since issued), 1.758899 sec (combined shader worker time).
+[2024.05.06-14.13.21:737][536]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.13.35:275][567]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 1.721830 sec (time since issued), 1.601258 sec (combined shader worker time).
+[2024.05.06-14.13.35:655][589]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.13.41:291][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.13.41:551][114]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/NS_MeteorAttack
+[2024.05.06-14.13.41:551][114]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_MeteorAttack1B28BCFF4E25E2187C730FA75CCCF828.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/NS_MeteorAttack.uasset'
+[2024.05.06-14.13.41:557][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 8.28 sec)
+[2024.05.06-14.13.41:561][114]AssetCheck: New page: Asset Save: NS_MeteorAttack
+[2024.05.06-14.13.41:561][114]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack
+[2024.05.06-14.13.50:060][591]LogContentBrowser: Deferred new asset file creation: M_Dandeline_Inst
+[2024.05.06-14.13.50:071][591]LogContentBrowser: Creating deferred item: M_Dandeline_Inst
+[2024.05.06-14.13.50:085][592]LogContentBrowser: Renaming the item being created (Deferred Item: M_Dandeline_Inst).
+[2024.05.06-14.13.57:710][ 76]LogContentBrowser: Attempting asset rename: M_Dandeline_Inst -> MI_BrightMark
+[2024.05.06-14.13.57:710][ 76]LogContentBrowser: End creating deferred item M_Dandeline_Inst
+[2024.05.06-14.14.01:447][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.14.01:526][284]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/MI_BrightMark
+[2024.05.06-14.14.01:526][284]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_BrightMark276A783545AC3A4CE6B012A3B9639DE7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/MI_BrightMark.uasset'
+[2024.05.06-14.14.01:533][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 8.37 sec)
+[2024.05.06-14.14.01:556][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.06-14.14.01:570][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.06-14.14.01:576][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.06-14.14.01:586][284]AssetCheck: New page: Asset Save: MI_BrightMark
+[2024.05.06-14.14.01:586][284]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/19-MeteorAttack/MI_BrightMark.MI_BrightMark
+[2024.05.06-14.14.04:999][481]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/19-MeteorAttack/MI_BrightMark.MI_BrightMark
+[2024.05.06-14.14.05:003][481]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-14.14.05:003][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.06-14.14.05:239][481]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.06-14.14.15:971][ 93]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-14.14.28:923][778]LogTexture: Display: Building textures: /Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_BlastMark_Rock01.T_BlastMark_Rock01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.05.06-14.14.34:127][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.14.34:227][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.06-14.14.34:245][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.06-14.14.34:247][ 58]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/MI_BrightMark
+[2024.05.06-14.14.34:247][ 58]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_BrightMark0D19DC1844132D5AB2C714B40FC3B044.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/MI_BrightMark.uasset'
+[2024.05.06-14.14.34:262][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 8.50 sec)
+[2024.05.06-14.14.34:263][ 58]AssetCheck: New page: Asset Save: MI_BrightMark
+[2024.05.06-14.14.34:263][ 58]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/19-MeteorAttack/MI_BrightMark.MI_BrightMark
+[2024.05.06-14.14.35:287][115]LogViewport: Scene viewport resized to 897x917, mode Windowed.
+[2024.05.06-14.14.35:406][117]LogViewport: Scene viewport resized to 492x456, mode Windowed.
+[2024.05.06-14.14.35:434][118]LogViewport: Scene viewport resized to 369x315, mode Windowed.
+[2024.05.06-14.14.35:688][134]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.06-14.14.35:811][141]LogSlate: Window 'MI_BrightMark' being destroyed
+[2024.05.06-14.16.15:848][418]LogEditCondition: Error: EditCondition parsing failed: Field name "bOverrideMaterials" was not found in class "NiagaraMeshMaterialOverride".
+[2024.05.06-14.16.26:812][431]62540_NS_MeteorAttack_MessageLog: System compile status unknown.
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: ================================================
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Total job queries 283, among them cache hits 51 (18.02%)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Tracking 220 distinct input hashes that result in 156 distinct outputs (70.91%)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: RAM used: 5,39 MiB of 1,60 GiB budget. Usage: 0.33%
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Shaders Compiled: 200
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Jobs assigned 200, completed 200 (100%)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Average time worker was idle: 47.15 s
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 1.33 s
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Job life time (pending + execution): average 0.42 s, max 1.38
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Shader code size: average 25,084 KiB, min 3,98 KiB, max 63,909 KiB
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 63.18 s
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Jobs were issued in 200 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Average processing rate: 3.17 jobs/sec
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Total thread time: 53,043 s
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Total thread preprocess time: 0,249 s
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Percentage time preprocessing: 0.47%
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Effective parallelization: 0.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  196 times, average 0.27 sec, max 1.07 sec, min 0.05 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                               FNiagaraShader - 97.97% of total time (compiled  196 times, average 0.27 sec, max 1.07 sec, min 0.05 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.64% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.59% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.57% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 0.23% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.05.06-14.16.26:951][443]LogShaderCompilers: Display: ================================================
+[2024.05.06-14.16.27:220][460]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 0.661564 sec (time since issued), 0.573379 sec (combined shader worker time).
+[2024.05.06-14.16.28:816][605]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.16.30:819][781]62540_NS_MeteorAttack_MessageLog: System compile status unknown.
+[2024.05.06-14.16.31:193][808]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 0.709808 sec (time since issued), 0.639960 sec (combined shader worker time).
+[2024.05.06-14.16.32:824][926]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.17.45:146][406]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.17.52:081][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.06-14.17.52:089][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.17.52:306][  3]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/NS_MeteorAttack
+[2024.05.06-14.17.52:308][  3]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_MeteorAttackEF48E9DD41A22FFAA152549F3CDF5C7A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/NS_MeteorAttack.uasset'
+[2024.05.06-14.17.52:316][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 8.73 sec)
+[2024.05.06-14.17.52:319][  3]AssetCheck: New page: Asset Save: NS_MeteorAttack
+[2024.05.06-14.17.52:319][  3]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack
+[2024.05.06-14.17.58:066][445]62540_NS_MeteorAttack_MessageLog: System compile status unknown.
+[2024.05.06-14.17.58:643][488]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 0.826915 sec (time since issued), 0.736910 sec (combined shader worker time).
+[2024.05.06-14.18.00:068][601]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.18.01:153][702]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.18.03:112][877]LogNiagaraEditor: Removed Var 'Constants.BrightMark.Color.Color' from Script NiagaraScript /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack:BrightMark_4.SpawnScript
+[2024.05.06-14.18.03:113][877]LogNiagaraEditor: Removed Var 'Constants.BrightMark.Color.Color' from Script NiagaraScript /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack:BrightMark_4.UpdateScript
+[2024.05.06-14.18.03:568][879]62540_NS_MeteorAttack_MessageLog: System compile status unknown.
+[2024.05.06-14.18.04:060][914]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 0.740317 sec (time since issued), 0.652650 sec (combined shader worker time).
+[2024.05.06-14.18.05:568][ 43]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.18.14:032][876]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.18.22:551][754]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.18.31:862][644]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.18.37:349][206]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.18.49:940][473]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.19.02:407][748]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.19.10:864][567]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.19.18:424][389]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.19.24:842][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.19.57:835][564]62540_NS_MeteorAttack_MessageLog: System compile status unknown.
+[2024.05.06-14.19.59:845][780]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.20.29:652][322]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.20.35:090][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.06-14.20.35:098][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.20.35:335][887]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/NS_MeteorAttack
+[2024.05.06-14.20.35:335][887]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_MeteorAttackCDA456214642765CC1961790E7C3BA32.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/NS_MeteorAttack.uasset'
+[2024.05.06-14.20.35:345][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 246 ms (total: 8.97 sec)
+[2024.05.06-14.20.35:348][887]AssetCheck: New page: Asset Save: NS_MeteorAttack
+[2024.05.06-14.20.35:348][887]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack
+[2024.05.06-14.20.58:358][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.20.58:435][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.06-14.20.58:487][402]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.06-14.20.58:487][402]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_16AD732344F750CACA233C082241FDE58.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.06-14.20.58:494][402]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.082
+[2024.05.06-14.20.58:501][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 9.12 sec)
+[2024.05.06-14.20.58:503][402]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.06-14.20.58:503][402]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: ================================================
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Total job queries 291, among them cache hits 51 (17.53%)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Tracking 228 distinct input hashes that result in 163 distinct outputs (71.49%)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: RAM used: 5,52 MiB of 1,60 GiB budget. Usage: 0.34%
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Shaders Compiled: 208
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Jobs assigned 208, completed 208 (100%)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Average time worker was idle: 46.69 s
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Job execution time: average 0.36 s, max 1.33 s
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Job life time (pending + execution): average 0.41 s, max 1.38
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Shader code size: average 24,758 KiB, min 3,98 KiB, max 63,909 KiB
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 64.83 s
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Jobs were issued in 208 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Average processing rate: 3.21 jobs/sec
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Total thread time: 53,76 s
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Total thread preprocess time: 0,249 s
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Percentage time preprocessing: 0.46%
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Effective parallelization: 0.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  204 times, average 0.26 sec, max 1.07 sec, min 0.05 sec)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                               FNiagaraShader - 98.00% of total time (compiled  204 times, average 0.26 sec, max 1.07 sec, min 0.05 sec)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.63% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.58% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.05.06-14.21.12:974][780]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.56% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.05.06-14.21.12:975][780]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 0.23% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.05.06-14.21.12:975][780]LogShaderCompilers: Display: ================================================
+[2024.05.06-14.21.14:630][895]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 2.393575 sec (time since issued), 2.195556 sec (combined shader worker time).
+[2024.05.06-14.21.15:084][920]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.21.20:398][328]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 2.098725 sec (time since issued), 1.964828 sec (combined shader worker time).
+[2024.05.06-14.21.20:793][352]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.21.31:269][296]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.21.48:445][821]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 1.457206 sec (time since issued), 2.671128 sec (combined shader worker time).
+[2024.05.06-14.21.48:456][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.21.48:696][821]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/NS_MeteorAttack
+[2024.05.06-14.21.48:696][821]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_MeteorAttack6523322741D19B45C603738CE7FF07F2.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/NS_MeteorAttack.uasset'
+[2024.05.06-14.21.48:702][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 245 ms (total: 9.36 sec)
+[2024.05.06-14.21.48:830][821]AssetCheck: New page: Asset Save: NS_MeteorAttack
+[2024.05.06-14.21.48:830][821]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack
+[2024.05.06-14.21.48:830][821]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.06-14.21.48:830][821]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.06-14.22.08:780][436]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.22.26:374][971]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.22.37:100][ 69]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 1.129661 sec (time since issued), 0.977563 sec (combined shader worker time).
+[2024.05.06-14.22.37:578][ 94]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.22.46:099][922]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.23.14:672][693]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.117 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17039 files in 18938 folders with total size 1364 MiB.
+[2024.05.06-14.23.14:792][699]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 1.536422 sec (time since issued), 1.412959 sec (combined shader worker time).
+[2024.05.06-14.23.15:161][721]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.23.26:475][761]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 1.789530 sec (time since issued), 1.664074 sec (combined shader worker time).
+[2024.05.06-14.23.26:867][783]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.23.27:320][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.06-14.23.27:326][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.23.27:579][825]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/NS_MeteorAttack
+[2024.05.06-14.23.27:580][825]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_MeteorAttack8C46C61D4E1B98E1062A6596A944106C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/NS_MeteorAttack.uasset'
+[2024.05.06-14.23.27:586][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 9.62 sec)
+[2024.05.06-14.23.27:589][825]AssetCheck: New page: Asset Save: NS_MeteorAttack
+[2024.05.06-14.23.27:589][825]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack
+[2024.05.06-14.23.37:413][705]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.23.50:908][941]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.24.22:454][169]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.24.37:307][599]62540_NS_MeteorAttack_MessageLog: System successfully compiled.
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: ================================================
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Total job queries 317, among them cache hits 52 (16.40%)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Tracking 249 distinct input hashes that result in 173 distinct outputs (69.48%)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: RAM used: 5,99 MiB of 1,60 GiB budget. Usage: 0.37%
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Shaders Compiled: 229
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Jobs assigned 233, completed 229 (98.28%)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Average time worker was idle: 59.71 s
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Job execution time: average 0.36 s, max 1.33 s
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Job life time (pending + execution): average 0.41 s, max 1.38
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Shader code size: average 24,598 KiB, min 3,98 KiB, max 63,909 KiB
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 71.79 s
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Jobs were issued in 233 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Average processing rate: 3.19 jobs/sec
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Total thread time: 58,975 s
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Total thread preprocess time: 0,249 s
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Percentage time preprocessing: 0.42%
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Effective parallelization: 0.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  225 times, average 0.26 sec, max 1.07 sec, min 0.05 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                               FNiagaraShader - 98.18% of total time (compiled  225 times, average 0.26 sec, max 1.07 sec, min 0.05 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.58% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.53% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.51% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 0.21% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.05.06-14.25.02:196][920]LogShaderCompilers: Display: ================================================
+[2024.05.06-14.25.02:298][920]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash dd51e51306ae37da8ca73b7fa5c4b2ca51fab0c2 and existing hash dc20a004870a204555d33b25b403da0ef1998b6d for LegacyNiagaraScriptDerivedData/eaf12630a5c071033d42aa6e825ca722c0b49a0b from '/Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack:SystemSpawnScript'
+[2024.05.06-14.25.03:218][920]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 1.479758 sec (time since issued), 2.491437 sec (combined shader worker time).
+[2024.05.06-14.25.03:229][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.25.03:478][920]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/NS_MeteorAttack
+[2024.05.06-14.25.03:479][920]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_MeteorAttackE6F8537E457ADA603EDFD4B689053348.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/NS_MeteorAttack.uasset'
+[2024.05.06-14.25.03:486][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 9.88 sec)
+[2024.05.06-14.25.03:606][920]AssetCheck: New page: Asset Save: NS_MeteorAttack
+[2024.05.06-14.25.03:606][920]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack
+[2024.05.06-14.25.03:606][920]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.06-14.25.03:606][920]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.06-14.25.13:828][573]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.05.06-14.25.20:052][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.25.20:311][ 53]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/NS_MeteorAttack
+[2024.05.06-14.25.20:311][ 53]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_MeteorAttack58F7B94A4509D1886D4112A9DFA78970.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/NS_MeteorAttack.uasset'
+[2024.05.06-14.25.20:319][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 10.1 sec)
+[2024.05.06-14.25.20:445][ 53]AssetCheck: New page: Asset Save: NS_MeteorAttack
+[2024.05.06-14.25.20:445][ 53]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack
+[2024.05.06-14.25.20:445][ 53]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.06-14.25.20:445][ 53]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.06-14.25.44:693][132]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-14.25.45:563][177]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash dd51e51306ae37da8ca73b7fa5c4b2ca51fab0c2 and existing hash dc20a004870a204555d33b25b403da0ef1998b6d for LegacyNiagaraScriptDerivedData/eaf12630a5c071033d42aa6e825ca722c0b49a0b from '/Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack:SystemSpawnScript'
+[2024.05.06-14.25.46:468][177]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 19d99acd26e71459d3e9648ddb633ab7c1085975 and existing hash c53f18b41a3602dbf1c072ecabe0e99d81b064c4 for LegacyNiagaraScriptDerivedData/16da33673d713f07c37743521734d479d0bda9c5 from '/Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack:SystemUpdateScript'
+[2024.05.06-14.25.46:576][177]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack took 1.405922 sec (time since issued), 1.581574 sec (combined shader worker time).
+[2024.05.06-14.25.46:585][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.25.46:840][177]LogSavePackage: Moving output files for package: /Game/Niagara/19-MeteorAttack/NS_MeteorAttack
+[2024.05.06-14.25.46:841][177]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_MeteorAttack94D5458E461347300922ECA3120665FF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/19-MeteorAttack/NS_MeteorAttack.uasset'
+[2024.05.06-14.25.46:850][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 264 ms (total: 10.4 sec)
+[2024.05.06-14.25.46:973][177]AssetCheck: New page: Asset Save: NS_MeteorAttack
+[2024.05.06-14.25.46:973][177]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/19-MeteorAttack/NS_MeteorAttack.NS_MeteorAttack
+[2024.05.06-14.25.46:973][177]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.06-14.25.46:973][177]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.06-14.25.57:431][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.25.57:538][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.06-14.25.57:588][944]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.06-14.25.57:589][944]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F7DDA47749FD1E8E6482EE82E0B7974F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.06-14.25.57:595][944]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.084
+[2024.05.06-14.25.57:601][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 10.5 sec)
+[2024.05.06-14.25.57:603][944]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.06-14.25.57:603][944]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.06-14.25.59:715][ 81]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.06-14.25.59:724][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.06-14.25.59:724][ 81]PIE: New page: PIE session: NiagaraCourse_1 (6 трав. 2024 р., 20:25:59)
+[2024.05.06-14.25.59:724][ 81]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2024.05.06-14.25.59:726][ 81]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.05.06-14.25.59:741][ 82]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.06-14.25.59:759][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017348s)
+[2024.05.06-14.25.59:759][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.017394s)
+[2024.05.06-14.25.59:764][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.06-14.25.59:767][ 82]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-14.25.59:767][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.06-14.25.59:768][ 82]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.06-14.25.59:768][ 82]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2024.05.06-14.25.59:768][ 82]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.06-14.25.59:768][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.06-14.25.59:768][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.06-14.25.59:768][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.06-14.25.59:768][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.06-14.25.59:768][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.06-14.25.59:768][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.06-14.25.59:768][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.06-14.25.59:768][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.06-14.25.59:769][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.06-14.25.59:769][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.06-14.25.59:769][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.06-14.25.59:771][ 82]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.06-14.25.59:797][ 82]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.06-14.25.59:797][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.06-14.25.59:797][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.06-14.25.59:797][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.06-14.25.59:799][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.06-14.25.59:799][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.05.06-14.25.59:800][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.06-14.25.59:800][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.06-14.25.59:800][ 82]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.06-14.25.59:800][ 82]LogAudio: Display: Audio Device (ID: 4) registered with world 'NiagaraCourse_1'.
+[2024.05.06-14.25.59:800][ 82]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.06-14.25.59:803][ 82]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.06-14.25.59:856][ 82]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.06-17.25.59
+[2024.05.06-14.25.59:868][ 82]LogWorld: Bringing up level for play took: 0.064795
+[2024.05.06-14.25.59:874][ 82]PIE: Server logged in
+[2024.05.06-14.25.59:875][ 82]PIE: Play in editor total start time 0,152 seconds.
+[2024.05.06-14.26.13:219][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.06-14.26.13:220][803]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.06-14.26.13:220][803]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-14.26.13:222][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-14.26.13:229][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.06-14.26.13:234][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-14.26.13:242][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.06-14.26.13:244][803]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.06-14.26.13:244][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.06-14.26.13:245][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.06-14.26.13:257][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.06-14.26.13:303][804]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.05.06-14.26.18:273][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.26.18:341][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.06-14.26.18:390][ 63]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.06-14.26.18:391][ 63]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_189172CC94CF047CBE6087685CF32F8F2.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.06-14.26.18:397][ 63]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.076
+[2024.05.06-14.26.18:402][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 10.7 sec)
+[2024.05.06-14.26.18:404][ 63]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.06-14.26.18:404][ 63]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.06-14.26.20:338][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.06-14.26.20:346][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.06-14.26.20:346][185]PIE: New page: PIE session: NiagaraCourse_1 (6 трав. 2024 р., 20:26:20)
+[2024.05.06-14.26.20:346][185]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2024.05.06-14.26.20:349][185]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.05.06-14.26.20:363][186]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.06-14.26.20:381][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017421s)
+[2024.05.06-14.26.20:381][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.017461s)
+[2024.05.06-14.26.20:387][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.06-14.26.20:388][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-14.26.20:388][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.06-14.26.20:388][186]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.06-14.26.20:388][186]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2024.05.06-14.26.20:388][186]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.06-14.26.20:388][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.06-14.26.20:388][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.06-14.26.20:388][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.06-14.26.20:388][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.06-14.26.20:388][186]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.06-14.26.20:388][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.06-14.26.20:388][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.06-14.26.20:388][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.06-14.26.20:389][186]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.06-14.26.20:389][186]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.06-14.26.20:389][186]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.06-14.26.20:391][186]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.06-14.26.20:415][186]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.06-14.26.20:415][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.06-14.26.20:415][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.06-14.26.20:415][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.06-14.26.20:415][186]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.06-14.26.20:415][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.05.06-14.26.20:417][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.06-14.26.20:417][186]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.06-14.26.20:417][186]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.06-14.26.20:417][186]LogAudio: Display: Audio Device (ID: 5) registered with world 'NiagaraCourse_1'.
+[2024.05.06-14.26.20:417][186]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.06-14.26.20:420][186]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.06-14.26.20:469][186]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.06-17.26.20
+[2024.05.06-14.26.20:481][186]LogWorld: Bringing up level for play took: 0.061373
+[2024.05.06-14.26.20:488][186]PIE: Server logged in
+[2024.05.06-14.26.20:489][186]PIE: Play in editor total start time 0,143 seconds.
+[2024.05.06-14.26.34:989][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.06-14.26.34:989][923]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.06-14.26.34:989][923]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-14.26.34:992][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-14.26.34:996][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.06-14.26.35:001][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-14.26.35:008][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.06-14.26.35:008][923]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.06-14.26.35:008][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.06-14.26.35:010][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.06-14.26.35:013][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.06-14.26.35:024][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.06-14.26.35:070][924]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.05.06-14.26.36:120][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-14.26.36:213][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.06-14.26.36:262][974]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.06-14.26.36:263][974]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_15134D3914285D75EDEA3F4A5D0B4680E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.06-14.26.36:270][974]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.076
+[2024.05.06-14.26.36:276][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 10.8 sec)
+[2024.05.06-14.26.36:277][974]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.06-14.26.36:277][974]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
