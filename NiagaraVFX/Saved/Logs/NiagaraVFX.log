@@ -3051,3 +3051,342 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.05.06-10.20.23:942][513]AssetCheck: New page: Asset Save: NS_HitEffectBody
 [2024.05.06-10.20.23:942][513]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/17-HitSurface/NS_HitEffectBody.NS_HitEffectBody
 [2024.05.06-10.20.29:371][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: ================================================
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Total job queries 464, among them cache hits 144 (31.03%)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Tracking 320 distinct input hashes that result in 171 distinct outputs (53.44%)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: RAM used: 7,32 MiB of 1,60 GiB budget. Usage: 0.45%
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Shaders Compiled: 272
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Jobs assigned 272, completed 272 (100%)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Average time worker was idle: 78.24 s
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.69 s
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Job execution time: average 0.32 s, max 1.31 s
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 1.32
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Shader code size: average 24,731 KiB, min 1,877 KiB, max 81,055 KiB
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.49 s
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Jobs were issued in 272 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Average processing rate: 3.65 jobs/sec
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Total thread time: 60,924 s
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Total thread preprocess time: 0,813 s
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Percentage time preprocessing: 1.34%
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Effective parallelization: 0.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.42 sec, max 0.57 sec, min 0.29 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.38 sec, max 0.46 sec, min 0.31 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.30 sec, max 0.32 sec, min 0.26 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.27 sec, max 0.31 sec, min 0.25 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                               FNiagaraShader - 87.29% of total time (compiled  247 times, average 0.22 sec, max 1.26 sec, min 0.04 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.45% of total time (compiled    5 times, average 0.42 sec, max 0.57 sec, min 0.29 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.77% of total time (compiled    5 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.75% of total time (compiled    4 times, average 0.27 sec, max 0.31 sec, min 0.25 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display:                                             FDebugViewModeVS - 1.48% of total time (compiled    4 times, average 0.22 sec, max 0.25 sec, min 0.20 sec)
+[2024.05.06-10.31.54:617][207]LogShaderCompilers: Display: ================================================
+[2024.05.06-10.31.57:357][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.31.57:431][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.06-10.31.57:480][328]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.06-10.31.57:481][328]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1E97CBF0F4FECF0F2E34114BE21E62CA9.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.06-10.31.57:488][328]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.091
+[2024.05.06-10.31.57:493][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 11.3 sec)
+[2024.05.06-10.31.57:495][328]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.06-10.31.57:495][328]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.06-10.32.06:797][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.32.06:895][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.06-10.32.06:943][872]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.06-10.32.06:943][872]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_113E507324AFC2E19775CC4A1A653AB24.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.06-10.32.06:949][872]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.085
+[2024.05.06-10.32.06:959][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 11.4 sec)
+[2024.05.06-10.32.06:961][872]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.06-10.32.06:961][872]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.06-10.32.12:757][220]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.06-10.32.12:791][220]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.06-10.32.12:804][221]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.06-10.32.18:337][592]LogContentBrowser: Attempting asset rename: NewFolder -> 18-Butterfly
+[2024.05.06-10.32.18:338][592]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.06-10.32.19:494][668]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.05.06-10.32.19:494][668]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.05.06-10.32.30:666][929]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.05.06-10.32.30:673][929]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.05.06-10.32.30:680][929]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.05.06-10.32.30:706][931]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.05.06-10.32.37:286][356]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_Butterfly
+[2024.05.06-10.32.37:296][356]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.05.06-10.32.38:552][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.32.38:751][421]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 1.457162 sec (time since issued), 1.440209 sec (combined shader worker time).
+[2024.05.06-10.32.38:779][421]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.05.06-10.32.38:806][421]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.32.38:806][421]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ButterflyA3D7EEAA4E44C1B1C0B597AE6F57832B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.32.38:812][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 11.7 sec)
+[2024.05.06-10.32.38:813][421]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.32.38:813][421]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.32.47:321][947]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.32.47:321][947]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.32.47:322][947]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_0
+[2024.05.06-10.32.47:322][947]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_0
+[2024.05.06-10.32.47:531][959]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.32.47:531][959]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.32.47:533][959]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_6
+[2024.05.06-10.32.47:534][959]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_6
+[2024.05.06-10.33.03:573][898]LogContentBrowser: Deferred new asset file creation: M_SubUVSmoke_Inst
+[2024.05.06-10.33.03:584][898]LogContentBrowser: Creating deferred item: M_SubUVSmoke_Inst
+[2024.05.06-10.33.03:597][899]LogContentBrowser: Renaming the item being created (Deferred Item: M_SubUVSmoke_Inst).
+[2024.05.06-10.33.11:123][396]LogContentBrowser: Attempting asset rename: M_SubUVSmoke_Inst -> MI_ButterflySubUV
+[2024.05.06-10.33.11:124][396]LogContentBrowser: End creating deferred item M_SubUVSmoke_Inst
+[2024.05.06-10.33.14:655][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.33.14:748][564]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/MI_ButterflySubUV
+[2024.05.06-10.33.14:748][564]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_ButterflySubUV8A4438744289CA9BF7738CBBCCC41F82.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/MI_ButterflySubUV.uasset'
+[2024.05.06-10.33.14:754][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 11.8 sec)
+[2024.05.06-10.33.14:787][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.05.06-10.33.14:811][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.06-10.33.14:827][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.06-10.33.14:842][564]AssetCheck: New page: Asset Save: MI_ButterflySubUV
+[2024.05.06-10.33.14:842][564]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/18-Butterfly/MI_ButterflySubUV.MI_ButterflySubUV
+[2024.05.06-10.33.25:928][261]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/18-Butterfly/MI_ButterflySubUV.MI_ButterflySubUV
+[2024.05.06-10.33.25:930][261]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-10.33.25:930][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.06-10.33.26:165][261]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.06-10.33.39:536][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.33.39:610][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.06-10.33.39:660][651]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.06-10.33.39:660][651]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_184BB51E64B691FDC120B6BBEEC17FEF5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.06-10.33.39:666][651]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.087
+[2024.05.06-10.33.39:744][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.06-10.33.39:765][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.06-10.33.39:766][651]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/MI_ButterflySubUV
+[2024.05.06-10.33.39:767][651]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_ButterflySubUVEBF40B0640C49B491842E69B46C675FC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/MI_ButterflySubUV.uasset'
+[2024.05.06-10.33.39:774][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 12.0 sec)
+[2024.05.06-10.33.39:777][651]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.06-10.33.39:777][651]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.06-10.33.39:777][651]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/18-Butterfly/MI_ButterflySubUV.MI_ButterflySubUV
+[2024.05.06-10.33.52:034][849]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-10.33.52:034][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-10.33.52:054][849]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-10.33.52:054][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-10.33.52:100][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.06-10.33.55:439][129]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-10.33.55:448][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-10.33.55:475][129]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-10.33.55:475][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-10.33.55:532][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.06-10.33.57:638][255]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.33.57:737][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-10.33.57:737][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.06-10.33.57:787][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-10.33.57:787][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.06-10.33.57:878][255]LogViewport: Scene viewport resized to 533x500, mode Windowed.
+[2024.05.06-10.33.58:804][322]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 1.155731 sec (time since issued), 1.140658 sec (combined shader worker time).
+[2024.05.06-10.33.58:876][329]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.34.07:423][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.06-10.34.07:429][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.34.07:493][170]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.34.07:493][170]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ButterflyC499EE3B49527A523E159FA9974BC40E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.34.07:501][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 12.1 sec)
+[2024.05.06-10.34.07:502][170]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.34.07:502][170]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.34.19:091][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.34.19:152][477]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.34.19:153][477]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ButterflyC3478A3349C7D71BE442AAA3E951FAA7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.34.19:159][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 12.2 sec)
+[2024.05.06-10.34.19:171][477]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.34.19:171][477]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.34.24:052][  0]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.34.24:743][ 70]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.781004 sec (time since issued), 0.768902 sec (combined shader worker time).
+[2024.05.06-10.34.26:058][190]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.34.26:281][209]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.399138 sec (time since issued), 0.390565 sec (combined shader worker time).
+[2024.05.06-10.34.27:019][270]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.709149 sec (time since issued), 0.698094 sec (combined shader worker time).
+[2024.05.06-10.34.28:062][381]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.34.28:866][451]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.647425 sec (time since issued), 0.636911 sec (combined shader worker time).
+[2024.05.06-10.34.30:063][589]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.34.38:404][505]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.34.38:940][552]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.636090 sec (time since issued), 0.624501 sec (combined shader worker time).
+[2024.05.06-10.34.40:411][706]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.34.46:018][279]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.365101 sec (time since issued), 0.920473 sec (combined shader worker time).
+[2024.05.06-10.34.46:026][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.34.46:099][279]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.34.46:100][279]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ButterflyE69964FD48B3B678D1FAE38EB2B50DAB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.34.46:105][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 12.3 sec)
+[2024.05.06-10.34.46:169][279]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.34.46:169][279]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: ================================================
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Total job queries 490, among them cache hits 151 (30.82%)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Tracking 339 distinct input hashes that result in 173 distinct outputs (51.03%)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: RAM used: 7,62 MiB of 1,60 GiB budget. Usage: 0.47%
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Shaders Compiled: 291
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Jobs assigned 291, completed 291 (100%)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Average time worker was idle: 79.75 s
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.69 s
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Job execution time: average 0.32 s, max 1.31 s
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.32
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Shader code size: average 24,165 KiB, min 1,877 KiB, max 81,055 KiB
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.04 s
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Jobs were issued in 291 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Average processing rate: 3.68 jobs/sec
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Total thread time: 62,773 s
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Total thread preprocess time: 0,813 s
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Percentage time preprocessing: 1.30%
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Effective parallelization: 0.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.42 sec, max 0.57 sec, min 0.29 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.38 sec, max 0.46 sec, min 0.31 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.30 sec, max 0.32 sec, min 0.26 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.27 sec, max 0.31 sec, min 0.25 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                               FNiagaraShader - 87.67% of total time (compiled  266 times, average 0.21 sec, max 1.26 sec, min 0.04 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.35% of total time (compiled    5 times, average 0.42 sec, max 0.57 sec, min 0.29 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.69% of total time (compiled    5 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.70% of total time (compiled    4 times, average 0.27 sec, max 0.31 sec, min 0.25 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display:                                             FDebugViewModeVS - 1.43% of total time (compiled    4 times, average 0.22 sec, max 0.25 sec, min 0.20 sec)
+[2024.05.06-10.35.02:435][120]LogShaderCompilers: Display: ================================================
+[2024.05.06-10.35.03:229][186]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 1.111807 sec (time since issued), 1.095900 sec (combined shader worker time).
+[2024.05.06-10.35.03:299][193]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.35.03:363][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.06-10.35.03:374][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.35.03:454][195]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.35.03:454][195]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ButterflyE9CC76124A96C72A3B5698A44B264775.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.35.03:460][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 12.3 sec)
+[2024.05.06-10.35.03:461][195]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.35.03:461][195]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.35.07:299][612]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.35.08:173][694]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.985472 sec (time since issued), 0.970266 sec (combined shader worker time).
+[2024.05.06-10.35.08:998][721]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.561736 sec (time since issued), 1.257822 sec (combined shader worker time).
+[2024.05.06-10.35.09:007][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.35.09:082][721]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.35.09:082][721]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ButterflyAFFF673F4702F9340CFF93A3EFD7C3F3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.35.09:088][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 12.4 sec)
+[2024.05.06-10.35.09:149][721]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.35.09:149][721]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.35.09:302][733]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.35.11:732][ 14]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.05.06-10.35.24:596][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.35.24:675][405]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.35.24:675][405]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Butterfly92DDDF99401E5F3977CAC3984452DA4D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.35.24:681][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 12.5 sec)
+[2024.05.06-10.35.24:697][405]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.35.24:697][405]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.35.28:751][833]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.35.29:446][900]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.815609 sec (time since issued), 0.802110 sec (combined shader worker time).
+[2024.05.06-10.35.30:757][ 20]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.35.30:948][ 38]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.743781 sec (time since issued), 0.729045 sec (combined shader worker time).
+[2024.05.06-10.35.32:764][247]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.35.36:404][636]LogNiagaraEditor: Removed Var 'Constants.RedButterfly.AddVelocity.Velocity Speed' from Script NiagaraScript /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly:RedButterfly_0.SpawnScript
+[2024.05.06-10.35.36:591][638]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.35.37:134][691]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.668096 sec (time since issued), 0.653807 sec (combined shader worker time).
+[2024.05.06-10.35.38:598][851]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.35.45:784][643]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.35.46:849][746]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 1.178940 sec (time since issued), 1.160342 sec (combined shader worker time).
+[2024.05.06-10.35.47:786][850]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.35.53:745][530]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.35.54:915][645]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 1.289168 sec (time since issued), 1.270106 sec (combined shader worker time).
+[2024.05.06-10.35.55:748][734]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.35.58:937][ 88]LogNiagaraEditor: Removed Var 'Constants.RedButterfly.SpawnRate.SpawnRate' from Script NiagaraScript /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly:SystemUpdateScript
+[2024.05.06-10.35.58:938][ 88]LogNiagaraEditor: Removed Var 'Constants.RedButterfly.SpawnRate.SpawnRate' from Script NiagaraScript /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly:RedButterfly_0.EmitterUpdateScript
+[2024.05.06-10.35.59:121][ 90]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.35.59:965][170]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.967673 sec (time since issued), 0.947987 sec (combined shader worker time).
+[2024.05.06-10.36.01:129][290]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.36.24:718][859]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-10.36.41:054][591]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-10.36.43:286][778]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.603535 sec (time since issued), 1.579619 sec (combined shader worker time).
+[2024.05.06-10.36.43:293][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.36.43:361][778]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.36.43:361][778]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ButterflyB6EB6BF14C9FB16DF030FCA5C27192AC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.36.43:367][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 12.6 sec)
+[2024.05.06-10.36.43:385][778]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.36.43:386][778]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.36.49:682][426]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.36.50:365][496]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.815522 sec (time since issued), 0.799755 sec (combined shader worker time).
+[2024.05.06-10.36.51:684][637]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.36.56:803][195]LogNiagaraEditor: Removed Var 'Constants.RedButterfly.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly:RedButterfly_0.SpawnScript
+[2024.05.06-10.36.56:805][195]LogNiagaraEditor: Removed Var 'Constants.RedButterfly.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly:RedButterfly_0.UpdateScript
+[2024.05.06-10.36.57:041][197]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.36.57:684][256]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 0.811752 sec (time since issued), 0.794382 sec (combined shader worker time).
+[2024.05.06-10.36.59:046][407]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.37.13:479][  2]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.37.14:300][ 82]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 1.025591 sec (time since issued), 1.003773 sec (combined shader worker time).
+[2024.05.06-10.37.15:482][207]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.37.20:343][728]LogNiagaraEditor: Removed Var 'Constants.RedButterfly.ShapeLocation.Sphere Radius' from Script NiagaraScript /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly:RedButterfly_0.SpawnScript
+[2024.05.06-10.37.20:631][730]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.37.21:462][805]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 1.053889 sec (time since issued), 1.031174 sec (combined shader worker time).
+[2024.05.06-10.37.22:636][928]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.37.31:804][898]188512_NS_Butterfly_MessageLog: System compile status unknown.
+[2024.05.06-10.37.34:359][139]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 2.869947 sec (time since issued), 2.833471 sec (combined shader worker time).
+[2024.05.06-10.37.34:473][146]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.37.37:322][268]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 1.686607 sec (time since issued), 2.868232 sec (combined shader worker time).
+[2024.05.06-10.37.37:331][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.37.37:425][268]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.37.37:426][268]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Butterfly935A33574C222C97B0C85896E57D2758.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.37.37:432][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 12.7 sec)
+[2024.05.06-10.37.37:474][268]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.37.37:475][268]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.37.42:355][628]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 3.232163 sec (time since issued), 3.155331 sec (combined shader worker time).
+[2024.05.06-10.37.42:572][638]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.37.47:331][ 19]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 3.328000 sec (time since issued), 3.280870 sec (combined shader worker time).
+[2024.05.06-10.37.47:528][ 28]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.37.51:916][344]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 2.629636 sec (time since issued), 2.575639 sec (combined shader worker time).
+[2024.05.06-10.37.55:122][551]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 3.194175 sec (time since issued), 3.137269 sec (combined shader worker time).
+[2024.05.06-10.37.55:383][562]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: ================================================
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Total job queries 553, among them cache hits 155 (28.03%)
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Tracking 398 distinct input hashes that result in 215 distinct outputs (54.02%)
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: RAM used: 9,20 MiB of 1,60 GiB budget. Usage: 0.56%
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Shaders Compiled: 350
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Jobs assigned 350, completed 350 (100%)
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Average time worker was idle: 70.40 s
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.69 s
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 1.51 s
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 1.61
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Shader code size: average 24,669 KiB, min 1,664 KiB, max 81,055 KiB
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 103.98 s
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Jobs were issued in 350 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Average processing rate: 3.37 jobs/sec
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Total thread time: 81,857 s
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Total thread preprocess time: 0,813 s
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Percentage time preprocessing: 0.99%
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Effective parallelization: 0.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.42 sec, max 0.57 sec, min 0.29 sec)
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.38 sec, max 0.46 sec, min 0.31 sec)
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.30 sec, max 0.32 sec, min 0.26 sec)
+[2024.05.06-10.38.02:478][100]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.27 sec, max 0.31 sec, min 0.25 sec)
+[2024.05.06-10.38.02:479][100]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.06-10.38.02:479][100]LogShaderCompilers: Display:                                               FNiagaraShader - 90.54% of total time (compiled  325 times, average 0.23 sec, max 1.47 sec, min 0.04 sec)
+[2024.05.06-10.38.02:479][100]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 2.57% of total time (compiled    5 times, average 0.42 sec, max 0.57 sec, min 0.29 sec)
+[2024.05.06-10.38.02:479][100]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.06% of total time (compiled    5 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2024.05.06-10.38.02:479][100]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.30% of total time (compiled    4 times, average 0.27 sec, max 0.31 sec, min 0.25 sec)
+[2024.05.06-10.38.02:479][100]LogShaderCompilers: Display:                                             FDebugViewModeVS - 1.10% of total time (compiled    4 times, average 0.22 sec, max 0.25 sec, min 0.20 sec)
+[2024.05.06-10.38.02:479][100]LogShaderCompilers: Display: ================================================
+[2024.05.06-10.38.02:558][101]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 3.271490 sec (time since issued), 3.213913 sec (combined shader worker time).
+[2024.05.06-10.38.02:828][112]188512_NS_Butterfly_MessageLog: System successfully compiled.
+[2024.05.06-10.38.18:896][453]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-10.38.28:528][237]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.06-10.38.32:136][292]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly took 2.934394 sec (time since issued), 10.690906 sec (combined shader worker time).
+[2024.05.06-10.38.32:145][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.38.32:305][292]LogSavePackage: Moving output files for package: /Game/Niagara/18-Butterfly/NS_Butterfly
+[2024.05.06-10.38.32:305][292]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_ButterflyAF40B1AB4D8371E9264E55A7BAC385A4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/18-Butterfly/NS_Butterfly.uasset'
+[2024.05.06-10.38.32:312][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 12.9 sec)
+[2024.05.06-10.38.32:415][292]AssetCheck: New page: Asset Save: NS_Butterfly
+[2024.05.06-10.38.32:415][292]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/18-Butterfly/NS_Butterfly.NS_Butterfly
+[2024.05.06-10.38.49:744][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.06-10.38.49:939][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.05.06-10.38.49:989][352]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.06-10.38.49:989][352]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1A842A67F4E0B5E7345CFCC9F42D1DE86.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.06-10.38.49:995][352]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.179
+[2024.05.06-10.38.50:002][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 13.1 sec)
+[2024.05.06-10.38.50:004][352]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.06-10.38.50:004][352]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.06-10.38.53:085][528]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-10.38.53:089][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-10.38.53:104][528]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-10.38.53:104][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-10.38.53:158][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.05.06-10.38.53:843][568]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-10.38.53:843][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-10.38.54:874][630]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-10.38.54:874][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
