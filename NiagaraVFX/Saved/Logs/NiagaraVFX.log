@@ -5787,3 +5787,100 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.10-20.14.51:453][ 94]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2024.05.10-20.14.51:453][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.05.10-20.14.51:510][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.10-20.17.01:294][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.10-20.17.03:373][528]LogSlate: Window 'Save Content' being destroyed
+[2024.05.10-20.20.18:124][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.10-20.20.18:230][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.20.18:296][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.10-20.20.18:353][434]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.10-20.20.18:354][434]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1AB8BD2A64044A524899A478054CD4292.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.10-20.20.18:360][434]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.085
+[2024.05.10-20.20.18:366][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 23.4 sec)
+[2024.05.10-20.20.18:368][434]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.10-20.20.18:368][434]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.10-20.26.45:860][908]LogEditorClassViewer: Warning: Class /Game/M5VFXVOL2/BluePrints/Niagara_BP/Nbuilding_DM_Blueprint.Nbuilding_DM_Blueprint_C has parent /Script/ApexDestruction.DestructibleActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.10-20.26.49:479][908]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.10-20.26.49:485][908]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.10-20.26.49:493][908]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.10-20.26.49:515][909]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.10-20.26.59:704][ 27]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ProjectileMaster
+[2024.05.10-20.26.59:787][ 27]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.10-20.27.01:369][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.27.01:418][178]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster
+[2024.05.10-20.27.01:418][178]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_ProjectileMasterE5870E404389A2872B77A1B453539B9B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/BP_ProjectileMaster.uasset'
+[2024.05.10-20.27.01:569][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 23.6 sec)
+[2024.05.10-20.27.01:570][178]AssetCheck: New page: Asset Save: BP_ProjectileMaster
+[2024.05.10-20.27.01:570][178]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster.BP_ProjectileMaster
+[2024.05.10-20.27.01:860][207]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster.BP_ProjectileMaster
+[2024.05.10-20.27.01:861][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-20.27.01:861][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-20.27.01:870][207]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.10-20.27.03:139][207]LogViewport: Scene viewport resized to 1110x685, mode Windowed.
+[2024.05.10-20.27.53:198][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.27.53:236][956]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster
+[2024.05.10-20.27.53:236][956]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_ProjectileMasterD8D6EBD54642E17F86C810AE2F6BCF39.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/BP_ProjectileMaster.uasset'
+[2024.05.10-20.27.53:251][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 23.7 sec)
+[2024.05.10-20.27.53:252][956]AssetCheck: New page: Asset Save: BP_ProjectileMaster
+[2024.05.10-20.27.53:252][956]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster.BP_ProjectileMaster
+[2024.05.10-20.28.11:958][124]LogSlate: Took 0.004688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.10-20.30.29:910][926]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/AttributeReaderTrails.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/AttributeReaderTrails.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.31.17:943][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.31.17:996][516]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster
+[2024.05.10-20.31.17:996][516]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_ProjectileMaster9F39199047138F15F4647F96C30BC121.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/BP_ProjectileMaster.uasset'
+[2024.05.10-20.31.18:002][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 23.7 sec)
+[2024.05.10-20.31.18:004][516]AssetCheck: New page: Asset Save: BP_ProjectileMaster
+[2024.05.10-20.31.18:004][516]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster.BP_ProjectileMaster
+[2024.05.10-20.32.24:345][ 13]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.10-20.32.30:070][395]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraBlockingVolume
+[2024.05.10-20.32.30:070][395]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraBlockingVolume
+[2024.05.10-20.32.30:072][395]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraBlockingVolume as actor: CameraBlockingVolume /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.CameraBlockingVolume_0
+[2024.05.10-20.32.30:072][395]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraBlockingVolume as actor: CameraBlockingVolume /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.CameraBlockingVolume_0
+[2024.05.10-20.32.31:430][492]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:38.019 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19557 files in 21213 folders with total size 841 MiB.
+[2024.05.10-20.32.31:835][523]Cmd: DELETE
+[2024.05.10-20.32.31:835][523]Cmd: ACTOR DELETE
+[2024.05.10-20.32.31:855][523]LogEditorActor: Deleted Actor: CameraBlockingVolume
+[2024.05.10-20.32.31:882][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.10-20.32.31:893][523]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2024.05.10-20.32.36:056][816]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.05.10-20.32.36:056][816]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.05.10-20.32.36:057][816]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BlockingVolume_0
+[2024.05.10-20.32.36:058][816]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BlockingVolume_0
+[2024.05.10-20.32.46:043][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.32.46:123][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.10-20.32.46:180][408]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.10-20.32.46:180][408]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1B9A83BE344597906AB0F1CA28307A336.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.10-20.32.46:186][408]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.096
+[2024.05.10-20.32.46:195][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 23.9 sec)
+[2024.05.10-20.32.46:197][408]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.10-20.32.46:197][408]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.10-20.32.46:658][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.10-20.32.46:753][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.32.46:803][440]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster
+[2024.05.10-20.32.46:803][440]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_ProjectileMaster0CE1723D4F9D84F09EBC79B785C5E742.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/BP_ProjectileMaster.uasset'
+[2024.05.10-20.32.46:809][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 23.9 sec)
+[2024.05.10-20.32.46:810][440]AssetCheck: New page: Asset Save: BP_ProjectileMaster
+[2024.05.10-20.32.46:810][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster.BP_ProjectileMaster
+[2024.05.10-20.33.41:167][601]BlueprintLog: New page: Compile BP_ProjectileMaster
+[2024.05.10-20.33.41:202][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.10-20.34.26:579][534]BlueprintLog: New page: Compile BP_ProjectileMaster
+[2024.05.10-20.34.26:619][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.10-20.34.27:227][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.34.27:282][590]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster
+[2024.05.10-20.34.27:282][590]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_ProjectileMasterC09EE9D64A0B628185E47B95466059FA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/BP_ProjectileMaster.uasset'
+[2024.05.10-20.34.27:288][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 24.0 sec)
+[2024.05.10-20.34.27:290][590]AssetCheck: New page: Asset Save: BP_ProjectileMaster
+[2024.05.10-20.34.27:290][590]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/22-EnergyBlade/BP_ProjectileMaster.BP_ProjectileMaster
+[2024.05.10-20.34.29:163][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.34.29:232][788]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/NS_EnergyBlade
+[2024.05.10-20.34.29:232][788]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_EnergyBladeF4B00D4C404713614FA2C2969097EB25.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/NS_EnergyBlade.uasset'
+[2024.05.10-20.34.29:240][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 24.1 sec)
+[2024.05.10-20.34.29:251][788]AssetCheck: New page: Asset Save: NS_EnergyBlade
+[2024.05.10-20.34.29:253][788]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.34.30:988][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.34.31:056][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.10-20.34.31:112][925]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.10-20.34.31:113][925]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F491CAEE44B3BDBC37A68D972886078C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.10-20.34.31:120][925]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.098
+[2024.05.10-20.34.31:125][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 24.2 sec)
+[2024.05.10-20.34.31:127][925]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.10-20.34.31:127][925]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
