@@ -4717,3 +4717,1073 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.10-19.45.34:975][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 21.0 sec)
 [2024.05.10-19.45.34:978][943]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.05.10-19.45.34:978][943]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.10-19.49.30:037][868]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.05.10-19.49.30:037][868]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.05.10-19.59.40:115][509]LogSlate: Window 'View Changes' being destroyed
+[2024.05.10-19.59.40:134][509]LogSlate: Window 'View Changes' being destroyed
+[2024.05.10-19.59.54:398][337]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.05.10-20.00.16:207][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:230][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:252][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:275][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:298][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:321][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:343][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:366][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:390][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:411][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:435][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:458][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:482][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:504][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:527][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:551][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:573][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:596][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:618][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:641][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:664][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:685][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:709][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:731][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:755][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:777][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:799][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:822][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:844][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:868][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:890][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:912][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:935][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:956][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.16:979][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:003][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:026][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:048][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:070][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:092][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:114][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:136][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:159][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:182][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:204][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:226][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:249][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:272][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:295][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:318][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:340][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:362][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:385][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:407][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:429][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:452][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:475][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:499][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:522][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:546][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:568][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:591][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:613][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:635][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:657][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:680][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:702][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:725][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:749][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:770][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:792][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:817][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:839][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:862][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:885][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:908][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:931][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:954][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:977][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.17:999][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:021][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:043][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:065][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:088][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:111][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:134][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:157][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:179][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:201][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:224][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:247][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:270][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:292][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:314][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:336][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:359][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:382][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:405][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:427][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:449][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:472][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:495][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:517][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:538][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:561][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:584][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:605][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:628][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:650][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:673][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:696][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:719][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:742][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:764][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:788][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:810][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:833][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:855][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:877][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:900][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:922][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:944][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:968][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.18:990][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:013][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:037][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:060][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:083][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:106][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:129][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:152][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:174][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:197][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:220][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:244][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:266][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:289][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:312][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:336][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:359][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:382][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:404][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:427][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:449][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:472][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:494][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:517][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:539][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:562][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:585][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:607][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:629][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:651][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:674][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:699][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:721][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:744][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:766][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:791][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:812][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:835][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:858][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:882][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:904][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:927][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:951][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:973][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.19:997][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:020][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:042][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:065][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:088][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:110][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:134][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:157][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:180][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:204][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:227][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:250][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:272][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:296][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:318][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:340][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:362][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:385][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:407][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:429][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:452][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:474][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:496][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:519][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:541][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:564][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:587][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:610][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:633][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:655][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:678][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:701][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:723][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:746][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:768][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:790][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:813][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:834][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:857][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:879][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:901][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:923][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:945][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:968][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.20:991][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:013][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:036][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:059][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:082][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:103][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:126][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:147][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:170][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:192][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:215][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:236][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:259][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:281][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:304][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:326][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:348][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:371][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:393][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:417][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:439][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:462][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:484][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:507][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:529][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:551][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:574][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:596][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:619][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:643][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:665][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:688][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:712][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:735][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:757][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:781][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:804][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:826][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:848][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:872][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:894][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:917][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:940][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:963][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.21:986][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:008][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:030][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:052][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:074][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:097][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:119][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:142][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:165][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:189][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:211][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:234][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:258][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:281][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:304][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:327][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:350][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:372][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:395][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:417][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:438][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:461][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:484][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:506][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:529][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:551][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:574][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:597][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:620][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:644][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:667][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:689][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:711][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:734][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:756][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:779][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:802][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:824][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:846][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:869][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:891][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:913][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:937][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:960][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.22:982][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:006][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:029][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:052][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:074][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:097][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:120][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:142][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:165][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:187][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:209][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:232][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:254][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:277][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Niagara/Textures/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Niagara/Textures/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Niagara/Textures/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Niagara/Textures/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Niagara/Textures/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Niagara/Textures/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Niagara/Textures/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/M5VFXVOL2/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/M5VFXVOL2/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/M5VFXVOL2/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/M5VFXVOL2/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/M5VFXVOL2/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/M5VFXVOL2/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/M5VFXVOL2/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/ThirdPersonContent/LevelPrototyping/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/LevelPrototyping/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/ThirdPersonContent/LevelPrototyping/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/LevelPrototyping/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/ThirdPersonContent/LevelPrototyping/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/LevelPrototyping/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Textures/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Animations/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Materials/Instances/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Rigs/Poses/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequin_UE4/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequin_UE4/': No such file or directory
+[2024.05.10-20.00.23:300][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequin_UE4/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequin_UE4/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequin_UE4/Materials/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequin_UE4/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Rigs/Poses/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Materials/Instances/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Textures/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Materials/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Textures/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/': No such file or directory
+[2024.05.10-20.00.23:301][664]SourceControl: Error: warning: could not open directory 'NiagaraVFX/Content/Characters/Mannequins/Animations/': No such file or directory
+[2024.05.10-20.00.25:651][672]LogSlate: Window 'View Changes' being destroyed
+[2024.05.10-20.00.25:655][672]LogSlate: Window 'View Changes' being destroyed
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:164][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.10-20.00.34:348][163]EditorErrors: Warning: No assets to check in!
+[2024.05.10-20.02.27:421][594]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.10-20.02.27:439][594]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.10-20.02.27:453][595]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.10-20.02.32:458][921]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.05.10-20.02.32:458][921]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.05.10-20.02.36:784][200]LogContentBrowser: Attempting asset rename: NewFolder -> 22-EnergyBlade
+[2024.05.10-20.02.36:784][200]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.10-20.02.46:901][520]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/darks/Downloads/SM_BladeSlash/SM_BladeSlash.fbx)
+[2024.05.10-20.02.46:906][520]LogFbx: Loading FBX Scene from ../../../../../../Users/darks/Downloads/SM_BladeSlash/SM_BladeSlash.fbx
+[2024.05.10-20.02.46:913][520]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.10-20.02.48:940][520]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.10-20.02.49:002][520]LogFbx: Display: Triangulating static mesh BezierCurve
+[2024.05.10-20.02.49:082][520]LogStaticMesh: Display: Building static mesh SM_BladeSlash...
+[2024.05.10-20.02.49:114][520]LogStaticMesh: Built static mesh [0.03s] /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.02.49:141][520]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.10-20.02.50:886][615]LogSlate: Window 'Message Log' being destroyed
+[2024.05.10-20.02.50:904][615]LogSlate: Window 'Message Log' being destroyed
+[2024.05.10-20.02.51:796][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.02.51:863][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.10-20.02.51:927][666]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.10-20.02.51:927][666]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_10A39983F43D0B944E609288AEF020272.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.10-20.02.51:933][666]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.092
+[2024.05.10-20.02.51:939][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 21.1 sec)
+[2024.05.10-20.02.51:941][666]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.10-20.02.51:941][666]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.10-20.02.52:595][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.02.52:694][703]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/SM_BladeSlash
+[2024.05.10-20.02.52:694][703]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/SM_BladeSlash68BF25BF4D32C2B2997D158293875110.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/SM_BladeSlash.uasset'
+[2024.05.10-20.02.52:850][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 21.4 sec)
+[2024.05.10-20.02.52:851][703]AssetCheck: New page: Asset Save: SM_BladeSlash
+[2024.05.10-20.02.52:851][703]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.02.57:082][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.02.57:082][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.02.57:083][932]LogActorFactory: Actor Factory spawned StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash as actor: StaticMeshActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.StaticMeshActor_0
+[2024.05.10-20.02.57:242][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.02.57:242][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.02.57:244][940]LogActorFactory: Actor Factory spawned StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash as actor: StaticMeshActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.StaticMeshActor_7
+[2024.05.10-20.03.01:800][216]Cmd: DELETE
+[2024.05.10-20.03.01:800][216]Cmd: ACTOR DELETE
+[2024.05.10-20.03.01:820][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.10-20.03.01:828][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.10-20.03.01:831][216]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.05.10-20.03.26:048][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.03.26:128][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.10-20.03.26:183][661]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.10-20.03.26:184][661]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_12602029346FCEBD643D0E6BEDF094582.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.10-20.03.26:190][661]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.085
+[2024.05.10-20.03.26:196][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 21.5 sec)
+[2024.05.10-20.03.26:198][661]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.10-20.03.26:198][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.10-20.04.32:343][805]Cmd: TRANSACTION UNDO
+[2024.05.10-20.04.32:343][805]LogEditorTransaction: Undo Edit Width
+[2024.05.10-20.04.34:147][837]64209_NS_EnergyStrike_MessageLog: System successfully compiled.
+[2024.05.10-20.04.44:198][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.04.44:298][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.10-20.04.44:362][364]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.10-20.04.44:363][364]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_167699EC24DD61F23F8BE16B36C88CCF0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.10-20.04.44:369][364]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.122
+[2024.05.10-20.04.44:376][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 21.7 sec)
+[2024.05.10-20.04.44:378][364]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.10-20.04.44:378][364]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.10-20.09.25:401][319]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.05.10-20.09.25:409][319]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.05.10-20.09.25:417][319]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.05.10-20.09.25:432][320]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.05.10-20.09.31:986][743]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_EnergyBlade
+[2024.05.10-20.09.32:116][743]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: ================================================
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Total job queries 1 363, among them cache hits 723 (53.04%)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Tracking 620 distinct input hashes that result in 294 distinct outputs (47.42%)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: RAM used: 15,22 MiB of 1,60 GiB budget. Usage: 0.93%
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Shaders Compiled: 523
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Jobs assigned 523, completed 523 (100%)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Average time worker was idle: 141.42 s
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.00 s
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 2.32 s
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 2.37
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Shader code size: average 32,489 KiB, min 4,465 KiB, max 84,729 KiB
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 149.59 s
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Jobs were issued in 523 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Average processing rate: 3.50 jobs/sec
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Total thread time: 158,822 s
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Total thread preprocess time: 7,219 s
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Percentage time preprocessing: 4.55%
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Effective parallelization: 1.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   36 times, average 0.46 sec, max 0.71 sec, min 0.40 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   36 times, average 0.36 sec, max 0.87 sec, min 0.26 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   36 times, average 0.35 sec, max 0.55 sec, min 0.29 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                               FNiagaraShader - 60.77% of total time (compiled  334 times, average 0.29 sec, max 2.22 sec, min 0.06 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.38% of total time (compiled   36 times, average 0.46 sec, max 0.71 sec, min 0.40 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.20% of total time (compiled   36 times, average 0.36 sec, max 0.87 sec, min 0.26 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.83% of total time (compiled   36 times, average 0.35 sec, max 0.55 sec, min 0.29 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display:                                                  FHitProxyPS - 3.54% of total time (compiled   36 times, average 0.16 sec, max 0.20 sec, min 0.13 sec)
+[2024.05.10-20.09.32:580][772]LogShaderCompilers: Display: ================================================
+[2024.05.10-20.09.33:761][838]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade took 1.646141 sec (time since issued), 1.550590 sec (combined shader worker time).
+[2024.05.10-20.09.39:055][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.09.39:131][149]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/NS_EnergyBlade
+[2024.05.10-20.09.39:131][149]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_EnergyBladeFC645BCB4C14FBCDFD58D1BFDF8E6E00.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/NS_EnergyBlade.uasset'
+[2024.05.10-20.09.39:283][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 21.9 sec)
+[2024.05.10-20.09.39:283][149]AssetCheck: New page: Asset Save: NS_EnergyBlade
+[2024.05.10-20.09.39:283][149]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.09.41:045][263]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.09.41:109][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-20.09.41:109][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-20.09.41:148][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-20.09.41:148][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-20.09.41:304][263]LogViewport: Scene viewport resized to 533x500, mode Windowed.
+[2024.05.10-20.09.42:875][304]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade took 1.820605 sec (time since issued), 1.406414 sec (combined shader worker time).
+[2024.05.10-20.09.43:023][311]163354_NS_EnergyBlade_MessageLog: System successfully compiled.
+[2024.05.10-20.10.05:880][ 26]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.05.10-20.10.05:906][ 26]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.05.10-20.10.05:927][ 27]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.05.10-20.10.14:523][805]LogContentBrowser: Attempting asset rename: NewMaterial -> M_EnergyBladeGradient
+[2024.05.10-20.10.14:616][805]LogContentBrowser: End creating deferred item NewMaterial
+[2024.05.10-20.10.16:246][933]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Niagara/22-EnergyBlade/M_EnergyBladeGradient.M_EnergyBladeGradient
+[2024.05.10-20.10.16:262][933]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-20.10.16:262][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-20.10.16:412][933]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.10.16:412][933]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.16:412][933]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.10.16:418][933]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.05.10-20.10.16:608][935]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.10-20.10.16:609][935]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.10-20.10.16:609][935]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.10-20.10.16:609][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.16:609][935]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.10.22:556][621]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.10.22:556][621]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.22:556][621]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.10.22:579][623]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.10.22:579][623]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.10-20.10.22:579][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.22:579][623]MaterialEditorStats: Shader Count: 2
+[2024.05.10-20.10.24:517][841]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.10.24:517][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.24:517][841]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.10.24:562][843]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.10.24:562][843]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.10.24:562][843]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.10.24:562][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.24:562][843]MaterialEditorStats: Shader Count: 2
+[2024.05.10-20.10.25:640][966]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.10.25:640][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.25:640][966]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.10.26:375][ 43]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.10.26:375][ 43]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.10.26:375][ 43]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.10.26:375][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.26:375][ 43]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.10.30:858][561]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.10.30:858][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.30:858][561]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.10.30:887][563]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.10.30:888][563]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.10.30:888][563]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.10.30:888][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.30:888][563]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.10.43:425][ 46]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.10.43:425][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.43:425][ 46]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.10.43:489][ 48]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.10.43:489][ 48]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.10.43:489][ 48]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.10.43:489][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.43:489][ 48]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.10.49:852][774]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.10.49:852][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.49:852][774]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.10.49:901][776]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.10.49:901][776]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.10.49:901][776]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.10.49:901][776]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.10.49:901][776]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.09:889][105]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.09:889][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.09:889][105]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.09:927][107]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.11.09:927][107]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.11.09:927][107]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.09:927][107]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.09:927][107]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.24:852][841]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.24:852][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.24:852][841]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.24:883][843]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.11.24:883][843]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.11.24:883][843]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.24:883][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.24:883][843]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.27:082][ 85]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.27:082][ 85]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.27:082][ 85]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.27:109][ 87]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.11.27:109][ 87]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.11.27:109][ 87]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.27:109][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.27:109][ 87]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.40:010][583]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.40:010][583]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.40:010][583]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.40:054][585]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.11.40:054][585]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.11.40:054][585]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.40:054][585]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.40:054][585]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.41:672][765]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.41:672][765]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.41:672][765]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.41:700][767]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.11.41:700][767]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.11.41:700][767]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.41:700][767]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.41:700][767]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.43:017][911]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.43:017][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.43:017][911]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.43:049][913]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.05.10-20.11.43:050][913]MaterialEditorStats: Base pass vertex shader: 217 instructions
+[2024.05.10-20.11.43:050][913]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.43:050][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.10-20.11.43:050][913]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.48:139][484]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.48:139][484]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.11.48:139][484]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.11.48:139][484]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.48:785][547]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.11.48:785][547]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.48:785][547]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.11.48:785][547]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.11.48:785][547]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.11.48:882][558]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.11.48:882][558]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.11.48:883][558]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.48:883][558]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.11.48:883][558]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.11.48:883][558]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.51:154][818]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.51:154][818]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.11.51:154][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.11.51:154][818]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.51:211][820]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.11.51:211][820]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.11.51:211][820]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.51:211][820]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.11.51:211][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.11.51:211][820]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.11.54:456][194]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.11.54:456][194]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.11.54:456][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.11.54:456][194]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.11.54:480][196]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.11.54:481][196]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.11.54:481][196]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.11.54:481][196]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.11.54:481][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.11.54:481][196]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.02:616][793]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.02:616][793]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.02:616][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.02:616][793]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.02:645][795]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.02:645][795]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.02:645][795]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.02:645][795]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.02:645][795]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.02:645][795]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.04:037][936]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.04:037][936]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.04:037][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.04:037][936]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.04:536][990]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.04:536][990]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.04:536][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.04:536][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.04:536][990]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.12.04:638][  2]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.04:638][  2]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.04:638][  2]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.04:638][  2]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.04:638][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.04:639][  2]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.05:679][120]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.05:679][120]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.05:679][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.05:679][120]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.05:697][122]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.05:698][122]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.05:698][122]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.05:698][122]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.05:698][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.05:698][122]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.16:570][382]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.16:570][382]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.16:570][382]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.16:570][382]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.17:066][432]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.17:066][432]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.17:066][432]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.17:066][432]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.17:066][432]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.12.17:164][443]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.17:164][443]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.17:164][443]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.17:164][443]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.17:164][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.17:164][443]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.18:386][582]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.18:386][582]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.18:386][582]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.18:386][582]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.18:913][635]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.18:913][635]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.18:913][635]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.18:913][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.18:913][635]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.12.19:013][646]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.19:013][646]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.19:013][646]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.19:013][646]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.19:013][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.19:013][646]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.19:447][693]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.19:447][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.19:447][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.19:447][693]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.19:977][747]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.19:977][747]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.19:977][747]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.19:977][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.19:977][747]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.12.20:072][758]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.20:072][758]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.20:072][758]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.20:072][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.20:072][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.20:072][758]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.20:687][826]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.20:687][826]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.20:687][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.20:687][826]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.21:159][874]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.21:159][874]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.21:159][874]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.21:159][874]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.21:159][874]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.12.21:262][886]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.21:262][886]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.21:262][886]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.21:262][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.21:262][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.21:262][886]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.21:640][926]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.21:640][926]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.21:640][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.21:640][926]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.22:125][974]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.22:125][974]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.22:125][974]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.22:125][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.22:125][974]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.12.22:229][986]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.22:229][986]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.22:229][986]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.22:229][986]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.22:229][986]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.22:229][986]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.23:764][160]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.23:764][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.23:764][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.23:764][160]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.24:193][203]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.24:193][203]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.24:193][203]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.24:193][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.24:193][203]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.12.24:297][215]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.24:297][215]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.24:297][215]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.24:297][215]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.24:297][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.24:297][215]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.26:099][420]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.26:099][420]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.26:099][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.26:099][420]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.26:604][471]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.26:604][471]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.26:604][471]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.26:604][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.26:604][471]MaterialEditorStats: Shader Count: 3
+[2024.05.10-20.12.26:699][482]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.26:700][482]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.26:700][482]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.26:700][482]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.26:700][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.26:700][482]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.27:239][540]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.27:239][540]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.27:239][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.27:239][540]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.27:260][542]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.27:260][542]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.27:260][542]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.27:260][542]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.27:260][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.27:260][542]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.28:686][705]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.28:686][705]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.28:686][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.28:686][705]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.28:707][707]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.28:707][707]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.28:707][707]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.28:707][707]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.28:707][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.28:707][707]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.29:118][751]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.29:118][751]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.29:118][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.29:118][751]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.29:139][753]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.29:139][753]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.29:139][753]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.29:139][753]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.29:139][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.29:139][753]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.29:547][797]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.29:547][797]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.29:547][797]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.29:547][797]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.29:567][799]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.29:567][799]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.29:567][799]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.29:567][799]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.29:567][799]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.29:567][799]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.29:928][837]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.29:928][837]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.29:928][837]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.29:928][837]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.29:956][839]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.29:956][839]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.29:956][839]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.29:956][839]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.29:956][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.29:956][839]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.30:272][873]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.30:272][873]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.30:272][873]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.30:272][873]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.30:293][875]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.30:293][875]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.30:293][875]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.30:293][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.30:293][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.30:293][875]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.30:610][908]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.30:610][908]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.30:610][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.30:610][908]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.31:654][  5]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2024.05.10-20.12.31:654][  5]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.31:654][  5]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.31:654][  5]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.31:654][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.31:654][  5]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.32:205][ 65]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.12.32:205][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.32:205][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.32:205][ 65]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.12.32:225][ 67]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.12.32:225][ 67]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.12.32:225][ 67]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.12.32:225][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.12.32:225][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.12.32:225][ 67]MaterialEditorStats: Shader Count: 4
+[2024.05.10-20.12.35:230][412]LogMaterialEditor: Saving and Compiling material M_EnergyBladeGradient
+[2024.05.10-20.12.35:357][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: ================================================
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Total job queries 1 631, among them cache hits 923 (56.59%)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Tracking 686 distinct input hashes that result in 319 distinct outputs (46.50%)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: RAM used: 16,65 MiB of 1,60 GiB budget. Usage: 1.02%
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Shaders Compiled: 581
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Jobs assigned 583, completed 581 (99.66%)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Average time worker was idle: 143.86 s
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.00 s
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 2.32 s
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 2.37
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Shader code size: average 33,19 KiB, min 1,877 KiB, max 84,729 KiB
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 158.68 s
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Jobs were issued in 583 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Average processing rate: 3.66 jobs/sec
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Total thread time: 175,37 s
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Total thread preprocess time: 8,697 s
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Percentage time preprocessing: 4.96%
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Effective parallelization: 1.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.52 sec, max 0.71 sec, min 0.33 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   49 times, average 0.45 sec, max 0.71 sec, min 0.33 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   49 times, average 0.36 sec, max 0.87 sec, min 0.26 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.34 sec, max 0.54 sec, min 0.14 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   11 times, average 0.34 sec, max 0.39 sec, min 0.25 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                               FNiagaraShader - 55.36% of total time (compiled  340 times, average 0.29 sec, max 2.22 sec, min 0.06 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.51% of total time (compiled   49 times, average 0.45 sec, max 0.71 sec, min 0.33 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.00% of total time (compiled   49 times, average 0.36 sec, max 0.87 sec, min 0.26 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.22% of total time (compiled   48 times, average 0.34 sec, max 0.55 sec, min 0.29 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display:                                                  FHitProxyPS - 4.23% of total time (compiled   48 times, average 0.15 sec, max 0.20 sec, min 0.13 sec)
+[2024.05.10-20.12.35:512][412]LogShaderCompilers: Display: ================================================
+[2024.05.10-20.12.35:820][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.05.10-20.12.35:935][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.12.36:339][412]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/M_EnergyBladeGradient
+[2024.05.10-20.12.36:339][412]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_EnergyBladeGradientE1D697594E3BF90AB34A5FACA110E6E3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/M_EnergyBladeGradient.uasset'
+[2024.05.10-20.12.36:498][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 563 ms (total: 22.5 sec)
+[2024.05.10-20.12.36:499][412]AssetCheck: New page: Asset Save: M_EnergyBladeGradient
+[2024.05.10-20.12.36:499][412]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/22-EnergyBlade/M_EnergyBladeGradient.M_EnergyBladeGradient
+[2024.05.10-20.12.41:855][973]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade took 0.300196 sec (time since issued), 0.478099 sec (combined shader worker time).
+[2024.05.10-20.12.41:950][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.12.42:009][973]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/NS_EnergyBlade
+[2024.05.10-20.12.42:010][973]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_EnergyBlade184F7B4F488B7F1AB3E7CCA37AFD92FA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/NS_EnergyBlade.uasset'
+[2024.05.10-20.12.42:017][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 22.6 sec)
+[2024.05.10-20.12.42:392][973]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade took 0.375618 sec (time since issued), 0.649466 sec (combined shader worker time).
+[2024.05.10-20.12.42:399][973]AssetCheck: New page: Asset Save: NS_EnergyBlade
+[2024.05.10-20.12.42:399][973]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.12.48:254][400]LogContentBrowser: Deferred new asset file creation: M_EnergyBladeGradient_Inst
+[2024.05.10-20.12.48:288][400]LogContentBrowser: Creating deferred item: M_EnergyBladeGradient_Inst
+[2024.05.10-20.12.48:310][401]LogContentBrowser: Renaming the item being created (Deferred Item: M_EnergyBladeGradient_Inst).
+[2024.05.10-20.12.58:513][303]LogContentBrowser: Attempting asset rename: M_EnergyBladeGradient_Inst -> MI_EnergyBladeMaterial
+[2024.05.10-20.12.58:612][303]LogContentBrowser: End creating deferred item M_EnergyBladeGradient_Inst
+[2024.05.10-20.13.00:181][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.10-20.13.00:280][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.13.00:363][436]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/MI_EnergyBladeMaterial
+[2024.05.10-20.13.00:363][436]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_EnergyBladeMaterial076EA509441F0C1048C2289C2C1E710B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/MI_EnergyBladeMaterial.uasset'
+[2024.05.10-20.13.00:511][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 22.8 sec)
+[2024.05.10-20.13.00:512][436]AssetCheck: New page: Asset Save: MI_EnergyBladeMaterial
+[2024.05.10-20.13.00:512][436]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/22-EnergyBlade/MI_EnergyBladeMaterial.MI_EnergyBladeMaterial
+[2024.05.10-20.13.02:946][629]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/22-EnergyBlade/MI_EnergyBladeMaterial.MI_EnergyBladeMaterial
+[2024.05.10-20.13.02:948][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-20.13.02:948][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-20.13.03:131][629]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.10-20.13.14:561][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.13.14:561][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.13.14:561][257]LogActorFactory: Actor Factory spawned StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash as actor: StaticMeshActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.StaticMeshActor_8
+[2024.05.10-20.13.16:711][396]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.13.16:711][396]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash
+[2024.05.10-20.13.16:712][396]LogActorFactory: Actor Factory spawned StaticMesh /Game/Niagara/22-EnergyBlade/SM_BladeSlash.SM_BladeSlash as actor: StaticMeshActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.StaticMeshActor_9
+[2024.05.10-20.13.17:768][460]Cmd: DELETE
+[2024.05.10-20.13.17:768][460]Cmd: ACTOR DELETE
+[2024.05.10-20.13.17:789][460]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.10-20.13.17:797][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.10-20.13.17:801][460]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.05.10-20.13.18:502][502]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.13.18:502][502]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.13.18:503][502]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_0
+[2024.05.10-20.13.18:503][502]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_0
+[2024.05.10-20.13.18:672][512]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.13.18:672][512]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.13.18:673][512]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_10
+[2024.05.10-20.13.18:674][512]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_10
+[2024.05.10-20.13.32:115][494]LogMaterial: Display: Material /Game/Niagara/22-EnergyBlade/MI_EnergyBladeMaterial.MI_EnergyBladeMaterial needed to have new flag set bUsedWithNiagaraMeshParticles !
+[2024.05.10-20.13.32:115][494]LogMaterial: Display: Material /Engine/Transient.M_EnergyBladeGradient needed to have new flag set bUsedWithNiagaraMeshParticles !
+[2024.05.10-20.13.32:167][494]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.10-20.13.32:167][494]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.13.32:167][494]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.13.32:167][494]MaterialEditorStats: Shader Count: 0
+[2024.05.10-20.13.32:994][536]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.13.32:996][536]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.13.32:996][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.13.32:996][536]MaterialEditorStats: Shader Count: 2
+[2024.05.10-20.13.33:472][557]MaterialEditorStats: Base pass shader without light map: 110 instructions
+[2024.05.10-20.13.33:472][557]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2024.05.10-20.13.33:472][557]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.10-20.13.33:472][557]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.05.10-20.13.33:472][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.10-20.13.33:472][557]MaterialEditorStats: Shader Count: 14
+[2024.05.10-20.13.35:692][738]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.05.10-20.13.36:009][758]163354_NS_EnergyBlade_MessageLog: System compile status unknown.
+[2024.05.10-20.13.36:631][815]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade took 0.679698 sec (time since issued), 0.656808 sec (combined shader worker time).
+[2024.05.10-20.13.38:016][962]163354_NS_EnergyBlade_MessageLog: System successfully compiled.
+[2024.05.10-20.13.51:794][283]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.10-20.13.53:140][390]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade took 0.287121 sec (time since issued), 0.818554 sec (combined shader worker time).
+[2024.05.10-20.13.53:244][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.13.53:314][390]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/NS_EnergyBlade
+[2024.05.10-20.13.53:315][390]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_EnergyBladeAC334A1347E7DFCE85963AAC78290013.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/NS_EnergyBlade.uasset'
+[2024.05.10-20.13.53:321][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 22.9 sec)
+[2024.05.10-20.13.53:333][390]AssetCheck: New page: Asset Save: NS_EnergyBlade
+[2024.05.10-20.13.53:333][390]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.14.00:647][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.14.00:718][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.10-20.14.00:728][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.10-20.14.00:730][105]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/MI_EnergyBladeMaterial
+[2024.05.10-20.14.00:731][105]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_EnergyBladeMaterial07B8F3CE48C8303622A530BE32A1E477.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/MI_EnergyBladeMaterial.uasset'
+[2024.05.10-20.14.00:737][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 22.9 sec)
+[2024.05.10-20.14.00:738][105]AssetCheck: New page: Asset Save: MI_EnergyBladeMaterial
+[2024.05.10-20.14.00:738][105]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/22-EnergyBlade/MI_EnergyBladeMaterial.MI_EnergyBladeMaterial
+[2024.05.10-20.14.02:532][315]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.14.02:532][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.14.08:988][ 35]LogMaterialEditor: Saving and Compiling material M_EnergyBladeGradient
+[2024.05.10-20.14.09:116][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.10-20.14.09:260][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.05.10-20.14.09:356][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.14.09:452][ 35]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/M_EnergyBladeGradient
+[2024.05.10-20.14.09:453][ 35]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_EnergyBladeGradientF89EECB949003126C11F2796A0AD6A1B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/M_EnergyBladeGradient.uasset'
+[2024.05.10-20.14.09:459][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 23.1 sec)
+[2024.05.10-20.14.09:460][ 35]AssetCheck: New page: Asset Save: M_EnergyBladeGradient
+[2024.05.10-20.14.09:460][ 35]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/22-EnergyBlade/M_EnergyBladeGradient.M_EnergyBladeGradient
+[2024.05.10-20.14.16:418][706]163354_NS_EnergyBlade_MessageLog: System compile status unknown.
+[2024.05.10-20.14.17:038][757]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade took 0.693964 sec (time since issued), 0.669427 sec (combined shader worker time).
+[2024.05.10-20.14.18:426][885]163354_NS_EnergyBlade_MessageLog: System successfully compiled.
+[2024.05.10-20.14.24:439][485]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash c3b318b2581723ce01a59465dd67aecd526ff026 and existing hash 63af10725a05d5327a39025793bf880dca02459b for LegacyNiagaraScriptDerivedData/ec2535f4c956e3223a3cc84ef88bfa9f7fb322ca from '/Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade:SystemSpawnScript'
+[2024.05.10-20.14.24:441][485]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 25a72ae78f4efa5e787d2fc7ad036f25871f8e8c and existing hash e51861c5eee8ce731507b067c7ef3d41b497ade6 for LegacyNiagaraScriptDerivedData/0fcd0f2772124fb85e2a49b7af47732c73acdc05 from '/Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade:SystemUpdateScript'
+[2024.05.10-20.14.24:452][485]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade took 0.383775 sec (time since issued), 1.068015 sec (combined shader worker time).
+[2024.05.10-20.14.24:535][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.14.24:606][485]LogSavePackage: Moving output files for package: /Game/Niagara/22-EnergyBlade/NS_EnergyBlade
+[2024.05.10-20.14.24:606][485]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_EnergyBladeE4C0DB154163FE4D417774B98072FC76.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/22-EnergyBlade/NS_EnergyBlade.uasset'
+[2024.05.10-20.14.24:611][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 23.1 sec)
+[2024.05.10-20.14.24:677][485]AssetCheck: New page: Asset Save: NS_EnergyBlade
+[2024.05.10-20.14.24:677][485]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/22-EnergyBlade/NS_EnergyBlade.NS_EnergyBlade
+[2024.05.10-20.14.25:312][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.10-20.14.25:417][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.14.25:483][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.10-20.14.25:537][548]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.10-20.14.25:538][548]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F541FA86487260D8EE7A74B60363B2CD.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.10-20.14.25:544][548]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.082
+[2024.05.10-20.14.25:549][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 23.3 sec)
+[2024.05.10-20.14.25:552][548]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.10-20.14.25:552][548]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.10-20.14.33:919][466]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.14.33:919][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.14.46:554][778]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.14.46:554][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.14.47:851][893]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.14.47:851][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.14.50:874][ 94]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.14.51:433][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.14.51:453][ 94]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.14.51:453][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.14.51:510][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
