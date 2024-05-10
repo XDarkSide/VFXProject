@@ -4036,3 +4036,45 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.10-18.54.10:191][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 10.7 sec)
 [2024.05.10-18.54.10:194][354]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.05.10-18.54.10:194][354]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: ================================================
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Total job queries 1 112, among them cache hits 653 (58.72%)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Tracking 439 distinct input hashes that result in 226 distinct outputs (51.48%)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: RAM used: 10,53 MiB of 1,60 GiB budget. Usage: 0.64%
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Shaders Compiled: 363
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Jobs assigned 363, completed 363 (100%)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Average time worker was idle: 118.13 s
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.00 s
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 1.72 s
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Job life time (pending + execution): average 0.49 s, max 1.75
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Shader code size: average 32,273 KiB, min 4,465 KiB, max 81,738 KiB
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 102.11 s
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Jobs were issued in 363 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Average processing rate: 3.55 jobs/sec
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Total thread time: 104,361 s
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Total thread preprocess time: 5,754 s
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Percentage time preprocessing: 5.51%
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Effective parallelization: 1.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   29 times, average 0.46 sec, max 0.71 sec, min 0.40 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   29 times, average 0.36 sec, max 0.87 sec, min 0.27 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   28 times, average 0.34 sec, max 0.55 sec, min 0.29 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                               FNiagaraShader - 55.53% of total time (compiled  224 times, average 0.26 sec, max 1.51 sec, min 0.06 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.75% of total time (compiled   29 times, average 0.46 sec, max 0.71 sec, min 0.40 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.14% of total time (compiled   29 times, average 0.36 sec, max 0.87 sec, min 0.27 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.22% of total time (compiled   28 times, average 0.34 sec, max 0.55 sec, min 0.29 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display:                                                  FHitProxyPS - 4.20% of total time (compiled   28 times, average 0.16 sec, max 0.20 sec, min 0.13 sec)
+[2024.05.10-19.02.25:529][ 50]LogShaderCompilers: Display: ================================================
+[2024.05.10-19.02.27:000][ 50]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/21-EnergyStrike/NS_EnergyStrike.NS_EnergyStrike took 1.766322 sec (time since issued), 1.624831 sec (combined shader worker time).
+[2024.05.10-19.02.27:008][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-19.02.27:277][ 50]LogSavePackage: Moving output files for package: /Game/Niagara/21-EnergyStrike/NS_EnergyStrike
+[2024.05.10-19.02.27:277][ 50]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_EnergyStrikeDD9ABA0245E715C243A285BBA3DC298A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/21-EnergyStrike/NS_EnergyStrike.uasset'
+[2024.05.10-19.02.27:284][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 274 ms (total: 11.0 sec)
+[2024.05.10-19.02.27:421][ 50]AssetCheck: New page: Asset Save: NS_EnergyStrike
+[2024.05.10-19.02.27:421][ 50]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/21-EnergyStrike/NS_EnergyStrike.NS_EnergyStrike
+[2024.05.10-19.02.27:421][ 50]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.10-19.02.27:421][ 50]LogNiagaraEditor: GPU shader compile skipped. Id 1
