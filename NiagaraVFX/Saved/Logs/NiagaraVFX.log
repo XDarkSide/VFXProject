@@ -1726,3 +1726,1064 @@ Please edit the Parameters Panel version to change in all locations.
 [2024.05.11-18.49.00:888][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 3.26 sec)
 [2024.05.11-18.49.00:891][663]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.05.11-18.49.00:891][663]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.11-18.50.20:031][597]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-18.50.20:108][599]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.270184 sec (time since issued), 0.229155 sec (combined shader worker time).
+[2024.05.11-18.50.22:035][800]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-18.50.43:387][298]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.284088 sec (time since issued), 0.318106 sec (combined shader worker time).
+[2024.05.11-18.50.43:481][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.50.43:599][298]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-18.50.43:600][298]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeaderA009E5FF445112F5DE368FA445625024.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-18.50.43:605][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 3.39 sec)
+[2024.05.11-18.50.43:648][298]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-18.50.43:648][298]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-18.50.43:648][298]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-18.50.43:648][298]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-19.38.08:253][605]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.191 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20672 files in 22242 folders with total size 860 MiB.
+[2024.05.11-20.25.19:274][ 96]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.05.11-20.25.19:274][ 96]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2024.05.11-20.38.09:177][ 84]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.114 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20672 files in 22242 folders with total size 860 MiB.
+[2024.05.11-20.43.03:110][371]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-20.43.03:170][373]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.282506 sec (time since issued), 0.215156 sec (combined shader worker time).
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Total job queries 161, among them cache hits 20 (12.42%)
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Tracking 130 distinct input hashes that result in 85 distinct outputs (65.38%)
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: RAM used: 2,45 MiB of 1,60 GiB budget. Usage: 0.15%
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Shaders Compiled: 106
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Jobs assigned 106, completed 106 (100%)
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Average time worker was idle: 126.74 s
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.42 s
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Job life time (pending + execution): average 0.28 s, max 0.52
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Shader code size: average 17,383 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.17 s
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Jobs were issued in 106 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Average processing rate: 4.05 jobs/sec
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Total thread time: 13,363 s
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Total thread preprocess time: 0,132 s
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Percentage time preprocessing: 0.99%
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Effective parallelization: 0.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  106 times, average 0.13 sec, max 0.29 sec, min 0.05 sec)
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  106 times, average 0.13 sec, max 0.29 sec, min 0.05 sec)
+[2024.05.11-20.43.03:646][429]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.43.10:069][ 91]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.844625 sec (time since issued), 0.761916 sec (combined shader worker time).
+[2024.05.11-20.43.10:272][104]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.43.14:392][502]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-20.43.17:482][861]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.05.11-20.43.17:482][861]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2024.05.11-20.43.19:245][ 64]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 4.956269 sec (time since issued), 4.891198 sec (combined shader worker time).
+[2024.05.11-20.43.19:413][ 67]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-20.43.20:018][117]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.730136 sec (time since issued), 0.689161 sec (combined shader worker time).
+[2024.05.11-20.43.21:414][273]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.43.40:254][292]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-20.43.40:898][349]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.878161 sec (time since issued), 0.810614 sec (combined shader worker time).
+[2024.05.11-20.43.42:254][471]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.43.59:630][383]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-20.44.00:196][432]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.691823 sec (time since issued), 0.658102 sec (combined shader worker time).
+[2024.05.11-20.44.00:826][492]LogNiagaraEditor: Move module /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader:SimpleSpriteBurst.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_9
+[2024.05.11-20.44.00:827][492]LogNiagaraEditor: Finished moving!
+[2024.05.11-20.44.01:633][553]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-20.44.01:718][558]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.719218 sec (time since issued), 0.684075 sec (combined shader worker time).
+[2024.05.11-20.44.03:673][773]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.44.11:583][551]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-20.44.12:220][605]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.861196 sec (time since issued), 0.826638 sec (combined shader worker time).
+[2024.05.11-20.44.13:589][740]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.44.16:517][943]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.957546 sec (time since issued), 2.586290 sec (combined shader worker time).
+[2024.05.11-20.44.16:616][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.44.16:754][943]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-20.44.16:754][943]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeaderC50A647D4E9286DBB50525A9541FB4CF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-20.44.16:760][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 3.53 sec)
+[2024.05.11-20.44.16:817][943]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-20.44.16:817][943]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-20.44.16:817][943]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.44.16:817][943]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.44.36:970][869]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.11-20.45.07:013][779]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 0c42b70a6c79750513216935db98c4aa2ca3edb5 and existing hash 5037ede2e327bc4f0abea5f47ab8e355412e656f for LegacyNiagaraScriptDerivedData/61190c0a2384089374be0addffe8f811f9d52226 from '/Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader:SystemUpdateScript'
+[2024.05.11-20.45.07:056][779]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.723290 sec (time since issued), 1.389400 sec (combined shader worker time).
+[2024.05.11-20.45.07:141][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.45.07:279][779]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-20.45.07:279][779]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeaderB22217F542E0B63C977E129B2681D1C8.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-20.45.07:285][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.67 sec)
+[2024.05.11-20.45.07:341][779]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-20.45.07:341][779]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-20.45.07:341][779]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.45.07:341][779]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.45.12:340][206]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 1.268807 sec (time since issued), 1.202436 sec (combined shader worker time).
+[2024.05.11-20.45.12:544][218]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.45.16:610][561]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 1.292794 sec (time since issued), 1.227523 sec (combined shader worker time).
+[2024.05.11-20.45.16:751][573]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.45.17:563][594]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.620340 sec (time since issued), 1.080347 sec (combined shader worker time).
+[2024.05.11-20.45.17:653][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.45.17:791][594]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-20.45.17:791][594]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeader5E3ABA234248EE5100E3A8A80BE6C134.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-20.45.17:798][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.82 sec)
+[2024.05.11-20.45.17:852][594]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-20.45.17:852][594]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-20.45.17:852][594]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.45.17:852][594]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.46.02:201][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.46.02:341][566]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-20.46.02:341][566]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeader9A0B76164EEBE865C6F935B82661AC35.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-20.46.02:347][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.96 sec)
+[2024.05.11-20.46.02:405][566]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-20.46.02:405][566]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-20.46.02:405][566]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.46.02:405][566]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Total job queries 195, among them cache hits 23 (11.79%)
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Tracking 161 distinct input hashes that result in 105 distinct outputs (65.22%)
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: RAM used: 2,96 MiB of 1,60 GiB budget. Usage: 0.18%
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Shaders Compiled: 137
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Jobs assigned 137, completed 137 (100%)
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Average time worker was idle: 203.92 s
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.42 s
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Job life time (pending + execution): average 0.28 s, max 0.52
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Shader code size: average 17,155 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.20 s
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Jobs were issued in 137 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Average processing rate: 4.13 jobs/sec
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Total thread time: 17,761 s
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Total thread preprocess time: 0,132 s
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Percentage time preprocessing: 0.74%
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  137 times, average 0.13 sec, max 0.29 sec, min 0.05 sec)
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  137 times, average 0.13 sec, max 0.29 sec, min 0.05 sec)
+[2024.05.11-20.46.04:085][733]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.46.04:446][763]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.635140 sec (time since issued), 0.596743 sec (combined shader worker time).
+[2024.05.11-20.46.04:573][772]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.46.15:615][517]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.46.16:247][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.46.16:386][566]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-20.46.16:387][566]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeaderD592F0D34C1EB005B47A93A91544535B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-20.46.16:392][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 4.11 sec)
+[2024.05.11-20.46.16:450][566]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-20.46.16:450][566]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-20.46.16:450][566]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.46.16:450][566]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.46.39:601][138]74484_NS_FollowLeader_MessageLog: System compile status unknown.
+[2024.05.11-20.46.40:841][238]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 1.450823 sec (time since issued), 1.386330 sec (combined shader worker time).
+[2024.05.11-20.46.42:243][308]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.635797 sec (time since issued), 1.309624 sec (combined shader worker time).
+[2024.05.11-20.46.42:338][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.46.42:476][308]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-20.46.42:476][308]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeader2C7231484AA2BC67E55247817519267D.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-20.46.42:484][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 4.25 sec)
+[2024.05.11-20.46.42:544][308]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-20.46.42:544][308]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-20.46.42:544][308]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.46.42:544][308]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.46.42:544][308]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.46.48:829][851]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 67d20da5028b42753fc234aba93c2cf210f5b3e6 and existing hash 06f8ca51f68f8feac57b4b27a48907d25b85ae47 for LegacyNiagaraScriptDerivedData/6213ab5833706f9bea7490b0adaa51f425ac2290 from '/Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader:SystemUpdateScript'
+[2024.05.11-20.46.48:874][851]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.633900 sec (time since issued), 0.899349 sec (combined shader worker time).
+[2024.05.11-20.46.48:980][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.46.49:118][851]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-20.46.49:119][851]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeader28D456DB4E304402961B51B8BAEF409C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-20.46.49:126][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 4.40 sec)
+[2024.05.11-20.46.49:183][851]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-20.46.49:183][851]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-20.46.49:183][851]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.46.49:183][851]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.47.11:567][247]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 70a3c39b19d0f5b63f95db7b4ec6a67f08f01a27 and existing hash 06f8ca51f68f8feac57b4b27a48907d25b85ae47 for LegacyNiagaraScriptDerivedData/6213ab5833706f9bea7490b0adaa51f425ac2290 from '/Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader:SystemUpdateScript'
+[2024.05.11-20.47.11:609][247]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader took 0.742535 sec (time since issued), 1.454412 sec (combined shader worker time).
+[2024.05.11-20.47.11:711][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.47.11:833][247]LogSavePackage: Moving output files for package: /Game/Niagara/24-FollowLeader/NS_FollowLeader
+[2024.05.11-20.47.11:833][247]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_FollowLeader3FA04AD6475CF5DA42D4499BFEA25600.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/24-FollowLeader/NS_FollowLeader.uasset'
+[2024.05.11-20.47.11:840][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 4.53 sec)
+[2024.05.11-20.47.11:897][247]AssetCheck: New page: Asset Save: NS_FollowLeader
+[2024.05.11-20.47.11:897][247]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/24-FollowLeader/NS_FollowLeader.NS_FollowLeader
+[2024.05.11-20.47.11:897][247]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.47.11:897][247]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.11-20.47.43:495][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.47.43:630][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.11-20.47.43:692][ 64]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.11-20.47.43:693][ 64]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1A2C3227D44B386839E35099494282215.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.11-20.47.43:700][ 64]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.159
+[2024.05.11-20.47.43:706][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 4.74 sec)
+[2024.05.11-20.47.43:708][ 64]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.11-20.47.43:708][ 64]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.11-20.47.47:669][326]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.05.11-20.47.52:006][392]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.05.11-20.47.58:599][909]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.11-20.47.58:619][909]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.11-20.47.58:631][910]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.11-20.48.08:962][564]LogContentBrowser: Attempting asset rename: NewFolder -> 25-AdvancedFollovingLeader
+[2024.05.11-20.48.08:963][564]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.11-20.48.17:555][811]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.05.11-20.48.17:561][811]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.05.11-20.48.17:568][811]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.05.11-20.48.17:590][813]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.05.11-20.48.25:103][284]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_AdvancedFolloving
+[2024.05.11-20.48.25:224][284]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.05.11-20.48.26:244][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.48.26:563][338]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.341872 sec (time since issued), 1.478531 sec (combined shader worker time).
+[2024.05.11-20.48.26:592][338]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.05.11-20.48.26:593][338]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.05.11-20.48.26:618][338]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-20.48.26:618][338]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingD5F7AAAA4DE2AA37A3F921802F0F1FAC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-20.48.26:765][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 521 ms (total: 5.26 sec)
+[2024.05.11-20.48.26:766][338]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-20.48.26:766][338]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.48.27:547][387]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.48.27:610][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.11-20.48.27:610][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.11-20.48.27:655][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.11-20.48.27:655][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.11-20.48.27:798][387]LogViewport: Scene viewport resized to 533x500, mode Windowed.
+[2024.05.11-20.48.29:566][471]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 2.008905 sec (time since issued), 1.852318 sec (combined shader worker time).
+[2024.05.11-20.48.29:635][478]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.48.37:724][332]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.165470 sec (time since issued), 1.113798 sec (combined shader worker time).
+[2024.05.11-20.48.37:818][339]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.48.43:051][916]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-20.48.45:222][159]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 2.232264 sec (time since issued), 2.187164 sec (combined shader worker time).
+[2024.05.11-20.48.45:313][162]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-20.48.46:329][254]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.083236 sec (time since issued), 0.918339 sec (combined shader worker time).
+[2024.05.11-20.48.47:313][369]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.48.54:523][183]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-20.48.55:184][233]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.836147 sec (time since issued), 0.731250 sec (combined shader worker time).
+[2024.05.11-20.48.56:528][382]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.49.07:757][612]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Total job queries 231, among them cache hits 27 (11.69%)
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Tracking 193 distinct input hashes that result in 113 distinct outputs (58.55%)
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: RAM used: 3,45 MiB of 1,60 GiB budget. Usage: 0.21%
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Shaders Compiled: 169
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Jobs assigned 169, completed 169 (100%)
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Average time worker was idle: 167.33 s
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Job execution time: average 0.22 s, max 0.42 s
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Job life time (pending + execution): average 0.27 s, max 0.52
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Shader code size: average 16,858 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.41 s
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Jobs were issued in 169 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Average processing rate: 4.18 jobs/sec
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Total thread time: 21,807 s
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Total thread preprocess time: 0,132 s
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Percentage time preprocessing: 0.61%
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  169 times, average 0.13 sec, max 0.29 sec, min 0.04 sec)
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  169 times, average 0.13 sec, max 0.29 sec, min 0.04 sec)
+[2024.05.11-20.49.08:095][648]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.49.08:461][679]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.870365 sec (time since issued), 0.808420 sec (combined shader worker time).
+[2024.05.11-20.49.09:758][816]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.49.12:529][116]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-20.49.14:532][349]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.49.15:872][468]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.834542 sec (time since issued), 0.764543 sec (combined shader worker time).
+[2024.05.11-20.49.16:536][546]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.49.39:294][117]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-20.49.40:449][234]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.328171 sec (time since issued), 1.277858 sec (combined shader worker time).
+[2024.05.11-20.49.41:298][330]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.50.16:166][207]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.11-20.50.20:859][671]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.594956 sec (time since issued), 1.721532 sec (combined shader worker time).
+[2024.05.11-20.50.20:940][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.50.21:018][671]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-20.50.21:019][671]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingC650762E44E4F623C8F89AB8316DAA8A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-20.50.21:026][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 5.35 sec)
+[2024.05.11-20.50.21:046][671]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-20.50.21:046][671]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.50.33:390][980]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.359582 sec (time since issued), 1.207359 sec (combined shader worker time).
+[2024.05.11-20.50.33:540][990]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.50.48:216][452]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.418270 sec (time since issued), 1.326980 sec (combined shader worker time).
+[2024.05.11-20.50.48:355][461]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.50.55:580][141]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.923489 sec (time since issued), 1.823953 sec (combined shader worker time).
+[2024.05.11-20.50.55:739][150]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.51.02:109][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.11-20.51.02:210][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.51.02:307][903]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-20.51.02:308][903]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving67439D56429A6567E333F998702CE1A4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-20.51.02:314][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 5.45 sec)
+[2024.05.11-20.51.02:315][903]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-20.51.02:316][903]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.51.16:971][453]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.11-20.51.38:203][702]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.753118 sec (time since issued), 1.953814 sec (combined shader worker time).
+[2024.05.11-20.51.38:303][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.51.38:400][702]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-20.51.38:401][702]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving694EB6C14109422A2ED0EC970F9EF826.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-20.51.38:406][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 5.55 sec)
+[2024.05.11-20.51.38:438][702]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-20.51.38:438][702]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.51.39:770][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.51.39:868][843]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-20.51.39:868][843]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving2EBDA0754B3BEE8447875196B6F99D40.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-20.51.39:874][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 5.66 sec)
+[2024.05.11-20.51.39:906][843]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-20.51.39:906][843]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.52.04:757][211]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.05.11-20.52.15:194][388]LogContentBrowser: Deferred new asset file creation: NewNiagaraScript
+[2024.05.11-20.52.15:206][388]LogContentBrowser: Creating deferred item: NewNiagaraScript
+[2024.05.11-20.52.15:220][389]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraScript).
+[2024.05.11-20.52.31:780][170]LogContentBrowser: Attempting asset rename: NewNiagaraScript -> NMS_GetLeaderPosition
+[2024.05.11-20.52.31:872][170]LogContentBrowser: End creating deferred item NewNiagaraScript
+[2024.05.11-20.52.33:098][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.52.33:145][287]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition
+[2024.05.11-20.52.33:145][287]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_GetLeaderPosition801DBBE04E0B8BA38C35E195FCFFAD0E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.uasset'
+[2024.05.11-20.52.33:299][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 5.86 sec)
+[2024.05.11-20.52.33:300][287]AssetCheck: New page: Asset Save: NMS_GetLeaderPosition
+[2024.05.11-20.52.33:300][287]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.52.34:249][385]LogAssetEditorSubsystem: Opening Asset editor for NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.52.34:315][385]MaterialEditorStats: LastOpCount: 0
+[2024.05.11-20.52.34:350][385]E44AD28C426BF3C942689D90B9DFD6E6_NMS_GetLeaderPosition_MessageLog: Script compile status unknown.
+[2024.05.11-20.52.50:113][243]LogNiagaraEditor: Saving and Compiling NiagaraScript NMS_GetLeaderPosition
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Total job queries 259, among them cache hits 30 (11.58%)
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Tracking 218 distinct input hashes that result in 123 distinct outputs (56.42%)
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: RAM used: 3,87 MiB of 1,60 GiB budget. Usage: 0.24%
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Shaders Compiled: 194
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Jobs assigned 194, completed 194 (100%)
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Average time worker was idle: 149.11 s
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.51 s
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Job life time (pending + execution): average 0.28 s, max 0.52
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Shader code size: average 16,849 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.34 s
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Jobs were issued in 194 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Average processing rate: 4.19 jobs/sec
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Total thread time: 25,675 s
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Total thread preprocess time: 0,132 s
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Percentage time preprocessing: 0.51%
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Effective parallelization: 0.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  194 times, average 0.13 sec, max 0.31 sec, min 0.04 sec)
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  194 times, average 0.13 sec, max 0.31 sec, min 0.04 sec)
+[2024.05.11-20.52.50:405][243]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.52.50:407][243]MaterialEditorStats: LastOpCount: 0
+[2024.05.11-20.52.50:530][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.52.50:578][243]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition
+[2024.05.11-20.52.50:579][243]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_GetLeaderPositionD0F3F8AF447C66E2D9150F9FB74B7BAB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.uasset'
+[2024.05.11-20.52.50:584][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 5.91 sec)
+[2024.05.11-20.52.50:589][243]AssetCheck: New page: Asset Save: NMS_GetLeaderPosition
+[2024.05.11-20.52.50:589][243]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.52.50:589][243]E44AD28C426BF3C942689D90B9DFD6E6_NMS_GetLeaderPosition_MessageLog: Script successfully compiled.
+[2024.05.11-20.53.10:806][618]LogNiagaraEditor: "(INPUT) GetAttr" has been fully renamed as it was only used on this node.
+[2024.05.11-20.54.03:379][580]Cmd: TRANSACTION UNDO
+[2024.05.11-20.54.03:379][580]LogEditorTransaction: Undo Delete current selection
+[2024.05.11-20.54.04:031][588]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.54.06:032][821]74484_NS_FollowLeader_MessageLog: System successfully compiled.
+[2024.05.11-20.54.15:641][965]LogNiagaraEditor: "(INPUT) LeadingEmitter" has been fully renamed as it was only used on this node.
+[2024.05.11-20.56.24:801][177]LogNiagaraEditor: "(LOCAL) FollowingID" has been fully renamed as it was only used on this node.
+[2024.05.11-20.56.26:053][281]LogNiagaraEditor: Saving and Compiling NiagaraScript NMS_GetLeaderPosition
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Total job queries 260, among them cache hits 30 (11.54%)
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Tracking 219 distinct input hashes that result in 124 distinct outputs (56.62%)
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: RAM used: 3,88 MiB of 1,60 GiB budget. Usage: 0.24%
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Shaders Compiled: 195
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Jobs assigned 195, completed 195 (100%)
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Average time worker was idle: 149.46 s
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.51 s
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Job life time (pending + execution): average 0.28 s, max 0.52
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Shader code size: average 16,808 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.61 s
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Jobs were issued in 195 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Average processing rate: 4.18 jobs/sec
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Total thread time: 25,715 s
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Total thread preprocess time: 0,132 s
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Percentage time preprocessing: 0.51%
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Effective parallelization: 0.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  195 times, average 0.13 sec, max 0.31 sec, min 0.04 sec)
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  195 times, average 0.13 sec, max 0.31 sec, min 0.04 sec)
+[2024.05.11-20.56.26:336][281]LogShaderCompilers: Display: ================================================
+[2024.05.11-20.56.26:338][281]MaterialEditorStats: LastOpCount: 46
+[2024.05.11-20.56.26:452][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.56.26:499][281]LogNiagara: Warning: Data interface count mismatch during script presave. Invaliding compile results (see full log for details).  Script: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.56.26:499][281]LogNiagara: Compiled DataInterfaceInfos:
+[2024.05.11-20.56.26:499][281]LogNiagara: Name:Module.LeadingEmitter, Type: NiagaraDataInterfaceParticleRead
+[2024.05.11-20.56.26:499][281]LogNiagara: Resolved DataInterfaceInfos:
+[2024.05.11-20.56.26:501][281]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition
+[2024.05.11-20.56.26:502][281]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_GetLeaderPosition5DFB7ABF45FAF89E4C837FB7CD42B475.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.uasset'
+[2024.05.11-20.56.26:509][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 5.97 sec)
+[2024.05.11-20.56.26:510][281]AssetCheck: New page: Asset Save: NMS_GetLeaderPosition
+[2024.05.11-20.56.26:510][281]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.56.26:510][281]E44AD28C426BF3C942689D90B9DFD6E6_NMS_GetLeaderPosition_MessageLog: Script successfully compiled.
+[2024.05.11-20.56.28:789][550]LogNiagaraEditor: Applying Niagara Script NMS_GetLeaderPosition
+[2024.05.11-20.56.29:664][652]LogNiagaraEditor: Saving and Compiling NiagaraScript NMS_GetLeaderPosition
+[2024.05.11-20.56.29:760][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.56.29:809][652]LogNiagara: Warning: Data interface count mismatch during script presave. Invaliding compile results (see full log for details).  Script: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.56.29:809][652]LogNiagara: Compiled DataInterfaceInfos:
+[2024.05.11-20.56.29:809][652]LogNiagara: Name:Module.LeadingEmitter, Type: NiagaraDataInterfaceParticleRead
+[2024.05.11-20.56.29:809][652]LogNiagara: Resolved DataInterfaceInfos:
+[2024.05.11-20.56.29:812][652]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition
+[2024.05.11-20.56.29:812][652]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_GetLeaderPosition3D02D92443F9044A77FEA9A0F0125813.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.uasset'
+[2024.05.11-20.56.29:819][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 6.03 sec)
+[2024.05.11-20.56.29:819][652]AssetCheck: New page: Asset Save: NMS_GetLeaderPosition
+[2024.05.11-20.56.29:819][652]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.56.38:472][686]LogNiagaraEditor: Saving and Compiling NiagaraScript NMS_GetLeaderPosition
+[2024.05.11-20.56.38:574][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.56.38:626][686]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition
+[2024.05.11-20.56.38:626][686]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_GetLeaderPosition6900899A48C603557DCD51A559F78098.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.uasset'
+[2024.05.11-20.56.38:631][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 6.09 sec)
+[2024.05.11-20.56.38:632][686]AssetCheck: New page: Asset Save: NMS_GetLeaderPosition
+[2024.05.11-20.56.38:632][686]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.56.56:377][713]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-20.56.57:313][793]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.117353 sec (time since issued), 1.079457 sec (combined shader worker time).
+[2024.05.11-20.56.57:314][793]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.56.58:382][907]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.56.59:967][ 89]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.56.59:967][ 89]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.56.59:969][ 89]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.56.59:969][ 89]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.57.00:384][112]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-20.57.00:915][168]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.916526 sec (time since issued), 0.880473 sec (combined shader worker time).
+[2024.05.11-20.57.02:391][336]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.57.07:750][851]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.904135 sec (time since issued), 2.090320 sec (combined shader worker time).
+[2024.05.11-20.57.07:854][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.57.07:956][851]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-20.57.07:957][851]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving299E969042223BF3BF4C15AB465D4E25.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-20.57.07:964][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 6.20 sec)
+[2024.05.11-20.57.08:002][851]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-20.57.08:002][851]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.57.12:580][349]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.57.32:479][954]LogNiagaraEditor: "(PARTICLES) FollowingID" has been fully renamed as it was only used on this node.
+[2024.05.11-20.57.33:680][ 48]LogNiagaraEditor: Applying Niagara Script NMS_GetLeaderPosition
+[2024.05.11-20.57.33:953][ 48]MaterialEditorStats: LastOpCount: 46
+[2024.05.11-20.57.34:129][ 48]E44AD28C426BF3C942689D90B9DFD6E6_NMS_GetLeaderPosition_MessageLog: Script successfully compiled.
+[2024.05.11-20.57.34:885][124]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.906587 sec (time since issued), 0.840211 sec (combined shader worker time).
+[2024.05.11-20.57.35:683][194]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-20.57.36:683][243]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.548033 sec (time since issued), 0.835262 sec (combined shader worker time).
+[2024.05.11-20.57.36:784][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.57.36:884][243]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-20.57.36:885][243]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving1B828574478652E53316FAA1E8D3BB15.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-20.57.36:893][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 6.31 sec)
+[2024.05.11-20.57.36:926][243]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-20.57.36:926][243]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-20.58.16:024][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.58.16:073][351]LogNiagara: Warning: Data interface count mismatch during script presave. Invaliding compile results (see full log for details).  Script: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.58.16:073][351]LogNiagara: Compiled DataInterfaceInfos:
+[2024.05.11-20.58.16:073][351]LogNiagara: Name:Module.LeadingEmitter, Type: NiagaraDataInterfaceParticleRead
+[2024.05.11-20.58.16:073][351]LogNiagara: Resolved DataInterfaceInfos:
+[2024.05.11-20.58.16:076][351]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition
+[2024.05.11-20.58.16:076][351]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_GetLeaderPositionE9444AD643FA96AEAFE5038CF910F6A3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.uasset'
+[2024.05.11-20.58.16:083][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 6.36 sec)
+[2024.05.11-20.58.16:084][351]AssetCheck: New page: Asset Save: NMS_GetLeaderPosition
+[2024.05.11-20.58.16:084][351]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_GetLeaderPosition.NMS_GetLeaderPosition
+[2024.05.11-20.58.39:109][436]LogContentBrowser: Deferred new asset file creation: NewNiagaraScript
+[2024.05.11-20.58.39:121][436]LogContentBrowser: Creating deferred item: NewNiagaraScript
+[2024.05.11-20.58.39:134][437]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraScript).
+[2024.05.11-20.58.59:492][513]LogContentBrowser: Attempting asset rename: NewNiagaraScript -> NMS_UpdateFollowerVelocity
+[2024.05.11-20.58.59:579][513]LogContentBrowser: End creating deferred item NewNiagaraScript
+[2024.05.11-20.59.00:417][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-20.59.00:466][585]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity
+[2024.05.11-20.59.00:466][585]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_UpdateFollowerVelocity413A94D8426A61D5E9CDF6B013267DA9.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.uasset'
+[2024.05.11-20.59.00:621][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 6.57 sec)
+[2024.05.11-20.59.00:622][585]AssetCheck: New page: Asset Save: NMS_UpdateFollowerVelocity
+[2024.05.11-20.59.00:622][585]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-20.59.01:758][696]LogAssetEditorSubsystem: Opening Asset editor for NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-20.59.01:822][696]MaterialEditorStats: LastOpCount: 0
+[2024.05.11-20.59.01:855][696]E44AD28C426BF3C942689D90B9DFD6E6_NMS_UpdateFollowerVelocity_MessageLog: Script compile status unknown.
+[2024.05.11-20.59.26:020][288]LogNiagaraEditor: Applying Niagara Script NMS_UpdateFollowerVelocity
+[2024.05.11-20.59.26:256][288]MaterialEditorStats: LastOpCount: 0
+[2024.05.11-20.59.26:279][288]E44AD28C426BF3C942689D90B9DFD6E6_NMS_UpdateFollowerVelocity_MessageLog: Script successfully compiled.
+[2024.05.11-20.59.41:246][ 61]LogNiagaraEditor: "(INPUT) LeadingEmmiter" has been fully renamed as it was only used on this node.
+[2024.05.11-21.00.14:602][ 36]LogNiagaraEditor: "(INPUT) LeaderID" has been fully renamed as it was only used on this node.
+[2024.05.11-21.00.28:515][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.11-21.00.28:596][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.00.28:645][885]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity
+[2024.05.11-21.00.28:646][885]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_UpdateFollowerVelocity60C0F9294354FFAE04EC5082966CFDB5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.uasset'
+[2024.05.11-21.00.28:652][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 6.62 sec)
+[2024.05.11-21.00.28:654][885]AssetCheck: New page: Asset Save: NMS_UpdateFollowerVelocity
+[2024.05.11-21.00.28:654][885]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-21.01.26:429][229]LogNiagaraEditor: "(INPUT) TargetPositionOffset" has been fully renamed as it was only used on this node.
+[2024.05.11-21.05.02:387][129]LogNiagaraEditor: Saving and Compiling NiagaraScript NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Total job queries 275, among them cache hits 30 (10.91%)
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Tracking 234 distinct input hashes that result in 132 distinct outputs (56.41%)
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: RAM used: 4,17 MiB of 1,60 GiB budget. Usage: 0.25%
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Shaders Compiled: 210
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Jobs assigned 210, completed 210 (100%)
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Average time worker was idle: 145.13 s
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.52 s
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Job life time (pending + execution): average 0.28 s, max 0.60
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Shader code size: average 16,978 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.59 s
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Jobs were issued in 210 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Average processing rate: 4.15 jobs/sec
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Total thread time: 27,98 s
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Total thread preprocess time: 0,132 s
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Percentage time preprocessing: 0.47%
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Effective parallelization: 0.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  210 times, average 0.13 sec, max 0.31 sec, min 0.04 sec)
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  210 times, average 0.13 sec, max 0.31 sec, min 0.04 sec)
+[2024.05.11-21.05.02:710][129]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.05.02:713][129]MaterialEditorStats: LastOpCount: 12
+[2024.05.11-21.05.02:860][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.05.02:907][129]LogNiagara: Warning: Data interface count mismatch during script presave. Invaliding compile results (see full log for details).  Script: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.02:907][129]LogNiagara: Compiled DataInterfaceInfos:
+[2024.05.11-21.05.02:907][129]LogNiagara: Name:Module.LeadingEmmiter, Type: NiagaraDataInterfaceParticleRead
+[2024.05.11-21.05.02:907][129]LogNiagara: Resolved DataInterfaceInfos:
+[2024.05.11-21.05.02:910][129]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.02:911][129]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_UpdateFollowerVelocity2214908E49C28BDD8623418E719F26F0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.uasset'
+[2024.05.11-21.05.02:915][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 6.68 sec)
+[2024.05.11-21.05.02:917][129]AssetCheck: New page: Asset Save: NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.02:917][129]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.02:917][129]E44AD28C426BF3C942689D90B9DFD6E6_NMS_UpdateFollowerVelocity_MessageLog: Script successfully compiled.
+[2024.05.11-21.05.06:349][461]LogNiagaraEditor: Saving and Compiling NiagaraScript NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.06:458][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.05.06:511][461]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.06:512][461]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_UpdateFollowerVelocity130E37104D231E44D48E76A9BBC28FC5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.uasset'
+[2024.05.11-21.05.06:517][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 6.74 sec)
+[2024.05.11-21.05.06:518][461]AssetCheck: New page: Asset Save: NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.06:518][461]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-21.05.10:693][879]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.11-21.05.10:696][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.11-21.05.10:709][879]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.11-21.05.10:709][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.11-21.05.10:747][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.11-21.05.25:939][610]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.05.26:576][662]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.834377 sec (time since issued), 0.799237 sec (combined shader worker time).
+[2024.05.11-21.05.26:577][662]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.05.26:590][663]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter ''! Check that the attribute is named correctly.
+[2024.05.11-21.05.27:947][813]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.05.31:641][220]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.05.31:675][224]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter ''! Check that the attribute is named correctly.
+[2024.05.11-21.05.35:085][613]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.05.35:085][613]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.05.35:086][613]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.05.35:086][613]LogNiagara: Warning: Source emitter '' not found. System: NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.05.35:103][613]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter ''! Check that the attribute is named correctly.
+[2024.05.11-21.05.35:313][615]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.05.35:983][681]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.858230 sec (time since issued), 0.822312 sec (combined shader worker time).
+[2024.05.11-21.05.35:999][682]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.05.37:318][814]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.05.41:142][210]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.05.47:134][817]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.05.50:828][206]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.877489 sec (time since issued), 0.835414 sec (combined shader worker time).
+[2024.05.11-21.05.50:843][207]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.05.50:949][215]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.05.52:020][246]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.779611 sec (time since issued), 1.934156 sec (combined shader worker time).
+[2024.05.11-21.05.52:118][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.05.52:218][246]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.05.52:218][246]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving01218DAD4BE39051AA6EB59DC2371E7B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.05.52:226][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 6.85 sec)
+[2024.05.11-21.05.52:260][246]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.05.52:260][246]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.05.52:284][247]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.05.57:269][800]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.09:933][ 62]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.15:288][642]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.21:286][303]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.33:542][737]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.39:542][369]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.45:546][ 28]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.49:821][502]LogNiagaraEditor: Removed Var 'Constants.Follower.NMS_UpdateFollowerVelocity.LeaderID' from Script NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:Follower_4.SpawnScript
+[2024.05.11-21.06.49:856][502]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.50:089][504]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.06.51:012][597]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.134191 sec (time since issued), 1.098302 sec (combined shader worker time).
+[2024.05.11-21.06.51:028][598]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.06.52:091][712]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.06.55:842][949]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.23:670][607]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.24:905][708]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.05.11-21.07.25:278][741]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.25:467][743]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.07.26:243][830]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.944721 sec (time since issued), 0.912369 sec (combined shader worker time).
+[2024.05.11-21.07.26:259][831]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.27:469][969]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.07.37:792][184]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.48:608][391]LogNiagaraEditor: Removed Var 'Constants.Follower.NMS_UpdateFollowerVelocity.TargetPositionOffset' from Script NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:Follower_4.SpawnScript
+[2024.05.11-21.07.48:647][391]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.48:857][393]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.07.49:665][467]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.993789 sec (time since issued), 0.958579 sec (combined shader worker time).
+[2024.05.11-21.07.49:679][468]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.50:864][599]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.07.52:227][752]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.52:867][800]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.07.53:056][817]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.807703 sec (time since issued), 0.774389 sec (combined shader worker time).
+[2024.05.11-21.07.53:072][818]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.53:952][913]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.53:964][914]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.07.54:870][ 18]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.07.59:964][606]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.08.01:484][715]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.589123 sec (time since issued), 1.662281 sec (combined shader worker time).
+[2024.05.11-21.08.01:578][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.08.01:665][715]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.08.01:666][715]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving3D9C2CB74A9B0306CFF781A7C8C4E77A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.08.01:673][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 6.94 sec)
+[2024.05.11-21.08.01:706][715]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.08.01:706][715]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.08.01:745][716]LogNiagara: Warning: ParticleRead: Failed to 'Get Position By ID' attribute 'None' System 'NS_AdvancedFolloving' Emitter 'Leader'! Check that the attribute is named correctly.
+[2024.05.11-21.08.56:554][774]LogNiagaraEditor: Applying Niagara Script NMS_UpdateFollowerVelocity
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Total job queries 300, among them cache hits 32 (10.67%)
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 147 distinct outputs (57.42%)
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: RAM used: 4,66 MiB of 1,60 GiB budget. Usage: 0.28%
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Shaders Compiled: 232
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Jobs assigned 232, completed 232 (100%)
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Average time worker was idle: 139.46 s
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Job execution time: average 0.24 s, max 0.52 s
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Job life time (pending + execution): average 0.29 s, max 0.60
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Shader code size: average 17,53 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 57.01 s
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Jobs were issued in 232 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Average processing rate: 4.07 jobs/sec
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Total thread time: 31,663 s
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Total thread preprocess time: 0,147 s
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Percentage time preprocessing: 0.47%
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Effective parallelization: 0.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  232 times, average 0.14 sec, max 0.31 sec, min 0.04 sec)
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  232 times, average 0.14 sec, max 0.31 sec, min 0.04 sec)
+[2024.05.11-21.08.56:805][774]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.08.56:806][774]MaterialEditorStats: LastOpCount: 12
+[2024.05.11-21.08.56:977][774]E44AD28C426BF3C942689D90B9DFD6E6_NMS_UpdateFollowerVelocity_MessageLog: Script successfully compiled.
+[2024.05.11-21.08.57:627][837]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.796260 sec (time since issued), 0.731050 sec (combined shader worker time).
+[2024.05.11-21.08.58:564][910]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.09.01:094][103]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.611558 sec (time since issued), 0.762913 sec (combined shader worker time).
+[2024.05.11-21.09.01:189][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.09.01:288][103]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.09.01:289][103]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingC5DBACE949D4E81651400E942C7F847C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.09.01:295][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 7.05 sec)
+[2024.05.11-21.09.01:329][103]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.09.01:329][103]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.09.07:090][733]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.09.09:776][ 38]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 2.863578 sec (time since issued), 2.809911 sec (combined shader worker time).
+[2024.05.11-21.09.09:978][ 41]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.09.11:216][149]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.409274 sec (time since issued), 1.352430 sec (combined shader worker time).
+[2024.05.11-21.09.11:985][229]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.09.31:646][192]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.690823 sec (time since issued), 2.016404 sec (combined shader worker time).
+[2024.05.11-21.09.31:760][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.09.31:859][192]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.09.31:860][192]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving9A1E497F4007BC0A7C29CAB8F953D8F1.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.09.31:866][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 7.15 sec)
+[2024.05.11-21.09.31:900][192]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.09.31:900][192]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.09.36:422][663]LogNiagaraEditor: Saving and Compiling NiagaraScript NMS_UpdateFollowerVelocity
+[2024.05.11-21.09.36:533][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.09.36:582][663]LogNiagara: Warning: Data interface count mismatch during script presave. Invaliding compile results (see full log for details).  Script: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-21.09.36:582][663]LogNiagara: Compiled DataInterfaceInfos:
+[2024.05.11-21.09.36:582][663]LogNiagara: Name:Module.LeadingEmmiter, Type: NiagaraDataInterfaceParticleRead
+[2024.05.11-21.09.36:582][663]LogNiagara: Resolved DataInterfaceInfos:
+[2024.05.11-21.09.36:585][663]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity
+[2024.05.11-21.09.36:586][663]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_UpdateFollowerVelocity6AAE4EB441519C6BD6C3FE8B48D63A3E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.uasset'
+[2024.05.11-21.09.36:592][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 7.21 sec)
+[2024.05.11-21.09.36:594][663]AssetCheck: New page: Asset Save: NMS_UpdateFollowerVelocity
+[2024.05.11-21.09.36:594][663]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-21.11.59:650][985]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.05.11-21.11.59:650][985]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.05.11-21.12.31:046][743]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.05.11-21.12.39:957][805]LogNiagaraEditor: Applying Niagara Script NMS_UpdateFollowerVelocity
+[2024.05.11-21.12.40:183][813]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.12.47:036][377]LogNiagaraEditor: Move module /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:Follower_4.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_9
+[2024.05.11-21.12.47:054][377]LogNiagaraEditor: Finished moving!
+[2024.05.11-21.12.47:337][379]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Total job queries 314, among them cache hits 33 (10.51%)
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Tracking 269 distinct input hashes that result in 153 distinct outputs (56.88%)
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: RAM used: 4,92 MiB of 1,60 GiB budget. Usage: 0.30%
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Shaders Compiled: 245
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Jobs assigned 245, completed 245 (100%)
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Average time worker was idle: 134.17 s
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Job execution time: average 0.24 s, max 0.52 s
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Job life time (pending + execution): average 0.29 s, max 0.61
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Shader code size: average 17,701 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.46 s
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Jobs were issued in 245 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Average processing rate: 4.05 jobs/sec
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Total thread time: 33,752 s
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Total thread preprocess time: 0,147 s
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Percentage time preprocessing: 0.44%
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Effective parallelization: 0.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  245 times, average 0.14 sec, max 0.32 sec, min 0.04 sec)
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  245 times, average 0.14 sec, max 0.32 sec, min 0.04 sec)
+[2024.05.11-21.12.47:936][443]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.12.48:277][478]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.108801 sec (time since issued), 1.077124 sec (combined shader worker time).
+[2024.05.11-21.12.49:339][597]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.12.56:598][384]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.544443 sec (time since issued), 0.834307 sec (combined shader worker time).
+[2024.05.11-21.12.56:690][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.12.56:792][384]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.12.56:793][384]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingC8911DD7412AE123EBBCAB97018439E1.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.12.56:799][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 7.32 sec)
+[2024.05.11-21.12.56:831][384]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.12.56:831][384]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.13.07:329][142]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.13.09:911][433]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 2.748821 sec (time since issued), 2.698534 sec (combined shader worker time).
+[2024.05.11-21.13.10:130][438]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.13.11:277][557]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.321791 sec (time since issued), 1.268476 sec (combined shader worker time).
+[2024.05.11-21.13.12:132][654]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.13.22:874][775]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.11-21.13.50:566][656]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.13.51:449][750]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 1.047814 sec (time since issued), 1.014218 sec (combined shader worker time).
+[2024.05.11-21.13.52:571][875]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.14.37:532][260]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.14.38:205][334]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.831318 sec (time since issued), 0.801033 sec (combined shader worker time).
+[2024.05.11-21.14.39:537][489]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.15.48:775][307]LogNiagaraEditor: Removed Var 'Constants.Follower.NMS_UpdateFollowerVelocity.TargetPositionOffset' from Script NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:SystemSpawnScript
+[2024.05.11-21.15.48:775][307]LogNiagaraEditor: Removed Var 'Constants.Follower.NMS_UpdateFollowerVelocity.TargetPositionOffset' from Script NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:SystemUpdateScript
+[2024.05.11-21.15.48:776][307]LogNiagaraEditor: Removed Var 'Constants.Follower.NMS_UpdateFollowerVelocity.TargetPositionOffset' from Script NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:Follower_4.SpawnScript
+[2024.05.11-21.15.48:776][307]LogNiagaraEditor: Removed Var 'Constants.Follower.NMS_UpdateFollowerVelocity.TargetPositionOffset' from Script NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving:Follower_4.UpdateScript
+[2024.05.11-21.15.49:040][309]113898_NS_AdvancedFolloving_MessageLog: System compile status unknown.
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Total job queries 327, among them cache hits 33 (10.09%)
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Tracking 282 distinct input hashes that result in 163 distinct outputs (57.80%)
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: RAM used: 5,20 MiB of 1,60 GiB budget. Usage: 0.32%
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Shaders Compiled: 258
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Jobs assigned 258, completed 258 (100%)
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Average time worker was idle: 128.81 s
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Job execution time: average 0.24 s, max 0.52 s
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Job life time (pending + execution): average 0.29 s, max 0.61
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Shader code size: average 17,904 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 64.40 s
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Jobs were issued in 258 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Average processing rate: 4.01 jobs/sec
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Total thread time: 35,877 s
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Total thread preprocess time: 0,147 s
+[2024.05.11-21.15.49:420][349]LogShaderCompilers: Display: Percentage time preprocessing: 0.41%
+[2024.05.11-21.15.49:421][349]LogShaderCompilers: Display: Effective parallelization: 0.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-21.15.49:421][349]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-21.15.49:421][349]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  258 times, average 0.14 sec, max 0.32 sec, min 0.04 sec)
+[2024.05.11-21.15.49:421][349]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-21.15.49:421][349]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  258 times, average 0.14 sec, max 0.32 sec, min 0.04 sec)
+[2024.05.11-21.15.49:421][349]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.15.49:767][383]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.925183 sec (time since issued), 0.889163 sec (combined shader worker time).
+[2024.05.11-21.15.51:043][515]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.16.28:196][309]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.797808 sec (time since issued), 2.993766 sec (combined shader worker time).
+[2024.05.11-21.16.28:295][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.16.28:391][309]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.16.28:392][309]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving7CD4080C4950A679A77F69B259C58FF4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.16.28:398][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 7.43 sec)
+[2024.05.11-21.16.28:431][309]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.16.28:431][309]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.16.46:679][433]LogNiagaraEditor: Saving and Compiling NiagaraScript NMS_UpdateFollowerVelocity
+[2024.05.11-21.16.46:768][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.16.46:797][433]LogNiagara: Warning: Data interface count mismatch during script presave. Invaliding compile results (see full log for details).  Script: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-21.16.46:797][433]LogNiagara: Compiled DataInterfaceInfos:
+[2024.05.11-21.16.46:797][433]LogNiagara: Name:Module.LeadingEmmiter, Type: NiagaraDataInterfaceParticleRead
+[2024.05.11-21.16.46:797][433]LogNiagara: Resolved DataInterfaceInfos:
+[2024.05.11-21.16.46:800][433]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity
+[2024.05.11-21.16.46:801][433]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NMS_UpdateFollowerVelocity2001DA444CF6649300E34EB94192D6E7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.uasset'
+[2024.05.11-21.16.46:806][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 7.46 sec)
+[2024.05.11-21.16.46:807][433]AssetCheck: New page: Asset Save: NMS_UpdateFollowerVelocity
+[2024.05.11-21.16.46:807][433]LogContentValidation: Display: Validating /Script/Niagara.NiagaraScript /Game/Niagara/25-AdvancedFollovingLeader/NMS_UpdateFollowerVelocity.NMS_UpdateFollowerVelocity
+[2024.05.11-21.17.39:417][112]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.602568 sec (time since issued), 1.338317 sec (combined shader worker time).
+[2024.05.11-21.17.39:516][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.17.39:617][112]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.17.39:617][112]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving27140D2F4D5E74CCE3A20FA539F8CBB8.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.17.39:624][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 7.57 sec)
+[2024.05.11-21.17.39:657][112]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.17.39:657][112]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.18.23:324][851]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.688340 sec (time since issued), 1.581847 sec (combined shader worker time).
+[2024.05.11-21.18.23:425][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.18.23:527][851]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.18.23:528][851]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingC9CE8C524991E8494CD38B8508C6952B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.18.23:535][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 7.68 sec)
+[2024.05.11-21.18.23:567][851]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.18.23:567][851]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.19.01:408][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.05.11-21.19.01:507][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.19.01:595][155]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.19.01:595][155]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingF60C7237433050FFBBC7578BF2D2B93B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.19.01:603][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 7.78 sec)
+[2024.05.11-21.19.01:604][155]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.19.01:604][155]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Total job queries 344, among them cache hits 39 (11.34%)
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Tracking 293 distinct input hashes that result in 173 distinct outputs (59.04%)
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: RAM used: 5,42 MiB of 1,60 GiB budget. Usage: 0.33%
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Shaders Compiled: 269
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Jobs assigned 269, completed 269 (100%)
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Average time worker was idle: 130.15 s
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Job execution time: average 0.24 s, max 0.52 s
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Job life time (pending + execution): average 0.30 s, max 0.61
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Shader code size: average 17,975 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 66.76 s
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Jobs were issued in 269 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Average processing rate: 4.03 jobs/sec
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Total thread time: 37,597 s
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Total thread preprocess time: 0,147 s
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Percentage time preprocessing: 0.39%
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Effective parallelization: 0.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  269 times, average 0.14 sec, max 0.32 sec, min 0.04 sec)
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  269 times, average 0.14 sec, max 0.32 sec, min 0.04 sec)
+[2024.05.11-21.19.19:827][183]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.19.19:857][183]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.697727 sec (time since issued), 2.049398 sec (combined shader worker time).
+[2024.05.11-21.19.19:951][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.19.20:027][183]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.19.20:027][183]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving21EA50574C0D8678A9F8B7AD17EF1C39.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.19.20:034][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 7.86 sec)
+[2024.05.11-21.19.20:066][183]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.19.20:066][183]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.20.21:520][102]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.534913 sec (time since issued), 1.082244 sec (combined shader worker time).
+[2024.05.11-21.20.21:602][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.20.21:705][102]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.20.21:705][102]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingD41C56B34732EF7D60058E9991644700.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.20.21:712][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 7.97 sec)
+[2024.05.11-21.20.21:748][102]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.20.21:748][102]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.20.24:546][340]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.20.24:546][340]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.20.24:546][340]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_15
+[2024.05.11-21.20.24:546][340]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_15
+[2024.05.11-21.20.24:910][366]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.20.24:910][366]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.20.24:912][366]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_19
+[2024.05.11-21.20.24:912][366]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_19
+[2024.05.11-21.20.33:753][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.11-21.20.33:862][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.20.33:935][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.05.11-21.20.33:997][899]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.11-21.20.33:997][899]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1FED89FCC4F0F1D85CDD1408A9854AB27.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.11-21.20.34:004][899]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.092
+[2024.05.11-21.20.34:011][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 8.12 sec)
+[2024.05.11-21.20.34:013][899]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.11-21.20.34:013][899]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.11-21.20.55:279][936]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.444466 sec (time since issued), 0.420126 sec (combined shader worker time).
+[2024.05.11-21.20.55:376][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.20.55:479][936]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.20.55:479][936]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving4B4FC69D4E5F40037F389891349CE71E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.20.55:485][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 8.23 sec)
+[2024.05.11-21.20.55:518][936]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.20.55:518][936]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.21.38:244][ 88]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.460045 sec (time since issued), 0.434067 sec (combined shader worker time).
+[2024.05.11-21.21.38:340][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.21.38:441][ 88]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.21.38:441][ 88]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingEC6EEF1E44C33EE2FC655E88ECFB4FCE.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.21.38:448][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 8.34 sec)
+[2024.05.11-21.21.38:481][ 88]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.21.38:481][ 88]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Total job queries 353, among them cache hits 43 (12.18%)
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Tracking 297 distinct input hashes that result in 177 distinct outputs (59.60%)
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: RAM used: 5,48 MiB of 1,60 GiB budget. Usage: 0.33%
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Shaders Compiled: 273
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Jobs assigned 273, completed 273 (100%)
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Average time worker was idle: 128.95 s
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Job execution time: average 0.24 s, max 0.52 s
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Job life time (pending + execution): average 0.30 s, max 0.61
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Shader code size: average 17,935 KiB, min 1,664 KiB, max 39,862 KiB
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 67.74 s
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Jobs were issued in 273 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Average processing rate: 4.03 jobs/sec
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Total thread time: 38,06 s
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Total thread preprocess time: 0,147 s
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Percentage time preprocessing: 0.39%
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Effective parallelization: 0.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  273 times, average 0.14 sec, max 0.32 sec, min 0.04 sec)
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  273 times, average 0.14 sec, max 0.32 sec, min 0.04 sec)
+[2024.05.11-21.22.29:072][600]LogShaderCompilers: Display: ================================================
+[2024.05.11-21.22.29:465][600]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.498844 sec (time since issued), 0.474375 sec (combined shader worker time).
+[2024.05.11-21.22.29:559][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.22.29:656][600]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.22.29:656][600]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving1E65E71A4BFEF3612B6059A52F389446.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.22.29:663][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 8.44 sec)
+[2024.05.11-21.22.29:695][600]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.22.29:696][600]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.22.43:740][915]Cmd: TRANSACTION UNDO
+[2024.05.11-21.22.43:740][915]LogEditorTransaction: Undo Edit input local value.
+[2024.05.11-21.22.44:310][923]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.22.44:377][930]Cmd: TRANSACTION UNDO
+[2024.05.11-21.22.44:377][930]LogEditorTransaction: Undo Edit input local value.
+[2024.05.11-21.22.44:897][950]Cmd: TRANSACTION UNDO
+[2024.05.11-21.22.44:897][950]LogEditorTransaction: Undo Edit input local value.
+[2024.05.11-21.22.45:389][968]Cmd: TRANSACTION UNDO
+[2024.05.11-21.22.45:389][968]LogEditorTransaction: Undo Set Playback Range
+[2024.05.11-21.22.45:900][988]Cmd: TRANSACTION UNDO
+[2024.05.11-21.22.45:900][988]LogEditorTransaction: Undo Edit input local value.
+[2024.05.11-21.22.46:312][998]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.22.46:499][ 17]Cmd: TRANSACTION UNDO
+[2024.05.11-21.22.46:499][ 17]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.11-21.22.47:174][ 52]Cmd: TRANSACTION UNDO
+[2024.05.11-21.22.47:174][ 52]LogEditorTransaction: Undo Edit input local value.
+[2024.05.11-21.22.48:313][136]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.22.49:452][214]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.395034 sec (time since issued), 0.357989 sec (combined shader worker time).
+[2024.05.11-21.22.49:539][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.22.49:629][214]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.22.49:629][214]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving810D7639477B3872282FD7A2B0AF70F5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.22.49:635][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 8.54 sec)
+[2024.05.11-21.22.49:668][214]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.22.49:668][214]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.23.07:428][692]Cmd: TRANSACTION UNDO
+[2024.05.11-21.23.07:428][692]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.11-21.23.08:037][700]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.23.08:342][730]Cmd: TRANSACTION UNDO
+[2024.05.11-21.23.08:342][730]LogEditorTransaction: Undo Edit input local value.
+[2024.05.11-21.23.09:869][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.23.09:971][840]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.23.09:971][840]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving4965DF3B4EEADF1621B7578E025507AF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.23.09:978][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 8.64 sec)
+[2024.05.11-21.23.10:011][840]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.23.10:011][840]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.23.10:049][842]113898_NS_AdvancedFolloving_MessageLog: System successfully compiled.
+[2024.05.11-21.23.16:457][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.23.16:550][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.11-21.23.16:617][453]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.11-21.23.16:617][453]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1FA1CE7164E04733EAC5C1A862647F749.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.11-21.23.16:623][453]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.119
+[2024.05.11-21.23.16:636][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 8.82 sec)
+[2024.05.11-21.23.16:637][453]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.11-21.23.16:637][453]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.11-21.23.17:475][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.11-21.23.19:261][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.23.19:327][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.11-21.23.19:389][611]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.11-21.23.19:389][611]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_135ED66EA481F74E9A59127B557144125.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.11-21.23.19:396][611]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.091
+[2024.05.11-21.23.19:405][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 8.97 sec)
+[2024.05.11-21.23.19:407][611]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.11-21.23.19:407][611]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.11-21.23.35:131][703]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.35:131][703]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.35:323][716]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BlueprintGraph/Classes: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BlueprintGraph/Classes' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.35:323][716]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BlueprintGraph/Public/BlueprintNodeSpawner.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BlueprintGraph/Public/BlueprintNodeSpawner.h' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.35:323][716]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.35:323][716]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/TemplateSequence/Source/TemplateSequence/Public/CameraAnimationSequenceSubsystem.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/TemplateSequence/Source/TemplateSequence/Public/CameraAnimationSequenceSubsystem.h' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.36:261][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.36:261][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/Curves/DefaultSpawnCountScaleByDistance.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/Curves/DefaultSpawnCountScaleByDistance.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.36:261][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Enums: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Enums' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.36:261][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/GameplayTasks/Classes/Tasks/GameplayTask_SpawnActor.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/GameplayTasks/Classes/Tasks/GameplayTask_SpawnActor.h' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.36:261][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/GridLocation.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/GridLocation.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.36:261][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Decal/InitialDecalOrientation.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Decal/InitialDecalOrientation.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.36:261][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/MeshInterface/Initialize_MeshReproductionSprite.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/MeshInterface/Initialize_MeshReproductionSprite.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.36:261][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.38:365][972]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BlueprintGraph/Classes: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BlueprintGraph/Classes' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.38:367][972]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BlueprintGraph/Public/BlueprintNodeSpawner.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BlueprintGraph/Public/BlueprintNodeSpawner.h' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.38:444][981]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/EngineAssetDefinitions/Source/Private/AssetDefinition_ProceduralFoliageSpawner.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/EngineAssetDefinitions/Source/Private/AssetDefinition_ProceduralFoliageSpawner.h' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.38:444][981]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Foliage/Public/ProceduralFoliageSpawner.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Foliage/Public/ProceduralFoliageSpawner.h' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.38:444][981]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/FoliageEdit/Private/ProceduralFoliageSpawnerFactory.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/FoliageEdit/Private/ProceduralFoliageSpawnerFactory.h' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.38:444][981]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Source/RigVMEditor/Public/EdGraph/NodeSpawners: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Source/RigVMEditor/Public/EdGraph/NodeSpawners' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.11-21.23.42:393][269]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/17-HitSurface/BP_VFXSpawner.BP_VFXSpawner_C
+[2024.05.11-21.23.42:393][269]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/17-HitSurface/BP_VFXSpawner.BP_VFXSpawner_C
+[2024.05.11-21.23.42:394][269]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/17-HitSurface/BP_VFXSpawner.BP_VFXSpawner as actor: BP_VFXSpawner_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_VFXSpawner_C_5
+[2024.05.11-21.23.42:395][269]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/17-HitSurface/BP_VFXSpawner.BP_VFXSpawner as actor: BP_VFXSpawner_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_VFXSpawner_C_5
+[2024.05.11-21.23.42:397][269]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.11-21.23.42:687][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/17-HitSurface/BP_VFXSpawner.BP_VFXSpawner_C
+[2024.05.11-21.23.42:687][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/17-HitSurface/BP_VFXSpawner.BP_VFXSpawner_C
+[2024.05.11-21.23.42:689][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/17-HitSurface/BP_VFXSpawner.BP_VFXSpawner as actor: BP_VFXSpawner_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_VFXSpawner_C_6
+[2024.05.11-21.23.42:689][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/17-HitSurface/BP_VFXSpawner.BP_VFXSpawner as actor: BP_VFXSpawner_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_VFXSpawner_C_6
+[2024.05.11-21.24.01:543][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.24.01:612][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.11-21.24.01:684][631]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.11-21.24.01:684][631]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_155013A7C4ABB11CED3E62C970E8E0E02.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.11-21.24.01:692][631]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.102
+[2024.05.11-21.24.01:698][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 9.12 sec)
+[2024.05.11-21.24.01:701][631]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.11-21.24.01:701][631]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.11-21.24.02:159][666]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.05.11-21.24.02:167][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.11-21.24.02:168][666]PIE: New page: SIE session: NiagaraCourse_1 (12 трав. 2024 р., 03:24:02)
+[2024.05.11-21.24.02:172][666]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.11-21.24.02:173][666]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.11-21.24.02:173][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.11-21.24.02:195][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022193s)
+[2024.05.11-21.24.02:195][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.022239s)
+[2024.05.11-21.24.02:203][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.11-21.24.02:204][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.11-21.24.02:204][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.11-21.24.02:204][666]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.11-21.24.02:205][666]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2024.05.11-21.24.02:205][666]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.11-21.24.02:205][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.11-21.24.02:205][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.11-21.24.02:205][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.11-21.24.02:205][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.11-21.24.02:205][666]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.11-21.24.02:205][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.11-21.24.02:205][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.11-21.24.02:205][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.11-21.24.02:205][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.11-21.24.02:205][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.11-21.24.02:205][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.11-21.24.02:207][666]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.11-21.24.02:233][666]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.11-21.24.02:234][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.11-21.24.02:234][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.11-21.24.02:234][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.11-21.24.02:234][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.11-21.24.02:234][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.05.11-21.24.02:236][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.11-21.24.02:236][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.11-21.24.02:236][666]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.11-21.24.02:236][666]LogAudio: Display: Audio Device (ID: 2) registered with world 'NiagaraCourse_1'.
+[2024.05.11-21.24.02:236][666]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.11-21.24.02:239][666]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.11-21.24.02:307][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.12-00.24.02
+[2024.05.11-21.24.02:323][666]LogWorld: Bringing up level for play took: 0.083847
+[2024.05.11-21.24.02:325][666]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.05.11-21.24.02:342][666]PIE: Server logged in
+[2024.05.11-21.24.02:343][666]PIE: Play in editor total start time 0,177 seconds.
+[2024.05.11-21.24.19:149][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.11-21.24.19:149][640]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.11-21.24.19:149][640]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.11-21.24.19:153][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.11-21.24.19:158][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.11-21.24.19:162][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.11-21.24.19:172][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.11-21.24.19:174][640]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.11-21.24.19:174][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.11-21.24.19:177][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.11-21.24.19:192][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.11-21.24.19:243][641]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.05.11-21.24.25:610][157]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.509398 sec (time since issued), 1.021845 sec (combined shader worker time).
+[2024.05.11-21.24.25:711][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.24.25:810][157]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.24.25:810][157]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFolloving068CB00E4E7AFF35B23FCEAD005D5865.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.24.25:818][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 9.23 sec)
+[2024.05.11-21.24.25:850][157]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.24.25:850][157]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.24.40:955][488]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.11-21.24.45:155][862]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.11-21.24.46:468][927]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving took 0.653695 sec (time since issued), 1.570264 sec (combined shader worker time).
+[2024.05.11-21.24.46:572][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.24.46:671][927]LogSavePackage: Moving output files for package: /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving
+[2024.05.11-21.24.46:671][927]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_AdvancedFollovingDF65FA0B46F19C1E46E7878898722AEE.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.uasset'
+[2024.05.11-21.24.46:679][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 9.33 sec)
+[2024.05.11-21.24.46:712][927]AssetCheck: New page: Asset Save: NS_AdvancedFolloving
+[2024.05.11-21.24.46:712][927]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/25-AdvancedFollovingLeader/NS_AdvancedFolloving.NS_AdvancedFolloving
+[2024.05.11-21.24.58:364][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.24.58:428][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.11-21.24.58:493][664]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.11-21.24.58:494][664]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1D3B1CCA84A1BB1AD063C3FAE691E2A32.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.11-21.24.58:500][664]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.105
+[2024.05.11-21.24.58:505][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 9.48 sec)
+[2024.05.11-21.24.58:509][664]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.11-21.24.58:509][664]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.11-21.25.04:032][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-21.25.04:100][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.11-21.25.04:165][933]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.11-21.25.04:165][933]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1952581F8476A2607F001668CAF2A5934.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.11-21.25.04:172][933]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.094
+[2024.05.11-21.25.04:178][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 9.62 sec)
+[2024.05.11-21.25.04:179][933]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.11-21.25.04:179][933]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
