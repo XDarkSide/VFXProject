@@ -2513,3 +2513,406 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.15-19.24.06:207][298]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
 [2024.05.15-19.24.06:207][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2024.05.15-19.24.06:207][298]MaterialEditorStats: Shader Count: 22
+[2024.05.15-19.25.13:443][319]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-19.25.13:443][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-19.25.14:383][413]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-19.25.14:383][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-19.31.22:125][403]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-19.31.22:125][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-19.31.48:148][ 66]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.15-19.31.48:167][ 66]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.15-19.31.48:180][ 67]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.15-19.31.52:331][341]LogContentBrowser: Attempting asset rename: NewFolder -> 27-Rain
+[2024.05.15-19.31.52:331][341]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.15-19.31.55:697][545]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.05.15-19.31.55:705][545]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.05.15-19.31.55:732][547]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.05.15-19.31.56:542][602]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2024.05.15-19.31.56:665][602]LogContentBrowser: End creating deferred item NewMaterial
+[2024.05.15-19.31.57:580][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.15-19.31.58:686][655]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-19.31.58:698][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.15-19.31.58:704][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.15-19.31.58:710][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.15-19.32.02:311][766]LogSlate: Took 0.004809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.15-19.32.08:470][766]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.05.15-19.32.08:482][766]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.05.15-19.32.08:490][766]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.05.15-19.32.08:512][768]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.05.15-19.32.20:355][536]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_Rain
+[2024.05.15-19.32.20:472][536]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: ================================================
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Total job queries 781, among them cache hits 638 (81.69%)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Tracking 143 distinct input hashes that result in 91 distinct outputs (63.64%)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: RAM used: 3,72 MiB of 1,60 GiB budget. Usage: 0.23%
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Shaders Compiled: 116
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Jobs assigned 116, completed 116 (100%)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Average time worker was idle: 152.97 s
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.75 s
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 0.85 s
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Job life time (pending + execution): average 0.60 s, max 1.28
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Shader code size: average 47,916 KiB, min 29,711 KiB, max 73,496 KiB
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.63 s
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Jobs were issued in 116 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Average processing rate: 7.42 jobs/sec
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Total thread time: 38,571 s
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Total thread preprocess time: 3,83 s
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Percentage time preprocessing: 9.93%
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.44 sec, max 0.46 sec, min 0.42 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.00% of total time (compiled   17 times, average 0.39 sec, max 0.48 sec, min 0.32 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.77% of total time (compiled   11 times, average 0.34 sec, max 0.39 sec, min 0.26 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.44% of total time (compiled   10 times, average 0.36 sec, max 0.41 sec, min 0.34 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.62% of total time (compiled    9 times, average 0.33 sec, max 0.36 sec, min 0.30 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.56% of total time (compiled    4 times, average 0.44 sec, max 0.46 sec, min 0.42 sec)
+[2024.05.15-19.32.20:559][537]LogShaderCompilers: Display: ================================================
+[2024.05.15-19.32.21:548][598]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.079161 sec (time since issued), 0.998053 sec (combined shader worker time).
+[2024.05.15-19.32.22:139][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.32.22:186][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.32.22:213][628]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.32.22:213][628]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_RainD66824514FB1AB92BBAD7CA88EA9F040.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.32.22:369][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 6.83 sec)
+[2024.05.15-19.32.22:369][628]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.32.22:369][628]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.32.22:907][661]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.32.23:083][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-19.32.23:083][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-19.32.23:208][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-19.32.23:208][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-19.32.23:381][661]LogViewport: Scene viewport resized to 533x500, mode Windowed.
+[2024.05.15-19.32.24:129][682]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.163046 sec (time since issued), 0.725593 sec (combined shader worker time).
+[2024.05.15-19.32.24:298][685]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.15-19.32.24:403][689]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.32.28:736][880]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.32.29:302][898]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.651127 sec (time since issued), 0.491580 sec (combined shader worker time).
+[2024.05.15-19.32.30:747][961]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.32.32:752][ 47]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.32.33:581][ 76]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.432258 sec (time since issued), 1.199620 sec (combined shader worker time).
+[2024.05.15-19.32.34:761][130]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.32.46:807][691]LogContentBrowser: Deferred new asset file creation: M_LiquidMaster_Inst
+[2024.05.15-19.32.46:835][691]LogContentBrowser: Creating deferred item: M_LiquidMaster_Inst
+[2024.05.15-19.32.46:861][692]LogContentBrowser: Renaming the item being created (Deferred Item: M_LiquidMaster_Inst).
+[2024.05.15-19.32.53:383][ 10]LogContentBrowser: Attempting asset rename: M_LiquidMaster_Inst -> MI_MainRainDrop
+[2024.05.15-19.32.53:486][ 10]LogContentBrowser: End creating deferred item M_LiquidMaster_Inst
+[2024.05.15-19.32.56:047][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.32.56:112][119]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/MI_MainRainDrop
+[2024.05.15-19.32.56:112][119]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_MainRainDrop79ACD82048B3A70080B9089D89F4EEA7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/MI_MainRainDrop.uasset'
+[2024.05.15-19.32.56:265][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 7.05 sec)
+[2024.05.15-19.32.56:266][119]AssetCheck: New page: Asset Save: MI_MainRainDrop
+[2024.05.15-19.32.56:266][119]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/Materials/MI_MainRainDrop.MI_MainRainDrop
+[2024.05.15-19.33.02:218][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.33.02:256][360]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/MI_MainRainDrop
+[2024.05.15-19.33.02:256][360]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_MainRainDrop3D7D6AC244ECF8985D1CB39C8BB46006.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/MI_MainRainDrop.uasset'
+[2024.05.15-19.33.02:412][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 7.25 sec)
+[2024.05.15-19.33.02:597][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.15-19.33.02:606][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.15-19.33.02:612][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.15-19.33.02:733][360]SourceControl: rm 'NiagaraVFX/Content/Niagara/Materials/MI_MainRainDrop.uasset'
+[2024.05.15-19.33.02:738][360]LogSlate: Warning: Menu could not be pushed.  A path to the parent widget(SAssetTreeItem [SPathView.cpp(1390)]) could not be found
+[2024.05.15-19.33.02:739][360]AssetCheck: New page: Asset Save: MI_MainRainDrop
+[2024.05.15-19.33.02:739][360]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/27-Rain/MI_MainRainDrop.MI_MainRainDrop
+[2024.05.15-19.33.11:158][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.33.11:210][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.33.11:235][757]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.33.11:235][757]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Rain6B447D4D48C981E63F8C8CBB598A6514.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.33.11:241][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 7.33 sec)
+[2024.05.15-19.33.11:243][757]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.33.11:243][757]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.33.17:038][ 32]LogMaterial: Display: Material /Game/Niagara/27-Rain/MI_MainRainDrop.MI_MainRainDrop needed to have new flag set bUsedWithNiagaraSprites !
+[2024.05.15-19.33.44:057][282]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.33.45:006][324]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.053276 sec (time since issued), 0.930949 sec (combined shader worker time).
+[2024.05.15-19.33.46:066][371]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.33.49:226][515]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.33.50:007][545]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.887026 sec (time since issued), 0.752775 sec (combined shader worker time).
+[2024.05.15-19.33.51:231][596]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.34.12:651][569]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.05.15-19.34.20:513][834]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-19.34.31:818][106]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.34.32:516][135]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.803883 sec (time since issued), 0.690041 sec (combined shader worker time).
+[2024.05.15-19.34.33:824][193]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.34.41:719][486]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.InitializeParticle.Sprite Size' from Script NiagaraScript /Game/Niagara/27-Rain/NS_Rain.NS_Rain:SimpleSpriteBurst.SpawnScript
+[2024.05.15-19.34.41:911][488]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.34.42:696][521]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.891556 sec (time since issued), 0.786509 sec (combined shader worker time).
+[2024.05.15-19.34.43:920][576]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.35.02:319][805]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.35.03:136][839]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.009246 sec (time since issued), 0.891836 sec (combined shader worker time).
+[2024.05.15-19.35.04:328][892]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.35.06:335][978]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.35.07:094][  8]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.054243 sec (time since issued), 0.966298 sec (combined shader worker time).
+[2024.05.15-19.35.08:050][ 38]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.829751 sec (time since issued), 0.718296 sec (combined shader worker time).
+[2024.05.15-19.35.08:350][ 51]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.35.14:138][322]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.ShapeLocation.Plane Size' from Script NiagaraScript /Game/Niagara/27-Rain/NS_Rain.NS_Rain:SimpleSpriteBurst.SpawnScript
+[2024.05.15-19.35.14:411][324]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.35.15:228][358]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.001927 sec (time since issued), 0.897236 sec (combined shader worker time).
+[2024.05.15-19.35.16:425][411]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.35.18:925][522]LogViewport: Scene viewport resized to 531x513, mode Windowed.
+[2024.05.15-19.35.19:006][524]LogViewport: Scene viewport resized to 240x183, mode Windowed.
+[2024.05.15-19.35.19:040][525]LogViewport: Scene viewport resized to 218x158, mode Windowed.
+[2024.05.15-19.35.19:328][540]LogViewport: Scene viewport resized to 533x500, mode Windowed.
+[2024.05.15-19.35.19:495][548]LogSlate: Window 'NS_Rain' being destroyed
+[2024.05.15-19.35.22:064][729]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.35.22:064][729]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.35.22:065][729]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_0
+[2024.05.15-19.35.22:065][729]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_0
+[2024.05.15-19.35.22:454][753]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.35.22:454][753]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.35.22:455][753]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_11
+[2024.05.15-19.35.22:456][753]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_11
+[2024.05.15-19.36.14:920][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.36.15:031][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.15-19.36.15:099][855]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.15-19.36.15:100][855]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_15DE44B8A47C69F235B96048E65089DB2.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.15-19.36.15:107][855]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.120
+[2024.05.15-19.36.15:117][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 7.53 sec)
+[2024.05.15-19.36.15:120][855]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.15-19.36.15:120][855]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.15-19.36.15:729][897]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.05.15-19.36.15:737][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-19.36.15:737][897]PIE: New page: SIE session: NiagaraCourse_1 (16 трав. 2024 р., 01:36:15)
+[2024.05.15-19.36.15:769][897]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.15-19.36.15:793][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023465s)
+[2024.05.15-19.36.15:793][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.023509s)
+[2024.05.15-19.36.15:798][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.15-19.36.15:802][897]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-19.36.15:802][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-19.36.15:803][897]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.15-19.36.15:803][897]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2024.05.15-19.36.15:803][897]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.15-19.36.15:803][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-19.36.15:803][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-19.36.15:803][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-19.36.15:803][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-19.36.15:803][897]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-19.36.15:803][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-19.36.15:803][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-19.36.15:803][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-19.36.15:804][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-19.36.15:804][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-19.36.15:804][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-19.36.15:806][897]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-19.36.15:831][897]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.15-19.36.15:831][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-19.36.15:831][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-19.36.15:831][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-19.36.15:832][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.15-19.36.15:832][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.05.15-19.36.15:834][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.15-19.36.15:834][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.15-19.36.15:834][897]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.15-19.36.15:834][897]LogAudio: Display: Audio Device (ID: 3) registered with world 'NiagaraCourse_1'.
+[2024.05.15-19.36.15:834][897]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.15-19.36.15:836][897]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.15-19.36.15:910][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.15-22.36.15
+[2024.05.15-19.36.15:927][897]LogWorld: Bringing up level for play took: 0.090672
+[2024.05.15-19.36.15:929][897]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.05.15-19.36.15:935][897]PIE: Server logged in
+[2024.05.15-19.36.15:936][897]PIE: Play in editor total start time 0,2 seconds.
+[2024.05.15-19.36.17:729][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-19.36.17:729][979]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.15-19.36.17:731][979]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-19.36.17:735][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-19.36.17:738][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-19.36.17:738][979]LogNiagaraEditor: onPieEnd
+[2024.05.15-19.36.17:738][979]LogNiagaraEditor: onPieEnd - has package flags
+[2024.05.15-19.36.17:738][979]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2024.05.15-19.36.17:742][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-19.36.17:750][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-19.36.17:753][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.15-19.36.17:753][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.15-19.36.17:754][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.15-19.36.17:768][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.15-19.36.17:818][980]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.05.15-19.36.17:835][980]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.234 and deleted 0 files with total size 0 MiB and 375 empty folders. Scanned 18268 files in 19858 folders with total size 623 MiB.
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: ================================================
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Total job queries 861, among them cache hits 663 (77.00%)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 131 distinct outputs (66.16%)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: RAM used: 5,10 MiB of 1,60 GiB budget. Usage: 0.31%
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Shaders Compiled: 166
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Jobs assigned 166, completed 166 (100%)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Average time worker was idle: 143.13 s
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.28 s
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 2.12 s
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 2.20
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Shader code size: average 45,925 KiB, min 1,664 KiB, max 83,281 KiB
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.08 s
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Jobs were issued in 158 batches (only local compilation was used), average 1.05 jobs/batch
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Average processing rate: 6.62 jobs/sec
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Total thread time: 53,123 s
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Total thread preprocess time: 4,609 s
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Percentage time preprocessing: 8.68%
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Effective parallelization: 2.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 0.64 sec, max 0.79 sec, min 0.48 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 0.59 sec, max 0.75 sec, min 0.43 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 0.49 sec, max 0.58 sec, min 0.41 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 0.45 sec, max 0.77 sec, min 0.33 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 0.45 sec, max 0.49 sec, min 0.40 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.84% of total time (compiled   18 times, average 0.41 sec, max 0.79 sec, min 0.32 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.96% of total time (compiled   12 times, average 0.35 sec, max 0.46 sec, min 0.26 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.68% of total time (compiled   11 times, average 0.37 sec, max 0.44 sec, min 0.34 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:                                               FNiagaraShader - 6.11% of total time (compiled   28 times, average 0.12 sec, max 0.21 sec, min 0.06 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.53% of total time (compiled    9 times, average 0.33 sec, max 0.36 sec, min 0.30 sec)
+[2024.05.15-19.36.20:698][156]LogShaderCompilers: Display: ================================================
+[2024.05.15-19.36.20:716][156]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.580631 sec (time since issued), 1.660532 sec (combined shader worker time).
+[2024.05.15-19.36.20:811][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.36.20:849][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.36.20:884][156]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.36.20:884][156]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_RainA8D40DC54A250EAC2C465F842EED9444.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.36.20:889][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 7.60 sec)
+[2024.05.15-19.36.20:911][156]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.36.20:911][156]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.36.24:651][512]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.36.25:574][601]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.108434 sec (time since issued), 1.060835 sec (combined shader worker time).
+[2024.05.15-19.36.26:424][637]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.416646 sec (time since issued), 0.965277 sec (combined shader worker time).
+[2024.05.15-19.36.26:510][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.36.26:558][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.36.26:592][637]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.36.26:593][637]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Rain59C9591A48658F52D3A558A6CF0FEDCC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.36.26:598][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 7.69 sec)
+[2024.05.15-19.36.26:619][637]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.36.26:619][637]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.36.26:655][639]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.36.55:544][286]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.516299 sec (time since issued), 1.072048 sec (combined shader worker time).
+[2024.05.15-19.36.55:641][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.36.55:675][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.36.55:709][286]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.36.55:710][286]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Rain1AE6C89049F9C3E4682813893E19FD4C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.36.55:716][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 7.77 sec)
+[2024.05.15-19.36.55:736][286]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.36.55:736][286]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.37.36:206][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.37.36:291][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.15-19.37.36:358][696]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.15-19.37.36:359][696]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F849E21B4F8F9CC8DFD45087B8AEA956.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.15-19.37.36:365][696]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.114
+[2024.05.15-19.37.36:371][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 7.93 sec)
+[2024.05.15-19.37.36:374][696]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.15-19.37.36:374][696]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.15-19.37.40:724][124]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.37.41:453][195]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.929747 sec (time since issued), 0.899564 sec (combined shader worker time).
+[2024.05.15-19.37.42:726][333]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.37.44:749][517]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.455843 sec (time since issued), 0.684206 sec (combined shader worker time).
+[2024.05.15-19.37.44:846][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.37.44:895][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.37.44:929][517]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.37.44:929][517]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_RainD6FA5C0B4BDCA58A749B25B7B233F28E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.37.44:935][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 8.02 sec)
+[2024.05.15-19.37.45:023][517]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.37.45:023][517]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.38.06:296][705]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:574 H:0
+[2024.05.15-19.38.06:505][707]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.38.07:386][783]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 1.069787 sec (time since issued), 1.039864 sec (combined shader worker time).
+[2024.05.15-19.38.08:509][894]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.38.50:830][ 12]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.537678 sec (time since issued), 0.847101 sec (combined shader worker time).
+[2024.05.15-19.38.50:911][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.38.50:959][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.38.50:996][ 12]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.38.50:996][ 12]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Rain4EAAC16E4094F175D9E378954C5EC50B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.38.51:002][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 8.11 sec)
+[2024.05.15-19.38.51:023][ 12]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.38.51:024][ 12]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.39.02:011][206]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.39.02:706][270]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.905377 sec (time since issued), 0.872080 sec (combined shader worker time).
+[2024.05.15-19.39.04:014][404]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.39.09:095][988]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.DynamicMaterialParameters.Index 0 Param 1' from Script NiagaraScript /Game/Niagara/27-Rain/NS_Rain.NS_Rain:SimpleSpriteBurst.SpawnScript
+[2024.05.15-19.39.09:098][988]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.DynamicMaterialParameters.Index 0 Param 1' from Script NiagaraScript /Game/Niagara/27-Rain/NS_Rain.NS_Rain:SimpleSpriteBurst.UpdateScript
+[2024.05.15-19.39.09:411][990]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.39.10:096][ 46]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.886013 sec (time since issued), 0.851359 sec (combined shader worker time).
+[2024.05.15-19.39.11:413][179]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.39.18:409][945]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.DynamicMaterialParameters.Index 0 Param 2' from Script NiagaraScript /Game/Niagara/27-Rain/NS_Rain.NS_Rain:SimpleSpriteBurst.SpawnScript
+[2024.05.15-19.39.18:409][945]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.DynamicMaterialParameters.Index 0 Param 2' from Script NiagaraScript /Game/Niagara/27-Rain/NS_Rain.NS_Rain:SimpleSpriteBurst.UpdateScript
+[2024.05.15-19.39.18:740][947]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.39.19:394][999]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.861257 sec (time since issued), 0.827535 sec (combined shader worker time).
+[2024.05.15-19.39.20:748][138]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.39.30:158][185]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.DynamicMaterialParameters.Index 0 Param 3' from Script NiagaraScript /Game/Niagara/27-Rain/NS_Rain.NS_Rain:SimpleSpriteBurst.SpawnScript
+[2024.05.15-19.39.30:158][185]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.DynamicMaterialParameters.Index 0 Param 3' from Script NiagaraScript /Game/Niagara/27-Rain/NS_Rain.NS_Rain:SimpleSpriteBurst.UpdateScript
+[2024.05.15-19.39.30:502][187]70526_NS_Rain_MessageLog: System compile status unknown.
+[2024.05.15-19.39.30:761][205]LogShaderCompilers: Display: ================================================
+[2024.05.15-19.39.30:761][205]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-19.39.30:761][205]LogShaderCompilers: Display: Total job queries 887, among them cache hits 667 (75.20%)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Tracking 220 distinct input hashes that result in 149 distinct outputs (67.73%)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: RAM used: 5,56 MiB of 1,60 GiB budget. Usage: 0.34%
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Shaders Compiled: 188
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Jobs assigned 188, completed 188 (100%)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Average time worker was idle: 126.80 s
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.28 s
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 2.12 s
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Job life time (pending + execution): average 0.64 s, max 2.20
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Shader code size: average 43,056 KiB, min 1,664 KiB, max 83,281 KiB
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.64 s
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Jobs were issued in 180 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Average processing rate: 6.14 jobs/sec
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Total thread time: 56,249 s
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Total thread preprocess time: 4,609 s
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Percentage time preprocessing: 8.19%
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Effective parallelization: 1.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 0.64 sec, max 0.79 sec, min 0.48 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 0.59 sec, max 0.75 sec, min 0.43 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 0.49 sec, max 0.58 sec, min 0.41 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 0.45 sec, max 0.77 sec, min 0.33 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 0.45 sec, max 0.49 sec, min 0.40 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.07% of total time (compiled   18 times, average 0.41 sec, max 0.79 sec, min 0.32 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:                                               FNiagaraShader - 11.33% of total time (compiled   50 times, average 0.13 sec, max 0.22 sec, min 0.06 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.52% of total time (compiled   12 times, average 0.35 sec, max 0.46 sec, min 0.26 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.26% of total time (compiled   11 times, average 0.37 sec, max 0.44 sec, min 0.34 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.22% of total time (compiled    9 times, average 0.33 sec, max 0.36 sec, min 0.30 sec)
+[2024.05.15-19.39.30:762][205]LogShaderCompilers: Display: ================================================
+[2024.05.15-19.39.31:130][232]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.838044 sec (time since issued), 0.789827 sec (combined shader worker time).
+[2024.05.15-19.39.32:506][368]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.39.43:950][505]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 5893e54a807d851959198814f5dd09cf1b9f7606 and existing hash 9897b85101f469fd6cc4dfcc7b5dee9d9ebc389e for LegacyNiagaraScriptDerivedData/b0c5daf5b65da45d4322f43540d434293863e366 from '/Game/Niagara/27-Rain/NS_Rain.NS_Rain:SystemSpawnScript'
+[2024.05.15-19.39.43:951][505]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash ea8ca789de45132e419d0a734c4efc1d2c4ac681 and existing hash 452f3b3a91211a645caf1ed1dc560d33d2b5ec98 for LegacyNiagaraScriptDerivedData/31811c6b5a20fc174fd70ff3957bc5717fab47b9 from '/Game/Niagara/27-Rain/NS_Rain.NS_Rain:SystemUpdateScript'
+[2024.05.15-19.39.43:972][505]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.668674 sec (time since issued), 1.686861 sec (combined shader worker time).
+[2024.05.15-19.39.44:065][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.39.44:113][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.39.44:153][505]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.39.44:153][505]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_RainA7E268BE47C36454A1707788E63DE9A1.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.39.44:161][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 8.21 sec)
+[2024.05.15-19.39.44:185][505]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.39.44:185][505]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.39.44:552][532]70526_NS_Rain_MessageLog: System successfully compiled.
+[2024.05.15-19.40.59:080][942]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-19.41.00:316][  7]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 5893e54a807d851959198814f5dd09cf1b9f7606 and existing hash 9897b85101f469fd6cc4dfcc7b5dee9d9ebc389e for LegacyNiagaraScriptDerivedData/b0c5daf5b65da45d4322f43540d434293863e366 from '/Game/Niagara/27-Rain/NS_Rain.NS_Rain:SystemSpawnScript'
+[2024.05.15-19.41.00:316][  7]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash ea8ca789de45132e419d0a734c4efc1d2c4ac681 and existing hash 452f3b3a91211a645caf1ed1dc560d33d2b5ec98 for LegacyNiagaraScriptDerivedData/31811c6b5a20fc174fd70ff3957bc5717fab47b9 from '/Game/Niagara/27-Rain/NS_Rain.NS_Rain:SystemUpdateScript'
+[2024.05.15-19.41.00:336][  7]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain took 0.604104 sec (time since issued), 1.300300 sec (combined shader worker time).
+[2024.05.15-19.41.00:430][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.41.00:475][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/27-Rain/NS_Rain" FILE="../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset" SILENT=true
+[2024.05.15-19.41.00:515][  7]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/NS_Rain
+[2024.05.15-19.41.00:516][  7]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Rain4ADB4A794D428C837EAAF99C9A135BCA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/NS_Rain.uasset'
+[2024.05.15-19.41.00:521][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 8.30 sec)
+[2024.05.15-19.41.00:545][  7]AssetCheck: New page: Asset Save: NS_Rain
+[2024.05.15-19.41.00:545][  7]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/27-Rain/NS_Rain.NS_Rain
+[2024.05.15-19.41.08:778][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.41.08:885][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.15-19.41.08:951][451]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.15-19.41.08:951][451]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_182F0AD224D74D6F2E8C4D79AFADDE861.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.15-19.41.08:959][451]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.134
+[2024.05.15-19.41.08:966][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 8.49 sec)
+[2024.05.15-19.41.08:968][451]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.15-19.41.08:968][451]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.15-19.41.13:752][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.41.13:801][755]LogSavePackage: Moving output files for package: /Game/Niagara/27-Rain/MI_MainRainDrop
+[2024.05.15-19.41.13:802][755]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_MainRainDrop55C5DDF64E30549E7D17B08BBD17772C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/27-Rain/MI_MainRainDrop.uasset'
+[2024.05.15-19.41.13:807][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 8.54 sec)
+[2024.05.15-19.41.13:808][755]AssetCheck: New page: Asset Save: MI_MainRainDrop
+[2024.05.15-19.41.13:808][755]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/27-Rain/MI_MainRainDrop.MI_MainRainDrop
+[2024.05.15-19.41.16:904][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.15-19.41.17:027][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-19.41.17:059][955]LogSavePackage: Moving output files for package: /Game/Niagara/Materials/M_LiquidMaster
+[2024.05.15-19.41.17:059][955]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_LiquidMasterE0AD773F439D7E87DE88478D6534FC34.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/Materials/M_LiquidMaster.uasset'
+[2024.05.15-19.41.17:065][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 8.58 sec)
+[2024.05.15-19.41.17:066][955]AssetCheck: New page: Asset Save: M_LiquidMaster
+[2024.05.15-19.41.17:066][955]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/Materials/M_LiquidMaster.M_LiquidMaster
