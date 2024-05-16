@@ -3846,3 +3846,359 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.05.16-23.26.50:947][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 16.4 sec)
 [2024.05.16-23.26.50:949][720]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.05.16-23.26.50:949][720]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Total job queries 1 134, among them cache hits 773 (68.17%)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Tracking 357 distinct input hashes that result in 169 distinct outputs (47.34%)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: RAM used: 8,60 MiB of 1,60 GiB budget. Usage: 0.53%
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Shaders Compiled: 305
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Jobs assigned 305, completed 305 (100%)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Average time worker was idle: 110.56 s
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Job execution time: average 0.35 s, max 0.77 s
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Job life time (pending + execution): average 0.40 s, max 1.04
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Shader code size: average 39,459 KiB, min 1,877 KiB, max 76,363 KiB
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 58.20 s
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Jobs were issued in 305 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Average processing rate: 5.24 jobs/sec
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Total thread time: 72,14 s
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Total thread preprocess time: 5,167 s
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Percentage time preprocessing: 7.16%
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Effective parallelization: 1.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display:                                               FNiagaraShader - 23.09% of total time (compiled  119 times, average 0.14 sec, max 0.33 sec, min 0.05 sec)
+[2024.05.16-23.40.27:921][ 37]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.83% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.40.27:922][ 37]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.10% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.40.27:922][ 37]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.65% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.40.27:922][ 37]LogShaderCompilers: Display:                                             FDebugViewModeVS - 8.01% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.40.27:922][ 37]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.40.30:232][189]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 2.988877 sec (time since issued), 2.862542 sec (combined shader worker time).
+[2024.05.16-23.40.30:710][207]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.40.33:269][334]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.40.37:793][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.40.37:938][641]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.40.37:938][641]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_WaterfallF0D6DC1645E38A1BE6D963A097A1B948.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.40.37:947][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 16.5 sec)
+[2024.05.16-23.40.37:949][641]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.40.37:949][641]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.41.35:025][646]LogContentBrowser: Deferred new asset file creation: M_SubUVFire_Inst
+[2024.05.16-23.41.35:041][646]LogContentBrowser: Creating deferred item: M_SubUVFire_Inst
+[2024.05.16-23.41.35:062][647]LogContentBrowser: Renaming the item being created (Deferred Item: M_SubUVFire_Inst).
+[2024.05.16-23.42.16:273][343]LogContentBrowser: Attempting asset rename: M_SubUVFire_Inst -> MI_WaterSplash
+[2024.05.16-23.42.16:363][343]LogContentBrowser: End creating deferred item M_SubUVFire_Inst
+[2024.05.16-23.42.34:905][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.42.35:037][722]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/MI_WaterSplash
+[2024.05.16-23.42.35:037][722]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_WaterSplashC220DA844111A88B4E00D983116F2055.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/MI_WaterSplash.uasset'
+[2024.05.16-23.42.35:172][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 16.8 sec)
+[2024.05.16-23.42.35:284][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.16-23.42.35:296][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.05.16-23.42.35:303][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.16-23.42.35:315][722]AssetCheck: New page: Asset Save: MI_WaterSplash
+[2024.05.16-23.42.35:315][722]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/28-Waterfall/MI_WaterSplash.MI_WaterSplash
+[2024.05.16-23.43.48:025][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.43.48:087][212]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Niagara/28-Waterfall/3_6_smoke4_vg) ...
+[2024.05.16-23.43.48:204][212]LogTexture: Display: Building textures: /Game/Niagara/28-Waterfall/3_6_smoke4_vg.3_6_smoke4_vg (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.16-23.43.48:507][212]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/3_6_smoke4_vg
+[2024.05.16-23.43.48:507][212]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/3_6_smoke4_vg5D9DD3B6473A903E3384A2B18421F539.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/3_6_smoke4_vg.uasset'
+[2024.05.16-23.43.48:933][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 908 ms (total: 17.7 sec)
+[2024.05.16-23.43.49:323][212]AssetCheck: New page: Asset Save: 3_6_smoke4_vg
+[2024.05.16-23.43.49:323][212]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/28-Waterfall/3_6_smoke4_vg.3_6_smoke4_vg
+[2024.05.16-23.43.51:282][316]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/28-Waterfall/MI_WaterSplash.MI_WaterSplash
+[2024.05.16-23.43.51:284][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-23.43.51:284][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-23.43.51:482][316]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.16-23.43.58:420][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.16-23.43.58:520][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.43.58:589][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.16-23.43.58:602][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.16-23.43.58:604][893]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/MI_WaterSplash
+[2024.05.16-23.43.58:605][893]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_WaterSplash2C1E9132400233856878EEBF333403C9.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/MI_WaterSplash.uasset'
+[2024.05.16-23.43.58:609][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 17.8 sec)
+[2024.05.16-23.43.58:610][893]AssetCheck: New page: Asset Save: MI_WaterSplash
+[2024.05.16-23.43.58:610][893]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/28-Waterfall/MI_WaterSplash.MI_WaterSplash
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Total job queries 1 138, among them cache hits 773 (67.93%)
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Tracking 361 distinct input hashes that result in 172 distinct outputs (47.65%)
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: RAM used: 8,67 MiB of 1,60 GiB budget. Usage: 0.53%
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Shaders Compiled: 309
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Jobs assigned 309, completed 309 (100%)
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Average time worker was idle: 110.31 s
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Job execution time: average 0.35 s, max 0.77 s
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Job life time (pending + execution): average 0.40 s, max 1.04
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Shader code size: average 39,159 KiB, min 1,877 KiB, max 76,363 KiB
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 59.44 s
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Jobs were issued in 309 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Average processing rate: 5.20 jobs/sec
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Total thread time: 72,767 s
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Total thread preprocess time: 5,167 s
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Percentage time preprocessing: 7.10%
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.16-23.46.38:001][ 39]LogShaderCompilers: Display:                                               FNiagaraShader - 23.76% of total time (compiled  123 times, average 0.14 sec, max 0.41 sec, min 0.05 sec)
+[2024.05.16-23.46.38:002][ 39]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.64% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.46.38:002][ 39]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.95% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.46.38:002][ 39]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.57% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.46.38:002][ 39]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.94% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.46.38:002][ 39]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.46.39:073][ 71]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.570261 sec (time since issued), 1.437994 sec (combined shader worker time).
+[2024.05.16-23.46.39:433][ 89]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.46.59:003][342]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 2.637172 sec (time since issued), 2.550683 sec (combined shader worker time).
+[2024.05.16-23.46.59:383][359]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.47.00:185][364]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.697929 sec (time since issued), 1.265098 sec (combined shader worker time).
+[2024.05.16-23.47.00:282][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.47.00:432][364]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.47.00:432][364]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Waterfall24CE28DF4C418A14C3C5A5B24AE054ED.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.47.00:439][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 17.9 sec)
+[2024.05.16-23.47.00:506][364]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.47.00:506][364]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.47.05:990][719]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.47.07:342][788]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.519454 sec (time since issued), 1.437004 sec (combined shader worker time).
+[2024.05.16-23.47.08:000][822]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.47.11:365][127]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.47.12:523][178]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.312276 sec (time since issued), 1.227207 sec (combined shader worker time).
+[2024.05.16-23.47.13:372][244]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.47.25:243][418]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.47.26:451][477]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.370095 sec (time since issued), 1.289262 sec (combined shader worker time).
+[2024.05.16-23.47.27:255][522]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.47.36:983][244]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.47.37:435][264]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.698922 sec (time since issued), 0.652534 sec (combined shader worker time).
+[2024.05.16-23.47.38:996][349]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.47.41:688][602]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.47.42:177][621]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.739787 sec (time since issued), 0.694613 sec (combined shader worker time).
+[2024.05.16-23.47.43:694][702]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.47.46:804][936]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.47.47:272][957]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.719481 sec (time since issued), 0.674308 sec (combined shader worker time).
+[2024.05.16-23.47.48:813][ 44]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.48.30:525][676]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.48.31:067][700]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.778859 sec (time since issued), 0.737062 sec (combined shader worker time).
+[2024.05.16-23.48.32:533][781]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Total job queries 1 171, among them cache hits 776 (66.27%)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Tracking 390 distinct input hashes that result in 182 distinct outputs (46.67%)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: RAM used: 9,24 MiB of 1,60 GiB budget. Usage: 0.56%
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Shaders Compiled: 338
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Jobs assigned 339, completed 338 (99.71%)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Average time worker was idle: 109.81 s
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 0.77 s
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 1.04
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Shader code size: average 37,542 KiB, min 1,877 KiB, max 76,363 KiB
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 66.35 s
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Jobs were issued in 339 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Average processing rate: 5.09 jobs/sec
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Total thread time: 77,342 s
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Total thread preprocess time: 5,167 s
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Percentage time preprocessing: 6.68%
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Effective parallelization: 1.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                                               FNiagaraShader - 28.27% of total time (compiled  152 times, average 0.14 sec, max 0.51 sec, min 0.05 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.30% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.89% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.06% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.47% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.49.39:701][741]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.49.40:068][741]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.922581 sec (time since issued), 1.796755 sec (combined shader worker time).
+[2024.05.16-23.49.40:176][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.49.40:335][741]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.49.40:336][741]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_WaterfallD652C2914731EE458FA833A3BF8D06B4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.49.40:343][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 18.1 sec)
+[2024.05.16-23.49.40:410][741]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.49.40:411][741]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.51.20:945][ 85]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.51.21:563][109]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.923100 sec (time since issued), 0.875250 sec (combined shader worker time).
+[2024.05.16-23.51.22:972][183]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.51.24:974][314]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.51.25:320][327]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.696554 sec (time since issued), 0.651036 sec (combined shader worker time).
+[2024.05.16-23.51.26:980][421]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.51.55:416][183]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.51.56:067][213]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.915830 sec (time since issued), 0.869999 sec (combined shader worker time).
+[2024.05.16-23.51.57:418][285]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.53.05:026][390]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Total job queries 1 178, among them cache hits 776 (65.87%)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Tracking 398 distinct input hashes that result in 189 distinct outputs (47.49%)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: RAM used: 9,44 MiB of 1,60 GiB budget. Usage: 0.58%
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Shaders Compiled: 346
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Jobs assigned 346, completed 346 (100%)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Average time worker was idle: 108.14 s
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 0.77 s
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 1.04
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Shader code size: average 37,252 KiB, min 1,877 KiB, max 76,363 KiB
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 68.74 s
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Jobs were issued in 346 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Average processing rate: 5.03 jobs/sec
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Total thread time: 78,767 s
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Total thread preprocess time: 5,167 s
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Percentage time preprocessing: 6.56%
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Effective parallelization: 1.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                                               FNiagaraShader - 29.56% of total time (compiled  160 times, average 0.15 sec, max 0.51 sec, min 0.05 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.91% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.58% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.92% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.34% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.53.05:554][421]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.53.05:919][437]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.169957 sec (time since issued), 1.124923 sec (combined shader worker time).
+[2024.05.16-23.53.07:029][500]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.53.11:978][926]LogNiagaraEditor: Removed Var 'Constants.BottomSplashes.AddVelocity.Velocity Speed Scale' from Script NiagaraScript /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall:BottomSplashes_13.SpawnScript
+[2024.05.16-23.53.12:396][928]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.53.13:096][964]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.976532 sec (time since issued), 0.930152 sec (combined shader worker time).
+[2024.05.16-23.53.14:404][ 40]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.54.16:794][808]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 955dec55aeaaf3019feeb5a155fc284e8f1e924e and existing hash a97f334df2848042fd1d51ce68caf7d2b9be21e2 for LegacyNiagaraScriptDerivedData/97825d522ef42fc7bb61df71a174a1208866afa4 from '/Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall:SystemUpdateScript'
+[2024.05.16-23.54.16:857][808]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.973779 sec (time since issued), 2.199897 sec (combined shader worker time).
+[2024.05.16-23.54.16:959][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.54.17:112][808]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.54.17:113][808]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Waterfall4B91A82144D51492323B62896AC29B8A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.54.17:117][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 18.3 sec)
+[2024.05.16-23.54.17:192][808]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.54.17:192][808]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.54.18:119][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.16-23.54.30:194][581]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-23.54.30:194][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-23.54.50:273][837]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:664 H:0
+[2024.05.16-23.54.57:062][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.54.57:230][249]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.54.57:231][249]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Waterfall4F9A1604443C395B8077829AECE9AA50.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.54.57:243][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 18.4 sec)
+[2024.05.16-23.54.57:315][249]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.54.57:315][249]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.55.05:915][766]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.55.06:841][811]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.216286 sec (time since issued), 1.160201 sec (combined shader worker time).
+[2024.05.16-23.55.07:930][869]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.55.13:397][126]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 3334da810afd0c23027a1485b6278e550fe546f9 and existing hash a97f334df2848042fd1d51ce68caf7d2b9be21e2 for LegacyNiagaraScriptDerivedData/97825d522ef42fc7bb61df71a174a1208866afa4 from '/Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall:SystemUpdateScript'
+[2024.05.16-23.55.13:460][126]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.008047 sec (time since issued), 1.970510 sec (combined shader worker time).
+[2024.05.16-23.55.13:563][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.55.13:733][126]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.55.13:734][126]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Waterfall0250DE184306CF27F8D649B1E57B70DF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.55.13:741][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 18.6 sec)
+[2024.05.16-23.55.13:825][126]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.55.13:825][126]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.56.03:675][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.56.03:760][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.16-23.56.03:834][218]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.16-23.56.03:835][218]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1E4D8FBA840163A0D44F0FF80590E2F4F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.16-23.56.03:842][218]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.122
+[2024.05.16-23.56.03:857][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 18.8 sec)
+[2024.05.16-23.56.03:860][218]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.16-23.56.03:860][218]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.16-23.56.21:833][386]LogNiagaraEditor: Removed Var 'Constants.BottomSplashes.SpawnRate.SpawnRate' from Script NiagaraScript /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall:SystemUpdateScript
+[2024.05.16-23.56.21:834][386]LogNiagaraEditor: Removed Var 'Constants.BottomSplashes.SpawnRate.SpawnRate' from Script NiagaraScript /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall:BottomSplashes_13.EmitterUpdateScript
+[2024.05.16-23.56.22:286][388]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.56.22:623][407]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.56.22:623][407]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-23.56.22:623][407]LogShaderCompilers: Display: Total job queries 1 192, among them cache hits 778 (65.27%)
+[2024.05.16-23.56.22:623][407]LogShaderCompilers: Display: Tracking 410 distinct input hashes that result in 194 distinct outputs (47.32%)
+[2024.05.16-23.56.22:623][407]LogShaderCompilers: Display: RAM used: 9,72 MiB of 1,60 GiB budget. Usage: 0.59%
+[2024.05.16-23.56.22:623][407]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Shaders Compiled: 358
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Jobs assigned 358, completed 358 (100%)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Average time worker was idle: 106.89 s
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 0.77 s
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 1.04
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Shader code size: average 36,784 KiB, min 1,877 KiB, max 76,363 KiB
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 72.22 s
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Jobs were issued in 358 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Average processing rate: 4.96 jobs/sec
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Total thread time: 81,087 s
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Total thread preprocess time: 5,167 s
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Percentage time preprocessing: 6.37%
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Effective parallelization: 1.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                                               FNiagaraShader - 31.58% of total time (compiled  172 times, average 0.15 sec, max 0.51 sec, min 0.05 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.31% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.11% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.69% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.13% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.16-23.56.22:624][407]LogShaderCompilers: Display: ================================================
+[2024.05.16-23.56.23:637][454]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.654380 sec (time since issued), 1.561744 sec (combined shader worker time).
+[2024.05.16-23.56.24:289][483]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.56.27:353][626]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.924547 sec (time since issued), 1.629948 sec (combined shader worker time).
+[2024.05.16-23.56.27:457][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.56.27:626][626]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.56.27:626][626]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_Waterfall9B20DE1C4C4AF1CDC14BBBBFC517BFF8.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.56.27:633][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 19.0 sec)
+[2024.05.16-23.56.27:707][626]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.56.27:707][626]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.56.57:403][155]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:664 H:0
+[2024.05.16-23.56.57:705][157]72051_NS_Waterfall_MessageLog: System compile status unknown.
+[2024.05.16-23.56.58:431][193]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.016120 sec (time since issued), 0.967797 sec (combined shader worker time).
+[2024.05.16-23.56.59:717][268]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.16-23.57.18:520][399]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 0.693514 sec (time since issued), 0.964295 sec (combined shader worker time).
+[2024.05.16-23.57.18:610][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.57.18:782][399]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.57.18:782][399]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_WaterfallF78CCDD04E984516FE4E77A6D1A8984E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.57.18:789][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 19.2 sec)
+[2024.05.16-23.57.18:862][399]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.57.18:862][399]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.57.30:309][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.57.30:403][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.16-23.57.30:475][ 12]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.16-23.57.30:476][ 12]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_19680BA60443FB9731B5614AB649DDC22.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.16-23.57.30:482][ 12]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.129
+[2024.05.16-23.57.30:487][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 19.3 sec)
+[2024.05.16-23.57.30:490][ 12]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.16-23.57.30:490][ 12]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.16-23.57.42:974][749]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 391cd5a7ccb8f4a0eb01ee3dae00e2b37d797655 and existing hash b3e3e2da762b771a41b2c7e198d1df0309e25291 for LegacyNiagaraScriptDerivedData/efe37cb95e8858d7611030d11b237765152d3a4f from '/Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall:SystemUpdateScript'
+[2024.05.16-23.57.43:042][749]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall took 1.078013 sec (time since issued), 2.056218 sec (combined shader worker time).
+[2024.05.16-23.57.43:137][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.57.43:309][749]LogSavePackage: Moving output files for package: /Game/Niagara/28-Waterfall/NS_Waterfall
+[2024.05.16-23.57.43:309][749]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_WaterfallDF256467461FA3CB1000C2B34E0CDC97.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/28-Waterfall/NS_Waterfall.uasset'
+[2024.05.16-23.57.43:317][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 19.5 sec)
+[2024.05.16-23.57.43:399][749]AssetCheck: New page: Asset Save: NS_Waterfall
+[2024.05.16-23.57.43:399][749]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/28-Waterfall/NS_Waterfall.NS_Waterfall
+[2024.05.16-23.58.12:135][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.58.12:215][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.16-23.58.12:287][ 66]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.16-23.58.12:287][ 66]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1F728B0F744C5EB7CBD9FE9B73342E203.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.16-23.58.12:295][ 66]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.113
+[2024.05.16-23.58.12:300][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 19.7 sec)
+[2024.05.16-23.58.12:303][ 66]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.16-23.58.12:303][ 66]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.16-23.58.14:214][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-23.58.14:293][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.16-23.58.14:367][167]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.16-23.58.14:367][167]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1993E834643719E967FF48E9B95B3E84F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.16-23.58.14:375][167]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.110
+[2024.05.16-23.58.14:381][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 19.8 sec)
+[2024.05.16-23.58.14:383][167]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.16-23.58.14:383][167]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
