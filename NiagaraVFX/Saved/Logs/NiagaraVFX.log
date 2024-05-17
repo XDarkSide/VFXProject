@@ -4202,3 +4202,920 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.05.16-23.58.14:381][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 19.8 sec)
 [2024.05.16-23.58.14:383][167]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.05.16-23.58.14:383][167]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-00.06.36:943][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.06.37:020][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.17-00.06.37:091][ 44]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-00.06.37:092][ 44]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_12395482B4EFE03CF18734F832193B5D5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-00.06.37:098][ 44]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.112
+[2024.05.17-00.06.37:105][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 20.0 sec)
+[2024.05.17-00.06.37:107][ 44]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-00.06.37:107][ 44]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-00.20.12:689][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.20.12:774][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.17-00.20.12:849][696]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-00.20.12:849][696]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_191E86FE24F519203F791F598666A582C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-00.20.12:856][696]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.115
+[2024.05.17-00.20.12:863][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 20.2 sec)
+[2024.05.17-00.20.12:866][696]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-00.20.12:866][696]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-00.20.18:170][ 72]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.17-00.20.18:188][ 72]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.17-00.20.18:208][ 73]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.17-00.20.28:180][598]LogContentBrowser: Attempting asset rename: NewFolder -> 29-SampleTexture
+[2024.05.17-00.20.28:180][598]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.17-00.21.08:518][927]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.05.17-00.21.08:527][927]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.05.17-00.21.08:539][927]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.05.17-00.21.08:574][929]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.05.17-00.21.15:302][337]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_TextureSample
+[2024.05.17-00.21.15:412][337]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Total job queries 1 207, among them cache hits 781 (64.71%)
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Tracking 422 distinct input hashes that result in 201 distinct outputs (47.63%)
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: RAM used: 10,01 MiB of 1,60 GiB budget. Usage: 0.61%
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Shaders Compiled: 370
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Jobs assigned 370, completed 370 (100%)
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Average time worker was idle: 108.08 s
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 0.77 s
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 1.04
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Shader code size: average 36,354 KiB, min 1,877 KiB, max 76,363 KiB
+[2024.05.17-00.21.15:876][360]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 75.75 s
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: Jobs were issued in 370 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: Total thread time: 83,7 s
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: Total thread preprocess time: 5,167 s
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: Percentage time preprocessing: 6.17%
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: Effective parallelization: 1.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                                               FNiagaraShader - 33.71% of total time (compiled  184 times, average 0.15 sec, max 0.51 sec, min 0.05 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.68% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.60% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.45% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.90% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.21.15:877][360]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.21.16:442][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.21.16:847][379]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 1.437316 sec (time since issued), 1.486863 sec (combined shader worker time).
+[2024.05.17-00.21.16:875][379]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.05.17-00.21.16:875][379]LogNiagara: Warning: For some reason we are reporting that /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2024.05.17-00.21.16:904][379]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-00.21.16:904][379]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSampleC2CE719643759E6ED40E8B9EE459514C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-00.21.17:060][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 616 ms (total: 20.8 sec)
+[2024.05.17-00.21.17:060][379]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-00.21.17:060][379]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.21.21:763][677]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.21.21:829][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-00.21.21:829][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-00.21.21:877][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-00.21.21:877][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-00.21.22:034][677]LogViewport: Scene viewport resized to 418x500, mode Windowed.
+[2024.05.17-00.21.23:859][749]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 2.085488 sec (time since issued), 1.750391 sec (combined shader worker time).
+[2024.05.17-00.21.24:228][756]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.21.29:921][ 70]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 1.175120 sec (time since issued), 1.076796 sec (combined shader worker time).
+[2024.05.17-00.21.30:078][ 77]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.21.30:713][ 85]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.450200 sec (time since issued), 1.126796 sec (combined shader worker time).
+[2024.05.17-00.21.30:810][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.21.30:883][ 85]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-00.21.30:883][ 85]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSampleB29B6BCA499627BE696564966BCA711A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-00.21.30:891][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 20.9 sec)
+[2024.05.17-00.21.30:903][ 85]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-00.21.30:903][ 85]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.23.28:760][ 86]LogNiagaraCompiler: Function call "SampleTexture2D" does not work on CPU sims. - Node: Sample Texture 2D - 
+[2024.05.17-00.23.28:801][ 87]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.23.29:115][ 99]LogNiagara: Warning: [AssetLog] C:\Users\darks\OneDrive\Документи\GitHub\VFXProject\NiagaraVFX\Content\Niagara\29-SampleTexture\NS_TextureSample.uasset: Function call "SampleTexture2D" does not work on CPU sims. - Node: Sample Texture 2D - 
+[2024.05.17-00.23.29:120][ 99]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.424573 sec (time since issued), 0.378458 sec (combined shader worker time).
+[2024.05.17-00.23.30:818][144]115083_NS_TextureSample_MessageLog: System failed to compile with 1 errors.
+[2024.05.17-00.23.30:819][144]115083_NS_TextureSample_MessageLog: Error: Function call "SampleTexture2D" does not work on CPU sims. - Node: Sample Texture 2D -  TextureSample, Particle Spawn Script Interpolated,  SampleTexture
+[2024.05.17-00.23.33:570][320]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-00.23.33:570][320]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-00.23.41:627][887]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.293269 sec (time since issued), 0.169410 sec (combined shader worker time).
+[2024.05.17-00.23.42:329][920]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.23.50:642][565]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-00.23.50:642][565]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-00.24.24:500][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-00.24.24:500][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-00.24.46:916][804]LogTexture: Display: Building textures: /Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01_E.T_cracksFirey_01_E (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.05.17-00.24.46:950][804]LogTexture: Display: Building textures: /Game/Niagara/29-SampleTexture/T_cracksFirey_01_E.T_cracksFirey_01_E (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.05.17-00.24.47:033][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.24.47:085][804]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/T_cracksFirey_01_E
+[2024.05.17-00.24.47:085][804]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/T_cracksFirey_01_ECCF457D04770240D8F5137B4ABC0FAD1.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/T_cracksFirey_01_E.uasset'
+[2024.05.17-00.24.47:268][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 21.1 sec)
+[2024.05.17-00.24.47:676][804]AssetCheck: New page: Asset Save: T_cracksFirey_01_E
+[2024.05.17-00.24.47:676][804]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Niagara/29-SampleTexture/T_cracksFirey_01_E.T_cracksFirey_01_E
+[2024.05.17-00.24.49:927][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.24.50:005][935]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-00.24.50:006][935]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample9D8E772443FBA59C06CEE39D45599D6E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-00.24.50:015][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 21.2 sec)
+[2024.05.17-00.24.50:016][935]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-00.24.50:016][935]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.24.54:624][213]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.24.54:731][217]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.214565 sec (time since issued), 0.182065 sec (combined shader worker time).
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Total job queries 1 227, among them cache hits 783 (63.81%)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Tracking 438 distinct input hashes that result in 207 distinct outputs (47.26%)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: RAM used: 10,18 MiB of 1,60 GiB budget. Usage: 0.62%
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Shaders Compiled: 386
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Jobs assigned 386, completed 386 (100%)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Average time worker was idle: 111.83 s
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Shader code size: average 35,33 KiB, min 1,877 KiB, max 76,363 KiB
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.15 s
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Jobs were issued in 386 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Total thread time: 85,352 s
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Total thread preprocess time: 5,31 s
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Percentage time preprocessing: 6.22%
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Effective parallelization: 1.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                                               FNiagaraShader - 35.00% of total time (compiled  200 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.30% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.30% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.31% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.77% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.24.55:153][248]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.24.55:622][252]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.221209 sec (time since issued), 0.160985 sec (combined shader worker time).
+[2024.05.17-00.24.55:713][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.24.55:793][252]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-00.24.55:794][252]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample7F9C3CCB4C50F736EBD0149F62DBEBF2.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-00.24.55:800][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 21.3 sec)
+[2024.05.17-00.24.55:819][252]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-00.24.55:819][252]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.24.55:819][252]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-00.24.55:819][252]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-00.24.56:644][260]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.25.06:977][718]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:642 H:0
+[2024.05.17-00.25.17:853][234]LogNiagaraEditor: Move module /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_4
+[2024.05.17-00.25.17:855][234]LogNiagaraEditor: Finished moving!
+[2024.05.17-00.25.18:092][236]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.25.18:197][240]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.250244 sec (time since issued), 0.178659 sec (combined shader worker time).
+[2024.05.17-00.25.20:093][351]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.25.26:394][744]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.25.27:070][779]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.831578 sec (time since issued), 0.681399 sec (combined shader worker time).
+[2024.05.17-00.25.28:401][862]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.25.30:411][ 33]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.25.30:842][ 51]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.551327 sec (time since issued), 0.477783 sec (combined shader worker time).
+[2024.05.17-00.25.32:423][147]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.25.35:721][161]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:38.152 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19858 files in 20934 folders with total size 671 MiB.
+[2024.05.17-00.26.10:003][952]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.26.10:612][987]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.703053 sec (time since issued), 0.633104 sec (combined shader worker time).
+[2024.05.17-00.26.12:283][ 56]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.26.23:243][387]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.26.23:342][390]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.323437 sec (time since issued), 0.164539 sec (combined shader worker time).
+[2024.05.17-00.26.25:357][430]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.27.28:021][800]LogNiagaraEditor: Move module /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_9
+[2024.05.17-00.27.28:022][800]LogNiagaraEditor: Finished moving!
+[2024.05.17-00.27.28:265][802]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.27.28:356][805]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.243070 sec (time since issued), 0.164777 sec (combined shader worker time).
+[2024.05.17-00.27.30:367][895]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Total job queries 1 245, among them cache hits 785 (63.05%)
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Tracking 448 distinct input hashes that result in 215 distinct outputs (47.99%)
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: RAM used: 10,28 MiB of 1,60 GiB budget. Usage: 0.63%
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Shaders Compiled: 396
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Jobs assigned 396, completed 396 (100%)
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Average time worker was idle: 109.34 s
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Shader code size: average 34,727 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 81.85 s
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Jobs were issued in 396 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Average processing rate: 4.84 jobs/sec
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Total thread time: 86,348 s
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Total thread preprocess time: 5,366 s
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Percentage time preprocessing: 6.21%
+[2024.05.17-00.27.58:540][496]LogShaderCompilers: Display: Effective parallelization: 1.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                                               FNiagaraShader - 35.75% of total time (compiled  210 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.07% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.13% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.22% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.69% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.27.58:541][496]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.27.58:887][496]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.587291 sec (time since issued), 0.656788 sec (combined shader worker time).
+[2024.05.17-00.27.58:981][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.27.59:051][496]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-00.27.59:052][496]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample037EB2D4466634B9FFA95299562B7E32.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-00.27.59:057][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 21.4 sec)
+[2024.05.17-00.27.59:082][496]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-00.27.59:082][496]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.27.59:082][496]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-00.27.59:082][496]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-00.28.31:000][489]LogNiagaraEditor: Removed Var 'Constants.TextureSample.SampleTexture.UV' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-00.28.31:256][491]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.28.31:439][494]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.352718 sec (time since issued), 0.173193 sec (combined shader worker time).
+[2024.05.17-00.28.31:919][521]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/91/75/ce6f896e123b650de850cca4c545eb952a75.udd from 'NS_TextureSample/TextureSample/ParticleGPUComputeScript'.
+[2024.05.17-00.28.33:304][547]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.30.27:654][478]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeVector2D.X' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-00.30.27:654][478]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeVector2D.X' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-00.30.27:957][480]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.30.28:064][484]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.300583 sec (time since issued), 0.192712 sec (combined shader worker time).
+[2024.05.17-00.30.29:957][558]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.30.34:918][ 24]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.30.35:013][ 27]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.270012 sec (time since issued), 0.169754 sec (combined shader worker time).
+[2024.05.17-00.30.37:177][ 63]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.30.50:052][465]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromVector.Vector' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-00.30.50:052][465]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromVector.Vector' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-00.30.50:297][467]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.30.50:424][471]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.305861 sec (time since issued), 0.211791 sec (combined shader worker time).
+[2024.05.17-00.30.52:595][530]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.31.08:359][  3]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeVector2D.Y' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-00.31.08:359][  3]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeVector2D.Y' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-00.31.08:707][  5]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.31.08:816][  9]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.312279 sec (time since issued), 0.196511 sec (combined shader worker time).
+[2024.05.17-00.31.09:140][ 28]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Total job queries 1 255, among them cache hits 785 (62.55%)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Tracking 454 distinct input hashes that result in 221 distinct outputs (48.68%)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: RAM used: 10,35 MiB of 1,60 GiB budget. Usage: 0.63%
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Shaders Compiled: 402
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Jobs assigned 402, completed 402 (100%)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Average time worker was idle: 108.23 s
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Shader code size: average 34,454 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 83.80 s
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Jobs were issued in 402 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Average processing rate: 4.80 jobs/sec
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Total thread time: 87,124 s
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Total thread preprocess time: 5,418 s
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Percentage time preprocessing: 6.22%
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Effective parallelization: 1.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                                               FNiagaraShader - 36.32% of total time (compiled  216 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.91% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.99% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.16% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.63% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.31.09:141][ 28]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.31.10:850][ 44]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.31.20:311][457]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromVector001.Vector' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-00.31.20:312][457]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromVector001.Vector' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-00.31.20:614][459]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.31.20:733][463]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.239413 sec (time since issued), 0.204563 sec (combined shader worker time).
+[2024.05.17-00.31.22:617][534]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.32.14:319][220]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.32.14:427][223]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.254953 sec (time since issued), 0.182648 sec (combined shader worker time).
+[2024.05.17-00.32.16:399][288]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.229907 sec (time since issued), 0.201159 sec (combined shader worker time).
+[2024.05.17-00.32.16:495][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.32.16:578][288]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-00.32.16:578][288]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample4496F43D400E2EE355B45BA4A8C7CE5E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-00.32.16:583][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 21.5 sec)
+[2024.05.17-00.32.16:607][288]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-00.32.16:607][288]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.32.16:607][288]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-00.32.16:607][288]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-00.32.16:648][289]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.32.58:273][426]LogNiagaraEditor: Removed Var 'Constants.TextureSample.InitializeParticle.Color' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-00.32.58:483][428]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.32.58:613][432]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.270003 sec (time since issued), 0.222743 sec (combined shader worker time).
+[2024.05.17-00.33.00:555][502]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.33.16:392][751]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.33.16:515][755]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.248260 sec (time since issued), 0.213166 sec (combined shader worker time).
+[2024.05.17-00.33.18:392][833]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.33.26:420][314]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.215235 sec (time since issued), 0.339639 sec (combined shader worker time).
+[2024.05.17-00.33.26:531][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.33.26:619][314]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-00.33.26:620][314]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSampleC3F6C1BF43E3DB0B80D70CA5D4B1B296.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-00.33.26:626][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 21.5 sec)
+[2024.05.17-00.33.26:651][314]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-00.33.26:651][314]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.33.26:651][314]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-00.33.26:651][314]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-00.38.08:282][347]LogViewport: Scene viewport resized to 206x496, mode Windowed.
+[2024.05.17-00.39.57:453][359]LogViewport: Scene viewport resized to 208x496, mode Windowed.
+[2024.05.17-00.39.57:467][360]LogViewport: Scene viewport resized to 210x496, mode Windowed.
+[2024.05.17-00.39.57:497][361]LogViewport: Scene viewport resized to 223x496, mode Windowed.
+[2024.05.17-00.39.57:515][362]LogViewport: Scene viewport resized to 231x496, mode Windowed.
+[2024.05.17-00.39.57:534][363]LogViewport: Scene viewport resized to 238x496, mode Windowed.
+[2024.05.17-00.39.57:553][364]LogViewport: Scene viewport resized to 248x496, mode Windowed.
+[2024.05.17-00.39.57:570][365]LogViewport: Scene viewport resized to 257x496, mode Windowed.
+[2024.05.17-00.39.57:588][366]LogViewport: Scene viewport resized to 265x496, mode Windowed.
+[2024.05.17-00.39.57:609][367]LogViewport: Scene viewport resized to 276x496, mode Windowed.
+[2024.05.17-00.39.57:627][368]LogViewport: Scene viewport resized to 284x496, mode Windowed.
+[2024.05.17-00.39.57:645][369]LogViewport: Scene viewport resized to 288x496, mode Windowed.
+[2024.05.17-00.39.57:663][370]LogViewport: Scene viewport resized to 293x496, mode Windowed.
+[2024.05.17-00.39.57:681][371]LogViewport: Scene viewport resized to 296x496, mode Windowed.
+[2024.05.17-00.39.57:699][372]LogViewport: Scene viewport resized to 300x496, mode Windowed.
+[2024.05.17-00.39.57:717][373]LogViewport: Scene viewport resized to 302x496, mode Windowed.
+[2024.05.17-00.39.57:736][374]LogViewport: Scene viewport resized to 303x496, mode Windowed.
+[2024.05.17-00.39.57:761][376]LogViewport: Scene viewport resized to 304x496, mode Windowed.
+[2024.05.17-00.39.57:777][377]LogViewport: Scene viewport resized to 306x496, mode Windowed.
+[2024.05.17-00.39.57:799][378]LogViewport: Scene viewport resized to 308x496, mode Windowed.
+[2024.05.17-00.39.57:822][379]LogViewport: Scene viewport resized to 312x496, mode Windowed.
+[2024.05.17-00.39.57:843][380]LogViewport: Scene viewport resized to 313x496, mode Windowed.
+[2024.05.17-00.39.57:862][381]LogViewport: Scene viewport resized to 316x496, mode Windowed.
+[2024.05.17-00.39.57:878][382]LogViewport: Scene viewport resized to 317x496, mode Windowed.
+[2024.05.17-00.39.57:897][383]LogViewport: Scene viewport resized to 321x496, mode Windowed.
+[2024.05.17-00.39.57:915][384]LogViewport: Scene viewport resized to 326x496, mode Windowed.
+[2024.05.17-00.39.57:935][385]LogViewport: Scene viewport resized to 329x496, mode Windowed.
+[2024.05.17-00.39.57:953][386]LogViewport: Scene viewport resized to 333x496, mode Windowed.
+[2024.05.17-00.39.57:970][387]LogViewport: Scene viewport resized to 335x496, mode Windowed.
+[2024.05.17-00.39.58:001][388]LogViewport: Scene viewport resized to 341x496, mode Windowed.
+[2024.05.17-00.39.58:017][389]LogViewport: Scene viewport resized to 344x496, mode Windowed.
+[2024.05.17-00.39.58:034][390]LogViewport: Scene viewport resized to 350x496, mode Windowed.
+[2024.05.17-00.39.58:052][391]LogViewport: Scene viewport resized to 353x496, mode Windowed.
+[2024.05.17-00.39.58:071][392]LogViewport: Scene viewport resized to 357x496, mode Windowed.
+[2024.05.17-00.40.53:740][638]LogViewport: Scene viewport resized to 647x527, mode Windowed.
+[2024.05.17-00.40.57:854][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.17-00.41.02:886][147]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.17-00.41.04:773][323]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.41.04:773][323]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.41.04:774][323]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_20
+[2024.05.17-00.41.04:774][323]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_20
+[2024.05.17-00.41.05:077][346]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.41.05:077][346]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-00.41.05:078][346]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_21
+[2024.05.17-00.41.05:079][346]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample as actor: NiagaraActor /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.NiagaraActor_21
+[2024.05.17-00.41.33:942][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.41.34:019][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.17-00.41.34:105][ 54]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-00.41.34:106][ 54]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1FBB6B7B1485B8A8DC47EF190987BD5FB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-00.41.34:113][ 54]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.122
+[2024.05.17-00.41.34:128][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 21.7 sec)
+[2024.05.17-00.41.34:132][ 54]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-00.41.34:132][ 54]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-00.45.34:148][203]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-00.45.34:247][205]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.273020 sec (time since issued), 0.142635 sec (combined shader worker time).
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Total job queries 1 267, among them cache hits 787 (62.12%)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Tracking 459 distinct input hashes that result in 226 distinct outputs (49.24%)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: RAM used: 10,42 MiB of 1,60 GiB budget. Usage: 0.64%
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Shaders Compiled: 407
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Jobs assigned 407, completed 407 (100%)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Average time worker was idle: 109.04 s
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Shader code size: average 34,253 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 85.57 s
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Jobs were issued in 407 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Average processing rate: 4.76 jobs/sec
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Total thread time: 87,852 s
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Total thread preprocess time: 5,475 s
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Percentage time preprocessing: 6.23%
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Effective parallelization: 1.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                                               FNiagaraShader - 36.85% of total time (compiled  221 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.75% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.87% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.10% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.58% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-00.45.34:608][225]LogShaderCompilers: Display: ================================================
+[2024.05.17-00.45.36:386][290]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-00.48.42:620][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.17-00.48.42:717][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-00.48.42:789][897]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-00.48.42:790][897]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample36D4545D4D5248EAD16A0E80422D20E9.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-00.48.42:795][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 21.8 sec)
+[2024.05.17-00.48.42:797][897]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-00.48.42:797][897]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.00.54:723][958]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.00.54:788][960]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.256631 sec (time since issued), 0.152735 sec (combined shader worker time).
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Total job queries 1 269, among them cache hits 787 (62.02%)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Tracking 460 distinct input hashes that result in 227 distinct outputs (49.35%)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: RAM used: 10,43 MiB of 1,60 GiB budget. Usage: 0.64%
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Shaders Compiled: 408
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Jobs assigned 408, completed 408 (100%)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Average time worker was idle: 111.07 s
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Shader code size: average 34,214 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 85.98 s
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Jobs were issued in 408 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Average processing rate: 4.75 jobs/sec
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Total thread time: 88,008 s
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Total thread preprocess time: 5,487 s
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Percentage time preprocessing: 6.23%
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Effective parallelization: 1.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                                               FNiagaraShader - 36.96% of total time (compiled  222 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.72% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.84% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.09% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.57% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.00.55:227][989]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.00.56:736][ 15]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.02.11:273][471]LogNiagaraEditor: Removed Var 'Constants.TextureSample.AccelerationForce.Acceleration' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:SystemSpawnScript
+[2024.05.17-01.02.11:273][471]LogNiagaraEditor: Removed Var 'Constants.TextureSample.AccelerationForce.Acceleration' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:SystemUpdateScript
+[2024.05.17-01.02.11:274][471]LogNiagaraEditor: Removed Var 'Constants.TextureSample.AccelerationForce.Acceleration' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-01.02.11:276][471]LogNiagaraEditor: Removed Var 'Constants.TextureSample.AccelerationForce.Acceleration' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.UpdateScript
+[2024.05.17-01.02.11:276][471]LogNiagaraEditor: Removed Var 'Constants.TextureSample.AccelerationForce.Acceleration' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.02.11:576][473]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.02.11:643][475]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.266753 sec (time since issued), 0.152724 sec (combined shader worker time).
+[2024.05.17-01.02.13:814][571]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.02.35:469][558]LogNiagaraEditor: Removed Var 'Constants.TextureSample.Multiply_VectorByFloat.Float' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.UpdateScript
+[2024.05.17-01.02.35:469][558]LogNiagaraEditor: Removed Var 'Constants.TextureSample.Multiply_VectorByFloat.Float' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.02.35:562][558]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:256 H:0
+[2024.05.17-01.02.35:829][560]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.02.35:916][562]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.307100 sec (time since issued), 0.155952 sec (combined shader worker time).
+[2024.05.17-01.02.37:889][639]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorWidgetsStyle' Style: 'Unable to find Margin 'Menu.Block.IndentedPadding'.'
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Menu.Label'. Using FTextBlockStyle defaults instead.
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorWidgetsStyle' Style: 'Unable to find Color 'MultiboxHookColor'.'
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorWidgetsStyle' Style: 'Unable to find Margin 'Menu.Block.Padding'.'
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Menu.Label'. Using FTextBlockStyle defaults instead.
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Menu.Label'. Using FTextBlockStyle defaults instead.
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Menu.Label'. Using FTextBlockStyle defaults instead.
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Menu.Label'. Using FTextBlockStyle defaults instead.
+[2024.05.17-01.02.49:476][ 55]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Menu.Label'. Using FTextBlockStyle defaults instead.
+[2024.05.17-01.03.06:758][829]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.03.06:841][831]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.319934 sec (time since issued), 0.171334 sec (combined shader worker time).
+[2024.05.17-01.03.08:801][911]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.03.22:522][370]LogNiagaraEditor: Removed Var 'Constants.TextureSample.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.UpdateScript
+[2024.05.17-01.03.22:522][370]LogNiagaraEditor: Removed Var 'Constants.TextureSample.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.03.22:799][372]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.03.22:870][374]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.260247 sec (time since issued), 0.160789 sec (combined shader worker time).
+[2024.05.17-01.03.25:001][401]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.04.44:837][888]LogNiagaraEditor: Removed Var 'Constants.TextureSample.Multiply_Float.B' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.UpdateScript
+[2024.05.17-01.04.44:837][888]LogNiagaraEditor: Removed Var 'Constants.TextureSample.Multiply_Float.B' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.04.44:956][888]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:239 H:0
+[2024.05.17-01.04.45:159][890]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.04.45:227][892]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.262882 sec (time since issued), 0.163394 sec (combined shader worker time).
+[2024.05.17-01.04.45:676][920]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Total job queries 1 279, among them cache hits 787 (61.53%)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Tracking 465 distinct input hashes that result in 232 distinct outputs (49.89%)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: RAM used: 10,51 MiB of 1,60 GiB budget. Usage: 0.64%
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Shaders Compiled: 413
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Jobs assigned 413, completed 413 (100%)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Average time worker was idle: 110.26 s
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Shader code size: average 34,048 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.84 s
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Jobs were issued in 413 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Average processing rate: 4.70 jobs/sec
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Total thread time: 88,829 s
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Total thread preprocess time: 5,544 s
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Percentage time preprocessing: 6.24%
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Effective parallelization: 1.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                                               FNiagaraShader - 37.54% of total time (compiled  227 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.54% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.70% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.02% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.51% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.04.45:677][920]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.04.47:167][ 10]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.04.51:459][296]LogViewport: Scene viewport resized to 481x315, mode Windowed.
+[2024.05.17-01.04.51:752][296]LogViewport: Scene viewport resized to 725x500, mode Windowed.
+[2024.05.17-01.05.01:444][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.17-01.05.01:540][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.05.01:631][957]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.05.01:632][957]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample764DBAB04FC7601C7A4FA99DE7F96C03.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.05.01:638][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 21.9 sec)
+[2024.05.17-01.05.01:639][957]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.05.01:639][957]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.05.09:032][419]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.474126 sec (time since issued), 0.595847 sec (combined shader worker time).
+[2024.05.17-01.05.09:129][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.05.09:221][419]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.05.09:223][419]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSampleD3FC3A274AB2C5D4D8741AB8204900B4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.05.09:228][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 22.0 sec)
+[2024.05.17-01.05.09:253][419]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.05.09:253][419]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.05.09:253][419]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.05.09:253][419]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.05.13:278][667]LogViewport: Scene viewport resized to 1331x531, mode Windowed.
+[2024.05.17-01.05.52:942][293]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash b01db713291ecb02de4dfca02e156fa305c19fa4 and existing hash db9d09a486d8d1c23f9bdc2262ce3bc6fb890869 for LegacyNiagaraScriptDerivedData/62f1b40a10843b1de743ed3b3ca2af61f7a690d5 from '/Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript'
+[2024.05.17-01.05.52:965][293]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.243662 sec (time since issued), 0.380517 sec (combined shader worker time).
+[2024.05.17-01.05.53:053][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.05.53:144][293]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.05.53:145][293]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSampleEB249B4F4A0B778F8E194D897F4CC8C3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.05.53:150][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 22.1 sec)
+[2024.05.17-01.05.53:176][293]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.05.53:176][293]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.05.53:176][293]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.05.53:176][293]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.06.18:903][133]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:607 H:0
+[2024.05.17-01.06.19:317][135]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.06.19:415][137]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.456658 sec (time since issued), 0.200503 sec (combined shader worker time).
+[2024.05.17-01.06.21:329][254]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.06.22:640][333]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.204828 sec (time since issued), 0.244151 sec (combined shader worker time).
+[2024.05.17-01.06.22:717][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.06.22:798][333]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.06.22:799][333]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample02057534469856B04FCAD4848B2851BF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.06.22:804][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 22.2 sec)
+[2024.05.17-01.06.22:830][333]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.06.22:830][333]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.06.22:831][333]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.06.22:831][333]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.07.25:320][460]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.07.25:410][462]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.282807 sec (time since issued), 0.182747 sec (combined shader worker time).
+[2024.05.17-01.07.27:174][545]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.222097 sec (time since issued), 0.261253 sec (combined shader worker time).
+[2024.05.17-01.07.27:285][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.07.27:370][545]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.07.27:370][545]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample331092974E00F432FF13F29ADC047844.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.07.27:376][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 22.3 sec)
+[2024.05.17-01.07.27:402][545]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.07.27:402][545]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.07.27:402][545]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.07.27:402][545]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.07.27:435][546]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.08.35:106][144]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.08.35:231][147]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.407422 sec (time since issued), 0.257300 sec (combined shader worker time).
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Total job queries 1 288, among them cache hits 789 (61.26%)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Tracking 469 distinct input hashes that result in 236 distinct outputs (50.32%)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: RAM used: 10,56 MiB of 1,60 GiB budget. Usage: 0.64%
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Shaders Compiled: 417
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Jobs assigned 417, completed 417 (100%)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Average time worker was idle: 109.74 s
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Shader code size: average 33,903 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 89.69 s
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Jobs were issued in 417 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Average processing rate: 4.65 jobs/sec
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Total thread time: 89,472 s
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Total thread preprocess time: 5,582 s
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Percentage time preprocessing: 6.24%
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Effective parallelization: 1.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                                               FNiagaraShader - 37.99% of total time (compiled  231 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.41% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.60% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.97% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.46% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.08.35:852][183]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.08.37:108][235]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.08.57:057][820]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.08.57:139][822]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.295058 sec (time since issued), 0.177049 sec (combined shader worker time).
+[2024.05.17-01.08.59:063][929]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.09.11:459][ 32]LogNiagaraEditor: Removed Var 'Constants.TextureSample.SetBoolByFloatComparison.A' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.UpdateScript
+[2024.05.17-01.09.11:459][ 32]LogNiagaraEditor: Removed Var 'Constants.TextureSample.SetBoolByFloatComparison.A' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.09.11:769][ 34]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.09.11:844][ 36]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.291413 sec (time since issued), 0.188396 sec (combined shader worker time).
+[2024.05.17-01.09.13:809][175]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.09.13:906][177]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.272271 sec (time since issued), 0.210759 sec (combined shader worker time).
+[2024.05.17-01.09.15:815][294]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.09.23:297][ 14]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromLinearColor.LinearColor' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.UpdateScript
+[2024.05.17-01.09.23:297][ 14]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromLinearColor.LinearColor' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.09.23:537][ 16]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.09.23:643][ 18]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.283826 sec (time since issued), 0.207132 sec (combined shader worker time).
+[2024.05.17-01.09.25:544][136]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.09.33:458][972]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.09.33:560][975]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.317600 sec (time since issued), 0.197198 sec (combined shader worker time).
+[2024.05.17-01.09.35:473][ 81]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.09.47:302][954]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromLinearColor.LinearColor' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.UpdateScript
+[2024.05.17-01.09.47:302][954]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromLinearColor.LinearColor' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.09.47:533][956]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.09.47:627][958]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.260511 sec (time since issued), 0.198073 sec (combined shader worker time).
+[2024.05.17-01.09.49:537][119]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.09.51:870][373]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.09.54:080][457]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.10.56:678][ 22]LogNiagaraEditor: Move module /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_21
+[2024.05.17-01.10.56:693][ 22]LogNiagaraEditor: Finished moving!
+[2024.05.17-01.10.57:094][ 24]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.10.57:184][ 26]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.289387 sec (time since issued), 0.186628 sec (combined shader worker time).
+[2024.05.17-01.10.59:104][135]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.11.06:754][803]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.11.06:829][805]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.258794 sec (time since issued), 0.173823 sec (combined shader worker time).
+[2024.05.17-01.11.07:209][826]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/7a/2c/0846fa6c0739133ceba23a276cef11e163da.udd from 'NS_TextureSample/TextureSample/ParticleGPUComputeScript'.
+[2024.05.17-01.11.08:765][961]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.11.12:150][251]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.11.14:151][396]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.11.16:648][622]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.11.16:737][624]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.276025 sec (time since issued), 0.193188 sec (combined shader worker time).
+[2024.05.17-01.11.18:659][752]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.11.38:050][963]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.11.38:135][965]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.292910 sec (time since issued), 0.170939 sec (combined shader worker time).
+[2024.05.17-01.11.38:579][996]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Total job queries 1 308, among them cache hits 789 (60.32%)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Tracking 479 distinct input hashes that result in 245 distinct outputs (51.15%)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: RAM used: 10,74 MiB of 1,60 GiB budget. Usage: 0.66%
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Shaders Compiled: 427
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Jobs assigned 427, completed 427 (100%)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Average time worker was idle: 107.55 s
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Shader code size: average 33,649 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.95 s
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Jobs were issued in 427 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Average processing rate: 4.59 jobs/sec
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Total thread time: 91,252 s
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Total thread preprocess time: 5,703 s
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Percentage time preprocessing: 6.25%
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Effective parallelization: 0.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                                               FNiagaraShader - 39.20% of total time (compiled  241 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.05% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.31% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.83% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.33% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.11.38:580][996]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.11.41:579][  5]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.11.59:778][ 86]LogNiagaraEditor: Removed Var 'Constants.TextureSample.SetBoolByFloatComparison.A' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-01.11.59:778][ 86]LogNiagaraEditor: Removed Var 'Constants.TextureSample.SetBoolByFloatComparison.A' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.12.00:091][ 88]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.12.00:173][ 90]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.298476 sec (time since issued), 0.192819 sec (combined shader worker time).
+[2024.05.17-01.12.02:289][137]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.12.27:176][663]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromLinearColor.LinearColor' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-01.12.27:176][663]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromLinearColor.LinearColor' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.12.27:416][665]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.12.27:506][667]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.268525 sec (time since issued), 0.194420 sec (combined shader worker time).
+[2024.05.17-01.12.29:417][777]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.12.31:488][938]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.12.31:576][940]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.254226 sec (time since issued), 0.196031 sec (combined shader worker time).
+[2024.05.17-01.12.31:899][958]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/8a/a9/ab0a900c66536765a5ca2acf1b259e87f72c.udd from 'NS_TextureSample/TextureSample/ParticleGPUComputeScript'.
+[2024.05.17-01.12.33:490][ 58]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.12.37:907][426]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.12.39:917][575]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.12.42:801][791]Cmd: TRANSACTION UNDO
+[2024.05.17-01.12.42:801][791]LogEditorTransaction: Undo Delete modules
+[2024.05.17-01.12.42:816][791]LogNiagara: Error: Emitter cannot be enabled because it's doesn't have both an update and spawn script ready to run CPU scripts.
+[2024.05.17-01.12.42:816][791]LogNiagara: Error: Emitter cannot be enabled because it's doesn't have both an update and spawn script ready to run CPU scripts.
+[2024.05.17-01.12.42:816][791]LogNiagara: Error: Emitter cannot be enabled because it's doesn't have both an update and spawn script ready to run CPU scripts.
+[2024.05.17-01.12.43:724][798]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.12.44:125][823]Cmd: TRANSACTION UNDO
+[2024.05.17-01.12.44:125][823]LogEditorTransaction: Undo Edit input local value.
+[2024.05.17-01.12.45:733][884]72051_NS_Waterfall_MessageLog: System successfully compiled.
+[2024.05.17-01.12.45:733][884]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.12.47:616][992]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.271687 sec (time since issued), 0.192284 sec (combined shader worker time).
+[2024.05.17-01.12.47:734][999]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.12.49:742][ 79]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.12.49:961][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.12.50:056][ 83]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.12.50:057][ 83]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample3737B96D4ECA797AFA71E88FDB0316A6.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.12.50:062][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 22.4 sec)
+[2024.05.17-01.12.50:088][ 83]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.12.50:088][ 83]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.12.50:088][ 83]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.12.50:088][ 83]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.13.19:213][911]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.13.21:219][ 48]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.13.25:959][557]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.13.27:961][695]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.13.36:999][776]LogNiagaraEditor: Removed Var 'Constants.TextureSample.SetBoolByFloatComparison.A' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-01.13.36:999][776]LogNiagaraEditor: Removed Var 'Constants.TextureSample.SetBoolByFloatComparison.A' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.13.37:247][778]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.13.37:337][780]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.282169 sec (time since issued), 0.206836 sec (combined shader worker time).
+[2024.05.17-01.13.39:255][916]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.13.52:456][870]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.246100 sec (time since issued), 0.380108 sec (combined shader worker time).
+[2024.05.17-01.13.52:553][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.13.52:653][870]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.13.52:654][870]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample41FE13444481D82248841EA6A444F070.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.13.52:659][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 22.5 sec)
+[2024.05.17-01.13.52:686][870]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.13.52:686][870]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.13.52:686][870]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.13.52:686][870]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.14.03:254][370]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-01.14.03:288][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-01.14.03:316][370]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-01.14.03:316][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-01.14.03:449][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.17-01.14.07:319][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.14.07:419][615]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.14.07:419][615]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample26C021F34A64C88ACFC0DC8BBC3BA4AC.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.14.07:424][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 22.6 sec)
+[2024.05.17-01.14.07:451][615]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.14.07:451][615]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.14.07:451][615]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.14.07:451][615]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.14.10:646][822]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-01.14.10:646][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-01.14.18:584][302]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.05.17-01.14.18:600][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.17-01.14.18:600][302]PIE: New page: SIE session: NiagaraCourse_1 (17 трав. 2024 р., 07:14:18)
+[2024.05.17-01.14.18:605][302]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.17-01.14.18:605][302]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.17-01.14.18:605][302]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-01.14.18:634][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027995s)
+[2024.05.17-01.14.18:634][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.028043s)
+[2024.05.17-01.14.18:643][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.17-01.14.18:658][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-01.14.18:658][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-01.14.18:658][302]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.17-01.14.18:658][302]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2024.05.17-01.14.18:659][302]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.17-01.14.18:659][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.17-01.14.18:659][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.17-01.14.18:659][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.17-01.14.18:659][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.17-01.14.18:659][302]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.17-01.14.18:659][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.17-01.14.18:659][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.17-01.14.18:659][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.17-01.14.18:659][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.17-01.14.18:659][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.17-01.14.18:659][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.17-01.14.18:661][302]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.17-01.14.18:687][302]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.17-01.14.18:687][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.17-01.14.18:687][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.17-01.14.18:687][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.17-01.14.18:687][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.17-01.14.18:687][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.05.17-01.14.18:690][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.17-01.14.18:690][302]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.17-01.14.18:690][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.17-01.14.18:690][302]LogAudio: Display: Audio Device (ID: 2) registered with world 'NiagaraCourse_1'.
+[2024.05.17-01.14.18:690][302]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.17-01.14.18:694][302]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.17-01.14.18:779][302]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.17-04.14.18
+[2024.05.17-01.14.18:799][302]LogWorld: Bringing up level for play took: 0.104098
+[2024.05.17-01.14.18:801][302]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.05.17-01.14.18:816][302]PIE: Server logged in
+[2024.05.17-01.14.18:817][302]PIE: Play in editor total start time 0,219 seconds.
+[2024.05.17-01.14.30:765][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-01.14.30:765][ 25]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-01.14.30:765][ 25]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-01.14.30:770][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-01.14.30:774][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.17-01.14.30:779][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-01.14.30:788][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-01.14.30:793][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.17-01.14.30:793][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.17-01.14.30:795][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.17-01.14.30:813][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.17-01.14.30:881][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Total job queries 1 320, among them cache hits 791 (59.92%)
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Tracking 484 distinct input hashes that result in 248 distinct outputs (51.24%)
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: RAM used: 10,82 MiB of 1,60 GiB budget. Usage: 0.66%
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Shaders Compiled: 432
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Jobs assigned 432, completed 432 (100%)
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Average time worker was idle: 106.56 s
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Shader code size: average 33,525 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 94.69 s
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Jobs were issued in 432 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Average processing rate: 4.56 jobs/sec
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Total thread time: 92,138 s
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Total thread preprocess time: 5,763 s
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Percentage time preprocessing: 6.25%
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Effective parallelization: 0.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.20.41:342][336]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-01.20.41:343][336]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.20.41:343][336]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-01.20.41:343][336]LogShaderCompilers: Display:                                               FNiagaraShader - 39.78% of total time (compiled  246 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-01.20.41:343][336]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.88% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.20.41:343][336]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.18% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.20.41:343][336]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.77% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.20.41:343][336]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.27% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.20.41:343][336]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.20.41:441][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.20.41:538][336]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.20.41:538][336]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample4B9F58D341097DDA714FD886893CB6C5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.20.41:545][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 22.7 sec)
+[2024.05.17-01.20.41:572][336]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.20.41:572][336]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.20.41:572][336]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.20.41:572][336]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-01.23.50:002][549]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.23.52:004][677]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.25.26:260][125]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromLinearColor.LinearColor' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.SpawnScript
+[2024.05.17-01.25.26:260][125]LogNiagaraEditor: Removed Var 'Constants.TextureSample.MakeFloatFromLinearColor.LinearColor' from Script NiagaraScript /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample:TextureSample_0.GPUComputeScript
+[2024.05.17-01.25.26:437][127]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.25.28:441][274]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.25.30:545][451]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.25.32:546][600]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.25.35:705][830]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:38.136 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20101 files in 21177 folders with total size 675 MiB.
+[2024.05.17-01.25.58:124][419]115083_NS_TextureSample_MessageLog: System compile status unknown.
+[2024.05.17-01.25.58:199][421]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample took 0.267782 sec (time since issued), 0.174818 sec (combined shader worker time).
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Total job queries 1 322, among them cache hits 791 (59.83%)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Tracking 485 distinct input hashes that result in 249 distinct outputs (51.34%)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: RAM used: 10,84 MiB of 1,60 GiB budget. Usage: 0.66%
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Shaders Compiled: 433
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Jobs assigned 433, completed 433 (100%)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Average time worker was idle: 108.05 s
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.73 s
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.77 s
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.04
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Shader code size: average 33,501 KiB, min 1,664 KiB, max 76,363 KiB
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 95.21 s
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Jobs were issued in 433 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Average processing rate: 4.55 jobs/sec
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Total thread time: 92,324 s
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Total thread preprocess time: 5,776 s
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Percentage time preprocessing: 6.26%
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Effective parallelization: 0.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   18 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                                               FNiagaraShader - 39.91% of total time (compiled  247 times, average 0.15 sec, max 0.51 sec, min 0.04 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.84% of total time (compiled   42 times, average 0.39 sec, max 0.62 sec, min 0.25 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.15% of total time (compiled   42 times, average 0.31 sec, max 0.47 sec, min 0.21 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.76% of total time (compiled   20 times, average 0.31 sec, max 0.45 sec, min 0.21 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.26% of total time (compiled   23 times, average 0.25 sec, max 0.42 sec, min 0.21 sec)
+[2024.05.17-01.25.58:751][460]LogShaderCompilers: Display: ================================================
+[2024.05.17-01.26.00:132][554]115083_NS_TextureSample_MessageLog: System successfully compiled.
+[2024.05.17-01.26.08:778][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.26.08:864][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.17-01.26.08:943][994]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-01.26.08:943][994]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_167800DFF423CEBA4256BCDBCF77002CE.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-01.26.08:951][994]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.122
+[2024.05.17-01.26.08:957][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 22.9 sec)
+[2024.05.17-01.26.08:960][994]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-01.26.08:960][994]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-01.26.10:340][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.05.17-01.26.10:434][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.26.10:530][ 80]LogSavePackage: Moving output files for package: /Game/Niagara/29-SampleTexture/NS_TextureSample
+[2024.05.17-01.26.10:530][ 80]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_TextureSample0725099A4AADB7560C0AB38760C21805.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/29-SampleTexture/NS_TextureSample.uasset'
+[2024.05.17-01.26.10:538][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 23.0 sec)
+[2024.05.17-01.26.10:540][ 80]AssetCheck: New page: Asset Save: NS_TextureSample
+[2024.05.17-01.26.10:540][ 80]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/29-SampleTexture/NS_TextureSample.NS_TextureSample
+[2024.05.17-01.26.41:657][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.17-01.27.09:123][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-01.27.09:199][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.17-01.27.09:269][147]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-01.27.09:270][147]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_159A2B2C040DD1E342A5D7BAAA2714FD6.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-01.27.09:277][147]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.108
+[2024.05.17-01.27.09:283][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 23.1 sec)
+[2024.05.17-01.27.09:286][147]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-01.27.09:286][147]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-01.27.09:906][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
