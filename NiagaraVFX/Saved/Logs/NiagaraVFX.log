@@ -5227,3 +5227,989 @@ Please edit the Parameters Panel version to change in all locations.
 [2024.05.17-13.51.04:748][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 1:22 min)
 [2024.05.17-13.51.04:750][962]AssetCheck: New page: Asset Save: NiagaraCourse_1
 [2024.05.17-13.51.04:750][962]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-13.56.09:039][400]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:41.158 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22042 files in 22910 folders with total size 745 MiB.
+[2024.05.17-14.03.40:034][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.03.40:113][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.17-14.03.40:200][670]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-14.03.40:201][670]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_173CEFA7B4131C53F61358984DA003A45.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-14.03.40:207][670]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.125
+[2024.05.17-14.03.40:219][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 1:22 min)
+[2024.05.17-14.03.40:222][670]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-14.03.40:222][670]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-14.03.47:873][110]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.17-14.03.47:959][110]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.17-14.03.47:976][111]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.17-14.04.08:390][260]LogContentBrowser: Attempting asset rename: NewFolder -> 33-SampleSKByBP
+[2024.05.17-14.04.08:391][260]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.17-14.04.14:716][693]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.17-14.04.14:723][693]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.17-14.04.14:734][693]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.17-14.04.14:772][695]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.17-14.04.25:729][303]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SKSampler
+[2024.05.17-14.04.25:861][303]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.17-14.04.26:841][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.04.26:890][352]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.04.26:890][352]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSamplerB5C82D2344B41303E1E527953ED9D876.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.04.27:031][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 1:22 min)
+[2024.05.17-14.04.27:032][352]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.04.27:032][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.04.27:590][384]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.04.27:591][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.04.27:591][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.04.27:599][384]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.17-14.04.28:939][384]LogViewport: Scene viewport resized to 1110x685, mode Windowed.
+[2024.05.17-14.04.40:970][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-14.04.40:970][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-14.04.57:453][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.05.05:004][825]BlueprintLog: New page: Compile BP_SKSampler
+[2024.05.17-14.05.05:041][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.05.17-14.05.05:922][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.05.05:984][870]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.05.05:985][870]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSamplerCF53502F4070FBA5B5A46E90BCE8F99E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.05.05:990][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1:22 min)
+[2024.05.17-14.05.05:991][870]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.05.05:991][870]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.05.18:407][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: ================================================
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Total job queries 3 308, among them cache hits 1 699 (51.36%)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Tracking 1 563 distinct input hashes that result in 593 distinct outputs (37.94%)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: RAM used: 39,33 MiB of 1,60 GiB budget. Usage: 2.40%
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Shaders Compiled: 1 489
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Jobs assigned 1 489, completed 1 489 (100%)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Average time worker was idle: 34.09 s
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Time job spent in pending queue: average 1.20 s, longest 4.39 s
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Job execution time: average 0.54 s, max 4.15 s
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Job life time (pending + execution): average 1.74 s, max 5.00
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Shader code size: average 39,82 KiB, min 1,664 KiB, max 109,02 KiB
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 158.96 s
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Jobs were issued in 1 446 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Average processing rate: 9.37 jobs/sec
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Total thread time: 578,654 s
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Total thread preprocess time: 43,111 s
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Percentage time preprocessing: 7.45%
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Effective parallelization: 3.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   47 times, average 0.71 sec, max 1.69 sec, min 0.27 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   47 times, average 0.48 sec, max 0.75 sec, min 0.33 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   47 times, average 0.48 sec, max 0.72 sec, min 0.30 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   47 times, average 0.47 sec, max 0.75 sec, min 0.30 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   47 times, average 0.47 sec, max 0.69 sec, min 0.31 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:                                               FNiagaraShader - 6.90% of total time (compiled   89 times, average 0.45 sec, max 1.36 sec, min 0.04 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.78% of total time (compiled   47 times, average 0.71 sec, max 1.69 sec, min 0.27 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.51% of total time (compiled   73 times, average 0.44 sec, max 0.66 sec, min 0.25 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.77% of total time (compiled   73 times, average 0.38 sec, max 0.56 sec, min 0.28 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 4.17% of total time (compiled   67 times, average 0.36 sec, max 0.45 sec, min 0.22 sec)
+[2024.05.17-14.05.18:484][542]LogShaderCompilers: Display: ================================================
+[2024.05.17-14.05.18:536][542]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/M_Mannequin_DistField
+[2024.05.17-14.05.18:536][542]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_DistField42C2F70F4A9D331DE0B07AA54275D518.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/M_Mannequin_DistField.uasset'
+[2024.05.17-14.05.18:546][542]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/MI_Manny_01_DistField
+[2024.05.17-14.05.18:546][542]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_Manny_01_DistField7C9E3E674DF71584BEC0DE8BB63D501F.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/MI_Manny_01_DistField.uasset'
+[2024.05.17-14.05.18:558][542]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/MI_Manny_02_DistField
+[2024.05.17-14.05.18:558][542]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_Manny_02_DistField2FB41BEC4B2B66DE77B60B9CCA718078.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/MI_Manny_02_DistField.uasset'
+[2024.05.17-14.05.18:714][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 1:23 min)
+[2024.05.17-14.05.19:541][542]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-14.05.19:541][542]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/33-SampleSKByBP/M_Mannequin_DistField.M_Mannequin_DistField
+[2024.05.17-14.05.19:541][542]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/33-SampleSKByBP/MI_Manny_01_DistField.MI_Manny_01_DistField
+[2024.05.17-14.05.19:541][542]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/33-SampleSKByBP/MI_Manny_02_DistField.MI_Manny_02_DistField
+[2024.05.17-14.05.27:633][920]LogContentBrowser: Attempting asset rename: M_Mannequin_DistField -> M_Mannequin_BP
+[2024.05.17-14.05.28:238][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.05.28:294][920]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/M_Mannequin_BP
+[2024.05.17-14.05.28:294][920]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_BPC8109B5A42454D95ED3DBE98DE079B67.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/M_Mannequin_BP.uasset'
+[2024.05.17-14.05.28:454][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 1:23 min)
+[2024.05.17-14.05.28:666][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.17-14.05.28:685][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.17-14.05.28:704][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.17-14.05.28:838][920]SourceControl: rm 'NiagaraVFX/Content/Niagara/33-SampleSKByBP/M_Mannequin_DistField.uasset'
+[2024.05.17-14.05.28:842][920]AssetCheck: New page: Asset Save: M_Mannequin_BP
+[2024.05.17-14.05.28:842][920]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/33-SampleSKByBP/M_Mannequin_BP.M_Mannequin_BP
+[2024.05.17-14.05.34:452][145]LogContentBrowser: Attempting asset rename: MI_Manny_01_DistField -> MI_Manny_01_BP
+[2024.05.17-14.05.35:095][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.05.35:140][145]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/MI_Manny_01_BP
+[2024.05.17-14.05.35:140][145]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_Manny_01_BPD0AE37CB4B01809CA453109E88C90987.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/MI_Manny_01_BP.uasset'
+[2024.05.17-14.05.35:296][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 1:23 min)
+[2024.05.17-14.05.35:497][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.17-14.05.35:516][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.17-14.05.35:533][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.17-14.05.35:666][145]SourceControl: rm 'NiagaraVFX/Content/Niagara/33-SampleSKByBP/MI_Manny_01_DistField.uasset'
+[2024.05.17-14.05.35:670][145]AssetCheck: New page: Asset Save: MI_Manny_01_BP
+[2024.05.17-14.05.35:670][145]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/33-SampleSKByBP/MI_Manny_01_BP.MI_Manny_01_BP
+[2024.05.17-14.05.40:710][352]LogContentBrowser: Attempting asset rename: MI_Manny_02_DistField -> MI_Manny_02_BP
+[2024.05.17-14.05.41:326][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.05.41:372][352]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/MI_Manny_02_BP
+[2024.05.17-14.05.41:372][352]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_Manny_02_BP5E8FFFFB44478D37CBFE10AFE3C3DF80.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/MI_Manny_02_BP.uasset'
+[2024.05.17-14.05.41:512][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 1:23 min)
+[2024.05.17-14.05.41:724][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.17-14.05.41:744][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.17-14.05.41:757][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.17-14.05.41:885][352]SourceControl: rm 'NiagaraVFX/Content/Niagara/33-SampleSKByBP/MI_Manny_02_DistField.uasset'
+[2024.05.17-14.05.41:889][352]AssetCheck: New page: Asset Save: MI_Manny_02_BP
+[2024.05.17-14.05.41:889][352]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/33-SampleSKByBP/MI_Manny_02_BP.MI_Manny_02_BP
+[2024.05.17-14.05.44:658][464]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Niagara/33-SampleSKByBP/M_Mannequin_BP.M_Mannequin_BP
+[2024.05.17-14.05.44:665][464]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.05.44:665][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.05.44:886][464]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.44:886][464]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.44:886][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.44:886][464]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.44:886][464]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.44:886][464]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.44:886][464]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.44:891][464]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.05.17-14.05.45:546][479]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-14.05.45:546][479]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.45:546][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.45:546][479]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.45:546][479]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.45:546][479]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.45:546][479]MaterialEditorStats: Shader Count: 1
+[2024.05.17-14.05.45:661][484]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.45:661][484]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-14.05.45:661][484]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.45:662][484]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.45:662][484]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.45:662][484]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.45:662][484]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.45:662][484]MaterialEditorStats: Shader Count: 2
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: Base pass shader: 371 instructions
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.45:854][492]MaterialEditorStats: Shader Count: 8
+[2024.05.17-14.05.51:579][916]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.51:579][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.51:579][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.51:580][916]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.51:580][916]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.51:580][916]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.51:580][916]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.51:886][918]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-14.05.51:886][918]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.51:886][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.51:886][918]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.51:886][918]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.51:886][918]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.51:886][918]MaterialEditorStats: Shader Count: 1
+[2024.05.17-14.05.52:065][925]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.52:065][925]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-14.05.52:065][925]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.52:065][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.52:065][925]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.52:065][925]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.52:065][925]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.52:065][925]MaterialEditorStats: Shader Count: 2
+[2024.05.17-14.05.52:163][929]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.52:163][929]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.17-14.05.52:163][929]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.52:163][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.52:163][929]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.52:163][929]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.52:163][929]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.52:163][929]MaterialEditorStats: Shader Count: 5
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: Base pass shader: 318 instructions
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.52:268][934]MaterialEditorStats: Shader Count: 12
+[2024.05.17-14.05.53:058][977]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.53:058][977]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.53:058][977]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.53:058][977]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.53:058][977]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.53:058][977]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.53:058][977]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: Base pass shader: 318 instructions
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.53:257][979]MaterialEditorStats: Shader Count: 14
+[2024.05.17-14.05.53:775][  7]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.53:775][  7]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.53:775][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.53:775][  7]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.53:775][  7]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.53:775][  7]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.53:775][  7]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: Base pass shader: 318 instructions
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.53:977][  9]MaterialEditorStats: Shader Count: 14
+[2024.05.17-14.05.54:395][ 32]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.54:395][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.54:395][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.54:395][ 32]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.54:395][ 32]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.54:395][ 32]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.54:395][ 32]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: Base pass shader: 318 instructions
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.54:598][ 34]MaterialEditorStats: Shader Count: 14
+[2024.05.17-14.05.55:060][ 59]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.55:060][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.55:060][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.55:060][ 59]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.55:060][ 59]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.55:061][ 59]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.55:061][ 59]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: Base pass shader: 318 instructions
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.55:265][ 61]MaterialEditorStats: Shader Count: 14
+[2024.05.17-14.05.55:973][102]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.55:973][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.55:973][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.55:973][102]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.55:973][102]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.55:973][102]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.55:973][102]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: Base pass shader: 318 instructions
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.56:165][104]MaterialEditorStats: Shader Count: 14
+[2024.05.17-14.05.57:075][160]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.57:075][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.57:075][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.57:075][160]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.57:075][160]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.57:075][160]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.57:075][160]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: Base pass shader: 318 instructions
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.57:258][162]MaterialEditorStats: Shader Count: 14
+[2024.05.17-14.05.58:680][283]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.05.58:680][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.58:680][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.58:680][283]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.58:680][283]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.58:680][283]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.58:680][283]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.05.58:855][284]MaterialEditorStats: Base pass shader: 318 instructions
+[2024.05.17-14.05.58:856][284]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.05.58:856][284]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.05.58:856][284]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.05.58:856][284]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.05.58:856][284]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.05.58:856][284]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.05.58:856][284]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.05.58:856][284]MaterialEditorStats: Shader Count: 8
+[2024.05.17-14.06.05:317][756]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.06.05:318][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.06.05:318][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.06.05:318][756]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.06.05:318][756]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.06.05:318][756]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.06.05:318][756]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.06.05:717][771]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-14.06.05:717][771]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.06.05:717][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.06.05:717][771]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.06.05:717][771]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.06.05:717][771]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.06.05:717][771]MaterialEditorStats: Shader Count: 1
+[2024.05.17-14.06.05:950][780]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.06.05:950][780]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-14.06.05:950][780]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.06.05:950][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.06.05:950][780]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.06.05:950][780]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.06.05:950][780]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.06.05:950][780]MaterialEditorStats: Shader Count: 3
+[2024.05.17-14.06.06:056][784]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.06.06:056][784]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.17-14.06.06:056][784]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.06.06:056][784]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.06.06:056][784]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.06.06:056][784]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.06.06:056][784]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.06.06:056][784]MaterialEditorStats: Shader Count: 5
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: Base pass shader: 319 instructions
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.06.06:153][788]MaterialEditorStats: Shader Count: 10
+[2024.05.17-14.06.08:074][905]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.06.08:074][905]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.06.08:074][905]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.06.08:074][905]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.06.08:074][905]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.06.08:074][905]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.06.08:074][905]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: Base pass shader: 319 instructions
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.06.08:127][907]MaterialEditorStats: Shader Count: 10
+[2024.05.17-14.06.13:219][306]LogMaterialEditor: Saving and Compiling material M_Mannequin_BP
+[2024.05.17-14.06.13:464][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.17-14.06.14:388][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.17-14.06.14:492][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.06.16:581][306]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-14.06.17:309][306]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 2.730632s (0.730632s overbudget)
+[2024.05.17-14.06.17:418][306]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/M_Mannequin_BP
+[2024.05.17-14.06.17:419][306]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_BPCBCFDCF64C40EDC780EA3CBCA94FF371.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/M_Mannequin_BP.uasset'
+[2024.05.17-14.06.17:424][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.93 sec (total: 1:26 min)
+[2024.05.17-14.06.17:425][306]AssetCheck: New page: Asset Save: M_Mannequin_BP
+[2024.05.17-14.06.17:425][306]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/33-SampleSKByBP/M_Mannequin_BP.M_Mannequin_BP
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: Base pass shader: 319 instructions
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: MaxSampler: 384 instructions
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: Texture samplers: 10/16
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.06.17:433][306]MaterialEditorStats: Shader Count: 70
+[2024.05.17-14.06.28:124][905]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/33-SampleSKByBP/MI_Manny_01_BP.MI_Manny_01_BP
+[2024.05.17-14.06.28:125][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.06.28:126][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.06.28:490][905]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.17-14.06.41:496][239]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-14.06.49:453][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.17-14.06.49:546][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.06.49:672][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.17-14.06.49:692][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.17-14.06.49:695][960]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/MI_Manny_01_BP
+[2024.05.17-14.06.49:696][960]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_Manny_01_BP55AFDBD747F29BFC5F1E2D92EC28AD77.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/MI_Manny_01_BP.uasset'
+[2024.05.17-14.06.49:702][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1:26 min)
+[2024.05.17-14.06.49:703][960]AssetCheck: New page: Asset Save: MI_Manny_01_BP
+[2024.05.17-14.06.49:703][960]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/33-SampleSKByBP/MI_Manny_01_BP.MI_Manny_01_BP
+[2024.05.17-14.06.51:020][ 70]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.06.51:020][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.06.52:752][169]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Niagara/33-SampleSKByBP/MI_Manny_02_BP.MI_Manny_02_BP
+[2024.05.17-14.06.52:755][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.06.52:755][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.06.53:102][169]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.05.17-14.07.02:712][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.07.02:867][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.05.17-14.07.05:433][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.17-14.07.05:464][840]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/MI_Manny_02_BP
+[2024.05.17-14.07.05:465][840]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/MI_Manny_02_BP3BAE15AD45C34C1D847AE19A106CFBFE.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/MI_Manny_02_BP.uasset'
+[2024.05.17-14.07.05:474][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.76 sec (total: 1:29 min)
+[2024.05.17-14.07.05:474][840]AssetCheck: New page: Asset Save: MI_Manny_02_BP
+[2024.05.17-14.07.05:474][840]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Niagara/33-SampleSKByBP/MI_Manny_02_BP.MI_Manny_02_BP
+[2024.05.17-14.07.21:266][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.07.21:315][957]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.07.21:315][957]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler9193FB584C5C3C9E84F9F59BC7E50E18.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.07.21:322][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1:29 min)
+[2024.05.17-14.07.21:323][957]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.07.21:323][957]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.07.47:514][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.07.47:627][300]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.07.47:627][300]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler7B2363074B1BCB5F85132C8880DEC0BB.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.07.47:633][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1:29 min)
+[2024.05.17-14.07.47:635][300]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.07.47:635][300]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.07.48:189][351]BlueprintLog: New page: Compile BP_SKSampler
+[2024.05.17-14.07.48:227][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.17-14.08.28:478][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.08.28:591][290]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.08.28:591][290]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSamplerC6A72BB64D971D1E2D8438B6DF54E715.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.08.28:598][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1:30 min)
+[2024.05.17-14.08.28:599][290]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.08.28:599][290]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.08.28:872][314]BlueprintLog: New page: Compile BP_SKSampler
+[2024.05.17-14.08.28:912][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.05.17-14.08.30:449][405]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.05.17-14.08.30:465][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.17-14.08.30:466][405]PIE: New page: SIE session: NiagaraCourse_1 (17 трав. 2024 р., 20:08:30)
+[2024.05.17-14.08.30:473][405]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.17-14.08.30:473][405]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.17-14.08.30:474][405]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.08.30:503][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029386s)
+[2024.05.17-14.08.30:503][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.029433s)
+[2024.05.17-14.08.30:519][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.17-14.08.30:521][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.08.30:522][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.08.30:522][405]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.17-14.08.30:522][405]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2024.05.17-14.08.30:523][405]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.17-14.08.30:523][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.17-14.08.30:523][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.17-14.08.30:523][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.17-14.08.30:523][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.17-14.08.30:523][405]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.17-14.08.30:523][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.17-14.08.30:523][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.17-14.08.30:523][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.17-14.08.30:523][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.17-14.08.30:523][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.17-14.08.30:523][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.17-14.08.30:525][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.17-14.08.30:551][405]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.17-14.08.30:551][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.17-14.08.30:551][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.17-14.08.30:551][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.17-14.08.30:552][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.17-14.08.30:552][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.05.17-14.08.30:554][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.17-14.08.30:554][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.17-14.08.30:554][405]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.17-14.08.30:554][405]LogAudio: Display: Audio Device (ID: 2) registered with world 'NiagaraCourse_1'.
+[2024.05.17-14.08.30:554][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.17-14.08.30:563][405]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.17-14.08.30:665][405]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.17-17.08.30
+[2024.05.17-14.08.30:688][405]LogWorld: Bringing up level for play took: 0.124813
+[2024.05.17-14.08.30:690][405]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.05.17-14.08.30:708][405]PIE: Server logged in
+[2024.05.17-14.08.30:709][405]PIE: Play in editor total start time 0,247 seconds.
+[2024.05.17-14.08.32:648][464]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.35:771][605]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.36:388][635]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.36:863][657]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.37:299][677]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.38:320][718]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.38:511][727]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.38:682][735]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.40:449][817]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.40:670][822]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.40:850][826]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.41:033][835]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.42:438][899]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.42:612][907]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: ================================================
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Total job queries 3 685, among them cache hits 1 898 (51.51%)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Tracking 1 741 distinct input hashes that result in 662 distinct outputs (38.02%)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: RAM used: 44,02 MiB of 1,60 GiB budget. Usage: 2.69%
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Shaders Compiled: 1 639
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Jobs assigned 1 639, completed 1 639 (100%)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Average time worker was idle: 40.09 s
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Time job spent in pending queue: average 1.13 s, longest 4.39 s
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Job execution time: average 0.66 s, max 4.33 s
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 5.00
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Shader code size: average 39,932 KiB, min 1,664 KiB, max 109,02 KiB
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 169.66 s
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Jobs were issued in 1 540 batches (only local compilation was used), average 1.06 jobs/batch
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Average processing rate: 9.66 jobs/sec
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Total thread time: 636,207 s
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Total thread preprocess time: 47,376 s
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Percentage time preprocessing: 7.45%
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Effective parallelization: 3.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   51 times, average 0.73 sec, max 1.69 sec, min 0.27 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   51 times, average 0.49 sec, max 0.75 sec, min 0.33 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   51 times, average 0.48 sec, max 0.72 sec, min 0.30 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   51 times, average 0.47 sec, max 0.75 sec, min 0.30 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   51 times, average 0.47 sec, max 0.69 sec, min 0.31 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:                                               FNiagaraShader - 6.27% of total time (compiled   89 times, average 0.45 sec, max 1.36 sec, min 0.04 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.86% of total time (compiled   51 times, average 0.73 sec, max 1.69 sec, min 0.27 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.54% of total time (compiled   79 times, average 0.45 sec, max 0.67 sec, min 0.25 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.69% of total time (compiled   79 times, average 0.38 sec, max 0.56 sec, min 0.28 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 4.29% of total time (compiled   77 times, average 0.35 sec, max 0.48 sec, min 0.19 sec)
+[2024.05.17-14.08.44:884][993]LogShaderCompilers: Display: ================================================
+[2024.05.17-14.08.47:390][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.08.47:390][ 33]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.08.47:391][ 33]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.08.47:397][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.08.47:402][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.17-14.08.47:411][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.08.47:430][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.17-14.08.47:430][ 33]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.17-14.08.47:430][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.17-14.08.47:434][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.17-14.08.47:438][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.08.47:461][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.05.17-14.08.47:534][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.05.17-14.08.50:463][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.17-14.08.50:463][137]PIE: New page: PIE session: NiagaraCourse_1 (17 трав. 2024 р., 20:08:50)
+[2024.05.17-14.08.50:467][137]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.17-14.08.50:467][137]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.17-14.08.50:467][137]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2024.05.17-14.08.50:469][137]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.05.17-14.08.50:493][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.08.50:525][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032348s)
+[2024.05.17-14.08.50:525][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.032405s)
+[2024.05.17-14.08.50:545][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.05.17-14.08.50:548][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.08.50:548][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.08.50:549][138]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.17-14.08.50:549][138]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2024.05.17-14.08.50:549][138]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.17-14.08.50:549][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.17-14.08.50:549][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.17-14.08.50:549][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.17-14.08.50:549][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.17-14.08.50:549][138]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.17-14.08.50:549][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.17-14.08.50:549][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.17-14.08.50:549][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.17-14.08.50:550][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.17-14.08.50:550][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.17-14.08.50:550][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.17-14.08.50:552][138]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.17-14.08.50:579][138]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.17-14.08.50:580][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.17-14.08.50:580][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.17-14.08.50:580][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.17-14.08.50:580][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.17-14.08.50:580][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.05.17-14.08.50:582][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.17-14.08.50:582][138]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.17-14.08.50:582][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.17-14.08.50:582][138]LogAudio: Display: Audio Device (ID: 3) registered with world 'NiagaraCourse_1'.
+[2024.05.17-14.08.50:582][138]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.17-14.08.50:585][138]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.17-14.08.50:710][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.17-17.08.50
+[2024.05.17-14.08.50:735][138]LogWorld: Bringing up level for play took: 0.149389
+[2024.05.17-14.08.50:751][138]PIE: Server logged in
+[2024.05.17-14.08.50:752][138]PIE: Play in editor total start time 0,289 seconds.
+[2024.05.17-14.08.55:430][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.08.55:430][255]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.08.55:430][255]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.08.55:435][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.08.55:458][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.17-14.08.55:467][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.08.55:490][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.08.55:493][255]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.17-14.08.55:493][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.17-14.08.55:495][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.17-14.08.55:514][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.05.17-14.08.55:589][256]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.05.17-14.08.56:330][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.08.56:415][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.17-14.08.56:495][268]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-14.08.56:496][268]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1208A97294BD6FE863CC8A7A9F7B92CC5.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-14.08.56:502][268]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.125
+[2024.05.17-14.08.56:508][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 1:30 min)
+[2024.05.17-14.08.56:511][268]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-14.08.56:511][268]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-14.08.56:870][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.17-14.08.56:886][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.17-14.08.56:888][279]PIE: New page: PIE session: NiagaraCourse_1 (17 трав. 2024 р., 20:08:56)
+[2024.05.17-14.08.56:888][279]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2024.05.17-14.08.56:890][279]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.05.17-14.08.56:906][280]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.08.56:938][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031954s)
+[2024.05.17-14.08.56:938][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.032007s)
+[2024.05.17-14.08.56:956][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.05.17-14.08.56:957][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.08.56:958][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.08.56:958][280]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.17-14.08.56:958][280]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2024.05.17-14.08.56:958][280]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.17-14.08.56:958][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.17-14.08.56:958][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.17-14.08.56:958][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.17-14.08.56:958][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.17-14.08.56:958][280]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.17-14.08.56:958][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.17-14.08.56:958][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.17-14.08.56:958][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.17-14.08.56:959][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.17-14.08.56:959][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.17-14.08.56:959][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.17-14.08.56:961][280]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.17-14.08.56:985][280]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.17-14.08.56:985][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.17-14.08.56:985][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.17-14.08.56:985][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.17-14.08.56:986][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.17-14.08.56:986][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.05.17-14.08.56:988][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.17-14.08.56:988][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.17-14.08.56:988][280]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.17-14.08.56:988][280]LogAudio: Display: Audio Device (ID: 4) registered with world 'NiagaraCourse_1'.
+[2024.05.17-14.08.56:988][280]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.17-14.08.56:991][280]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.17-14.08.57:085][280]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.17-17.08.57
+[2024.05.17-14.08.57:108][280]LogWorld: Bringing up level for play took: 0.116880
+[2024.05.17-14.08.57:118][280]PIE: Server logged in
+[2024.05.17-14.08.57:119][280]PIE: Play in editor total start time 0,231 seconds.
+[2024.05.17-14.09.03:130][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.09.03:130][437]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.09.03:130][437]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.03:135][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.03:150][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.17-14.09.03:159][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.03:181][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.09.03:181][437]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.17-14.09.03:181][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.17-14.09.03:183][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.17-14.09.03:207][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.17-14.09.03:285][438]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.05.17-14.09.09:778][619]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.09:778][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.11:135][661]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.11:136][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.11:154][661]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.11:154][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.11:218][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.05.17-14.09.12:506][707]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.12:506][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.13:975][739]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.13:975][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.17:409][780]LogSlate: Window 'Message' being destroyed
+[2024.05.17-14.09.17:435][780]Message dialog closed, result: Cancel, title: Message, text: We have to apply level of detail changes to SKM_Manny_Simple before exiting the skeletal mesh editor.
+[2024.05.17-14.09.20:136][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler_C
+[2024.05.17-14.09.20:136][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler_C
+[2024.05.17-14.09.20:139][866]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler as actor: BP_SKSampler_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_SKSampler_C_0
+[2024.05.17-14.09.20:141][866]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler as actor: BP_SKSampler_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_SKSampler_C_0
+[2024.05.17-14.09.20:568][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler_C
+[2024.05.17-14.09.20:568][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler_C
+[2024.05.17-14.09.20:572][877]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler as actor: BP_SKSampler_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_SKSampler_C_1
+[2024.05.17-14.09.20:574][877]LogActorFactory: Actor Factory spawned Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler as actor: BP_SKSampler_C /Game/Maps/NiagaraCourse_1.NiagaraCourse_1:PersistentLevel.BP_SKSampler_C_1
+[2024.05.17-14.09.21:499][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.09.21:583][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.05.17-14.09.21:672][903]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-14.09.21:672][903]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_17ECD2C424A2F5E7E6E73199CDB50B03E.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-14.09.21:680][903]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.136
+[2024.05.17-14.09.21:686][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 1:30 min)
+[2024.05.17-14.09.21:688][903]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-14.09.21:688][903]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-14.09.23:065][951]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.17-14.09.23:081][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.17-14.09.23:081][951]PIE: New page: PIE session: NiagaraCourse_1 (17 трав. 2024 р., 20:09:23)
+[2024.05.17-14.09.23:081][951]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2024.05.17-14.09.23:083][951]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.05.17-14.09.23:093][952]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.09.23:123][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029697s)
+[2024.05.17-14.09.23:123][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.029752s)
+[2024.05.17-14.09.23:138][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.17-14.09.23:139][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.09.23:139][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.09.23:139][952]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.17-14.09.23:140][952]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2024.05.17-14.09.23:140][952]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.17-14.09.23:140][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.17-14.09.23:140][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.17-14.09.23:140][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.17-14.09.23:140][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.17-14.09.23:140][952]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.17-14.09.23:140][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.17-14.09.23:140][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.17-14.09.23:140][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.17-14.09.23:141][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.17-14.09.23:141][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.17-14.09.23:141][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.17-14.09.23:142][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.17-14.09.23:166][952]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.17-14.09.23:167][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.17-14.09.23:167][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.17-14.09.23:167][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.17-14.09.23:167][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.17-14.09.23:167][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.05.17-14.09.23:170][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.17-14.09.23:170][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.17-14.09.23:170][952]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.17-14.09.23:170][952]LogAudio: Display: Audio Device (ID: 5) registered with world 'NiagaraCourse_1'.
+[2024.05.17-14.09.23:170][952]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.17-14.09.23:173][952]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.17-14.09.23:269][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.17-17.09.23
+[2024.05.17-14.09.23:291][952]LogWorld: Bringing up level for play took: 0.117926
+[2024.05.17-14.09.23:300][952]PIE: Server logged in
+[2024.05.17-14.09.23:301][952]PIE: Play in editor total start time 0,222 seconds.
+[2024.05.17-14.09.25:320][993]LogBlueprintUserMessages: [BP_SKSampler_C_1] Hello
+[2024.05.17-14.09.26:188][ 21]LogBlueprintUserMessages: [BP_SKSampler_C_1] Hello
+[2024.05.17-14.09.26:383][ 29]LogBlueprintUserMessages: [BP_SKSampler_C_1] Hello
+[2024.05.17-14.09.26:599][ 37]LogBlueprintUserMessages: [BP_SKSampler_C_1] Hello
+[2024.05.17-14.09.27:360][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.09.27:360][ 66]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.09.27:360][ 66]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.27:365][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.27:370][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.17-14.09.27:377][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.27:398][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.09.27:401][ 66]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.17-14.09.27:402][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.17-14.09.27:403][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.17-14.09.27:424][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.05.17-14.09.27:478][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.05.17-14.09.28:261][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.09.28:346][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.17-14.09.28:426][ 77]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-14.09.28:426][ 77]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_13A0F14454225AFCD880F7CBA43489DAA.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-14.09.28:433][ 77]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.125
+[2024.05.17-14.09.28:439][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 1:30 min)
+[2024.05.17-14.09.28:441][ 77]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-14.09.28:441][ 77]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-14.09.32:803][189]LogSlate: Window 'Message' being destroyed
+[2024.05.17-14.09.32:827][189]Message dialog closed, result: Ok, title: Message, text: We have to apply level of detail changes to SKM_Manny_Simple before exiting the skeletal mesh editor.
+[2024.05.17-14.09.32:828][189]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny_Simple...
+[2024.05.17-14.09.32:845][189]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2024.05.17-14.09.34:785][189]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.05.17-14.09.34:785][189]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 1 
+[2024.05.17-14.09.39:494][189]LogSkeletalMesh: Built Skeletal Mesh [6.67s] /Game/Niagara/31-SampleSkeletal/SKM_Manny_Simple.SKM_Manny_Simple
+[2024.05.17-14.09.39:621][189]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.39:621][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.51:448][226]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.51:448][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.53:996][399]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.53:996][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.54:800][445]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.54:800][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.55:704][478]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.55:713][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.55:745][478]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.09.55:745][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.09.55:826][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.17-14.09.57:569][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.09.57:570][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.09.57:570][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.10.47:329][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.10.47:436][948]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.10.47:437][948]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSamplerD56CFCC04E08F0DAFBD0389065B0E775.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.10.47:442][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1:30 min)
+[2024.05.17-14.10.47:444][948]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.10.47:444][948]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.11.11:979][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.11.12:095][ 81]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.11.12:096][ 81]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler374B4C4D422DCC6EC1B960A7925122F4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.11.12:101][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 1:30 min)
+[2024.05.17-14.11.12:102][ 81]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.11.12:102][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.11.24:321][177]LogEditorTransaction: Undo Move Node
+[2024.05.17-14.11.52:529][629]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.05.17-14.11.52:529][629]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.05.17-14.12.01:399][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.12.01:514][418]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.12.01:515][418]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSamplerB83D73F84470B058FA1D86A3FFE8F6D0.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.12.01:520][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1:30 min)
+[2024.05.17-14.12.01:522][418]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.12.01:522][418]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.12.18:758][955]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.05.17-14.12.40:169][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.12.40:289][725]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.12.40:290][725]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSamplerD28C164A46F45357A65602B24E7B7D58.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.12.40:296][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 1:31 min)
+[2024.05.17-14.12.40:297][725]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.12.40:297][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.13.49:503][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.13.49:960][390]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.13.49:960][390]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler47168A4144A6B87033A90AB1D604BC57.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.13.49:964][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 460 ms (total: 1:31 min)
+[2024.05.17-14.13.49:966][390]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.13.49:966][390]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.13.50:392][424]BlueprintLog: New page: Compile BP_SKSampler
+[2024.05.17-14.13.50:442][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.05.17-14.13.51:046][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.13.51:122][468]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.13.51:122][468]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler6142A069401F19794F964B88D9FA3A28.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.13.51:127][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:31 min)
+[2024.05.17-14.13.51:128][468]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.13.51:128][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.13.52:887][601]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.05.17-14.14.51:234][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.14.51:354][283]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.14.51:355][283]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler3E2B279247A70477A09AA5B3FFF7006C.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.14.51:360][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 1:31 min)
+[2024.05.17-14.14.51:361][283]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.14.51:361][283]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.14.53:147][420]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Niagara/33-SampleSKByBP/M_Mannequin_BP.M_Mannequin_BP
+[2024.05.17-14.14.53:156][420]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.14.53:156][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.14.53:353][420]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-14.14.53:353][420]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.14.53:353][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.14.53:353][420]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.14.53:353][420]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.14.53:353][420]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.14.53:353][420]MaterialEditorStats: Shader Count: 0
+[2024.05.17-14.14.53:360][420]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.05.17-14.14.53:569][421]LogShaderCompilers: Display: ================================================
+[2024.05.17-14.14.53:569][421]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-14.14.53:569][421]LogShaderCompilers: Display: Total job queries 3 732, among them cache hits 1 937 (51.90%)
+[2024.05.17-14.14.53:569][421]LogShaderCompilers: Display: Tracking 1 747 distinct input hashes that result in 665 distinct outputs (38.07%)
+[2024.05.17-14.14.53:569][421]LogShaderCompilers: Display: RAM used: 44,19 MiB of 1,60 GiB budget. Usage: 2.70%
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Shaders Compiled: 1 641
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Jobs assigned 1 641, completed 1 641 (100%)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Average time worker was idle: 40.15 s
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Time job spent in pending queue: average 1.13 s, longest 4.39 s
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Job execution time: average 0.66 s, max 4.33 s
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 5.00
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Shader code size: average 39,955 KiB, min 1,664 KiB, max 109,02 KiB
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 171.58 s
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Jobs were issued in 1 542 batches (only local compilation was used), average 1.06 jobs/batch
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Average processing rate: 9.56 jobs/sec
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Total thread time: 637,653 s
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Total thread preprocess time: 47,411 s
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Percentage time preprocessing: 7.44%
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Effective parallelization: 3.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   51 times, average 0.73 sec, max 1.69 sec, min 0.27 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   51 times, average 0.49 sec, max 0.75 sec, min 0.33 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   51 times, average 0.48 sec, max 0.72 sec, min 0.30 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   51 times, average 0.47 sec, max 0.75 sec, min 0.30 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   51 times, average 0.47 sec, max 0.69 sec, min 0.31 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:                                               FNiagaraShader - 6.49% of total time (compiled   91 times, average 0.45 sec, max 1.36 sec, min 0.04 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.85% of total time (compiled   51 times, average 0.73 sec, max 1.69 sec, min 0.27 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.53% of total time (compiled   79 times, average 0.45 sec, max 0.67 sec, min 0.25 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.68% of total time (compiled   79 times, average 0.38 sec, max 0.56 sec, min 0.28 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 4.28% of total time (compiled   77 times, average 0.35 sec, max 0.48 sec, min 0.19 sec)
+[2024.05.17-14.14.53:570][421]LogShaderCompilers: Display: ================================================
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: Base pass shader: 319 instructions
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-14.14.53:606][422]MaterialEditorStats: Shader Count: 14
+[2024.05.17-14.15.06:081][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.15.06:204][433]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.15.06:205][433]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSamplerCD7B2501478B460A2338F4B86D1A2AED.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.15.06:211][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 1:31 min)
+[2024.05.17-14.15.06:212][433]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.15.06:212][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.16.03:706][308]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Materials/MPC_R2T.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Materials/MPC_R2T.uasset' is outside repository at 'C:/Users/darks/OneDrive/Документи/GitHub/VFXProject'
+[2024.05.17-14.17.34:324][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.17.34:441][883]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.17.34:442][883]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler25DE6A484394337F9CD786829884A350.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.17.34:449][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1:32 min)
+[2024.05.17-14.17.34:451][883]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.17.34:451][883]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.17.35:379][964]BlueprintLog: New page: Compile BP_SKSampler
+[2024.05.17-14.17.35:426][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.05.17-14.17.48:425][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.17.48:530][ 10]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.17.48:530][ 10]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler1549F4784143969123275DBF41492507.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.17.48:536][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1:32 min)
+[2024.05.17-14.17.48:536][ 10]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.17.48:536][ 10]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.17.48:838][ 31]BlueprintLog: New page: Compile BP_SKSampler
+[2024.05.17-14.17.48:882][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.17-14.17.50:302][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.17.50:423][130]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.17.50:424][130]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler1BA01FFB479E95BF58F8D9A0AB7764C4.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.17.50:430][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1:32 min)
+[2024.05.17-14.17.50:431][130]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.17.50:431][130]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.17.52:310][242]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.17-14.17.52:327][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.17-14.17.52:327][242]PIE: New page: PIE session: NiagaraCourse_1 (17 трав. 2024 р., 20:17:52)
+[2024.05.17-14.17.52:327][242]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2024.05.17-14.17.52:329][242]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.05.17-14.17.52:339][243]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.17.52:369][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029696s)
+[2024.05.17-14.17.52:369][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NiagaraCourse_1.NiagaraCourse_1 to /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 (0.029736s)
+[2024.05.17-14.17.52:388][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.17-14.17.52:391][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-14.17.52:391][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-14.17.52:391][243]LogAIModule: Creating AISystem for world NiagaraCourse_1
+[2024.05.17-14.17.52:392][243]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2024.05.17-14.17.52:392][243]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.17-14.17.52:392][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.17-14.17.52:392][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.17-14.17.52:392][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.17-14.17.52:392][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.17-14.17.52:392][243]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.17-14.17.52:392][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.17-14.17.52:392][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.17-14.17.52:392][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.17-14.17.52:393][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.17-14.17.52:393][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.17-14.17.52:393][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.17-14.17.52:395][243]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.17-14.17.52:419][243]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.05.17-14.17.52:420][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.17-14.17.52:420][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.17-14.17.52:420][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.17-14.17.52:420][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.17-14.17.52:420][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2024.05.17-14.17.52:422][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.17-14.17.52:422][243]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.17-14.17.52:422][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.17-14.17.52:422][243]LogAudio: Display: Audio Device (ID: 6) registered with world 'NiagaraCourse_1'.
+[2024.05.17-14.17.52:422][243]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.17-14.17.52:425][243]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.17-14.17.52:522][243]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NiagaraCourse_1.NiagaraCourse_1 up for play (max tick rate 0) at 2024.05.17-17.17.52
+[2024.05.17-14.17.52:544][243]LogWorld: Bringing up level for play took: 0.118743
+[2024.05.17-14.17.52:554][243]PIE: Server logged in
+[2024.05.17-14.17.52:555][243]PIE: Play in editor total start time 0,231 seconds.
+[2024.05.17-14.18.00:849][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.18.00:849][656]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NiagaraCourse_1
+[2024.05.17-14.18.00:849][656]LogWorld: UWorld::CleanupWorld for NiagaraCourse_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-14.18.00:854][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.18.00:872][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.17-14.18.00:878][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-14.18.00:896][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.17-14.18.00:900][656]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.17-14.18.00:900][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.17-14.18.00:901][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.17-14.18.00:905][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.17-14.18.00:922][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.17-14.18.00:973][657]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.05.17-14.18.01:921][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.18.02:006][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.17-14.18.02:085][696]LogSavePackage: Moving output files for package: /Game/Maps/NiagaraCourse_1
+[2024.05.17-14.18.02:086][696]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NiagaraCourse_1C5FC1E494C17437899D8648C084373BF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Maps/NiagaraCourse_1.umap'
+[2024.05.17-14.18.02:093][696]LogFileHelpers: Saving map 'NiagaraCourse_1' took 0.127
+[2024.05.17-14.18.02:103][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 1:32 min)
+[2024.05.17-14.18.02:105][696]AssetCheck: New page: Asset Save: NiagaraCourse_1
+[2024.05.17-14.18.02:105][696]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NiagaraCourse_1.NiagaraCourse_1
+[2024.05.17-14.18.09:671][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.18.09:785][235]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.18.09:786][235]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSampler9983729043761A127E63D5A99413CADD.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.18.09:792][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1:32 min)
+[2024.05.17-14.18.09:794][235]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.18.09:794][235]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.18.10:583][297]BlueprintLog: New page: Compile BP_SKSampler
+[2024.05.17-14.18.10:626][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.17-14.18.11:308][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.18.11:418][331]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/BP_SKSampler
+[2024.05.17-14.18.11:419][331]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/BP_SKSamplerFF07D03E4AEFE578AFD29CA6533BE2B7.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/BP_SKSampler.uasset'
+[2024.05.17-14.18.11:425][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1:32 min)
+[2024.05.17-14.18.11:426][331]AssetCheck: New page: Asset Save: BP_SKSampler
+[2024.05.17-14.18.11:426][331]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Niagara/33-SampleSKByBP/BP_SKSampler.BP_SKSampler
+[2024.05.17-14.18.13:152][465]LogMaterialEditor: Saving and Compiling material M_Mannequin_BP
+[2024.05.17-14.18.13:245][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.18.13:302][465]LogSavePackage: Moving output files for package: /Game/Niagara/33-SampleSKByBP/M_Mannequin_BP
+[2024.05.17-14.18.13:303][465]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_BP034675EF4EDE9EA22ADB23B659680895.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/33-SampleSKByBP/M_Mannequin_BP.uasset'
+[2024.05.17-14.18.13:309][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1:32 min)
+[2024.05.17-14.18.13:311][465]AssetCheck: New page: Asset Save: M_Mannequin_BP
+[2024.05.17-14.18.13:312][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/33-SampleSKByBP/M_Mannequin_BP.M_Mannequin_BP
