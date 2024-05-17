@@ -3396,3 +3396,1044 @@ Please edit the Parameters Panel version to change in all locations.
 [2024.05.17-12.51.55:992][ 85]LogNiagaraEditor: GPU shader compile skipped. Id 1
 [2024.05.17-12.51.55:992][ 85]LogNiagaraEditor: GPU shader compile skipped. Id 1
 [2024.05.17-12.51.56:280][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.17-12.55.06:767][618]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-12.55.07:711][621]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 2.347052 sec (time since issued), 0.858382 sec (combined shader worker time).
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: ================================================
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Total job queries 1 487, among them cache hits 777 (52.25%)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Tracking 688 distinct input hashes that result in 316 distinct outputs (45.93%)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: RAM used: 16,72 MiB of 1,60 GiB budget. Usage: 1.02%
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Shaders Compiled: 648
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Jobs assigned 648, completed 648 (100%)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Average time worker was idle: 39.92 s
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Time job spent in pending queue: average 0.78 s, longest 4.14 s
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 2.00 s
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Job life time (pending + execution): average 1.25 s, max 4.66
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Shader code size: average 38,888 KiB, min 1,664 KiB, max 77,828 KiB
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 70.10 s
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Jobs were issued in 641 batches (only local compilation was used), average 1.01 jobs/batch
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Average processing rate: 9.24 jobs/sec
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Total thread time: 237,433 s
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Total thread preprocess time: 18,829 s
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Percentage time preprocessing: 7.93%
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Effective parallelization: 3.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 0.58 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   22 times, average 0.46 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    8 times, average 0.45 sec, max 0.50 sec, min 0.34 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   22 times, average 0.44 sec, max 0.67 sec, min 0.30 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   22 times, average 0.44 sec, max 0.55 sec, min 0.31 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.69% of total time (compiled   45 times, average 0.41 sec, max 0.64 sec, min 0.25 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.04% of total time (compiled   45 times, average 0.37 sec, max 0.56 sec, min 0.28 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:                                               FNiagaraShader - 5.71% of total time (compiled   60 times, average 0.23 sec, max 1.19 sec, min 0.05 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.35% of total time (compiled   22 times, average 0.58 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.24% of total time (compiled   22 times, average 0.46 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-12.55.09:118][710]LogShaderCompilers: Display: ================================================
+[2024.05.17-12.55.12:117][719]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-12.55.30:795][503]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-12.55.30:897][505]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.262416 sec (time since issued), 0.198161 sec (combined shader worker time).
+[2024.05.17-12.55.34:817][593]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-12.56.08:062][ 13]LogDerivedDataCache: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.181 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 21024 files in 22020 folders with total size 706 MiB.
+[2024.05.17-12.56.21:273][405]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-12.56.21:390][407]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.318604 sec (time since issued), 0.178208 sec (combined shader worker time).
+[2024.05.17-12.56.25:723][511]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-12.56.39:623][934]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-12.56.39:746][936]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.342355 sec (time since issued), 0.211968 sec (combined shader worker time).
+[2024.05.17-12.56.46:099][ 16]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-12.56.50:598][200]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-12.56.50:709][202]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.242065 sec (time since issued), 0.198020 sec (combined shader worker time).
+[2024.05.17-12.56.52:825][305]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-12.57.05:875][858]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-12.57.05:971][860]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.241725 sec (time since issued), 0.189892 sec (combined shader worker time).
+[2024.05.17-12.57.10:093][973]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-12.57.31:195][ 61]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-12.57.31:294][ 63]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.226495 sec (time since issued), 0.188155 sec (combined shader worker time).
+[2024.05.17-12.57.35:646][184]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-12.58.08:502][795]LogNiagaraEditor: Move module /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_9
+[2024.05.17-12.58.08:505][795]LogNiagaraEditor: Finished moving!
+[2024.05.17-12.58.08:987][796]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleSpawnScriptInterpolated/NiagaraEmitterInstance.ush
+[2024.05.17-12.58.08:987][796]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleSpawnScriptInterpolated/NiagaraEmitterInstance.asm
+[2024.05.17-12.58.08:987][796]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleSpawnScriptInterpolated/NiagaraEmitterInstance.params
+[2024.05.17-12.58.08:998][796]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.08:999][796]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.09:024][797]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-12.58.09:045][797]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleUpdateScript/NiagaraEmitterInstance.ush
+[2024.05.17-12.58.09:045][797]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleUpdateScript/NiagaraEmitterInstance.asm
+[2024.05.17-12.58.09:045][797]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleUpdateScript/NiagaraEmitterInstance.params
+[2024.05.17-12.58.09:055][798]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.09:055][798]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.09:095][799]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleGPUComputeScript/NiagaraEmitterInstance.ush
+[2024.05.17-12.58.09:095][799]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleGPUComputeScript/NiagaraEmitterInstance.asm
+[2024.05.17-12.58.09:096][799]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleGPUComputeScript/NiagaraEmitterInstance.params
+[2024.05.17-12.58.09:098][799]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.09:098][799]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.09:155][800]LogNiagara: Warning: [AssetLog] C:\Users\darks\OneDrive\Документи\GitHub\VFXProject\NiagaraVFX\Content\Niagara\31-SampleSkeletal\NS_SampleSkeletal.uasset: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.09:157][800]LogNiagara: Warning: [AssetLog] C:\Users\darks\OneDrive\Документи\GitHub\VFXProject\NiagaraVFX\Content\Niagara\31-SampleSkeletal\NS_SampleSkeletal.uasset: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.09:163][800]LogNiagara: Warning: [AssetLog] C:\Users\darks\OneDrive\Документи\GitHub\VFXProject\NiagaraVFX\Content\Niagara\31-SampleSkeletal\NS_SampleSkeletal.uasset: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.09:165][800]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.299077 sec (time since issued), 0.228429 sec (combined shader worker time).
+[2024.05.17-12.58.09:180][801]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-12.58.09:180][801]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-12.58.11:037][926]93029_NS_SampleSkeletal_MessageLog: System failed to compile with 6 errors.
+[2024.05.17-12.58.11:037][926]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Spawn Script Interpolated, 
+[2024.05.17-12.58.11:037][926]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Spawn Script Interpolated, 
+[2024.05.17-12.58.11:037][926]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Update Script, 
+[2024.05.17-12.58.11:037][926]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Update Script, 
+[2024.05.17-12.58.11:037][926]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle GPU Compute Script, 
+[2024.05.17-12.58.11:037][926]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle GPU Compute Script, 
+[2024.05.17-12.58.22:001][951]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleSpawnScriptInterpolated/NiagaraEmitterInstance.ush
+[2024.05.17-12.58.22:001][951]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleSpawnScriptInterpolated/NiagaraEmitterInstance.asm
+[2024.05.17-12.58.22:002][951]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleSpawnScriptInterpolated/NiagaraEmitterInstance.params
+[2024.05.17-12.58.22:003][951]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:003][951]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:039][951]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleUpdateScript/NiagaraEmitterInstance.ush
+[2024.05.17-12.58.22:039][951]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleUpdateScript/NiagaraEmitterInstance.asm
+[2024.05.17-12.58.22:039][951]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleUpdateScript/NiagaraEmitterInstance.params
+[2024.05.17-12.58.22:039][951]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:039][951]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:058][952]93029_NS_SampleSkeletal_MessageLog: System compile status unknown with 6 errors.
+[2024.05.17-12.58.22:059][952]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Spawn Script Interpolated, 
+[2024.05.17-12.58.22:059][952]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Spawn Script Interpolated, 
+[2024.05.17-12.58.22:059][952]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Update Script, 
+[2024.05.17-12.58.22:059][952]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Update Script, 
+[2024.05.17-12.58.22:059][952]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle GPU Compute Script, 
+[2024.05.17-12.58.22:059][952]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle GPU Compute Script, 
+[2024.05.17-12.58.22:099][953]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleGPUComputeScript/NiagaraEmitterInstance.ush
+[2024.05.17-12.58.22:099][953]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleGPUComputeScript/NiagaraEmitterInstance.asm
+[2024.05.17-12.58.22:099][953]LogNiagaraEditor: Wrote file to C:/Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/ShaderDebugInfo/VM/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal/SimpleSpriteBurst/ParticleGPUComputeScript/NiagaraEmitterInstance.params
+[2024.05.17-12.58.22:102][953]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:102][953]LogNiagaraCompiler: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:113][954]LogNiagara: Warning: [AssetLog] C:\Users\darks\OneDrive\Документи\GitHub\VFXProject\NiagaraVFX\Content\Niagara\31-SampleSkeletal\NS_SampleSkeletal.uasset: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:115][954]LogNiagara: Warning: [AssetLog] C:\Users\darks\OneDrive\Документи\GitHub\VFXProject\NiagaraVFX\Content\Niagara\31-SampleSkeletal\NS_SampleSkeletal.uasset: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:121][954]LogNiagara: Warning: [AssetLog] C:\Users\darks\OneDrive\Документи\GitHub\VFXProject\NiagaraVFX\Content\Niagara\31-SampleSkeletal\NS_SampleSkeletal.uasset: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get - 
+[2024.05.17-12.58.22:122][954]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.269279 sec (time since issued), 0.167326 sec (combined shader worker time).
+[2024.05.17-12.58.22:155][955]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-12.58.22:155][955]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-12.58.24:061][ 80]93029_NS_SampleSkeletal_MessageLog: System failed to compile with 6 errors.
+[2024.05.17-12.58.24:061][ 80]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Spawn Script Interpolated, 
+[2024.05.17-12.58.24:061][ 80]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Spawn Script Interpolated, 
+[2024.05.17-12.58.24:061][ 80]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Update Script, 
+[2024.05.17-12.58.24:061][ 80]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Update Script, 
+[2024.05.17-12.58.24:061][ 80]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle GPU Compute Script, 
+[2024.05.17-12.58.24:061][ 80]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle GPU Compute Script, 
+[2024.05.17-12.58.26:222][235]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:607 H:0
+[2024.05.17-12.58.37:784][671]LogNiagaraEditor: Move module /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_10
+[2024.05.17-12.58.37:788][671]LogNiagaraEditor: Finished moving!
+[2024.05.17-12.58.38:062][673]93029_NS_SampleSkeletal_MessageLog: System compile status unknown with 6 errors.
+[2024.05.17-12.58.38:062][673]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Spawn Script Interpolated, 
+[2024.05.17-12.58.38:062][673]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Spawn Script Interpolated, 
+[2024.05.17-12.58.38:062][673]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Update Script, 
+[2024.05.17-12.58.38:062][673]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle Update Script, 
+[2024.05.17-12.58.38:062][673]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Position was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle GPU Compute Script, 
+[2024.05.17-12.58.38:062][673]93029_NS_SampleSkeletal_MessageLog: Error: Variable Output.Update_MeshReproductionSprite.Mesh Triangle Velocity was read before being set. It's default mode is "Fail If Previously Not Set", so this isn't allowed. - Node: Map Get -  SimpleSpriteBurst, Particle GPU Compute Script, 
+[2024.05.17-12.58.38:163][675]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.273339 sec (time since issued), 0.187451 sec (combined shader worker time).
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: ================================================
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Total job queries 1 501, among them cache hits 777 (51.77%)
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Tracking 695 distinct input hashes that result in 319 distinct outputs (45.90%)
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: RAM used: 17,03 MiB of 1,60 GiB budget. Usage: 1.04%
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Shaders Compiled: 655
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Jobs assigned 655, completed 655 (100%)
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Average time worker was idle: 39.80 s
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Time job spent in pending queue: average 0.77 s, longest 4.14 s
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 2.00 s
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Job life time (pending + execution): average 1.25 s, max 4.66
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Shader code size: average 39,283 KiB, min 1,664 KiB, max 80,344 KiB
+[2024.05.17-12.58.39:391][754]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 78.69 s
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: Jobs were issued in 648 batches (only local compilation was used), average 1.01 jobs/batch
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: Average processing rate: 8.32 jobs/sec
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: Total thread time: 244,487 s
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: Total thread preprocess time: 18,942 s
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: Percentage time preprocessing: 7.75%
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: Effective parallelization: 3.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 0.58 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   22 times, average 0.46 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    8 times, average 0.45 sec, max 0.50 sec, min 0.34 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   22 times, average 0.44 sec, max 0.67 sec, min 0.30 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   22 times, average 0.44 sec, max 0.55 sec, min 0.31 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:                                               FNiagaraShader - 8.43% of total time (compiled   67 times, average 0.31 sec, max 1.19 sec, min 0.05 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.47% of total time (compiled   45 times, average 0.41 sec, max 0.64 sec, min 0.25 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.84% of total time (compiled   45 times, average 0.37 sec, max 0.56 sec, min 0.28 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.20% of total time (compiled   22 times, average 0.58 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.12% of total time (compiled   22 times, average 0.46 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-12.58.39:392][754]LogShaderCompilers: Display: ================================================
+[2024.05.17-12.58.42:778][763]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-12.59.40:552][669]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-12.59.40:552][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-12.59.54:891][557]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-12.59.54:891][557]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-12.59.54:891][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-12.59.54:891][557]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-12.59.54:891][557]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-12.59.54:891][557]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-12.59.54:891][557]MaterialEditorStats: Shader Count: 0
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-12.59.55:087][559]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.00.09:015][356]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.09:016][356]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.09:016][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.09:016][356]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.09:016][356]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.09:016][356]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.09:016][356]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.09:231][358]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.00.11:560][542]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.11:560][542]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.11:560][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.11:560][542]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.11:560][542]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.11:560][542]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.11:560][542]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.11:634][544]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.00.12:937][653]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.12:937][653]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.12:937][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.12:937][653]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.12:937][653]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.12:937][653]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.12:937][653]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.13:002][655]MaterialEditorStats: Shader Count: 10
+[2024.05.17-13.00.14:198][747]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.14:198][747]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.14:198][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.14:198][747]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.14:198][747]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.14:198][747]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.14:198][747]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.15:052][781]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.15:052][781]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.15:052][781]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.15:052][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.15:052][781]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.15:052][781]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.15:052][781]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.15:052][781]MaterialEditorStats: Shader Count: 3
+[2024.05.17-13.00.15:144][785]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.15:144][785]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.17-13.00.15:144][785]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.15:144][785]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.15:144][785]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.15:144][785]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.15:144][785]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.15:144][785]MaterialEditorStats: Shader Count: 5
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.15:366][796]MaterialEditorStats: Shader Count: 13
+[2024.05.17-13.00.16:623][874]LogMaterialEditor: Saving and Compiling material M_Mannequin_Niagara
+[2024.05.17-13.00.16:883][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.17-13.00.17:761][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.17-13.00.17:855][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.00.19:964][874]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-13.00.22:720][874]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.759231s (2.759231s overbudget)
+[2024.05.17-13.00.22:807][874]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara
+[2024.05.17-13.00.22:808][874]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_NiagaraB105C77F4B191B2FB489C2A7E731E2AF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.uasset'
+[2024.05.17-13.00.22:813][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.95 sec (total: 42.5 sec)
+[2024.05.17-13.00.22:815][874]AssetCheck: New page: Asset Save: M_Mannequin_Niagara
+[2024.05.17-13.00.22:815][874]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.M_Mannequin_Niagara
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: MaxSampler: 381 instructions
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.22:831][874]MaterialEditorStats: Shader Count: 103
+[2024.05.17-13.00.29:944][287]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.29:944][287]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.29:944][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.29:944][287]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.29:944][287]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.29:944][287]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.29:944][287]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.30:512][303]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.30:512][303]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.30:512][303]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.30:512][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.30:512][303]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.30:512][303]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.30:512][303]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.30:512][303]MaterialEditorStats: Shader Count: 3
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: Base pass shader: 265 instructions
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.31:732][400]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.00.32:931][479]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.32:931][479]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.32:931][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.32:931][479]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.32:931][479]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.32:931][479]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.32:931][479]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: Base pass shader: 265 instructions
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.33:139][481]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.00.41:289][774]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.41:290][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.41:290][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.41:290][774]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.41:290][774]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.41:290][774]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.41:290][774]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: Base pass shader: 265 instructions
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.41:357][776]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.00.42:831][902]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.42:831][902]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.42:831][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.42:831][902]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.42:831][902]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.42:831][902]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.42:831][902]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: Base pass shader: 265 instructions
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.42:892][904]MaterialEditorStats: Shader Count: 10
+[2024.05.17-13.00.47:383][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.47:383][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.47:383][ 51]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.47:383][ 51]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.47:383][ 51]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.47:383][ 51]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.47:383][ 51]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.48:036][ 73]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.48:036][ 73]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.48:036][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.48:036][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.48:036][ 73]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.48:036][ 73]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.48:036][ 73]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.48:036][ 73]MaterialEditorStats: Shader Count: 4
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: Base pass shader: 320 instructions
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.48:142][ 78]MaterialEditorStats: Shader Count: 10
+[2024.05.17-13.00.52:945][390]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.52:945][390]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.52:945][390]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.52:945][390]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.52:945][390]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.52:945][390]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.52:945][390]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.00.53:559][417]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.53:559][417]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.00.53:559][417]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.53:559][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.53:559][417]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.53:559][417]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.53:559][417]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.53:559][417]MaterialEditorStats: Shader Count: 4
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.00.53:674][422]MaterialEditorStats: Shader Count: 8
+[2024.05.17-13.00.54:553][477]LogMaterialEditor: Saving and Compiling material M_Mannequin_Niagara
+[2024.05.17-13.00.54:724][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.17-13.00.55:556][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.17-13.00.55:655][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.00.57:763][477]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-13.01.00:467][477]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.705445s (2.705445s overbudget)
+[2024.05.17-13.01.00:565][477]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara
+[2024.05.17-13.01.00:566][477]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_Niagara178E15B04394154AE51ACE87A5BA2AF8.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.uasset'
+[2024.05.17-13.01.00:571][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.91 sec (total: 47.4 sec)
+[2024.05.17-13.01.00:575][477]AssetCheck: New page: Asset Save: M_Mannequin_Niagara
+[2024.05.17-13.01.00:575][477]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.M_Mannequin_Niagara
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: MaxSampler: 381 instructions
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.00:590][477]MaterialEditorStats: Shader Count: 103
+[2024.05.17-13.01.07:510][ 56]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.01.07:510][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.07:510][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.07:510][ 56]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.07:510][ 56]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.07:510][ 56]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.07:510][ 56]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.07:746][ 58]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.01.45:213][653]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.01.45:213][653]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.45:213][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.45:213][653]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.45:213][653]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.45:213][653]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.45:213][653]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: ================================================
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Total job queries 1 933, among them cache hits 999 (51.68%)
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Tracking 905 distinct input hashes that result in 358 distinct outputs (39.56%)
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: RAM used: 22,04 MiB of 1,60 GiB budget. Usage: 1.35%
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Shaders Compiled: 865
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Jobs assigned 865, completed 865 (100%)
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Average time worker was idle: 35.38 s
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Time job spent in pending queue: average 0.96 s, longest 4.24 s
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 2.00 s
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Job life time (pending + execution): average 1.44 s, max 4.76
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Shader code size: average 38,624 KiB, min 1,664 KiB, max 80,344 KiB
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 93.43 s
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Jobs were issued in 858 batches (only local compilation was used), average 1.01 jobs/batch
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Average processing rate: 9.26 jobs/sec
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Total thread time: 324,628 s
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Total thread preprocess time: 25,391 s
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Percentage time preprocessing: 7.82%
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Effective parallelization: 3.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   28 times, average 0.61 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   28 times, average 0.46 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   28 times, average 0.45 sec, max 0.67 sec, min 0.30 sec)
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   16 times, average 0.45 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   28 times, average 0.44 sec, max 0.55 sec, min 0.31 sec)
+[2024.05.17-13.01.45:215][653]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-13.01.45:216][653]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.83% of total time (compiled   53 times, average 0.42 sec, max 0.65 sec, min 0.25 sec)
+[2024.05.17-13.01.45:216][653]LogShaderCompilers: Display:                                               FNiagaraShader - 6.35% of total time (compiled   67 times, average 0.31 sec, max 1.19 sec, min 0.05 sec)
+[2024.05.17-13.01.45:216][653]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.16% of total time (compiled   53 times, average 0.38 sec, max 0.56 sec, min 0.28 sec)
+[2024.05.17-13.01.45:216][653]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.28% of total time (compiled   28 times, average 0.61 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-13.01.45:216][653]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.97% of total time (compiled   28 times, average 0.46 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-13.01.45:216][653]LogShaderCompilers: Display: ================================================
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.45:386][654]MaterialEditorStats: Shader Count: 6
+[2024.05.17-13.01.49:185][953]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.01.49:186][953]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.49:186][953]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.49:186][953]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.49:186][953]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.49:186][953]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.49:186][953]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.01.50:044][996]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.01.50:044][996]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.17-13.01.50:044][996]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.50:044][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.50:044][996]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.50:044][996]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.50:044][996]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.50:044][996]MaterialEditorStats: Shader Count: 5
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: Base pass shader: 268 instructions
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.50:083][998]MaterialEditorStats: Shader Count: 12
+[2024.05.17-13.01.51:117][ 64]LogMaterialEditor: Saving and Compiling material M_Mannequin_Niagara
+[2024.05.17-13.01.51:284][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.17-13.01.52:012][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.17-13.01.52:115][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.01.54:225][ 64]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-13.01.57:100][ 64]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.878898s (2.878898s overbudget)
+[2024.05.17-13.01.57:205][ 64]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara
+[2024.05.17-13.01.57:205][ 64]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_NiagaraF3B41BBA45983D3DB620F68F237C163B.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.uasset'
+[2024.05.17-13.01.57:209][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.09 sec (total: 52.5 sec)
+[2024.05.17-13.01.57:213][ 64]AssetCheck: New page: Asset Save: M_Mannequin_Niagara
+[2024.05.17-13.01.57:213][ 64]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.M_Mannequin_Niagara
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: Base pass shader: 268 instructions
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: MaxSampler: 333 instructions
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.01.57:219][ 64]MaterialEditorStats: Shader Count: 103
+[2024.05.17-13.02.03:896][252]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.02.03:896][252]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.02.03:896][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.02.03:896][252]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.02.03:896][252]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.02.03:896][252]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.02.03:896][252]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.02.04:472][278]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.02.04:472][278]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.02.04:472][278]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.02.04:472][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.02.04:472][278]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.02.04:472][278]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.02.04:472][278]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.02.04:472][278]MaterialEditorStats: Shader Count: 3
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.02.04:655][286]MaterialEditorStats: Shader Count: 13
+[2024.05.17-13.02.05:231][320]LogMaterialEditor: Saving and Compiling material M_Mannequin_Niagara
+[2024.05.17-13.02.05:397][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.17-13.02.06:235][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.17-13.02.06:336][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.02.08:432][320]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-13.02.11:197][320]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.764579s (2.764579s overbudget)
+[2024.05.17-13.02.11:304][320]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara
+[2024.05.17-13.02.11:305][320]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_NiagaraC46A62584CF131E28F6194885B0C8A49.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.uasset'
+[2024.05.17-13.02.11:309][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.97 sec (total: 57.5 sec)
+[2024.05.17-13.02.11:310][320]AssetCheck: New page: Asset Save: M_Mannequin_Niagara
+[2024.05.17-13.02.11:310][320]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.M_Mannequin_Niagara
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: MaxSampler: 381 instructions
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.02.11:315][320]MaterialEditorStats: Shader Count: 103
+[2024.05.17-13.02.13:416][346]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.258641 sec (time since issued), 0.424045 sec (combined shader worker time).
+[2024.05.17-13.02.13:509][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.02.13:602][346]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.02.13:602][346]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletalE05AEB244F22643569D0BBB59375D0C1.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.02.13:610][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 57.6 sec)
+[2024.05.17-13.02.13:641][346]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.02.13:641][346]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.02.13:641][346]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.02.13:641][346]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.02.21:380][767]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-13.02.21:917][770]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 1.021326 sec (time since issued), 0.496355 sec (combined shader worker time).
+[2024.05.17-13.02.23:812][852]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-13.02.33:124][154]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.DynamicMaterialParameters.Index 0 Param 1' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.UpdateScript
+[2024.05.17-13.02.33:126][154]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.DynamicMaterialParameters.Index 0 Param 1' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.GPUComputeScript
+[2024.05.17-13.02.33:438][156]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-13.02.33:520][158]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.292763 sec (time since issued), 0.186572 sec (combined shader worker time).
+[2024.05.17-13.02.37:662][244]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-13.02.45:481][575]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:607 H:0
+[2024.05.17-13.02.46:146][577]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-13.02.46:252][579]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.324498 sec (time since issued), 0.186921 sec (combined shader worker time).
+[2024.05.17-13.02.48:247][665]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-13.03.32:378][240]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.LerpParticleAttributes.Lerp Alpha' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.UpdateScript
+[2024.05.17-13.03.32:378][240]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.LerpParticleAttributes.Lerp Alpha' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.GPUComputeScript
+[2024.05.17-13.03.32:488][240]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:591 H:0
+[2024.05.17-13.03.32:950][242]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-13.03.33:572][245]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.878165 sec (time since issued), 0.522859 sec (combined shader worker time).
+[2024.05.17-13.03.35:890][282]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-13.03.57:607][613]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 86f9a9584d7f4127119afc26582b43ca08d0acf0 and existing hash cc2bc6790df6380f132b2edd2cc92bd8ca5aaf82 for LegacyNiagaraScriptDerivedData/2d50b212d009e0b6661a5fbb01ad69d7577eb422 from '/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SystemSpawnScript'
+[2024.05.17-13.03.57:609][613]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 19519bb0c126b0ee6f005df485793c8dbfd59487 and existing hash 937382499146f19122ea8ee0fa6b1a2961c12b56 for LegacyNiagaraScriptDerivedData/c0fa7fb6ecbf4013a8e421a972bbca6fd15adee7 from '/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SystemUpdateScript'
+[2024.05.17-13.03.57:629][613]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.551887 sec (time since issued), 1.012445 sec (combined shader worker time).
+[2024.05.17-13.03.57:722][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.03.57:822][613]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.03.57:823][613]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletal33BE1D4E4F21F95DA7E6178B278A7F70.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.03.57:829][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 57.7 sec)
+[2024.05.17-13.03.57:857][613]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.03.57:857][613]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.03.57:857][613]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.03.57:857][613]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.05.14:898][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.17-13.05.14:995][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.05.15:077][444]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.05.15:079][444]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletal91A9D1614B98C32DF1462A8FD5F796DF.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.05.15:086][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 57.8 sec)
+[2024.05.17-13.05.15:088][444]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.05.15:088][444]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.05.58:147][223]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-13.06.31:884][565]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SystemSpawnScript
+[2024.05.17-13.06.31:884][565]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SystemUpdateScript
+[2024.05.17-13.06.31:885][565]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.SpawnScript
+[2024.05.17-13.06.31:887][565]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.UpdateScript
+[2024.05.17-13.06.31:889][565]LogNiagaraEditor: Removed Var 'Constants.SimpleSpriteBurst.CurlNoiseForce.Noise Strength' from Script NiagaraScript /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.GPUComputeScript
+[2024.05.17-13.06.32:238][567]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-13.06.32:358][569]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.358650 sec (time since issued), 0.208982 sec (combined shader worker time).
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: ================================================
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Total job queries 2 207, among them cache hits 1 073 (48.62%)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Tracking 1 100 distinct input hashes that result in 404 distinct outputs (36.73%)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: RAM used: 26,79 MiB of 1,60 GiB budget. Usage: 1.63%
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Shaders Compiled: 1 060
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Jobs assigned 1 060, completed 1 060 (100%)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Average time worker was idle: 29.59 s
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Time job spent in pending queue: average 1.10 s, longest 4.26 s
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 2.00 s
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Job life time (pending + execution): average 1.57 s, max 4.87
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Shader code size: average 38,577 KiB, min 1,664 KiB, max 82,184 KiB
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 112.66 s
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Jobs were issued in 1 053 batches (only local compilation was used), average 1.01 jobs/batch
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Average processing rate: 9.41 jobs/sec
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Total thread time: 401,136 s
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Total thread preprocess time: 30,886 s
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Percentage time preprocessing: 7.70%
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Effective parallelization: 3.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   34 times, average 0.64 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   34 times, average 0.46 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   34 times, average 0.46 sec, max 0.67 sec, min 0.30 sec)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   34 times, average 0.45 sec, max 0.55 sec, min 0.31 sec)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   34 times, average 0.45 sec, max 0.55 sec, min 0.30 sec)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display:                                               FNiagaraShader - 6.47% of total time (compiled   74 times, average 0.35 sec, max 1.19 sec, min 0.04 sec)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.22% of total time (compiled   59 times, average 0.42 sec, max 0.65 sec, min 0.25 sec)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.57% of total time (compiled   59 times, average 0.38 sec, max 0.56 sec, min 0.28 sec)
+[2024.05.17-13.06.33:782][693]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.39% of total time (compiled   34 times, average 0.64 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-13.06.33:783][693]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.94% of total time (compiled   34 times, average 0.46 sec, max 0.56 sec, min 0.33 sec)
+[2024.05.17-13.06.33:783][693]LogShaderCompilers: Display: ================================================
+[2024.05.17-13.06.34:887][702]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-13.06.38:804][957]93029_NS_SampleSkeletal_MessageLog: System compile status unknown.
+[2024.05.17-13.06.38:894][959]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.271368 sec (time since issued), 0.195198 sec (combined shader worker time).
+[2024.05.17-13.06.40:813][ 42]93029_NS_SampleSkeletal_MessageLog: System successfully compiled.
+[2024.05.17-13.07.09:268][417]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 86f9a9584d7f4127119afc26582b43ca08d0acf0 and existing hash cc2bc6790df6380f132b2edd2cc92bd8ca5aaf82 for LegacyNiagaraScriptDerivedData/2d50b212d009e0b6661a5fbb01ad69d7577eb422 from '/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SystemSpawnScript'
+[2024.05.17-13.07.09:588][417]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.586581 sec (time since issued), 0.773225 sec (combined shader worker time).
+[2024.05.17-13.07.09:690][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.07.09:797][417]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.07.09:798][417]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletal066D454944FAAB44CE00DB8467113F74.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.07.09:804][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 57.9 sec)
+[2024.05.17-13.07.09:837][417]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.07.09:837][417]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.07.09:837][417]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.07.09:837][417]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.07.29:098][662]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.07.29:098][662]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.29:098][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.29:098][662]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.29:098][662]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.29:098][662]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.29:098][662]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.29:294][663]MaterialEditorStats: Shader Count: 10
+[2024.05.17-13.07.54:552][290]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.07.54:552][290]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.54:552][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.54:552][290]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.54:552][290]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.54:552][290]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.54:552][290]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.54:756][292]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.07.57:127][480]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.07.57:127][480]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.57:127][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.57:127][480]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.57:127][480]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.57:127][480]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.57:127][480]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.57:333][482]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.07.58:672][588]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.07.58:673][588]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.58:673][588]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.58:673][588]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.58:673][588]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.58:673][588]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.58:673][588]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.58:732][590]MaterialEditorStats: Shader Count: 10
+[2024.05.17-13.07.59:655][673]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.07.59:655][673]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.59:655][673]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.59:655][673]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.59:655][673]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.59:655][673]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.59:655][673]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: Base pass shader: 316 instructions
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.07.59:719][675]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.08.01:119][797]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.08.01:119][797]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.08.01:119][797]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.01:119][797]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.01:119][797]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.01:119][797]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.01:119][797]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: Base pass shader: 308 instructions
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.02:054][843]MaterialEditorStats: Shader Count: 6
+[2024.05.17-13.08.02:574][875]LogMaterialEditor: Saving and Compiling material M_Mannequin_Niagara
+[2024.05.17-13.08.02:822][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.17-13.08.03:724][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.17-13.08.03:826][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.08.05:954][875]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-13.08.08:709][875]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.758518s (2.758518s overbudget)
+[2024.05.17-13.08.08:796][875]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara
+[2024.05.17-13.08.08:796][875]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_NiagaraA3AAD9D843963F8420D76D9FC3A63B38.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.uasset'
+[2024.05.17-13.08.08:800][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.97 sec (total: 1:02 min)
+[2024.05.17-13.08.08:803][875]AssetCheck: New page: Asset Save: M_Mannequin_Niagara
+[2024.05.17-13.08.08:803][875]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.M_Mannequin_Niagara
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: Base pass shader: 308 instructions
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: MaxSampler: 373 instructions
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.08:809][875]MaterialEditorStats: Shader Count: 103
+[2024.05.17-13.08.23:350][419]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.08.23:350][419]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.08.23:350][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.23:350][419]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.23:350][419]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.23:350][419]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.23:350][419]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: Base pass shader: 308 instructions
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.23:547][420]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.08.27:042][678]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.08.27:042][678]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.08.27:042][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.27:042][678]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.27:042][678]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.27:042][678]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.27:042][678]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.08.27:482][696]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-13.08.27:482][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.08.27:482][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.27:482][696]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.27:482][696]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.27:482][696]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.27:482][696]MaterialEditorStats: Shader Count: 1
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: Base pass shader: 319 instructions
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.28:085][716]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.08.28:896][761]LogMaterialEditor: Saving and Compiling material M_Mannequin_Niagara
+[2024.05.17-13.08.29:072][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.17-13.08.30:045][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.17-13.08.30:132][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.08.32:238][761]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-13.08.35:248][761]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 5.010919s (3.010919s overbudget)
+[2024.05.17-13.08.35:397][761]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara
+[2024.05.17-13.08.35:397][761]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_Niagara3D266033440DC5E006780A99BDB94200.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.uasset'
+[2024.05.17-13.08.35:402][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.26 sec (total: 1:08 min)
+[2024.05.17-13.08.35:404][761]AssetCheck: New page: Asset Save: M_Mannequin_Niagara
+[2024.05.17-13.08.35:404][761]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.M_Mannequin_Niagara
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: Base pass shader: 319 instructions
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: MaxSampler: 384 instructions
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: Texture samplers: 10/16
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.08.35:409][761]MaterialEditorStats: Shader Count: 103
+[2024.05.17-13.09.05:935][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.09.06:033][887]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.09.06:033][887]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletalDBC637F94388AAB730ECC180D3FF0706.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.09.06:040][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1:08 min)
+[2024.05.17-13.09.06:070][887]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.09.06:070][887]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.09.06:070][887]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.09.06:070][887]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.09.15:906][633]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.09.15:906][633]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.15:906][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.15:906][633]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.15:906][633]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.15:906][633]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.15:906][633]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: Base pass shader: 319 instructions
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.16:123][635]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.09.20:800][146]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.09.20:800][146]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.20:800][146]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.20:800][146]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.20:800][146]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.20:800][146]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.20:800][146]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: Base pass shader: 319 instructions
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.21:016][148]MaterialEditorStats: Shader Count: 14
+[2024.05.17-13.09.23:517][363]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-13.09.23:517][363]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.23:517][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.23:517][363]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.23:517][363]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.23:517][363]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.23:517][363]MaterialEditorStats: Shader Count: 0
+[2024.05.17-13.09.24:105][389]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-13.09.24:105][389]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.24:105][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.24:105][389]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.24:105][389]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.24:105][389]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.24:105][389]MaterialEditorStats: Shader Count: 1
+[2024.05.17-13.09.24:333][399]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.09.24:334][399]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-13.09.24:334][399]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.24:334][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.24:334][399]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.24:334][399]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.24:334][399]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.24:334][399]MaterialEditorStats: Shader Count: 4
+[2024.05.17-13.09.24:421][403]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.09.24:421][403]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.17-13.09.24:421][403]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.24:421][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.24:421][403]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.24:421][403]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.24:421][403]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.24:421][403]MaterialEditorStats: Shader Count: 5
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: Base pass shader: 327 instructions
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.24:514][408]MaterialEditorStats: Shader Count: 13
+[2024.05.17-13.09.25:276][457]LogMaterialEditor: Saving and Compiling material M_Mannequin_Niagara
+[2024.05.17-13.09.25:446][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.17-13.09.26:283][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.17-13.09.26:380][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.09.28:488][457]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-13.09.31:094][457]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.609379s (2.609379s overbudget)
+[2024.05.17-13.09.31:197][457]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara
+[2024.05.17-13.09.31:198][457]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/M_Mannequin_NiagaraBBFE60BF4328BF71170C66BBED0E8871.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.uasset'
+[2024.05.17-13.09.31:203][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.82 sec (total: 1:13 min)
+[2024.05.17-13.09.31:204][457]AssetCheck: New page: Asset Save: M_Mannequin_Niagara
+[2024.05.17-13.09.31:204][457]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Niagara/31-SampleSkeletal/M_Mannequin_Niagara.M_Mannequin_Niagara
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: Base pass shader: 327 instructions
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: MaxSampler: 392 instructions
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: Texture samplers: 10/16
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.05.17-13.09.31:216][457]MaterialEditorStats: Shader Count: 103
+[2024.05.17-13.10.18:753][ 54]LogShaderCompilers: Display: ================================================
+[2024.05.17-13.10.18:753][ 54]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-13.10.18:753][ 54]LogShaderCompilers: Display: Total job queries 2 730, among them cache hits 1 307 (47.88%)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Tracking 1 388 distinct input hashes that result in 519 distinct outputs (37.39%)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: RAM used: 34,37 MiB of 1,60 GiB budget. Usage: 2.10%
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Shaders Compiled: 1 348
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Jobs assigned 1 348, completed 1 348 (100%)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Average time worker was idle: 25.46 s
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Time job spent in pending queue: average 1.22 s, longest 4.39 s
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 2.00 s
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Job life time (pending + execution): average 1.69 s, max 5.00
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Shader code size: average 39,201 KiB, min 1,664 KiB, max 82,309 KiB
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 133.93 s
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Jobs were issued in 1 341 batches (only local compilation was used), average 1.01 jobs/batch
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Average processing rate: 10.07 jobs/sec
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Total thread time: 510,613 s
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Total thread preprocess time: 39,046 s
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Percentage time preprocessing: 7.65%
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Effective parallelization: 3.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   43 times, average 0.66 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   43 times, average 0.47 sec, max 0.57 sec, min 0.33 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   43 times, average 0.47 sec, max 0.67 sec, min 0.30 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   43 times, average 0.46 sec, max 0.55 sec, min 0.31 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   43 times, average 0.45 sec, max 0.55 sec, min 0.30 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.78% of total time (compiled   69 times, average 0.43 sec, max 0.65 sec, min 0.25 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.60% of total time (compiled   43 times, average 0.66 sec, max 1.17 sec, min 0.27 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:                                               FNiagaraShader - 5.30% of total time (compiled   76 times, average 0.36 sec, max 1.19 sec, min 0.04 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.10% of total time (compiled   69 times, average 0.38 sec, max 0.56 sec, min 0.28 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 4.21% of total time (compiled   59 times, average 0.36 sec, max 0.45 sec, min 0.27 sec)
+[2024.05.17-13.10.18:754][ 54]LogShaderCompilers: Display: ================================================
+[2024.05.17-13.10.18:855][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.10.18:953][ 54]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.10.18:953][ 54]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletal852B83EB4DD7F4B74C110E9A20FDBD04.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.10.18:960][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1:13 min)
+[2024.05.17-13.10.18:989][ 54]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.10.18:989][ 54]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.10.18:989][ 54]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.10.18:989][ 54]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.10.29:687][777]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 86f9a9584d7f4127119afc26582b43ca08d0acf0 and existing hash cc2bc6790df6380f132b2edd2cc92bd8ca5aaf82 for LegacyNiagaraScriptDerivedData/2d50b212d009e0b6661a5fbb01ad69d7577eb422 from '/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SystemSpawnScript'
+[2024.05.17-13.10.29:997][777]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.411875 sec (time since issued), 0.388051 sec (combined shader worker time).
+[2024.05.17-13.10.30:097][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.10.30:185][777]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.10.30:185][777]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletalA89090CD491AE76210CD5CA9D350FFC3.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.10.30:191][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1:13 min)
+[2024.05.17-13.10.30:222][777]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.10.30:223][777]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.10.30:223][777]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.10.30:223][777]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.10.58:587][716]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 74322db569276beb2ebdc0f2ec60138cd6c670cd and existing hash 2a9306f690c5c6b86104788f2eb95986644921fd for LegacyNiagaraScriptDerivedData/ead94fc562198d0044a2ceb702a5729885137429 from '/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SimpleSpriteBurst.SpawnScript'
+[2024.05.17-13.10.58:590][716]LogDerivedDataCache: Display: C:/Users/darks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 86f9a9584d7f4127119afc26582b43ca08d0acf0 and existing hash cc2bc6790df6380f132b2edd2cc92bd8ca5aaf82 for LegacyNiagaraScriptDerivedData/2d50b212d009e0b6661a5fbb01ad69d7577eb422 from '/Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal:SystemSpawnScript'
+[2024.05.17-13.10.58:612][716]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal took 0.286269 sec (time since issued), 0.468619 sec (combined shader worker time).
+[2024.05.17-13.10.58:717][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.10.58:821][716]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.10.58:821][716]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletal15D125814AD5675B0E3DDDB3B5607771.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.10.58:828][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1:13 min)
+[2024.05.17-13.10.58:857][716]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.10.58:857][716]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.10.58:857][716]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.10.58:857][716]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.11.31:677][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.11.31:770][523]LogSavePackage: Moving output files for package: /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal
+[2024.05.17-13.11.31:770][523]LogSavePackage: Moving '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Saved/NS_SampleSkeletalE5DC0A0347E29C05B53C60ACFF62CB8A.tmp' to '../../../../../../Users/darks/OneDrive/Документи/GitHub/VFXProject/NiagaraVFX/Content/Niagara/31-SampleSkeletal/NS_SampleSkeletal.uasset'
+[2024.05.17-13.11.31:777][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1:13 min)
+[2024.05.17-13.11.31:809][523]AssetCheck: New page: Asset Save: NS_SampleSkeletal
+[2024.05.17-13.11.31:809][523]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Niagara/31-SampleSkeletal/NS_SampleSkeletal.NS_SampleSkeletal
+[2024.05.17-13.11.31:809][523]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2024.05.17-13.11.31:809][523]LogNiagaraEditor: GPU shader compile skipped. Id 1
